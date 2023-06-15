@@ -7,7 +7,7 @@ import csv
 import moviepy.editor as mp
 from datetime import datetime
 
-auth_key = "" 
+auth_key = "66211300-a650-e14c-77d4-a26eb71afef9:fx" 
 
 translator = deepl.Translator(auth_key)
 
@@ -34,12 +34,19 @@ def split_video_by_subtitles(video_file, subtitle_file):
             sentence = re.sub('《', '', sentence)
             sentence = re.sub('》', '', sentence)
             sentence = re.sub('→', '', sentence)
-            
+            sentence = re.sub('\（.*?\）', '', sentence)
+            sentence = re.sub('（', '', sentence)
+            sentence = re.sub('）', '', sentence)
+
             if sentence.strip():
                 start_time = line['start']
                 end_time = line['end']
+                
                 sentence_spanish = translator.translate_text(sentence, source_lang="JA", target_lang="ES").text
                 sentence_english = translator.translate_text(sentence, source_lang="JA", target_lang="EN-US").text
+
+                #sentence_english = ''
+                #sentence_spanish = ''
 
                 letras = string.ascii_letters
                 random_letters = filename
@@ -56,7 +63,12 @@ def split_video_by_subtitles(video_file, subtitle_file):
                 audio = subclip.audio
                 audio_filename = f"{i+1:03d}_{random_letters}.mp3"
                 audio_path = os.path.join(output_folder, audio_filename)
-                audio.write_audiofile(audio_path, codec="mp3")
+                try:
+                    audio.write_audiofile(audio_path, codec="mp3")
+                except:
+                    print(f"Error en el audio '{audio_filename}'")
+                    continue
+                    
                 #print(f"Audio '{audio_filename}' generado.")
                 
                 #text_filename = f"{i+1:03d}_{random_letters}.txt"
@@ -65,10 +77,18 @@ def split_video_by_subtitles(video_file, subtitle_file):
                 #    file.write(random_letters)
                 #print(f"Archivo de texto '{text_filename}' generado.")
                 
+                print(sentence)
+                print(start_time, start_seconds)
+                print(end_time, end_seconds)
+
                 screenshot_filename = f"{i+1:03d}_{random_letters}.webp"
                 screenshot_path = os.path.join(output_folder, screenshot_filename)
-                #print(start_time, start_seconds, end_seconds, end_time, sentence)
-                video.save_frame(screenshot_path, t=start_seconds)
+                try:
+                    video.save_frame(screenshot_path, t=start_seconds)
+                except:
+                    print(f"Error en el pantallazo '{screenshot_filename}'")
+                    continue
+                
                 #print(f"Pantallazo '{screenshot_filename}' generado.")
 
                 writer.writerow({
@@ -139,12 +159,11 @@ def parse_ass(subtitle_file):
 
 def time_to_seconds(time_str):
     time = datetime.strptime(time_str, "%H:%M:%S,%f")
-    milliseconds = time.microsecond // 1000  # Convert microsecond to milliseconds
-    seconds = (time.minute * 60) + time.second + (milliseconds / 1000)  # Divide milliseconds by 1000
-    return seconds
+    total_seconds = (time.hour * 3600) + (time.minute * 60) + time.second + (time.microsecond / 1000000)
+    return total_seconds
 
 # Ruta del archivo de video MKV y archivo de subtítulos
-video_file = 'C:/Users/Jonathan/Desktop/NadeDB/media_splitter/input/seishun1.mkv'
-subtitle_file = 'C:/Users/Jonathan/Desktop/NadeDB/media_splitter/input/seishun1.srt' 
+video_file = 'C:/Users/Jonathan/Desktop/NadeDB/MEDIA-SUB-SPLITTER-JP/input/oshinoko1.mkv'
+subtitle_file = 'C:/Users/Jonathan/Desktop/NadeDB/MEDIA-SUB-SPLITTER-JP/input/oshinoko1.srt' 
 
 split_video_by_subtitles(video_file, subtitle_file)
