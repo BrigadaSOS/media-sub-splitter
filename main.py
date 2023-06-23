@@ -1,15 +1,17 @@
-import deepl
 import re
+import pathlib
+import argparse
 import string
 import os
 import csv
-import moviepy.editor as mp
 from datetime import datetime
+from dotenv import load_dotenv
 
-auth_key = "
-translator = deepl.Translator(auth_key)
+import moviepy.editor as mp
+import deepl
 
-def split_video_by_subtitles(video_file, subtitle_file, output_folder):
+
+def split_video_by_subtitles(translator, video_file, subtitle_file, output_folder):
     video = mp.VideoFileClip(video_file)
     subtitle_lines = parse_subtitles(subtitle_file)
 
@@ -171,36 +173,73 @@ def parse_ass(subtitle_file):
 
 
 def time_to_seconds(time_str):
-    time = datetime.strptime(time_str, "%H:%M:%S,%f")
+    time = datetime.strptime(time_str, "%H:%M:%S.%f")
     total_seconds = (time.hour * 3600) + (time.minute * 60) + \
         time.second + (time.microsecond / 1000000)
     return total_seconds
 
 
-# Ruta de la carpeta de entrada
-input_folder = 'C:/Users/Jonathan/Desktop/NadeDB/MEDIA-SUB-SPLITTER-JP/input/'
+def main():
+    load_dotenv()
 
-# Carpeta de salida para los archivos generados
-output_folder = 'C:/Users/Jonathan/Desktop/NadeDB/MEDIA-SUB-SPLITTER-JP/output/'
+    parser = argparse.ArgumentParser(
+        description="Segmenta uno o varios archivos .mkv en varios trozos de audio" +
+    "incluyendo subtítulos y una imágen correspondiente.")
+    parser.add_argument('input', type=pathlib.Path, help="Archivo o carpeta de entrada" +
+                        "process.")
+    parser.add_argument('output', type=pathlib.Path, help="Carpeta donde guardar los" +
+                        "archivos procesados.")
+    parser.add_argument('-t', '--token', dest='token', type=str,
+                        help="Token de DeepL API para traducir los subtítulos.")
 
-files = os.listdir(input_folder)
-video_files = [file for file in files if file.lower().endswith('.mkv')]
-video_files.sort(key=lambda x: int(re.sub('\D', '', x)))
+    args = parser.parse_args()
 
-for file in video_files:
-    video_file = os.path.join(input_folder, file)
-    subtitle_file = os.path.splitext(video_file)[0] + '.srt'
+    auth_key = os.getenv("AUTH_KEY") or args.token
+    if not auth_key:
+        raise Exception("Es necesario un token de DeepL para realizar la traducción.")
 
-    if os.path.exists(subtitle_file):
-        episode_number = re.findall(r'\d+', file)[0]
+    translator = deepl.Translator(auth_key)
+
+    # Ruta de la carpeta de entrada
+    input_folder = args.input
+
+    # Carpeta de salida para los archivos generados
+    output_folder = args.output
+
+    # Orden definido por el filesystem
+    files = os.listdir(input_folder)
+    video_files = [file for file in files if file.lower().endswith('.mkv')]
+    subtitle_files = [file for file in files if file.lower().endswith('.ass') or
+                      file.lower().endswith(".srt")]
+
+    if len(video_files) != len(subtitle_files):
+        raise Exception("La cantidad de archivos de vídeo y de subtítulos es" +
+                        "diferente. Asegure que cada .mkv tenga sus archivo de" +
+                        "subtítulos en japonés correspondiente.")
+
+    for (video_file, subtitle_file) in zip(video_files, subtitle_files):
+        if video_file.split('.')[0] != subtitle_file.split('.')[0]:
+            raise Exception(f"El subtítulo {subtitle_file} no corresponde al archivo" +
+                            "de vídeo {video_file}. Asegure que ambos tengan el" +
+                            "mismo nombre")
+
+
+        video_file_path = os.path.join(input_folder, video_file)
+        subtitle_file_path = os.path.join(input_folder, subtitle_file)
+
+        episode_number = re.findall(r'\d+|S\d+E\d+', video_file)[0]
+        print(episode_number)
         output_folder_name = f'{os.path.splitext(video_file)[0]}'
+        print(output_folder_name)
         episode_output_folder = os.path.join(output_folder, output_folder_name)
+        print(episode_output_folder)
 
-        split_video_by_subtitles(
-            video_file, subtitle_file, episode_output_folder)
+        split_video_by_subtitles(translator, video_file_path, subtitle_file_path,
+                                 episode_output_folder)
 
         print(
             f"Archivos generados para el episodio {episode_number} en la carpeta '{output_folder_name}'.")
-    else:
-        print(
-            f"No se encontró el archivo de subtítulos correspondiente a '{video_file}'.")
+
+
+if __name__ == "__main__":
+    main()
