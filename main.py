@@ -6,10 +6,9 @@ import os
 import csv
 from datetime import datetime
 from dotenv import load_dotenv
-
+import jaconvV2
 import moviepy.editor as mp
 import deepl
-
 
 def split_video_by_subtitles(translator, video_file, subtitle_file, output_folder):
     video = mp.VideoFileClip(video_file)
@@ -28,23 +27,11 @@ def split_video_by_subtitles(translator, video_file, subtitle_file, output_folde
         filename = os.path.splitext(os.path.basename(video_file))[0]
 
         for i, line in enumerate(subtitle_lines):
-            sentence = line['sentence']
-            sentence = re.sub('\(\(.*?\)\)', '', line['sentence'])
-            sentence = re.sub('\(.*?\)', '', sentence)
-            sentence = re.sub('《', '', sentence)
-            sentence = re.sub('》', '', sentence)
-            sentence = re.sub('→', '', sentence)
-            sentence = re.sub('\（.*?\）', '', sentence)
-            sentence = re.sub('（', '', sentence)
-            sentence = re.sub('）', '', sentence)
-            sentence = re.sub('【', '', sentence)
-            sentence = re.sub('】', '', sentence)
-            sentence = re.sub('＜', '', sentence)
-            sentence = re.sub('＞', '', sentence)
-            sentence = re.sub('［', '', sentence)
-            sentence = re.sub('］', '', sentence)
-            sentence = re.sub('⦅', '', sentence)
-            sentence = re.sub('⦆', '', sentence)
+            # Normaliza half-width (Hankaku) a full-width (Zenkaku) caracteres
+            sentence = jaconvV2.normalize(line['sentence'], 'NFKC')
+            # Elimina caracteres especiales
+            sentence = re.sub('\(\(.*?\)\)', '', sentence)
+            sentence = re.sub('《|》|→|（|）|【|】|＜|＞|［|］|⦅|⦆|~|～|ー', '', sentence)
 
             if sentence.strip():
                 start_time = line['start']
@@ -86,6 +73,13 @@ def split_video_by_subtitles(translator, video_file, subtitle_file, output_folde
                 # with open(text_path, 'w', encoding="utf-8") as file:
                 #    file.write(random_letters)
                 # print(f"Archivo de texto '{text_filename}' generado.")
+
+                usage = translator.get_usage()
+                if usage.any_limit_reached:
+                    print('Translation limit reached.')
+                    return
+                if usage.character.valid:
+                    print(f"Character usage: {usage.character.count} of {usage.character.limit}")
 
                 print(sentence)
                 print(start_time, start_seconds)
