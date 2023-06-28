@@ -1,4 +1,3 @@
-import unicodedata
 import deepl
 import re
 import string
@@ -6,14 +5,9 @@ import os
 import csv
 import moviepy.editor as mp
 from datetime import datetime
-import jaconvV2
 
-auth_key = "19d585ba-2d0d-1f42-3fb4-01c5cb7f6830:fx"
+auth_key = "
 translator = deepl.Translator(auth_key)
-
-def convertir_a_full_width(texto):
-    texto_full_width = unicodedata.normalize('NFKC', texto)
-    return texto_full_width
 
 def split_video_by_subtitles(video_file, subtitle_file, output_folder):
     video = mp.VideoFileClip(video_file)
@@ -31,24 +25,28 @@ def split_video_by_subtitles(video_file, subtitle_file, output_folder):
 
         filename = os.path.splitext(os.path.basename(video_file))[0]
 
-        for i, line in enumerate(subtitle_lines):            
-            # Normaliza half-width (Hankaku) a full-width (Zenkaku) caracteres
-            sentence = jaconvV2.normalize(line['sentence'], 'NFKC')
-            # Elimina caracteres especiales
-            sentence = re.sub('\(\(.*?\)\)', '', sentence)
+        for i, line in enumerate(subtitle_lines):
+            sentence = line['sentence']
+            sentence = re.sub('\(\(.*?\)\)', '', line['sentence'])
             sentence = re.sub('\(.*?\)', '', sentence)
+            sentence = re.sub('《', '', sentence)
+            sentence = re.sub('》', '', sentence)
+            sentence = re.sub('→', '', sentence)
             sentence = re.sub('\（.*?\）', '', sentence)
-            sentence = re.sub('《|》|→|（|）|【|】|＜|＞|［|］|⦅|⦆|~|～|ー', '', sentence)
+            sentence = re.sub('（', '', sentence)
+            sentence = re.sub('）', '', sentence)
+            sentence = re.sub('【', '', sentence)
+            sentence = re.sub('】', '', sentence)
+            sentence = re.sub('＜', '', sentence)
+            sentence = re.sub('＞', '', sentence)
+            sentence = re.sub('［', '', sentence)
+            sentence = re.sub('］', '', sentence)
+            sentence = re.sub('⦅', '', sentence)
+            sentence = re.sub('⦆', '', sentence)
 
             if sentence.strip():
                 start_time = line['start']
                 end_time = line['end']
-
-                usage = translator.get_usage()
-                if usage.any_limit_reached:
-                    print('Translation limit reached.')
-                if usage.character.valid:
-                    print(f"Character usage: {usage.character.count} of {usage.character.limit}")
 
                 sentence_spanish = translator.translate_text(
                     sentence, source_lang="JA", target_lang="ES").text
