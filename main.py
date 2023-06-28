@@ -28,10 +28,12 @@ def split_video_by_subtitles(translator, video_file, subtitle_file, output_folde
 
         for i, line in enumerate(subtitle_lines):
             # Normaliza half-width (Hankaku) a full-width (Zenkaku) caracteres
-            sentence = jaconvV2.normalize(line['sentence'], 'NFKC')
-            # Elimina caracteres especiales
-            sentence = re.sub('\(\(.*?\)\)', '', sentence)
-            sentence = re.sub('《|》|→|（|）|【|】|＜|＞|［|］|⦅|⦆|~|～|ー', '', sentence)
+            sentence = line['sentence']
+            sentence = jaconvV2.normalize(sentence, 'NFKC')
+
+            special_chars = ['\(\(.*?\)\)', '\（.*?\）', '《', '》', '→', '\（.*?\）', '（', '）', '【', '】',
+                 '＜', '＞', '［', '］', '⦅', '⦆']
+            sentence = sentence.translate(str.maketrans('', '', ''.join(special_chars)))
 
             if sentence.strip():
                 start_time = line['start']
@@ -167,7 +169,7 @@ def parse_ass(subtitle_file):
 
 
 def time_to_seconds(time_str):
-    time = datetime.strptime(time_str, "%H:%M:%S.%f")
+    time = datetime.strptime(time_str, "%H:%M:%S,%f")
     total_seconds = (time.hour * 3600) + (time.minute * 60) + \
         time.second + (time.microsecond / 1000000)
     return total_seconds
