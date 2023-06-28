@@ -6,7 +6,7 @@ import csv
 import moviepy.editor as mp
 from datetime import datetime
 
-auth_key = "
+auth_key = ""
 translator = deepl.Translator(auth_key)
 
 def split_video_by_subtitles(video_file, subtitle_file, output_folder):
@@ -47,6 +47,12 @@ def split_video_by_subtitles(video_file, subtitle_file, output_folder):
             if sentence.strip():
                 start_time = line['start']
                 end_time = line['end']
+
+                usage = translator.get_usage()
+                if usage.any_limit_reached:
+                    print('Translation limit reached.')
+                if usage.character.valid:
+                    print(f"Character usage: {usage.character.count} of {usage.character.limit}")
 
                 sentence_spanish = translator.translate_text(
                     sentence, source_lang="JA", target_lang="ES").text
