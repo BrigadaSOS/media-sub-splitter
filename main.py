@@ -6,9 +6,10 @@ import os
 import csv
 from datetime import datetime
 from dotenv import load_dotenv
-import jaconvV2
 import moviepy.editor as mp
+import jaconvV2
 import deepl
+from guessit import guessit
 
 def split_video_by_subtitles(translator, video_file, subtitle_file, output_folder):
     video = mp.VideoFileClip(video_file)
@@ -19,8 +20,7 @@ def split_video_by_subtitles(translator, video_file, subtitle_file, output_folde
     csv_filename = os.path.join(output_folder, 'data.csv')
 
     with open(csv_filename, 'w', newline='', encoding='utf-8') as csvfile:
-        fieldnames = ['ID', 'POSITION', 'START_TIME', 'END_TIME', 'NAME_AUDIO', 'NAME_SCREENSHOT',
-                      'CONTENT', 'CONTENT_TRANSLATION_SPANISH', 'CONTENT_TRANSLATION_ENGLISH']
+        fieldnames = ['ID', 'POSITION', 'START_TIME', 'END_TIME', 'NAME_AUDIO', 'NAME_SCREENSHOT', 'CONTENT', 'CONTENT_TRANSLATION_SPANISH', 'CONTENT_TRANSLATION_ENGLISH', 'CONTENT_SPANISH_MT', 'CONTENT_ENGLISH_MT']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames, delimiter=';')
         writer.writeheader()
 
@@ -39,16 +39,15 @@ def split_video_by_subtitles(translator, video_file, subtitle_file, output_folde
                 start_time = line['start']
                 end_time = line['end']
 
+                # TODO: Allow using subtitles from the same .mkv file instead of always
+                # doing machine translation
                 sentence_spanish = translator.translate_text(
                     sentence, source_lang="JA", target_lang="ES").text
+                sentence_spanish_is_mt = True
+
                 sentence_english = translator.translate_text(
                     sentence, source_lang="JA", target_lang="EN-US").text
-
-                #sentence_english = ''
-                #sentence_spanish = ''
-
-                letras = string.ascii_letters
-                random_letters = filename
+                sentence_english_is_mt = True
 
                 start_seconds = time_to_seconds(start_time)
                 end_seconds = time_to_seconds(end_time)
@@ -60,12 +59,13 @@ def split_video_by_subtitles(translator, video_file, subtitle_file, output_folde
                 # print(f"Video '{output_filename}' generado.")
 
                 audio = subclip.audio
-                audio_filename = f"{i+1:03d}_{random_letters}.mp3"
+                audio_filename = f"{i+1:03d}.mp3"
                 audio_path = os.path.join(output_folder, audio_filename)
                 try:
                     audio.write_audiofile(audio_path, codec="mp3")
-                except:
-                    print(f"Error en el audio '{audio_filename}'")
+
+                except Exception as err:
+                    print(f"Error en el audio '{audio_filename}'", err)
                     continue
 
                 # print(f"Audio '{audio_filename}' generado.")
@@ -87,19 +87,18 @@ def split_video_by_subtitles(translator, video_file, subtitle_file, output_folde
                 print(start_time, start_seconds)
                 print(end_time, end_seconds)
 
-                screenshot_filename = f"{i+1:03d}_{random_letters}.webp"
+                screenshot_filename = f"{i+1:03d}.webp"
                 screenshot_path = os.path.join(
                     output_folder, screenshot_filename)
                 try:
                     video.save_frame(screenshot_path, t=start_seconds)
-                except:
-                    print(f"Error en el pantallazo '{screenshot_filename}'")
+
+                except Exception as err:
+                    print(f"Error en el pantallazo '{screenshot_filename}'", err)
                     continue
 
-                # print(f"Pantallazo '{screenshot_filename}' generado.")
-
                 writer.writerow({
-                    'ID': f"{i+1:03d}_{random_letters}",
+                    'ID': f"{i+1:03d}",
                     'POSITION': f"{i+1}",
                     'START_TIME': start_time,
                     'END_TIME': end_time,
@@ -107,7 +106,9 @@ def split_video_by_subtitles(translator, video_file, subtitle_file, output_folde
                     'NAME_SCREENSHOT': screenshot_filename,
                     'CONTENT': sentence,
                     'CONTENT_TRANSLATION_SPANISH': sentence_spanish,
-                    'CONTENT_TRANSLATION_ENGLISH': sentence_english
+                    'CONTENT_TRANSLATION_ENGLISH': sentence_english,
+                    'CONTENT_SPANISH_MT': sentence_spanish_is_mt,
+                    'CONTENT_ENGLISH_MT': sentence_english_is_mt
                 })
 
     print(f"Archivo CSV '{csv_filename}' generado.")
@@ -169,7 +170,7 @@ def parse_ass(subtitle_file):
 
 
 def time_to_seconds(time_str):
-    time = datetime.strptime(time_str, "%H:%M:%S,%f")
+    time = datetime.strptime(time_str.replace(",", "."), "%H:%M:%S.%f")
     total_seconds = (time.hour * 3600) + (time.minute * 60) + \
         time.second + (time.microsecond / 1000000)
     return total_seconds
@@ -190,7 +191,7 @@ def main():
 
     args = parser.parse_args()
 
-    auth_key = os.getenv("AUTH_KEY") or args.token
+    auth_key = os.getenv("TOKEN") or args.token
     if not auth_key:
         raise Exception("Es necesario un token de DeepL para realizar la traducción.")
 
@@ -219,22 +220,21 @@ def main():
                             "de vídeo {video_file}. Asegure que ambos tengan el" +
                             "mismo nombre")
 
-
         video_file_path = os.path.join(input_folder, video_file)
         subtitle_file_path = os.path.join(input_folder, subtitle_file)
 
-        episode_number = re.findall(r'\d+|S\d+E\d+', video_file)[0]
-        print(episode_number)
-        output_folder_name = f'{os.path.splitext(video_file)[0]}'
-        print(output_folder_name)
-        episode_output_folder = os.path.join(output_folder, output_folder_name)
-        print(episode_output_folder)
+        episode_info = guessit(video_file_path)
 
-        split_video_by_subtitles(translator, video_file_path, subtitle_file_path,
-                                 episode_output_folder)
+        season_number = f"S{episode_info['season']:02d}"
+        episode_number = f"E{episode_info['episode']:02d}"
+        series_name_formatted = "-".join(episode_info["title"].lower().split())
+        output_folder_path = os.path.join(output_folder, season_number, episode_number, series_name_formatted)
 
-        print(
-            f"Archivos generados para el episodio {episode_number} en la carpeta '{output_folder_name}'.")
+        print(f"Procesando {video_file_path}....")
+
+        split_video_by_subtitles(translator, video_file_path, subtitle_file_path, output_folder_path)
+
+        print(f"Archivos generados para el episodio {video_file_pth} en la carpeta '{output_folder_path}'.")
 
 
 if __name__ == "__main__":
