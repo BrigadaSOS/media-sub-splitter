@@ -228,7 +228,7 @@ def main():
         season_number = f"S{episode_info['season']:02d}"
         episode_number = f"E{episode_info['episode']:02d}"
         series_name_formatted = "-".join(episode_info["title"].lower().split())
-        output_folder_path = os.path.join(output_folder, season_number, episode_number, series_name_formatted)
+        output_folder_path = os.path.join(output_folder, series_name_formatted, season_number, episode_number)
 
         print(f"Procesando {video_file_path}....")
 
