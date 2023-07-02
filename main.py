@@ -1,240 +1,495 @@
-import re
 import pathlib
+import re
 import argparse
-import string
 import os
 import csv
-from datetime import datetime
-from dotenv import load_dotenv
+import string
 import moviepy.editor as mp
 import jaconvV2
+import logging
 import deepl
+import requests
+import json
+import pysubs2
+from collections import namedtuple
+from pathlib import Path
+from anilist import Client
+
+from datetime import datetime, timedelta
+from dotenv import load_dotenv
 from guessit import guessit
 
-def split_video_by_subtitles(translator, video_file, subtitle_file, output_folder):
-    video = mp.VideoFileClip(video_file)
-    subtitle_lines = parse_subtitles(subtitle_file)
-
-    os.makedirs(output_folder, exist_ok=True)
-
-    csv_filename = os.path.join(output_folder, 'data.csv')
-
-    with open(csv_filename, 'w', newline='', encoding='utf-8') as csvfile:
-        fieldnames = ['ID', 'POSITION', 'START_TIME', 'END_TIME', 'NAME_AUDIO', 'NAME_SCREENSHOT', 'CONTENT', 'CONTENT_TRANSLATION_SPANISH', 'CONTENT_TRANSLATION_ENGLISH', 'CONTENT_SPANISH_MT', 'CONTENT_ENGLISH_MT']
-        writer = csv.DictWriter(csvfile, fieldnames=fieldnames, delimiter=';')
-        writer.writeheader()
-
-        filename = os.path.splitext(os.path.basename(video_file))[0]
-
-        for i, line in enumerate(subtitle_lines):
-            # Normaliza half-width (Hankaku) a full-width (Zenkaku) caracteres
-            sentence = line['sentence']
-            sentence = jaconvV2.normalize(sentence, 'NFKC')
-
-            special_chars = ['\(\(.*?\)\)', '\（.*?\）', '《', '》', '→', '\（.*?\）', '（', '）', '【', '】',
-                 '＜', '＞', '［', '］', '⦅', '⦆']
-            sentence = sentence.translate(str.maketrans('', '', ''.join(special_chars)))
-
-            if sentence.strip():
-                start_time = line['start']
-                end_time = line['end']
-
-                # TODO: Allow using subtitles from the same .mkv file instead of always
-                # doing machine translation
-                sentence_spanish = translator.translate_text(
-                    sentence, source_lang="JA", target_lang="ES").text
-                sentence_spanish_is_mt = True
-
-                sentence_english = translator.translate_text(
-                    sentence, source_lang="JA", target_lang="EN-US").text
-                sentence_english_is_mt = True
-
-                start_seconds = time_to_seconds(start_time)
-                end_seconds = time_to_seconds(end_time)
-
-                subclip = video.subclip(start_seconds, end_seconds)
-                # output_filename = f"{i+1:03d}_{random_letters}.mkv"
-                # output_path = os.path.join(output_folder, output_filename)
-                # subclip.write_videofile(output_path, codec='libx264', audio_codec='aac')
-                # print(f"Video '{output_filename}' generado.")
-
-                audio = subclip.audio
-                audio_filename = f"{i+1:03d}.mp3"
-                audio_path = os.path.join(output_folder, audio_filename)
-                try:
-                    audio.write_audiofile(audio_path, codec="mp3")
-
-                except Exception as err:
-                    print(f"Error en el audio '{audio_filename}'", err)
-                    continue
-
-                # print(f"Audio '{audio_filename}' generado.")
-
-                # text_filename = f"{i+1:03d}_{random_letters}.txt"
-                # text_path = os.path.join(output_folder, text_filename)
-                # with open(text_path, 'w', encoding="utf-8") as file:
-                #    file.write(random_letters)
-                # print(f"Archivo de texto '{text_filename}' generado.")
-
-                usage = translator.get_usage()
-                if usage.any_limit_reached:
-                    print('Translation limit reached.')
-                    return
-                if usage.character.valid:
-                    print(f"Character usage: {usage.character.count} of {usage.character.limit}")
-
-                print(sentence)
-                print(start_time, start_seconds)
-                print(end_time, end_seconds)
-
-                screenshot_filename = f"{i+1:03d}.webp"
-                screenshot_path = os.path.join(
-                    output_folder, screenshot_filename)
-                try:
-                    video.save_frame(screenshot_path, t=start_seconds)
-
-                except Exception as err:
-                    print(f"Error en el pantallazo '{screenshot_filename}'", err)
-                    continue
-
-                writer.writerow({
-                    'ID': f"{i+1:03d}",
-                    'POSITION': f"{i+1}",
-                    'START_TIME': start_time,
-                    'END_TIME': end_time,
-                    'NAME_AUDIO': audio_filename,
-                    'NAME_SCREENSHOT': screenshot_filename,
-                    'CONTENT': sentence,
-                    'CONTENT_TRANSLATION_SPANISH': sentence_spanish,
-                    'CONTENT_TRANSLATION_ENGLISH': sentence_english,
-                    'CONTENT_SPANISH_MT': sentence_spanish_is_mt,
-                    'CONTENT_ENGLISH_MT': sentence_english_is_mt
-                })
-
-    print(f"Archivo CSV '{csv_filename}' generado.")
-
-
-def parse_subtitles(subtitle_file):
-    _, ext = os.path.splitext(subtitle_file)
-    if ext == '.srt':
-        return parse_srt(subtitle_file)
-    elif ext == '.ass':
-        return parse_ass(subtitle_file)
-    else:
-        raise ValueError("Formato de subtítulos no compatible.")
-
-
-def parse_srt(subtitle_file):
-    subtitle_lines = []
-
-    with open(subtitle_file, 'r',  encoding='utf-8') as file:
-        lines = file.read().split('\n\n')
-
-        for line in lines:
-            line = line.strip().split('\n')
-
-            if len(line) >= 3:
-                start, end = line[1].split(' --> ')
-                sentence = ' '.join(line[2:])
-
-                subtitle_lines.append({
-                    'start': start,
-                    'end': end,
-                    'sentence': sentence
-                })
-
-    return subtitle_lines
-
-
-def parse_ass(subtitle_file):
-    subtitle_lines = []
-
-    with open(subtitle_file, 'r', encoding='utf-8') as file:
-        lines = file.readlines()
-
-        for line in lines:
-            if line.startswith('Dialogue:'):
-                parts = line.split(',')
-
-                start = parts[1]
-                end = parts[2]
-                sentence = parts[9].strip()
-
-                subtitle_lines.append({
-                    'start': start,
-                    'end': end,
-                    'sentence': sentence
-                })
-
-    return subtitle_lines
-
-
-def time_to_seconds(time_str):
-    time = datetime.strptime(time_str.replace(",", "."), "%H:%M:%S.%f")
-    total_seconds = (time.hour * 3600) + (time.minute * 60) + \
-        time.second + (time.microsecond / 1000000)
-    return total_seconds
+EpisodeCsvRow = namedtuple(
+    "Row",
+    [
+        "ID",
+        "POSITION",
+        "START_TIME",
+        "END_TIME",
+        "NAME_AUDIO",
+        "NAME_SCREENSHOT",
+        "CONTENT",
+        "CONTENT_TRANSLATION_SPANISH",
+        "CONTENT_TRANSLATION_ENGLISH",
+        "CONTENT_SPANISH_MT",
+        "CONTENT_ENGLISH_MT",
+    ],
+)
 
 
 def main():
     load_dotenv()
+    args = command_args()
+    logging.basicConfig(level=logging.DEBUG if args.verbose else logging.INFO)
 
-    parser = argparse.ArgumentParser(
-        description="Segmenta uno o varios archivos .mkv en varios trozos de audio" +
-    "incluyendo subtítulos y una imágen correspondiente.")
-    parser.add_argument('input', type=pathlib.Path, help="Archivo o carpeta de entrada" +
-                        "process.")
-    parser.add_argument('output', type=pathlib.Path, help="Carpeta donde guardar los" +
-                        "archivos procesados.")
-    parser.add_argument('-t', '--token', dest='token', type=str,
-                        help="Token de DeepL API para traducir los subtítulos.")
+    deepl_token = os.getenv("TOKEN") or args.token
+    if not deepl_token:
+        logging.warning(
+            " > IMPORTANT < DEEPL TOKEN has not been detected. Subtitles won't be translated to all supported languages"
+        )
 
-    args = parser.parse_args()
+    translator = deepl.Translator(deepl_token) if deepl_token else None
 
-    auth_key = os.getenv("TOKEN") or args.token
-    if not auth_key:
-        raise Exception("Es necesario un token de DeepL para realizar la traducción.")
-
-    translator = deepl.Translator(auth_key)
-
-    # Ruta de la carpeta de entrada
+    # Input and output folders
     input_folder = args.input
-
-    # Carpeta de salida para los archivos generados
     output_folder = args.output
 
-    # Orden definido por el filesystem
-    files = os.listdir(input_folder)
-    video_files = [file for file in files if file.lower().endswith('.mkv')]
-    subtitle_files = [file for file in files if file.lower().endswith('.ass') or
-                      file.lower().endswith(".srt")]
+    episode_filepaths = [
+        os.path.join(root, name)
+        for root, dirs, files in os.walk(input_folder)
+        for name in files
+        if name.endswith(".mkv")
+    ]
 
-    if len(video_files) != len(subtitle_files):
-        raise Exception("La cantidad de archivos de vídeo y de subtítulos es" +
-                        "diferente. Asegure que cada .mkv tenga sus archivo de" +
-                        "subtítulos en japonés correspondiente.")
+    if not episode_filepaths:
+        logging.error(f"No .mkv files found in {input_folder}! Nothing else to do.")
+        return
 
-    for (video_file, subtitle_file) in zip(video_files, subtitle_files):
-        if video_file.split('.')[0] != subtitle_file.split('.')[0]:
-            raise Exception(f"El subtítulo {subtitle_file} no corresponde al archivo" +
-                            "de vídeo {video_file}. Asegure que ambos tengan el" +
-                            "mismo nombre")
+    logging.info(
+        f"Found {len(episode_filepaths)} files to process in {input_folder}..."
+    )
 
-        video_file_path = os.path.join(input_folder, video_file)
-        subtitle_file_path = os.path.join(input_folder, subtitle_file)
+    anilist = CachedAnilist()
 
-        episode_info = guessit(video_file_path)
+    for episode_filepath in episode_filepaths:
+        try:
+            logging.info(
+                f"\n-------------------------------------------------------------\n"
+            )
+            logging.info(f"Filepath: {episode_filepath}\n")
 
-        season_number = f"S{episode_info['season']:02d}"
-        episode_number = f"E{episode_info['episode']:02d}"
-        series_name_formatted = "-".join(episode_info["title"].lower().split())
-        output_folder_path = os.path.join(output_folder, series_name_formatted, season_number, episode_number)
+            # Guessit
+            guessit_query = extract_anime_title_for_guessit(episode_filepath)
+            logging.info(f"> Query for Guessit: {guessit_query}")
+            episode_info = guessit(guessit_query)
 
-        print(f"Procesando {video_file_path}....")
+            guessed_anime_title = episode_info["title"]
+            season_number_pretty = f"S{episode_info['season']:02d}"
+            episode_number_pretty = f"E{episode_info['episode']:02d}"
+            logging.info(
+                f"Guessed information: {guessed_anime_title} {season_number_pretty}{episode_number_pretty}\n"
+            )
 
-        split_video_by_subtitles(translator, video_file_path, subtitle_file_path, output_folder_path)
+            # Anilist
+            anilist_query = extract_anime_title_for_anilist(guessed_anime_title)
+            logging.info(f"Query for Anilist: {anilist_query}")
+            anime_info = anilist.get_anime(anilist_query)
+            name_romaji = anime_info.title.romaji
+            logging.info(f"Anime found: {name_romaji}\n")
 
-        print(f"Archivos generados para el episodio {video_file_pth} en la carpeta '{output_folder_path}'.")
+            # Create folder for saving info.json and segments
+            anime_folder_name = map_anime_title_to_media_folder(name_romaji)
+            anime_folder_fullpath = os.path.join(output_folder, anime_folder_name)
+            os.makedirs(anime_folder_fullpath, exist_ok=True)
+            logging.info(f"> Base anime folder: {anime_folder_fullpath}")
+
+            info_json_fullpath = os.path.join(anime_folder_fullpath, "info.json")
+            logging.info(f"Filepath for info.json: {info_json_fullpath}\n")
+
+            if not os.path.exists(info_json_fullpath):
+                logging.info("Creating new info.json file...")
+
+                with open(info_json_fullpath, "wb") as f:
+                    info_json = {
+                        "version": "1",
+                        "folder_media_anime": anime_folder_name,
+                        "japanese_name": anime_info.title.native,
+                        "english_name": anime_info.title.english,
+                        "romaji_name": anime_info.title.romaji,
+                        "airing_format": anime_info.format,
+                        "airing_status": anime_info.status,
+                        "genres": anime_info.genres,
+                    }
+
+                    if "cover" not in info_json:
+                        cover_data = requests.get(anime_info.cover.extra_large).content
+                        cover_filename = (
+                            f"cover{os.path.splitext(anime_info.cover.extra_large)[1]}"
+                        )
+                        with open(
+                            os.path.join(anime_folder_fullpath, cover_filename), "wb"
+                        ) as handler:
+                            handler.write(cover_data)
+                        info_json["cover"] = os.path.join(
+                            anime_folder_name, cover_filename
+                        )
+
+                    if "banner" not in info_json:
+                        banner_data = requests.get(anime_info.banner).content
+                        banner_filename = (
+                            f"banner{os.path.splitext(anime_info.cover.extra_large)[1]}"
+                        )
+                        with open(
+                            os.path.join(anime_folder_fullpath, banner_filename), "wb"
+                        ) as handler:
+                            handler.write(banner_data)
+                        info_json["banner"] = os.path.join(
+                            anime_folder_name, banner_filename
+                        )
+
+                    logging.info(f"Json Data: {info_json}\n")
+
+                    # Use utf8 for writing Japanese characters correctly
+                    json_data = json.dumps(
+                        info_json, indent=2, ensure_ascii=False
+                    ).encode("utf8")
+                    f.write(json_data)
+
+            # Get subtitles
+            logging.info("> Finding matching subtitles...")
+            matching_subtitles = {}
+
+            # Part 1: Find subtitle files on same directory as episode, with same episode number
+            input_episode_parent_folder = Path(episode_filepath).parent.absolute()
+            subtitle_filepaths = [
+                os.path.join(input_episode_parent_folder, filename)
+                for filename in os.listdir(input_episode_parent_folder)
+                if filename.endswith(".ass") or filename.endswith(".srt")
+            ]
+            logging.debug(f"Subtitle filepaths: {subtitle_filepaths}")
+
+            for subtitle_filepath in subtitle_filepaths:
+                guessed_subtitle_info = guessit(subtitle_filepath)
+                guessed_subtitle_episode_number = guessed_subtitle_info["episode"]
+                if guessed_subtitle_episode_number == episode_info["episode"]:
+                    logging.info(f"> Matching subtitle found! {subtitle_filepath}")
+
+                    subtitle_language = None
+                    if "subtitle_language" in guessed_subtitle_info:
+                        subtitle_language = guessed_subtitle_info["subtitle_language"]
+                    else:
+                        # TODO: Try to infer language from subtitle content
+                        pass
+
+                    if not subtitle_language:
+                        logging.error(
+                            "Impossible to guess the language of the subtitle. Try another file"
+                        )
+                        continue
+
+                    logging.info(f"Language: {subtitle_language}")
+                    # TODO: Check for overriding. Pick subtitle file with more lines (to skip opening/forced subtitles)
+                    matching_subtitles[subtitle_language.alpha2] = os.path.abspath(
+                        subtitle_filepath
+                    )
+
+            # Part 2: extract srt/ass from mkv (WIP)
+            # * Extract to /tmp
+            # * Add subtitles to matching_subtitles
+
+            # TODO: Still Work In Progress
+
+            logging.info(f"Matching subtitles: {matching_subtitles}\n")
+
+            # Having matching JP subtitles is required
+            if "ja" not in matching_subtitles:
+                raise Exception(
+                    "Could not find a file for Japanese subtitles. Skipping..."
+                )
+
+            # Start segmenting file
+            logging.info("Start file segmentation...")
+
+            episode_folder_output_path = os.path.join(
+                anime_folder_fullpath, season_number_pretty, episode_number_pretty
+            )
+            os.makedirs(episode_folder_output_path, exist_ok=True)
+
+            split_video_by_subtitles(
+                translator,
+                episode_filepath,
+                matching_subtitles,
+                episode_folder_output_path,
+            )
+
+            logging.info(f"Finished")
+
+        except Exception:
+            logging.error(
+                "Something happened processing the anime. Skipping...", exc_info=True
+            )
+            continue
+
+
+def split_video_by_subtitles(
+    translator, video_file, subtitles, episode_folder_output_path
+):
+    video = mp.VideoFileClip(video_file)
+
+    # TODO: Open more subtitle files
+    subtitles_ja = pysubs2.load(subtitles["ja"])
+
+    csv_filepath = os.path.join(episode_folder_output_path, "data.csv")
+    with open(csv_filepath, "w", newline="", encoding="utf-8") as csvfile:
+        writer = csv.DictWriter(
+            csvfile, fieldnames=EpisodeCsvRow._fields, delimiter=";"
+        )
+        writer.writeheader()
+
+        for i, line in enumerate(subtitles_ja):
+            sentence = process_subtitle_line(line)
+
+            if not sentence:
+                logging.debug(f"[SKIP]: {line.plaintext}")
+                continue
+
+            # Subtitles
+            start_time = timedelta(milliseconds=line.start)
+            start_seconds = start_time.total_seconds()
+
+            end_time = timedelta(milliseconds=line.end)
+            end_seconds = end_time.total_seconds()
+
+            sentence_spanish = None
+            sentence_spanish_is_mt = None
+
+            sentence_english = None
+            sentence_english_is_mt = None
+
+            logging.info(f"\n\n({i}): {start_time} - {end_time}")
+            logging.info(f"[JAPANESE]: {sentence}")
+
+            if translator:
+                usage = translator.get_usage()
+
+                if usage.any_limit_reached:
+                    logging.warning("Translation limit REACHED")
+                else:
+                    logging.info(
+                        f"Character usage: {usage.character.count} of {usage.character.limit}"
+                    )
+
+                    if translator:
+                        sentence_spanish = translator.translate_text(
+                            sentence, source_lang="JA", target_lang="ES"
+                        ).text
+                        sentence_spanish_is_mt = True
+                        logging.info(f"[SPANISH]: {sentence_spanish}")
+
+                    if translator:
+                        sentence_english = translator.translate_text(
+                            sentence, source_lang="JA", target_lang="EN-US"
+                        ).text
+                        sentence_english_is_mt = True
+                        logging.info(f"[ENGLISH]: {sentence_english}")
+
+            # Audio
+            try:
+                subclip = video.subclip(start_seconds, end_seconds)
+                audio = subclip.audio
+                audio_filename = f"{i + 1:03d}.mp3"
+                audio_path = os.path.join(episode_folder_output_path, audio_filename)
+
+                audio.write_audiofile(audio_path, codec="mp3")
+
+            except Exception as err:
+                print(f"Error creating audio '{audio_filename}'", err)
+                continue
+
+            # Screenshot
+            try:
+                screenshot_filename = f"{i + 1:03d}.webp"
+                screenshot_path = os.path.join(
+                    episode_folder_output_path, screenshot_filename
+                )
+
+                video.save_frame(screenshot_path, t=start_seconds)
+
+            except Exception as err:
+                print(f"Error creating screenshot '{screenshot_filename}'", err)
+                continue
+
+            writer.writerow(
+                EpisodeCsvRow(
+                    ID=f"{i + 1:03d}",
+                    POSITION=f"{i + 1}",
+                    START_TIME=str(start_time),
+                    END_TIME=str(end_time),
+                    NAME_AUDIO=audio_filename,
+                    NAME_SCREENSHOT=screenshot_filename,
+                    CONTENT=sentence,
+                    CONTENT_TRANSLATION_SPANISH=sentence_spanish,
+                    CONTENT_TRANSLATION_ENGLISH=sentence_english,
+                    CONTENT_SPANISH_MT=sentence_spanish_is_mt,
+                    CONTENT_ENGLISH_MT=sentence_english_is_mt,
+                )._asdict()
+            )
+
+        logging.info(">> CSV File Completed!!")
+
+
+def process_subtitle_line(line):
+    if line.type != "Dialogue" or isNonJapanese(line.plaintext):
+        return ""
+
+    # Normaliza half-width (Hankaku) a full-width (Zenkaku) caracteres
+    processed_sentence = jaconvV2.normalize(line.plaintext, "NFKC")
+    special_chars = [
+        "\(\(.*?\)\)",
+        "\（.*?\）",
+        "《",
+        "》",
+        "●",
+        "→",
+        "\（.*?\）",
+        "（",
+        "）",
+        "【",
+        "】",
+        "＜",
+        "＞",
+        "［",
+        "］",
+        "⦅",
+        "⦆",
+    ]
+    return processed_sentence.translate(
+        str.maketrans("", "", "".join(special_chars))
+    ).strip()
+
+
+def time_to_seconds(time_str):
+    time = datetime.strptime(time_str.replace(",", "."), "%H:%M:%S.%f")
+    return timedelta(
+        hours=time.hour,
+        minutes=time.minute,
+        seconds=time.second,
+        microseconds=time.microsecond,
+    ).total_seconds()
+
+
+class CachedAnilist:
+    def __init__(self):
+        self.client = Client()
+        self.cached_results = {}
+
+    def get_anime(self, search_query):
+        if search_query in self.cached_results:
+            return self.cached_results[search_query]
+
+        # Also, have
+        search_results = self.client.search(search_query)
+        logging.debug("Search results", search_results)
+
+        if not search_results:
+            raise Exception(
+                f"Anime with title {search_results} not found. Please check file name"
+            )
+
+        anime_id = search_results[0].id
+        anime_result = self.client.get_anime(anime_id)
+        self.cached_results[search_query] = anime_result
+
+        return anime_result
+
+
+def extract_anime_title_for_guessit(episode_filepath):
+    """
+    This method tries to parse the full episode path and get a coherent anime title. This methods does the following
+    postprocessing:
+      * Take only the episode name and the parent folder name
+      * Remove everything between [ and ]. This is usually the encoder name or the file ID
+      * Remove tags related to file quality and format (1080p/720p, Audio, HEVC, x265, BDRip...)
+
+    Example:
+      * Input:  Shingeki No Kyojin S01 1080p BDRip 10 bits x265-EMBER/S01E01- To You, in 2000 Years [14197707]
+      * Output: Shingeki No Kyojin S01 -EMBER S01E01- To You, in 2000 Years
+
+    This allows guessit to return "Shingeki No Kyojin" as the anime title, instead of returning the episode title
+    """
+    return re.sub(
+        "[.*?]|1080p|720p|BDRip|Dual\s?Audio|x?26[4|5]-?|HEVC|10\sbits|EMBER",
+        "",
+        " ".join(episode_filepath.split("/")[-2:]),
+    )
+
+
+def extract_anime_title_for_anilist(guessed_anime_title):
+    """
+    After extracting the name from Guessit, we have to do a bit more of postprocessing because Anilist is really
+    sensitive with the title search. Including extra information like season or episodoe number will case Anilist
+    to return nothing:
+        * Remove Season and Episode numbers
+    """
+    return re.sub(r"S\d.*?(\s|$)", "", guessed_anime_title).strip()
+
+
+def map_anime_title_to_media_folder(anime_title):
+    """
+    Root folder for all the anime information (subfolders for seasons/episodes, info.json, etc) will be stored using
+    lower case, kebab case, without any punctuation or invalid symbols
+
+    Example:
+        * Input: Mobile Suit Gundam: The Witch from Mercury
+        * Ooutput: mobile-suit-gundam-the-witch-from-mercury
+    """
+    return "-".join(
+        anime_title.lower().translate(str.maketrans("", "", string.punctuation)).split()
+    )
+
+
+def isNonJapanese(sentence):
+    """
+    Check if a string can be encoded only with ASCII characters, which is a nice way to filter
+    sentences that have no CJK characters.
+    """
+    try:
+        sentence.encode(encoding="utf-8").decode("ascii")
+    except UnicodeDecodeError:
+        return False
+    else:
+        return True
+
+
+def command_args():
+    parser = argparse.ArgumentParser(
+        description="Split one or several .mkv files onto separate audio segments with images"
+    )
+    parser.add_argument(
+        "input", type=pathlib.Path, help="Input folder with .mkv files and subtitles"
+    )
+    parser.add_argument(
+        "output",
+        type=pathlib.Path,
+        help="Output folder",
+    )
+    parser.add_argument(
+        "-t",
+        "--token",
+        dest="token",
+        type=str,
+        help="DeepL token for translating subtitles. If not provided, the only generated subtitles will be taken from "
+        "existing subtitle files",
+    )
+    parser.add_argument(
+        "-v",
+        "--verbose",
+        dest="verbose",
+        action=argparse.BooleanOptionalAction,
+        default=False,
+        help="Add extra debug information to the execution",
+    )
+    return parser.parse_args()
 
 
 if __name__ == "__main__":
