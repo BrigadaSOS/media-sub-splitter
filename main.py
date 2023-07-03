@@ -1,9 +1,12 @@
 import pathlib
+import babelfish
 import re
 import argparse
 import os
 import csv
 import string
+import subprocess
+
 import moviepy.editor as mp
 import jaconvV2
 import logging
@@ -11,6 +14,7 @@ import deepl
 import requests
 import json
 import pysubs2
+import ffmpeg
 from collections import namedtuple
 from pathlib import Path
 from anilist import Client
@@ -18,6 +22,8 @@ from anilist import Client
 from datetime import datetime, timedelta
 from dotenv import load_dotenv
 from guessit import guessit
+
+SUPPORTED_LANGUAGES = ["en", "ja", "es"]
 
 EpisodeCsvRow = namedtuple(
     "Row",
@@ -35,6 +41,8 @@ EpisodeCsvRow = namedtuple(
         "CONTENT_ENGLISH_MT",
     ],
 )
+
+MatchingSubtitle = namedtuple("MatchingSubtitle", ["origin", "data", "filepath"])
 
 
 def main():
@@ -160,7 +168,7 @@ def main():
             matching_subtitles = {}
 
             # Part 1: Find subtitle files on same directory as episode, with same episode number
-            input_episode_parent_folder = Path(episode_filepath).parent.absolute()
+            input_episode_parent_folder = Path(episode_filepath).parent
             subtitle_filepaths = [
                 os.path.join(input_episode_parent_folder, filename)
                 for filename in os.listdir(input_episode_parent_folder)
@@ -171,31 +179,124 @@ def main():
             for subtitle_filepath in subtitle_filepaths:
                 guessed_subtitle_info = guessit(subtitle_filepath)
                 guessed_subtitle_episode_number = guessed_subtitle_info["episode"]
+                print(guessed_subtitle_episode_number)
                 if guessed_subtitle_episode_number == episode_info["episode"]:
-                    logging.info(f"> Matching subtitle found! {subtitle_filepath}")
+                    logging.info(f"> Found external subtitle {subtitle_filepath}")
 
                     subtitle_language = None
                     if "subtitle_language" in guessed_subtitle_info:
-                        subtitle_language = guessed_subtitle_info["subtitle_language"]
+                        subtitle_language = guessed_subtitle_info[
+                            "subtitle_language"
+                        ].alpha2
                     else:
                         # TODO: Try to infer language from subtitle content
                         pass
 
                     if not subtitle_language:
                         logging.error(
-                            "Impossible to guess the language of the subtitle. Try another file"
+                            "Impossible to guess the language of the subtitle. Skipping..."
                         )
                         continue
 
-                    logging.info(f"Language: {subtitle_language}")
-                    # TODO: Check for overriding. Pick subtitle file with more lines (to skip opening/forced subtitles)
-                    matching_subtitles[subtitle_language.alpha2] = os.path.abspath(
-                        subtitle_filepath
+                    if subtitle_language not in SUPPORTED_LANGUAGES:
+                        logging.info(
+                            f"Language {subtitle_language} is currently not supported. Skipping..."
+                        )
+                        continue
+
+                    subtitle_data = pysubs2.load(subtitle_filepath)
+                    logging.info(
+                        f">Found [{subtitle_language}] subtitles: {subtitle_data}"
+                    )
+
+                    if subtitle_language in matching_subtitles and len(
+                        subtitle_data
+                    ) < len(matching_subtitles[subtitle_language]):
+                        logging.info(
+                            f"Already found better matching subtitles for this language. Skipping..."
+                        )
+                        continue
+
+                    logging.info(f"Saving subtitles: {subtitle_data}\n")
+                    matching_subtitles[subtitle_language] = MatchingSubtitle(
+                        origin="external",
+                        filepath=subtitle_filepath,
+                        data=subtitle_data,
                     )
 
             # Part 2: extract srt/ass from mkv (WIP)
             # * Extract to /tmp
             # * Add subtitles to matching_subtitles
+            tmp_output_folder = os.path.join(anime_folder_fullpath, "tmp")
+            os.makedirs(tmp_output_folder, exist_ok=True)
+            file_probe = ffmpeg.probe(episode_filepath)
+            subtitle_streams = [
+                stream
+                for stream in file_probe["streams"]
+                if stream["codec_type"] == "subtitle"
+            ]
+
+            for subtitle_stream in subtitle_streams:
+                index = subtitle_stream["index"]
+                codec = subtitle_stream["codec_name"]
+                subtitle_language = babelfish.Language(
+                    subtitle_stream["tags"]["language"]
+                ).alpha2
+                logging.info(
+                    f"Found internal subtitle stream. Index: {index}. Codec: {codec}. Language: {subtitle_language}"
+                )
+
+                if subtitle_language not in SUPPORTED_LANGUAGES:
+                    logging.info(
+                        f"Language {subtitle_language} is currently not supported. Skipping..."
+                    )
+                    continue
+
+                output_sub_tmp_filepath = os.path.join(
+                    tmp_output_folder, f"tmp.{codec}"
+                )
+
+                subprocess.call(
+                    [
+                        "ffmpeg",
+                        "-y",
+                        "-i",
+                        episode_filepath,
+                        "-map",
+                        f"0:{index}",
+                        "-c",
+                        "copy",
+                        output_sub_tmp_filepath,
+                    ],
+                    stdout=subprocess.DEVNULL,
+                    stderr=subprocess.STDOUT,
+                )
+                logging.info(f"Exported subtitle to: {output_sub_tmp_filepath}")
+
+                subtitle_data = pysubs2.load(output_sub_tmp_filepath)
+                logging.info(f">Found [{subtitle_language}] subtitles: {subtitle_data}")
+
+                if subtitle_language in matching_subtitles:
+                    logging.info(f"> Already matched subtitles for this language!!")
+
+                    if len(subtitle_data) > len(matching_subtitles[subtitle_language]):
+                        logging.info(
+                            ">> Current subtitle file is longer than previous selected. Overriding..."
+                        )
+                    else:
+                        continue
+
+                logging.info(f"Saving subtitles: {subtitle_data}\n")
+                output_sub_final_filepath = os.path.join(
+                    tmp_output_folder,
+                    f"{name_romaji} {season_number_pretty}{episode_number_pretty}.{subtitle_language}.{codec}",
+                )
+                subtitle_data.save(output_sub_final_filepath)
+                matching_subtitles[subtitle_language] = MatchingSubtitle(
+                    origin="internal",
+                    filepath=output_sub_final_filepath,
+                    data=subtitle_data,
+                )
 
             # TODO: Still Work In Progress
 
@@ -222,6 +323,7 @@ def main():
                 episode_folder_output_path,
             )
 
+            pathlib.Path(tmp_output_folder).rmdir()
             logging.info(f"Finished")
 
         except Exception:
@@ -236,8 +338,8 @@ def split_video_by_subtitles(
 ):
     video = mp.VideoFileClip(video_file)
 
-    # TODO: Open more subtitle files
-    subtitles_ja = pysubs2.load(subtitles["ja"])
+    # TODO: Use the other subtitles
+    subtitles_ja = subtitles["ja"].data
 
     csv_filepath = os.path.join(episode_folder_output_path, "data.csv")
     with open(csv_filepath, "w", newline="", encoding="utf-8") as csvfile:
