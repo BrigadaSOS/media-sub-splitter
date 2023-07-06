@@ -543,7 +543,7 @@ def extract_anime_title_for_guessit(episode_filepath):
     This allows guessit to return "Shingeki No Kyojin" as the anime title, instead of returning the episode title
     """
     return re.sub(
-        "[.*?]|1080p|720p|BDRip|Dual\s?Audio|x?26[4|5]-?|HEVC|10\sbits|EMBER",
+        "\[.*?]|1080p|720p|BDRip|Dual\s?Audio|x?26[4|5]-?|HEVC|10\sbits|EMBER",
         "",
         " ".join(episode_filepath.split("/")[-2:]),
     )
