@@ -512,7 +512,7 @@ def process_subtitle_line(line):
         return ""
 
     # Normaliza half-width (Hankaku) a full-width (Zenkaku) caracteres
-    processed_sentence = jaconvV2.normalize(line.plaintext, "NFKC")
+    processed_sentence = jaconvV2.normalize(line.plaintext, "NFKC").replace('\n', ' ').replace('\r', '')
     special_chars = [
         "\(\(.*?\)\)",
         "\（.*?\）",
