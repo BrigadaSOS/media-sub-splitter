@@ -240,8 +240,19 @@ def main():
             for subtitle_stream in subtitle_streams:
                 index = subtitle_stream["index"]
                 codec = subtitle_stream["codec_name"]
+                tag_language = subtitle_stream["tags"]["language"]
+
+                # Support for non-ISO 639-3 language tags
+                tag_language_normalizer = {
+                    "fre": "fra",
+                    "ger": "deu"
+                }
+
+                if(tag_language_normalizer.get(tag_language)):
+                    tag_language = tag_language_normalizer.get(tag_language)
+
                 subtitle_language = babelfish.Language(
-                    subtitle_stream["tags"]["language"]
+                    tag_language
                 ).alpha2
                 logging.info(
                     f"Found internal subtitle stream. Index: {index}. Codec: {codec}. Language: {subtitle_language}"
@@ -501,7 +512,7 @@ def process_subtitle_line(line):
         return ""
 
     # Normaliza half-width (Hankaku) a full-width (Zenkaku) caracteres
-    processed_sentence = jaconvV2.normalize(line.plaintext, "NFKC")
+    processed_sentence = jaconvV2.normalize(line.plaintext, "NFKC").replace('\n', ' ').replace('\r', '')
     special_chars = [
         "\(\(.*?\)\)",
         "\（.*?\）",
@@ -543,7 +554,7 @@ def extract_anime_title_for_guessit(episode_filepath):
     This allows guessit to return "Shingeki No Kyojin" as the anime title, instead of returning the episode title
     """
     return re.sub(
-        "[.*?]|1080p|720p|BDRip|Dual\s?Audio|x?26[4|5]-?|HEVC|10\sbits|EMBER",
+        "\[.*?]|1080p|720p|BDRip|Dual\s?Audio|x?26[4|5]-?|HEVC|10\sbits|EMBER",
         "",
         " ".join(episode_filepath.split("/")[-2:]),
     )
