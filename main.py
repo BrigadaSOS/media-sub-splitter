@@ -240,8 +240,19 @@ def main():
             for subtitle_stream in subtitle_streams:
                 index = subtitle_stream["index"]
                 codec = subtitle_stream["codec_name"]
+                tag_language = subtitle_stream["tags"]["language"]
+
+                # Support for non-ISO 639-3 language tags
+                tag_language_normalizer = {
+                    "fre": "fra",
+                    "ger": "deu"
+                }
+
+                if(tag_language_normalizer.get(tag_language)):
+                    tag_language = tag_language_normalizer.get(tag_language)
+
                 subtitle_language = babelfish.Language(
-                    subtitle_stream["tags"]["language"]
+                    tag_language
                 ).alpha2
                 logging.info(
                     f"Found internal subtitle stream. Index: {index}. Codec: {codec}. Language: {subtitle_language}"
