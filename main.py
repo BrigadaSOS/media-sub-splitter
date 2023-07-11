@@ -243,17 +243,12 @@ def main():
                 tag_language = subtitle_stream["tags"]["language"]
 
                 # Support for non-ISO 639-3 language tags
-                tag_language_normalizer = {
-                    "fre": "fra",
-                    "ger": "deu"
-                }
+                tag_language_normalizer = {"fre": "fra", "ger": "deu"}
 
-                if(tag_language_normalizer.get(tag_language)):
+                if tag_language_normalizer.get(tag_language):
                     tag_language = tag_language_normalizer.get(tag_language)
 
-                subtitle_language = babelfish.Language(
-                    tag_language
-                ).alpha2
+                subtitle_language = babelfish.Language(tag_language).alpha2
                 logging.info(
                     f"Found internal subtitle stream. Index: {index}. Codec: {codec}. Language: {subtitle_language}"
                 )
@@ -291,9 +286,12 @@ def main():
                 if subtitle_language in matching_subtitles:
                     logging.info(f"> Already matched subtitles for this language!!")
 
-                    if len(subtitle_data) > len(matching_subtitles[subtitle_language]):
+                    if (
+                        len(subtitle_data) > len(matching_subtitles[subtitle_language])
+                        and matching_subtitles[subtitle_language].origin != "external"
+                    ):
                         logging.info(
-                            ">> Current subtitle file is longer than previous selected. Overriding..."
+                            ">> Current subtitle internal file is longer than previous selected. Overriding..."
                         )
                     else:
                         continue
@@ -301,7 +299,7 @@ def main():
                 logging.info(f"Saving subtitles: {subtitle_data}\n")
                 output_sub_final_filepath = os.path.join(
                     tmp_output_folder,
-                    f"{name_romaji} {season_number_pretty}{episode_number_pretty}.{subtitle_language}.{codec}",
+                    f"{anime_folder_name} {season_number_pretty}{episode_number_pretty}.{subtitle_language}.{codec}",
                 )
                 subtitle_data.save(output_sub_final_filepath)
                 matching_subtitles[subtitle_language] = MatchingSubtitle(
@@ -380,19 +378,24 @@ def split_video_by_subtitles(
         segment_sentences = {}
         for i, line in enumerate(sorted_lines):
             ln = line["language"]
+            logging.info(f"[{ln}] Line: {line}")
 
-            if segment_start < line["end"] and line["start"] < segment_end:
-                segment_sentences[ln] = segment_sentences.get(ln, [])
-                segment_sentences[ln].append(line["sentence"])
-
-                segment_start = min(segment_start, line["start"])
-                segment_end = max(segment_end, line["end"])
-
-            else:
+            # New line when:
+            #   * No overlap
+            #   * Overlap, but gap is smaller than 500
+            if (
+                not (segment_start < line["end"] and line["start"] < segment_end)
+                or (
+                    (segment_start < line["end"] and line["start"] < segment_end)
+                    and abs(segment_end - line["start"]) < 500
+                )
+            ):
+                logging.info(f"No overlap: {segment_sentences}")
                 if "ja" in segment_sentences and (
                     "en" in segment_sentences or "es" in segment_sentences
                 ):
                     logging.info("Good match!")
+
                     generate_segment(
                         i,
                         segment_sentences,
@@ -404,9 +407,28 @@ def split_video_by_subtitles(
                         writer,
                     )
 
-                segment_sentences = {ln: [line["sentence"]]}
+                segment_sentences = {ln: [line]}
                 segment_start = line["start"]
                 segment_end = line["end"]
+
+            else:
+                segment_sentences[ln] = segment_sentences.get(ln, [])
+
+                # Sometimes when two characters are speaking the same line is repeated several times. Detect that
+                # to avoid duplicating the same sentence
+                eq_match = False
+                for saved_line in segment_sentences[ln]:
+                    if (
+                        saved_line["sentence"] == line["sentence"]
+                        and segment_sentences[ln][-1]["end"] == line["start"]
+                    ):
+                        eq_match = True
+
+                if not eq_match:
+                    segment_sentences[ln].append(line)
+
+                segment_start = min(segment_start, line["start"])
+                segment_end = max(segment_end, line["end"])
 
         logging.info(">> CSV File Completed!!")
 
@@ -440,14 +462,14 @@ def generate_segment(
             sentence_japanese, source_lang="JA", target_lang="ES"
         ).text
         sentence_spanish_is_mt = True
-        logging.info(f"[SPANISH]: {sentence_spanish}")
+        logging.info(f"[DEEPL - SPANISH]: {sentence_spanish}")
 
     if translator and not sentence_english:
         sentence_english = translator.translate_text(
             sentence_japanese, source_lang="JA", target_lang="EN-US"
         ).text
         sentence_english_is_mt = True
-        logging.info(f"[ENGLISH]: {sentence_english}")
+        logging.info(f"[DEEPL - ENGLISH]: {sentence_english}")
 
     start_time_delta = timedelta(milliseconds=segment_start)
     start_time_seconds = start_time_delta.total_seconds()
@@ -504,7 +526,7 @@ def generate_segment(
 
 
 def join_sentences_to_segment(sentences):
-    return "- ".join(sentences).replace("--", "-")
+    return "- ".join(map(lambda x: x["sentence"], sentences)).replace("--", "-")
 
 
 def process_subtitle_line(line):
@@ -512,31 +534,22 @@ def process_subtitle_line(line):
         return ""
 
     # Normaliza half-width (Hankaku) a full-width (Zenkaku) caracteres
-    processed_sentence = jaconvV2.normalize(line.plaintext, "NFKC").replace('\n', ' ').replace('\r', '')
+    processed_sentence = (
+        jaconvV2.normalize(line.plaintext, "NFKC").replace("\n", " ").replace("\r", "")
+    )
+
     special_chars = [
-        "\(\(.*?\)\)",
+        "\《.*?\》",
         "\（.*?\）",
-        "《",
-        "》",
+        "\(.*?\)",
+        "\[.*?\]",
+        "\【.*?\】",
         "●",
         "→",
-        "\（.*?\）",
-        "（",
-        "）",
-        "【",
-        "】",
-        "＜",
-        "＞",
-        "［",
-        "］",
-        "⦅",
-        "⦆",
-        "ー♪",
-        "♪ー",
+        "ー?♪ー?",
     ]
-    return processed_sentence.translate(
-        str.maketrans("", "", "".join(special_chars))
-    ).strip()
+
+    return re.sub(rf"{'|'.join(special_chars)}", "", processed_sentence).strip()
 
 
 def extract_anime_title_for_guessit(episode_filepath):
@@ -602,7 +615,15 @@ class CachedAnilist:
                 f"Anime with title {search_results} not found. Please check file name"
             )
 
-        anime_id = search_results[0].id
+        selected_index = 0
+        if len(search_results) > 1:
+            logging.info("Multiple animes found! Please select better match")
+            for i, result in enumerate(search_results):
+                logging.info(f"[{i}]: {result.title.romaji} - {result.title.english}")
+
+            selected_index = input("> Please select a number:")
+
+        anime_id = search_results[int(selected_index)].id
         anime_result = self.client.get_anime(anime_id)
         self.cached_results[search_query] = anime_result
 
