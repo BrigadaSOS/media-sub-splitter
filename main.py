@@ -398,7 +398,9 @@ def split_video_by_subtitles(
                     }
                 )
 
+    sorted_lines = [dict(t) for t in {tuple(d.items()) for d in sorted_lines}]
     sorted_lines.sort(key=lambda x: x["start"])
+    
 
     csv_filepath = os.path.join(episode_folder_output_path, "data.csv")
     with open(csv_filepath, "w", newline="", encoding="utf-8") as csvfile:
