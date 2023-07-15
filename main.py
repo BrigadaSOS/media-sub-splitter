@@ -1,5 +1,6 @@
 import pathlib
 import shutil
+import inquirer
 
 import babelfish
 import re
@@ -226,15 +227,45 @@ def main():
                     )
 
             # Part 2: extract srt/ass from mkv (WIP)
+            # * Get every subtitle and filter it by using a checkbox select
             # * Extract to /tmp
             # * Add subtitles to matching_subtitles
             tmp_output_folder = os.path.join(anime_folder_fullpath, "tmp")
             os.makedirs(tmp_output_folder, exist_ok=True)
             file_probe = ffmpeg.probe(episode_filepath)
+
+            subtitles_dict = {}
+            for stream in file_probe["streams"]:
+                if stream["codec_type"] == "subtitle":
+                    index = stream["index"]
+                    title = stream.get("tags", {}).get("title")
+                    language = stream.get("tags", {}).get("language")
+                    if title and language:
+                        subtitles_dict[index] = {"title": title, "language": language}
+
+            subtitle_choices = [
+                {"name": f"{details['title']} ({details['language']})", "value": index}
+                for index, details in subtitles_dict.items()
+            ]
+
+            subtitle_questions = [
+                inquirer.Checkbox(
+                    "subtitle_streams",
+                    message="What subtitles do you want to use?",
+                    choices=subtitle_choices,
+                ),
+            ]
+
+            selected_subtitles = inquirer.prompt(subtitle_questions)
+            selected_indices = [
+                subtitle["value"] for subtitle in selected_subtitles["subtitle_streams"]
+            ]
+
             subtitle_streams = [
                 stream
                 for stream in file_probe["streams"]
                 if stream["codec_type"] == "subtitle"
+                and stream["index"] in selected_indices
             ]
 
             for subtitle_stream in subtitle_streams:
@@ -351,8 +382,11 @@ def split_video_by_subtitles(
     synced_subtitles = subtitles
 
     sorted_lines = []
+    not_useful_data = ["signs", "tipo tv", "block"]
     for language, subtitles in synced_subtitles.items():
         for line in subtitles.data:
+            if line.style.lower() in not_useful_data:
+                continue
             sentence = process_subtitle_line(line)
             if sentence:
                 sorted_lines.append(
@@ -364,7 +398,9 @@ def split_video_by_subtitles(
                     }
                 )
 
+    sorted_lines = [dict(t) for t in {tuple(d.items()) for d in sorted_lines}]
     sorted_lines.sort(key=lambda x: x["start"])
+    
 
     csv_filepath = os.path.join(episode_folder_output_path, "data.csv")
     with open(csv_filepath, "w", newline="", encoding="utf-8") as csvfile:
@@ -383,12 +419,9 @@ def split_video_by_subtitles(
             # New line when:
             #   * No overlap
             #   * Overlap, but gap is smaller than 500
-            if (
-                not (segment_start < line["end"] and line["start"] < segment_end)
-                or (
-                    (segment_start < line["end"] and line["start"] < segment_end)
-                    and abs(segment_end - line["start"]) < 500
-                )
+            if not (segment_start < line["end"] and line["start"] < segment_end) or (
+                (segment_start < line["end"] and line["start"] < segment_end)
+                and abs(segment_end - line["start"]) < 500
             ):
                 logging.info(f"No overlap: {segment_sentences}")
                 if "ja" in segment_sentences and (
@@ -619,7 +652,11 @@ class CachedAnilist:
         if len(search_results) > 1:
             logging.info("Multiple animes found! Please select better match")
             for i, result in enumerate(search_results):
-                logging.info(f"[{i}]: {result.title.romaji} - {result.title.english}")
+                try:
+                    english_title = result.title.english
+                except AttributeError:
+                    english_title = "[English Title not available]"
+                logging.info(f"[{i}]: {result.title.romaji} - {english_title}")
 
             selected_index = input("> Please select a number:")
 
