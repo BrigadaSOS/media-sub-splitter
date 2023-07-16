@@ -400,7 +400,6 @@ def split_video_by_subtitles(
 
     sorted_lines = [dict(t) for t in {tuple(d.items()) for d in sorted_lines}]
     sorted_lines.sort(key=lambda x: x["start"])
-    
 
     csv_filepath = os.path.join(episode_folder_output_path, "data.csv")
     with open(csv_filepath, "w", newline="", encoding="utf-8") as csvfile:
@@ -561,7 +560,22 @@ def generate_segment(
 
 
 def join_sentences_to_segment(sentences):
-    return "- ".join(map(lambda x: x["sentence"], sentences)).replace("--", "-")
+    joined_sentence = "- ".join(map(lambda x: x["sentence"], sentences))
+
+    # On certain cases it makes sense to not add a - since there is another symbol
+    # Already indicating the end of the sentence
+    remove_dash_cases = [
+        r"(\.\.\.)-",
+        r"(\?)-",
+        r"(\!)-",
+        r"(\.)-",
+        r"(\,)-",
+        r"(ー)-",
+        r"(-)-",
+        r"^-",
+    ]
+
+    return re.sub(rf"{'|'.join(remove_dash_cases)}","$1", joined_sentence)
 
 
 def process_subtitle_line(line):
@@ -574,11 +588,11 @@ def process_subtitle_line(line):
     )
 
     special_chars = [
-        "\《.*?\》",
-        "\（.*?\）",
-        "\(.*?\)",
-        "\[.*?\]",
-        "\【.*?\】",
+        r"\《.*?\》",
+        r"\（.*?\）",
+        r"\(.*?\)",
+        r"\[.*?\]",
+        r"\【.*?\】",
         "●",
         "→",
         "ー?♪ー?",
@@ -602,7 +616,7 @@ def extract_anime_title_for_guessit(episode_filepath):
     This allows guessit to return "Shingeki No Kyojin" as the anime title, instead of returning the episode title
     """
     return re.sub(
-        "\[.*?]|1080p|720p|BDRip|Dual\s?Audio|x?26[4|5]-?|HEVC|10\sbits|EMBER",
+        r"\[.*?\]|1080p|720p|BDRip|Dual\s?Audio|x?26[4|5]-?|HEVC|10\sbits|EMBER",
         "",
         " ".join(episode_filepath.split("/")[-2:]),
     )
