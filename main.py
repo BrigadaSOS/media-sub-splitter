@@ -180,7 +180,7 @@ def main():
             logging.debug(f"Subtitle filepaths: {subtitle_filepaths}")
 
             for subtitle_filepath in subtitle_filepaths:
-                guessed_subtitle_info = guessit(subtitle_filepath)
+                guessed_subtitle_info = guessit(re.sub(r'\[.*\]', '', subtitle_filepath))
                 guessed_subtitle_episode_number = guessed_subtitle_info["episode"]
                 if guessed_subtitle_episode_number == episode_info["episode"]:
                     logging.info(f"> Found external subtitle {subtitle_filepath}")
@@ -534,7 +534,9 @@ def generate_segment(
     try:
         screenshot_path = os.path.join(output_path, screenshot_filename)
 
-        video.save_frame(screenshot_path, t=start_time_seconds)
+        # Take a screenshot on the middle of the dialog
+        screenshot_time = (start_time_seconds + end_time_seconds) / 2
+        video.save_frame(screenshot_path, t=screenshot_time)
 
     except Exception as err:
         logging.exception(f"Error creating screenshot '{screenshot_filename}'", err)
