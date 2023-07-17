@@ -180,7 +180,7 @@ def main():
             logging.debug(f"Subtitle filepaths: {subtitle_filepaths}")
 
             for subtitle_filepath in subtitle_filepaths:
-                guessed_subtitle_info = guessit(re.sub(r'\[.*\]', '', subtitle_filepath))
+                guessed_subtitle_info = guessit(re.sub(r'\[.*?\]', '', subtitle_filepath))
                 guessed_subtitle_episode_number = guessed_subtitle_info["episode"]
                 if guessed_subtitle_episode_number == episode_info["episode"]:
                     logging.info(f"> Found external subtitle {subtitle_filepath}")
@@ -475,14 +475,14 @@ def generate_segment(
     translator,
     writer,
 ):
-    sentence_japanese = join_sentences_to_segment(segment_sentences["ja"])
+    sentence_japanese = join_sentences_to_segment(segment_sentences["ja"], "ja")
     sentence_english = (
-        join_sentences_to_segment(segment_sentences["en"])
+        join_sentences_to_segment(segment_sentences["en"], "en")
         if "en" in segment_sentences
         else None
     )
     sentence_spanish = (
-        join_sentences_to_segment(segment_sentences["es"])
+        join_sentences_to_segment(segment_sentences["es"], "es")
         if "es" in segment_sentences
         else None
     )
@@ -559,27 +559,43 @@ def generate_segment(
     logging.info("Segment saved!\n")
 
 
-def join_sentences_to_segment(sentences):
-    joined_sentence = "- ".join(map(lambda x: x["sentence"], sentences))
+def join_sentences_to_segment(sentences, ln):
+    join_symbol = "　" if ln == "ja" else " "
+    joined_sentence = join_symbol.join(map(lambda x: x["sentence"].strip(), sentences))
 
     # On certain cases it makes sense to not add a - since there is another symbol
     # Already indicating the end of the sentence
-    remove_dash_cases = [
-        r"(\.\.\.)-",
-        r"(\?)-",
-        r"(\!)-",
-        r"(\.)-",
-        r"(\,)-",
-        r"(ー)-",
-        r"(-)-",
+    remove_redundant_symbols = [
+        r"(?<=\.\.\.)-",
+        r"(?<=\?)-",
+        r"(?<=!)-",
+        r"(?<=\.)-",
+        r"(?<=,)-",
+        r"(?<=ー)-",
+        r"(?<=-)-",
         r"^-",
+        r"(?<=\s)+\s"
     ]
 
-    return re.sub(rf"{'|'.join(remove_dash_cases)}","$1", joined_sentence)
+    # Sometimes japanese subs don't use the appropriate " symbol for quotes
+    invalid_quotes = r"``|''"
+    joined_sentence = re.sub(invalid_quotes, "\"",joined_sentence)
+
+    return re.sub(rf"{'|'.join(remove_redundant_symbols)}","", joined_sentence)
 
 
 def process_subtitle_line(line):
-    if line.type != "Dialogue":
+    if line.type != "Dialogue" or (line.name and "sign" in line.name):
+        return ""
+
+    # *Top is usually used for background conversations with an ongoing
+    # dialog
+    if line.style and "top" in line.style.lower():
+        return ""
+
+    # Sometimes .ass subtitles include the signs subs on the main dialog
+    # Skip all lines that have pos() ass method as it is not a real dialog line
+    if re.match(r"pos\(.*?\)", line.text):
         return ""
 
     # Normaliza half-width (Hankaku) a full-width (Zenkaku) caracteres
@@ -592,6 +608,7 @@ def process_subtitle_line(line):
         r"\（.*?\）",
         r"\(.*?\)",
         r"\[.*?\]",
+        r"\{.*?\}",
         r"\【.*?\】",
         "●",
         "→",
