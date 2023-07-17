@@ -42,6 +42,9 @@ EpisodeCsvRow = namedtuple(
         "CONTENT_TRANSLATION_ENGLISH",
         "CONTENT_SPANISH_MT",
         "CONTENT_ENGLISH_MT",
+        "ACTOR_JA",
+        "ACTOR_ES",
+        "ACTOR_EN",
     ],
 )
 
@@ -180,7 +183,9 @@ def main():
             logging.debug(f"Subtitle filepaths: {subtitle_filepaths}")
 
             for subtitle_filepath in subtitle_filepaths:
-                guessed_subtitle_info = guessit(re.sub(r'\[.*?\]', '', subtitle_filepath))
+                guessed_subtitle_info = guessit(
+                    re.sub(r"\[.*?\]", "", subtitle_filepath)
+                )
                 guessed_subtitle_episode_number = guessed_subtitle_info["episode"]
                 if guessed_subtitle_episode_number == episode_info["episode"]:
                     logging.info(f"> Found external subtitle {subtitle_filepath}")
@@ -358,6 +363,7 @@ def main():
                 episode_filepath,
                 matching_subtitles,
                 episode_folder_output_path,
+                args,
             )
 
             shutil.rmtree(tmp_output_folder, ignore_errors=True)
@@ -371,7 +377,7 @@ def main():
 
 
 def split_video_by_subtitles(
-    translator, video_file, subtitles, episode_folder_output_path
+    translator, video_file, subtitles, episode_folder_output_path, args
 ):
     video = mp.VideoFileClip(video_file)
 
@@ -395,6 +401,7 @@ def split_video_by_subtitles(
                         "end": line.end,
                         "language": language,
                         "sentence": sentence,
+                        "actor": line.name,
                     }
                 )
 
@@ -437,6 +444,7 @@ def split_video_by_subtitles(
                         video,
                         translator,
                         writer,
+                        args,
                     )
 
                 segment_sentences = {ln: [line]}
@@ -474,18 +482,22 @@ def generate_segment(
     video,
     translator,
     writer,
+    args,
 ):
-    sentence_japanese = join_sentences_to_segment(segment_sentences["ja"], "ja")
-    sentence_english = (
+    sentence_japanese, actor_japanese = join_sentences_to_segment(
+        segment_sentences["ja"], "ja"
+    )
+    sentence_english, actor_english = (
         join_sentences_to_segment(segment_sentences["en"], "en")
         if "en" in segment_sentences
-        else None
+        else (None, None)
     )
-    sentence_spanish = (
+    sentence_spanish, actor_spanish = (
         join_sentences_to_segment(segment_sentences["es"], "es")
         if "es" in segment_sentences
-        else None
+        else (None, None)
     )
+
     sentence_spanish_is_mt = False if sentence_spanish else None
     sentence_english_is_mt = False if sentence_english else None
 
@@ -517,29 +529,29 @@ def generate_segment(
     screenshot_filename = f"{i + 1:03d}.webp"
 
     # Audio
-    try:
-        subclip = video.subclip(start_time_seconds, end_time_seconds)
-        print(video)
-        audio = subclip.audio
-        audio_path = os.path.join(output_path, audio_filename)
+    if not args.dryrun:
+        try:
+            subclip = video.subclip(start_time_seconds, end_time_seconds)
+            audio = subclip.audio
+            audio_path = os.path.join(output_path, audio_filename)
 
-        audio.write_audiofile(audio_path, codec="mp3")
+            audio.write_audiofile(audio_path, codec="mp3")
 
-    except Exception as err:
-        logging.exception(f"Error creating audio '{audio_filename}'", err)
-        return
+        except Exception as err:
+            logging.exception(f"Error creating audio '{audio_filename}'", err)
+            return
 
-    # Screenshot
-    try:
-        screenshot_path = os.path.join(output_path, screenshot_filename)
+        # Screenshot
+        try:
+            screenshot_path = os.path.join(output_path, screenshot_filename)
 
-        # Take a screenshot on the middle of the dialog
-        screenshot_time = (start_time_seconds + end_time_seconds) / 2
-        video.save_frame(screenshot_path, t=screenshot_time)
+            # Take a screenshot on the middle of the dialog
+            screenshot_time = (start_time_seconds + end_time_seconds) / 2
+            video.save_frame(screenshot_path, t=screenshot_time)
 
-    except Exception as err:
-        logging.exception(f"Error creating screenshot '{screenshot_filename}'", err)
-        return
+        except Exception as err:
+            logging.exception(f"Error creating screenshot '{screenshot_filename}'", err)
+            return
 
     writer.writerow(
         EpisodeCsvRow(
@@ -554,6 +566,9 @@ def generate_segment(
             CONTENT_TRANSLATION_ENGLISH=sentence_english,
             CONTENT_SPANISH_MT=sentence_spanish_is_mt,
             CONTENT_ENGLISH_MT=sentence_english_is_mt,
+            ACTOR_JA=actor_japanese,
+            ACTOR_ES=actor_spanish,
+            ACTOR_EN=actor_english,
         )._asdict()
     )
     logging.info("Segment saved!\n")
@@ -574,14 +589,19 @@ def join_sentences_to_segment(sentences, ln):
         r"(?<=ー)-",
         r"(?<=-)-",
         r"^-",
-        r"(?<=\s)+\s"
+        r"(?<=\s)+\s",
     ]
 
     # Sometimes japanese subs don't use the appropriate " symbol for quotes
     invalid_quotes = r"``|''"
-    joined_sentence = re.sub(invalid_quotes, "\"",joined_sentence)
+    joined_sentence = re.sub(invalid_quotes, '"', joined_sentence)
 
-    return re.sub(rf"{'|'.join(remove_redundant_symbols)}","", joined_sentence)
+    actor_sentence = ",".join(set(map(lambda x: x["actor"], sentences)))
+
+    return (
+        re.sub(rf"{'|'.join(remove_redundant_symbols)}", "", joined_sentence),
+        actor_sentence,
+    )
 
 
 def process_subtitle_line(line):
@@ -594,8 +614,8 @@ def process_subtitle_line(line):
         return ""
 
     # Sometimes .ass subtitles include the signs subs on the main dialog
-    # Skip all lines that have pos() ass method as it is not a real dialog line
-    if re.match(r"pos\(.*?\)", line.text):
+    # Skip all lines that have pos() or move() ass method as it is not a real dialog line
+    if re.search(r"pos\(.*?\)|move\(.*?\)", line.text):
         return ""
 
     # Normaliza half-width (Hankaku) a full-width (Zenkaku) caracteres
@@ -727,6 +747,14 @@ def command_args():
         action=argparse.BooleanOptionalAction,
         default=False,
         help="Add extra debug information to the execution",
+    )
+    parser.add_argument(
+        "-d",
+        "--dry-run",
+        dest="dryrun",
+        action=argparse.BooleanOptionalAction,
+        default=False,
+        help="Execute and parse subtitles, but without generating the segments",
     )
     return parser.parse_args()
 
