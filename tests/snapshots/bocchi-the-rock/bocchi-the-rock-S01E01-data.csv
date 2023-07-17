@@ -1,0 +1,357 @@
+ID;POSITION;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREENSHOT;CONTENT;CONTENT_TRANSLATION_SPANISH;CONTENT_TRANSLATION_ENGLISH;CONTENT_SPANISH_MT;CONTENT_ENGLISH_MT;ACTOR_JA;ACTOR_ES;ACTOR_EN
+004;4;0:00:00.459000;0:00:03.941000;004.mp3;004.webp;かーくれんぼする人 この指 とまれ;¡Vengan si quieren jugar a las escondidas!;Come over now if you wanna play hide-and-seek!;False;False;;Preschooler (Male);Preschooler (Male)
+008;8;0:00:04.740000;0:00:08.860000;008.mp3;008.webp;私なんかが あの指に とまっていいのかな...;La chica que se preguntaba si podría sumarse.;"The girl who wonders, ""Would it be okay for me to join in?""";False;False;;Hitori;Hitori
+013;13;0:00:10.200000;0:00:16.110000;013.mp3;013.webp;そう悩んでるうちに乗り遅れて　気付いたら ひとりぼっちな子;Al final perdía su oportunidad y acababa sola.;and so misses her chance, ending up all alone.;False;False;;Hitori;Hitori
+020;20;0:00:17.767000;0:00:24.040000;020.mp3;020.webp;遠足のときに...　どうぞ　先生とお弁当のおかずを 交換していた ひとりぼっちな子;La chica que en los pícnics se quedaba sola intercambiando comida con la profe.;The girl who ends up all alone at a picnic, swapping parts of her lunch with the teacher.;False;False;;Hitori;Hitori
+023;23;0:00:28.080000;0:00:29.380000;023.mp3;023.webp;ただいま;Ya llegué.;I'm home.;False;False;;Hitori;Hitori
+027;27;0:00:30.310000;0:00:33.720000;027.mp3;027.webp;部活も入らず 放課後は即帰宅;La que no estaba en clubes y siempre se iba a casa temprano;The girl who doesn't join any clubs, comes home right after school,;False;False;;Hitori;Hitori
+033;33;0:00:35.320000;0:00:41.124000;033.mp3;033.webp;スマホに届くのは　親からのメッセージか クーポンのお知らせだけ;y en el celular solo veía mensajes de sus padres y cupones de descuento.;and finds her smartphone full of nothing but messages from her parents and coupon offers.;False;False;;Hitori;Hitori
+036;36;0:00:41.590000;0:00:42.730000;036.mp3;036.webp;それが私;Esa soy yo.;That's me.;False;False;;Hitori;Hitori
+039;39;0:00:43.700000;0:00:46.980000;039.mp3;039.webp;後藤ひとり 中学1年生;Me llamo Hitori Goto y estoy en primero de preparatoria.;Hitori Goto, first-year in middle school.;False;False;;Hitori;Hitori
+042;42;0:00:47.480000;0:00:49.450000;042.mp3;042.webp;たまーに思う;A veces pienso;Sometimes I think;False;False;;Hitori;Hitori
+045;45;0:00:49.450000;0:00:51.910000;045.mp3;045.webp;このままで いいんだろうかって;que debería cambiar mi forma de ser.;I should really change the way I am...;False;False;;Hitori;Hitori
+048;48;0:00:52.750000;0:00:56.780000;048.mp3;048.webp;"でも 私 話す前に ""あっ""って言っちゃうし";Cuando intento hablar, siempre tartamudeo;But I always stammer when I try to speak,;False;False;;Hitori;Hitori
+051;51;0:00:56.780000;0:00:59.050000;051.mp3;051.webp;目 合わすのも苦手だし;y aparto la mirada...;and I'm really bad at keeping eye contact...;False;False;;Hitori;Hitori
+054;54;0:00:59.050000;0:01:02.780000;054.mp3;054.webp;"""THE 陰キャ""のような日々が 身の丈に合って...";La vida típica de introvertida es lo mío.;A life as the archetypal introvert just seems to fit me best.;False;False;;Hitori;Hitori
+057;57;0:01:02.370000;0:01:03.540000;057.mp3;057.webp;これ見てる?;¿Estás viendo eso?;You watching this?;False;False;;Naoki;Naoki
+060;60;0:01:03.950000;0:01:05.273000;060.mp3;060.webp;ううん;No.;Nah.;False;False;;Hitori;Hitori
+064;64;0:01:06.870000;0:01:11.710000;064.mp3;064.webp;学生のころは 教室の隅っこで　本読んでるふりしてるヤツでした;En la escuela, yo era el que se sentaba al fondo y hacía como que leía.;Back in school, I was the guy who sat in the back of the classroom pretending to read.;False;False;;Musician;Musician
+067;67;0:01:11.710000;0:01:13.100000;067.mp3;067.webp;友達いなくて;No tenía amigos.;No friends.;False;False;;Musician;Musician
+072;72;0:01:13.540000;0:01:18.220000;072.mp3;072.webp;それが今では　若者に絶大な人気を誇る バンドになったと;Y ahora eres parte de una banda muy famosa entre los jóvenes.;And now you're part of a band that's extremely popular with young people!;False;False;;Interviewer;Interviewer
+075;75;0:01:18.660000;0:01:21.560000;075.mp3;075.webp;まあ バンドは陰キャでも輝けるんで;Sí. Los introvertidos podemos brillar en una banda.;Yeah. A band is a place where even introverts can shine.;False;False;;Musician;Musician
+078;78;0:01:21.581000;0:01:24.310000;078.mp3;078.webp;そうなんですねー!;Ya veo.;I see!;False;False;;Interviewer;Interviewer
+082;82;0:01:24.310000;0:01:28.770000;082.mp3;082.webp;"それでは お聴きください　インストームスで""引き金""";A continuación: Detonante, de Instorms.;"Now, here's ""Trigger"" by Instorms!";False;False;;Interviewer;Interviewer
+085;85;0:01:34.552000;0:01:36.030000;085.mp3;085.webp;おっ どうした?;¿Qué pasa?;What is it?;False;False;;Naoki;Naoki
+088;88;0:01:36.030000;0:01:38.390000;088.mp3;088.webp;お... お父さん ギター貸して;Papá, ¿me prestas tu guitarra?;D-Dad, can I use your guitar?;False;False;;Hitori;Hitori
+091;91;0:01:38.389000;0:01:39.974000;091.mp3;091.webp;えっ? いいよ;Claro.;Sure!;False;False;;Naoki;Naoki
+094;94;0:01:39.820000;0:01:41.380000;094.mp3;094.webp;あ... ありがとう!;¡Gracias!;Th-Thanks!;False;False;;Hitori;Hitori
+099;99;0:01:43.040000;0:01:46.750000;099.mp3;099.webp;そうか ひとりも ついにギターに興味を;Ya veo. Por fin se interesa por la guitarra.;Aha! At last, Hitori's getting into guitar too!;False;False;;Naoki;Naoki
+105;105;0:01:49.460000;0:01:54.906000;105.mp3;105.webp;バンド組んだら　私みたいな人間でも もしかしたら 輝ける?;Si estuviera en una banda, ¿incluso alguien como yo podría brillar?;Maybe even someone like me can shine if I'm in a band!;False;False;;Hitori;Hitori
+112;112;0:02:08.810000;0:02:11.270000;112.mp3;112.webp;決めた! ギターうまくなる!;Decidido. ¡Aprenderé a tocar la guitarra!;I've made up my mind. I'm gonna learn to play guitar!;False;False;;Hitori;Hitori
+115;115;0:02:11.840000;0:02:14.150000;115.mp3;115.webp;で 学校でバンド組んで...;Formaré una banda y...;Then I'll form a band at school, and...;False;False;;Hitori;Hitori
+118;118;0:02:14.770000;0:02:17.240000;118.mp3;118.webp;"""E A G""...";E, A, G...;E, A, G...;False;False;;Hitori;Hitori
+121;121;0:02:17.240000;0:02:18.990000;121.mp3;121.webp;なんで突然 英語?;¿A qué viene tanto inglés?;What's with all the English?;False;False;;Hitori;Hitori
+124;124;0:02:23.590000;0:02:26.450000;124.mp3;124.webp;それで 文化祭でライブして;Además, tocaré en el festival cultural;Then I'll play at the culture festival;False;False;;Hitori;Hitori
+127;127;0:02:26.396000;0:02:29.274000;127.mp3;127.webp;みんなから ちやほやされるんだ!;y volveré loco a todo el mundo.;and have everyone go crazy for me!;False;False;;Hitori;Hitori
+131;131;0:02:51.950000;0:02:54.020000;131.mp3;131.webp;ちや... ほや?;¿Locos... por mí?;Crazy... for me?;False;False;;Hitori;Hitori
+153;153;0:04:29.018000;0:04:35.080000;153.mp3;153.webp;人様の前で演奏出来るように　毎日6時間練習を続けた結果...;Ensayé seis horas al día para aprender a tocar delante de la gente... ¿El resultado?;I practiced six hours every day, so I could learn how to play in front of people... The result?;False;False;;Hitori;Hitori
+156;156;0:04:35.024000;0:04:38.470000;156.mp3;156.webp;いつの間にか中学終わってた!;Acabó el año y nadie me escuchó.;Middle school ended, and I never played a single note for them!;False;False;;Hitori;Hitori
+161;161;0:04:39;0:04:41.880000;161.mp3;161.webp;ライブ出れなかった　文化祭!;Nunca he actuado... -¡En el festival!;I never performed once... At the culture festival!;False;False;;Hitori;Hitori,Students
+166;166;0:04:41.880000;0:04:44.630000;166.mp3;166.webp;集められなかった　バンドメンバー!;Nunca he reunido... -A miembros de una banda.;I never put together... The members for a band!;False;False;;Hitori;Hitori,Students
+169;169;0:04:44.630000;0:04:47.240000;169.mp3;169.webp;そもそも友達 一人もできなかった;Nunca me he hecho amiga de nadie...;And I never made a single friend...;False;False;;Hitori;Hitori
+172;172;0:04:47.240000;0:04:48.480000;172.mp3;172.webp;3年間!;En tres años.;In three whole years!;False;False;;Students;Students
+175;175;0:04:48.121000;0:04:50.100000;175.mp3;175.webp;高校こそは...;Ya estoy en la prepa...;Now, in high school...;False;False;;Hitori;Hitori
+178;178;0:04:50.850000;0:04:55.044000;178.mp3;178.webp;高校になったら 絶対バンドやるんだぁ!;¡Tengo que formar una banda aunque sea lo último que haga!;I gotta form a band or die trying!;False;False;;Hitori;Hitori
+181;181;0:04:56.280000;0:05:00.120000;181.mp3;181.webp;と 決意した高校生活も 始まって早一ヵ月;Por mucho que lo dijera, ya hace un mes que empezaron las clases;But despite my vow, it's been a whole month since high school started,;False;False;;Hitori;Hitori
+184;184;0:05:00.091000;0:05:02.730000;184.mp3;184.webp;心の拠り所はギターだけ;y mi corazón sigue pegado a la guitarra.;and yet my heart remains grounded in the guitar,;False;False;;Hitori;Hitori
+187;187;0:05:02.677000;0:05:07.300000;187.mp3;187.webp;ひきこもり一歩手前ですぅー;Parece que me gusta encerrarme...;little better than a shut-in...;False;False;;Hitori;Hitori
+192;192;0:05:08.840000;0:05:13.160000;192.mp3;192.webp;"作詞作曲 私 ""押し入れより愛をこめて""";La letra y la música son mías. Con amor desde el armario.;Lyrics and music by me. From the closet with love.;False;False;;Hitori;Hitori
+196;196;0:05:13.940000;0:05:19.160000;196.mp3;196.webp;って 真夜中に 私のクソなオリジナル曲で　ご近所トラブル起こす前に;Pero antes de molestar a los vecinos con mis pobres creaciones,;But before I cause neighborhood problems playing my crummy original song late at night,;False;False;;Hitori;Hitori
+199;199;0:05:19.160000;0:05:21.821000;199.mp3;199.webp;人気バンドのカバー動画 アップしなきゃ;subiré una versión de una banda famosa.;I've gotta upload a cover I did of a popular band.;False;False;;Hitori;Hitori
+206;206;0:05:22.830000;0:05:29.140000;206.mp3;206.webp;お父さんに勧められて　ギターヒーロー名義で 弾いてみた動画 上げだして　結構たつけど;"Ya hace bastante desde que subo videos con el nick ""guitarhero"" por culpa de mi papá...";"It's been a pretty long time since I started uploading myself playing under the name ""guitarhero"" on my dad's advice, but...";False;False;;,Hitori;,Hitori
+210;210;0:05:29.120000;0:05:33.770000;210.mp3;210.webp;あっ この前の動画　もう こんな コメントついてる;Vaya, mi último video tiene muchos comentarios.;Wow, my latest video already has so many comments.;False;False;;Hitori;Hitori
+214;214;0:05:35.480000;0:05:38.270000;214.mp3;214.webp;最近は再生数も結構あるし;Últimamente tengo más visitas;I've been racking up the views lately, too,;False;False;;Hitori;Hitori
+217;217;0:05:38.212000;0:05:40.214000;217.mp3;217.webp;うまいって言われるし;y la gente me dice que soy buena...;and people are telling me I'm good...;False;False;;Hitori;Hitori
+220;220;0:05:40.120000;0:05:43.350000;220.mp3;220.webp;そうだよ 現実が つらくても大丈夫;Si no me sale bien en la vida real, me conformaré con esto.;Yeah, maybe it's okay if I can't handle real life!;False;False;;Hitori;Hitori
+224;224;0:05:43.301000;0:05:46.760000;224.mp3;224.webp;ネットには 私に反応してくれる人が　たくさん いるもん;En internet me apoya mucha gente.;There are tons of people cheering for me online!;False;False;;Hitori;Hitori
+227;227;0:05:46.760000;0:05:49.940000;227.mp3;227.webp;ここには 私と同じ 根暗コミュ症が あふれて...;En internet hay mucha gente tan introvertida como yo.;The internet is filled with socially anxious introverts just like me!;False;False;;Hitori;Hitori
+230;230;0:05:49.940000;0:05:51.660000;230.mp3;230.webp;"""この曲 バンド組んで文化祭で弾きま""...";Formé una banda y tocamos...;"""I formed a band and played this for our culー""";False;False;;Comment;Comment
+234;234;0:05:56;0:05:58.290000;234.mp3;234.webp;私だって努力はした;Ya lo intenté.;I put the effort in, okay?;False;False;;Hitori;Hitori
+237;237;0:05:58.770000;0:06:01.770000;237.mp3;237.webp;CD持っていって 机に置いたり;Llevé CDs y los puse en mi mesa.;I brought CDs to school and set them on my desk.;False;False;;Hitori;Hitori
+240;240;0:06:01.736000;0:06:03.090000;240.mp3;240.webp;話しかけて...;Hablen conmigo.;Talk to me!;False;False;;Hitori;Hitori
+243;243;0:06:03.090000;0:06:05.580000;243.mp3;243.webp;バンドグッズ持って アピールしたり;Compré productos de una banda y los enseñé.;I bought band merch and showed it off.;False;False;;Hitori;Hitori
+246;246;0:06:05.580000;0:06:06.970000;246.mp3;246.webp;話しかけてー;Hablen conmigo.;Talk to me!;False;False;;Hitori;Hitori
+249;249;0:06:06.970000;0:06:09.360000;249.mp3;249.webp;お昼のリクエストソングで...;Pedí canciones durante el almuerzo...;I put in song requests at lunch...;False;False;;Hitori;Hitori
+253;253;0:06:09.360000;0:06:12.850000;253.mp3;253.webp;次の曲は　2年A組 後藤さんの リクエストです;La próxima es una petición de Goto, de 2-A.;This next song is a request from Goto-san in Class 2-A.;False;False;;Speaker Voice;Speaker Voice
+256;256;0:06:13.200000;0:06:16.270000;256.mp3;256.webp;当時 ハマってた デスメタル 流して...;Pedí la canción metal con la que estoy obsesionada.;...for the death metal song I'd been obsessed with lately.;False;False;;Hitori;Hitori
+259;259;0:06:16.209000;0:06:19.980000;259.mp3;259.webp;お前の頭蓋骨を粉砕して　ぼえええー!;¡Voy a aplastarte el cráneo!;;False;;;Speaker Song;
+263;263;0:06:21.980000;0:06:24.100000;263.mp3;263.webp;フラッシュバックがー!;¡No quiero flashbacks!;Not the flashbacks!;False;False;;Hitori;Hitori
+266;266;0:06:23.716000;0:06:25.940000;266.mp3;266.webp;ぐうっ 忘れろ 忘れろ!;¡Fuera, feos recuerdos!;Begone! Begone, filthy memories!;False;False;;Hitori;Hitori
+270;270;0:06:33.480000;0:06:35.790000;270.mp3;270.webp;いいな... ライブ;Ojalá pudiera tocar en directo...;I wish I could perform live...;False;False;;Hitori;Hitori
+273;273;0:06:43.920000;0:06:45.090000;273.mp3;273.webp;そっ...;Oye...;That...;False;False;;Hitori;Hitori
+276;276;0:06:45.113000;0:06:47.365000;276.mp3;276.webp;その手があったか!;¡Podría funcionar!;That could work!;False;False;;Hitori;Hitori
+279;279;0:06:59.710000;0:07:02.600000;279.mp3;279.webp;かっ... かっこいいー!;Qué genial.;I look... I look so cool!;False;False;;Hitori;Hitori
+282;282;0:07:02.547000;0:07:04.470000;282.mp3;282.webp;一気にバンド女子だ;Parezco una roquera.;I'm already a total rocker chick!;False;False;;Hitori;Hitori
+285;285;0:07:04.340000;0:07:06.590000;285.mp3;285.webp;ただ者じゃない感が半端ない;Parezco alguien interesante.;I look like a real somebody!;False;False;;Hitori;Hitori
+288;288;0:07:06.590000;0:07:08.030000;288.mp3;288.webp;存在感すごい!;La gente me mirará.;The people can't look away!;False;False;;Hitori;Hitori
+292;292;0:07:09.554000;0:07:14.160000;292.mp3;292.webp;これは...　絶対 誰か話しかけてくれるはず;Seguro que así alguien hablará conmigo.;Someone's just gotta talk to me now!;False;False;;Hitori;Hitori
+295;295;0:07:14.600000;0:07:18.230000;295.mp3;295.webp;今年の文化祭は忙しくなるぞ!;¡Voy a estar muy ocupada en este festival!;I'm gonna be all over this year's culture festival!;False;False;;Hitori;Hitori
+298;298;0:07:33.202000;0:07:35.180000;298.mp3;298.webp;だから そのコギ尻が...;Solo veía el trasero del corgi...;So you could see the corgi's butt...;False;False;;Boy Student;Boy Student
+302;302;0:07:35.204000;0:07:37.310000;302.mp3;302.webp;次 移動教室? 理科室B;¿Dónde nos toca? -Ciencias. Clase B.;Do we move rooms next period? Science Room B.;False;False;;Girl Student A;Girl Student A,Girl Student B
+305;305;0:07:37.331000;0:07:39.560000;305.mp3;305.webp;このあとさー カラオケとかさ;¿Quieres ir al karaoke?;Hey, wanna karaoke after this?;False;False;;Girl Student C;Girl Student C
+309;309;0:07:39.417000;0:07:41.600000;309.mp3;309.webp;フフッ それいいね;Buena idea. -¿Segura?;Great idea! You sure?;False;False;;Girl Student D;Girl Student C,Girl Student D
+314;314;0:07:46.591000;0:07:48.570000;314.mp3;314.webp;あれー?;¿Eh?;Huh?;False;False;;Hitori;Hitori
+317;317;0:07:51.450000;0:07:54.340000;317.mp3;317.webp;深夜テンションのまま 暴走し過ぎた?;¿Se me habrán subido demasiado los humos?;Did I go overboard hyping myself up last night?;False;False;;Hitori;Hitori
+320;320;0:07:54.340000;0:07:57.750000;320.mp3;320.webp;こんなに分かりやすいほど バンド少女感 出してるのに;Pero si parezco una roquera...;But I'm putting out such powerful rocker chick vibes...;False;False;;Hitori;Hitori
+323;323;0:07:57.750000;0:08:00.830000;323.mp3;323.webp;あっ あえて 話しかけてこない という可能性は...;¿Quizás ahora parezco demasiado inalcanzable?;D-Did I end up making myself unapproachable?!;False;False;;Hitori;Hitori
+327;327;0:08:00.830000;0:08:03.210000;327.mp3;327.webp;ないないない 精神崩壊する!;¡No, no! ¡Ya estoy con mis crisis!;No, no, no! I'm having a mental breakdown!;False;False;;Hitori;Hitori
+337;337;0:08:03.210000;0:08:09.710000;337.mp3;337.webp;うわっ ちょっと 見て見て!　い... 今 笑われようものなら　精神崩壊どころか 消滅してしまうー!;¡Vaya, mira! -¿Qué? Si se ríen de mí, no tendré una crisis... ¡Querré morirme!;Wow, look at that! At what? I-If they're laughing at me now, it won't just be a mental breakdown, it'll be mental annihilation!;False;False;;Hitori,Kita's Friend A;Kita's Friend B,Hitori,Kita's Friend A
+340;340;0:08:09.739000;0:08:12.920000;340.mp3;340.webp;ヤバい! かわい過ぎて笑っちゃう;Es tan lindo que tienes que reírte.;Aw, it's so cute, I've gotta laugh!;False;False;;Kita's Friend A;Kita's Friend A
+343;343;0:08:12.617000;0:08:15.203000;343.mp3;343.webp;)ギター? 癒やされるー;¿Una guitarra? -Me alegraste el día.;Guitar?;False;False;;Kita;Kita
+346;346;0:08:15.286000;0:08:16.913000;346.mp3;346.webp;ねー 喜多ちゃん;Oye, Kita.;Right, Kita-chan?;False;False;;Kita's Friend B;Kita's Friend B
+349;349;0:08:16.996000;0:08:18.260000;349.mp3;349.webp;喜多ちゃん?;¿Kita?;Kita-chan?;False;False;;Kita's Friend B;Kita's Friend B
+352;352;0:08:17.914000;0:08:21.100000;352.mp3;352.webp;あっ ごめんごめん なになに?;¡Lo siento! ¿Qué pasa?;Sorry, sorry! What was it?;False;False;;Kita;Kita
+355;355;0:08:25.004000;0:08:27.030000;355.mp3;355.webp;いや 分かってますよ;Lo entiendo.;Look, I know.;False;False;;Hitori;Hitori
+358;358;0:08:27.030000;0:08:30.280000;358.mp3;358.webp;他力本願で 物事うまくいくはずないって;No puedo esperar que la gente sea perfecta.;You can't put the onus on others and expect perfect results.;False;False;;Hitori;Hitori
+361;361;0:08:33.240000;0:08:37.760000;361.mp3;361.webp;ここに集う人たちは 私と同じで 孤独を抱えてるんだ;Veo que aquí viene la gente solitaria como yo.;This is a gathering place for people just as lonely as me.;False;False;;Hitori;Hitori
+365;365;0:08:37.760000;0:08:40.603000;365.mp3;365.webp;あの人は きっと家庭内別...　パパ! え?;Seguro que ese hombre no... -¡Papá!;I bet that guy's separated fromー;False;False;;Hitori;Hitori
+368;368;0:08:41.187000;0:08:43.710000;368.mp3;368.webp;エヘッ ごめんね 遅れちゃって;Perdón por llegar tarde.;Sorry we're late!;False;False;;Worker's Wife;Worker's Wife
+374;374;0:08:43.689000;0:08:48.140000;374.mp3;374.webp;いいって いいって　絵に描いたような家族団欒!;Descuida. Vamos, a comer. ¡Es la familia perfecta!;Hey, no problem. They're the perfect freakin' family!;False;False;;Hitori,Worker;Hitori,Worker
+377;377;0:08:48.140000;0:08:51.460000;377.mp3;377.webp;"すいません 勝手に""私と同じ""とか言って";Perdón por haberlo comparado conmigo...;Please forgive my presumptuous empathizing...;False;False;;Hitori;Hitori
+380;380;0:08:53.490000;0:08:56.577000;380.mp3;380.webp;あ... 登録者数3万 超えてる;Ya tengo más de 30 000 suscriptores.;Ah. I broke 30,000 subscribers.;False;False;;Hitori;Hitori
+385;385;0:08:57.360000;0:09:01.720000;385.mp3;385.webp;うん そうだよ 私の居場所はネットだけ;Eso es. Mi mundo es el virtual.;Hey, that's right. The online world is where I belong.;False;False;;Hitori;Hitori
+388;388;0:09:02.700000;0:09:05.419000;388.mp3;388.webp;もう 学校 行きたくないな...;Creo que no quiero volver a clases...;Sorta makes me not wanna go back to school...;False;False;;Hitori;Hitori
+392;392;0:09:07.255000;0:09:09.423000;392.mp3;392.webp;ギター!;¡Una guitarra!;Guitar!;False;False;;Nijina;Nijina
+398;398;0:09:12.230000;0:09:14.850000;398.mp3;398.webp;それ ギターだよね?　あっ あっ... 弾けるの?;¿Eso es una guitarra? ¿La tocas?;That's a guitar, right? Do you play?!;False;False;;Nijina;Nijina
+402;402;0:09:17.010000;0:09:18.270000;402.mp3;402.webp;おーい?;¿Hola?;Hello?;False;False;;Nijina;Nijina
+405;405;0:09:18.266000;0:09:21.200000;405.mp3;405.webp;しゃ... しゃべるの 久しぶりすぎて 声が...;Me petrificó de la impresión.;I-I haven't talked to anyone in so long... my voice!;False;False;;Hitori;Hitori
+408;408;0:09:21.610000;0:09:23.420000;408.mp3;408.webp;あっ いきなり ごめんね;Disculpa lo repentino.;Hey, sorry to ambush you.;False;False;;Nijina;Nijina
+411;411;0:09:23.396000;0:09:26.500000;411.mp3;411.webp;あたし 下北沢高校2年 伊地知虹夏;Me llamo Nijika Ijichi. Estoy en 2.o en Shimo-Kitazawa.;I'm Nijika Ijichi, second-year at Shimo-Kitazawa High.;False;False;;Nijina;Nijina
+414;414;0:09:27.024000;0:09:30.450000;414.mp3;414.webp;あっ 後藤ひとり 秀華高校1年です;Hitori Goto. Shuka. Primero.;Hitori Goto. Shuka High. First-year.;False;False;;Hitori;Hitori
+419;419;0:09:30.444000;0:09:33.170000;419.mp3;419.webp;ちなみに ひとりちゃんはさ...　いきなり名前呼び!;Dime, Hitori... -¿Ya me llama por el nombre?;So tell me, Hitori-chan... Right to first names, are we?!;False;False;;Nijika/Hitori;Nijika,Hitori
+422;422;0:09:33.170000;0:09:35.230000;422.mp3;422.webp;ギター どのくらい弾ける?;¿Eres buena con la guitarra?;How good are you at guitar?;False;False;;Nijika;Nijika
+425;425;0:09:35.241000;0:09:37.220000;425.mp3;425.webp;あっ そこそこかと;Me defiendo...;Pretty decent, I guess...;False;False;;Hitori;Hitori
+428;428;0:09:37.220000;0:09:38.590000;428.mp3;428.webp;そっか!;¿En serio?;Really?!;False;False;;Nijika;Nijika
+431;431;0:09:38.590000;0:09:41.290000;431.mp3;431.webp;あ... あのさ ちょっと今 困ってて;Verás, quiero pedirte un favor...;Say, I'm in kind of a fix here...;False;False;;Nijika;Nijika
+434;434;0:09:41.122000;0:09:43.374000;434.mp3;434.webp;無理だったら 大丈夫なんだけど;Si no puedes, está bien...;If you can't do it, that's okay, but...;False;False;;Nijika;Nijika
+437;437;0:09:43.180000;0:09:45.250000;437.mp3;437.webp;大丈夫なんだけど 困ってて...;Está bien, pero...;It's really okay, but I'm in a real fix...;False;False;;Nijika;Nijika
+440;440;0:09:45.250000;0:09:47.190000;440.mp3;440.webp;絶対 だいじょばないやつ!;¡La que no está bien eres tú!;There's nothing okay about her!;False;False;;Hitori;Hitori
+443;443;0:09:47.211000;0:09:49.560000;443.mp3;443.webp;うん 思い切って言っちゃおう!;¡Bien, aquí voy!;Okay, I'll come right out with it!;False;False;;Nijika;Nijika
+447;447;0:09:50.180000;0:09:55.440000;447.mp3;447.webp;お願い!　あたしのバンドで 今日だけ サポートギターしてくれないかな!;¿Podrías tocar la guitarra hoy en mi banda?;Please, will you play second guitar for my band for today?!;False;False;;Nijika;Nijika
+450;450;0:09:56.190000;0:09:57.360000;450.mp3;450.webp;バンド?;¿Banda?;Band?;False;False;;Hitori;Hitori
+453;453;0:09:57.360000;0:10:01.180000;453.mp3;453.webp;これからライブなのに ギターの子が突然 辞めちゃって;¡Tenemos un concierto pronto y se nos fue la guitarrista!;We've got a concert coming up, and our guitarist just split!;False;False;;Nijika;Nijika
+456;456;0:10:01.180000;0:10:04.110000;456.mp3;456.webp;ある程度 弾ける人なら... これから? ライブ?;¿Un concierto? ¿Ahora?;The song's not too hard! You'll pick it up right away!;False;False;;Hitori;Nijika
+459;459;0:10:04.103000;0:10:05.730000;459.mp3;459.webp;なにとぞー;¡Por favor!;Please! Please!;False;False;;Nijika;Nijika
+461;461;0:10:05.980000;0:10:06.981000;461.mp3;461.webp;あっ や...;;Um, err...;;False;;;Hitori
+465;465;0:10:10.500000;0:10:13.270000;465.mp3;465.webp;ありがとう! 早速 ライブハウスへ ゴー!;¡Gracias, vamos al club!;Thanks! Let's head to the club!;False;False;;Nijika;Nijika
+468;468;0:10:13.195000;0:10:15.323000;468.mp3;468.webp;まだ何も言ってない!;¡Pero si no he dicho nada!;I haven't even said anything yet!;False;False;;Hitori;Hitori
+471;471;0:10:17.920000;0:10:19.840000;471.mp3;471.webp;来てしまった...;Me arrastró...;I got dragged along.;False;False;;Hitori;Hitori
+474;474;0:10:19.785000;0:10:22.440000;474.mp3;474.webp;ひとりちゃんは下北は よく来る?;¿Vienes por Shimo-Kita mucho, Hitori?;Do you come to Shimo-Kita a lot, Hitori-chan?;False;False;;Nijika;Nijika
+477;477;0:10:22.371000;0:10:23.760000;477.mp3;477.webp;あっ いや...;Pues...;Oh, well...;False;False;;Hitori;Hitori
+480;480;0:10:23.720000;0:10:27.310000;480.mp3;480.webp;こんな 個性みなぎる おしゃれタウンに 来れるわけない;Como si pudiera venir a un sitio tan popular...;Right, like I've got the courage to visit a fashion town for trendy people...;False;False;;Hitori;Hitori
+483;483;0:10:27.810000;0:10:29.879000;483.mp3;483.webp;ライブハウス もうちょいだから;Ya casi llegamos.;We're almost to the club.;False;False;;Nijika;Nijika
+486;486;0:10:31.440000;0:10:33.870000;486.mp3;486.webp;虹夏ちゃんは おしゃれだなー;Nijika va muy a la moda.;Nijika-chan's fashionable, too.;False;False;;Hitori;Hitori
+489;489;0:10:33.870000;0:10:36.400000;489.mp3;489.webp;これこそバンド女子って感じ;Ella sí que parece una roquera.;She's got the real rocker-chick vibe.;False;False;;Hitori;Hitori
+494;494;0:10:36.400000;0:10:41.230000;494.mp3;494.webp;それに比べて私は 芋ジャージだし クマすごいし 猫背だし...;A su lado, me veo patética. Ojerosa y encorvada como un gato...;Meanwhile, I'm in a potato-quality tracksuit with a real bear of a set of bags under my eyes, and a back as arched as a cat...;False;False;;Hitori;Hitori
+499;499;0:10:41.140000;0:10:45.700000;499.mp3;499.webp;あっ 私 かび臭いかも いつも押し入れにいるから;¿También huelo a moho? Con tanto tiempo en el armario...;Wait, do I also smell like mold? I spend so much time in the closet...;False;False;;Hitori;Hitori
+502;502;0:10:45.686000;0:10:47.370000;502.mp3;502.webp;いや 防虫剤のにおいだ;No, huelo a naftalina.;No, I smell like mothballs.;False;False;;Hitori;Hitori
+505;505;0:10:48.360000;0:10:52.130000;505.mp3;505.webp;それにひきかえ 虹夏ちゃん めっちゃ いいにおい;Por su parte, Nijika huele muy bien.;Meanwhile, Nijika-chan smells great!;False;False;;Hitori;Hitori
+509;509;0:10:52.130000;0:10:55.446000;509.mp3;509.webp;本来あるべき　女子高生の香りだー;Huele como debería oler una adolescente.;She smells just the way a high school girl should!;False;False;;Hitori;Hitori
+514;514;0:10:55.380000;0:10:57.800000;514.mp3;514.webp;歩くペース早い?　いっ... いえ;¿Quieres ir más deprisa? -No...;Oh, am I walking too fast? N-No...;False;False;;Nijika;Nijika,Hitori
+518;518;0:10:57.823000;0:11:02.040000;518.mp3;518.webp;今日 出演するライブハウスは　STARRYっていうんだけどね;El club donde tocamos se llama Starry.;The club we're gonna play at is called Starry.;False;False;;Nijika;Nijika
+521;521;0:11:02.040000;0:11:04.680000;521.mp3;521.webp;あたしのお姉ちゃんが... 出演するライブハウス;Tocar en un club... -Mi hermana es la gerente.;My big sister's the manager there.;False;False;;Hitori;Nijika
+524;524;0:11:04.705000;0:11:07.180000;524.mp3;524.webp;なんか ぽい響き;¿Y ese sonido?;That sounds weirdly legit.;False;False;;Hitori;Hitori
+527;527;0:11:07.124000;0:11:09.060000;527.mp3;527.webp;あれ なんか心臓ヤバい;¿Es mi corazón?;Wait, what's my heart doing?;False;False;;Hitori;Hitori
+530;530;0:11:09.085000;0:11:10.961000;530.mp3;530.webp;でね! あっ;Y...;And so...;False;False;;Nijika;Nijika
+533;533;0:11:11.450000;0:11:13.923000;533.mp3;533.webp;あたし そこでバイトしてて...;Yo he trabajado allí y...;I've been working there part-time...;False;False;;Nijika;Nijika
+537;537;0:11:16.010000;0:11:19.178000;537.mp3;537.webp;ひとりちゃん 実は結構 運動できる?;Hitori, ¿se te dan bien los deportes?;Hitori-chan, are you actually pretty athletic?;False;False;;Nijika;Nijika
+541;541;0:11:19.070000;0:11:24.170000;541.mp3;541.webp;いえ あっ でも ドッジボールだけは　なぜか いつも 最後まで残ってました;No, pero suelo ganar cuando jugamos a los quemados.;N-No, but I'm always the last one standing in dodgeball for some reason.;False;False;;Hitori;Hitori
+544;544;0:11:24.170000;0:11:25.700000;544.mp3;544.webp;そ... そっか;Ya veo.;I... I see.;False;False;;Nijika;Nijika
+547;547;0:11:25.726000;0:11:28.620000;547.mp3;547.webp;私がライブハウスで演奏;¿Yo tocando en un club?;Me? Playing in a club?;False;False;;Hitori;Hitori
+550;550;0:11:28.562000;0:11:32.040000;550.mp3;550.webp;あっ ああ... ダメダメ 今 弱気になっちゃ;¡No, ya no hay marcha atrás!;No, don't back down now!;False;False;;Hitori;Hitori
+553;553;0:11:32.024000;0:11:35.290000;553.mp3;553.webp;思い出せ 妄想で毎日した文化祭ライブを!;¡Recuerda cuando soñabas con tocar en el festival cultural!;Remember your daydreams of performing at the culture festival!;False;False;;Hitori;Hitori
+558;558;0:11:36.160000;0:11:40.320000;558.mp3;558.webp;そして 初のワンマン　Zepp!　スーパーアリーナ!;¡Y tu primer concierto como solista en el Zepp!;And your first solo show at Zepp Super Arena!;False;False;;Hitori;Hitori
+561;561;0:11:40.157000;0:11:43.411000;561.mp3;561.webp;ひとり! ひとり! ひとり...;¡Hitori! ¡Hitori! ¡Hitori!;Hitori! Hitori! Hitori!;False;False;;Crowd;Crowd
+564;564;0:11:44.150000;0:11:46.710000;564.mp3;564.webp;私は武道館をも埋めた女...;Yo llené el Budokan...;I'm the girl who sold out the Budokan...;False;False;;Hitori;Hitori
+568;568;0:11:46.664000;0:11:48.720000;568.mp3;568.webp;えっ? あっ いや...;Nada.;What? Oh, nothing!;False;False;;Hitori;Nijika,Hitori
+572;572;0:11:49.959000;0:11:53.510000;572.mp3;572.webp;頼む相手 間違った って思われてませんように!;¡No dejes que crea que elegirme fue un error!;Please, don't let her think she made a mistake choosing me!;False;False;;Hitori;Hitori
+575;575;0:11:53.510000;0:11:55.440000;575.mp3;575.webp;頼む相手 間違えたか?;Puede que me haya equivocado...;I might've made a mistake choosing her...;False;False;;Nijika;Nijika
+579;579;0:11:56.230000;0:11:58.230000;579.mp3;579.webp;着いた! ここだよー;Ya estamos. Es aquí.;We're here! This is the place!;False;False;;Nijika;Nijika
+582;582;0:12:00.136000;0:12:02.570000;582.mp3;582.webp;ま... 魔境?;¿Las tierras oscuras?;Th-The dark lands?;False;False;;Hitori;Hitori
+585;585;0:12:03.300000;0:12:05.474000;585.mp3;585.webp;おっはようございまーす!;¡Buenas!;Good morning!;False;False;;Nijika;Nijika
+588;588;0:12:08.210000;0:12:10.120000;588.mp3;588.webp;初ライブハウス;Mi primer club...;My first club...;False;False;;Hitori;Hitori
+591;591;0:12:10.146000;0:12:13.870000;591.mp3;591.webp;この暗さ 圧迫感...;Qué oscuro... Qué calor...;It's so dark... So stuffy...;False;False;;Hitori;Hitori
+594;594;0:12:13.870000;0:12:15.985000;594.mp3;594.webp;お... 落ち着くー;Pero es reconfortante.;I-It's so soothing!;False;False;;Hitori;Hitori
+597;597;0:12:15.960000;0:12:17.500000;597.mp3;597.webp;ひとりちゃん 大丈夫?;¿Estás bien, Hitori?;You okay, Hitori-chan?;False;False;;Nijika;Nijika
+602;602;0:12:17.486000;0:12:19.880000;602.mp3;602.webp;わ... 私の家　違うよ?;Me siento como en casa. -¿Ah, sí?;I'm home! It is not!;False;False;;Hitori;Nijika,Hitori
+608;608;0:12:19.880000;0:12:25.250000;608.mp3;608.webp;今回もPAさんに...　今日 共演する...　バンドって どうしても 怖そうなイメージあるけど;Esa es la banda que toca hoy. -Creía que las bandas daban miedo.;Could we ask the PA to record again? I thought bands would be intimidating,;False;False;;Nijika;Women,Hitori
+614;614;0:12:25.244000;0:12:30.150000;614.mp3;614.webp;所詮 インドアの集まり　影の者 陰キャの集団 みんな 私と同じ;Resulta que todas son introvertidas. Son como yo.;but they're all indoorsy, shy introverts! They're just like me!;False;False;;Hitori;Hitori
+617;617;0:12:30.150000;0:12:31.980000;617.mp3;617.webp;そこにいるのがPAさん;Mira, ahí está la ayudante.;That there's the PA.;False;False;;Nijika;Nijika
+619;619;0:12:33.169000;0:12:34.560000;619.mp3;619.webp;おはようございます;Buenas.;;False;;;PA;
+624;624;0:12:34.587000;0:12:37.520000;624.mp3;624.webp;いいい... イキって すみません　急に どうした!;Disculpa mi arrogancia. -¿Qué pasa ahora?;Please forgive my arrogance! What's wrong now?!;False;False;;Hitori;Nijika,Hitori
+628;628;0:12:38.240000;0:12:40.530000;628.mp3;628.webp;やっと帰ってきた おっ リョウ;Hasta que volviste. -¡Ryo!;You're finally back. Ryo!;False;False;;Ryo;Ryo,Nijika
+631;631;0:12:41.440000;0:12:43.520000;631.mp3;631.webp;この子 後藤ひとりちゃん;Te presento a Hitori Goto.;This is Hitori Goto. Hitori-chan!;False;False;;Nijika;Nijika
+634;634;0:12:43.512000;0:12:46.280000;634.mp3;634.webp;奇跡的に公園にいた ギタリストだよ;Me la encontré en el parque y es guitarrista.;I met her in the park by miraculous happenstance! She's a guitarist!;False;False;;Nijika;Nijika
+636;636;0:12:46.240000;0:12:47.391000;636.mp3;636.webp;へえー;;Oh?;;False;;;Ryo
+639;639;0:12:47.390000;0:12:49.530000;639.mp3;639.webp;怖っ! にらまれてる?;¡Qué miedo! ¿Me está observando?;Scary! Is she glaring at me?;False;False;;Hitori;Hitori
+642;642;0:12:49.560000;0:12:51.870000;642.mp3;642.webp;この子は ベースの山田リョウだよ;Ella es Ryo Yamada, la bajista.;This is Ryo Yamada. She plays bass.;False;False;;Nijika;Nijika
+645;645;0:12:51.870000;0:12:54.900000;645.mp3;645.webp;ごご... 後藤ひとりです 大変 申し訳ございません!;¡Me llamo Hitori Goto! ¡Lo siento mucho!;I-I'm Hitori Goto! I'm so very sorry!;False;False;;Hitori;Hitori
+648;648;0:12:54.750000;0:12:55.750000;648.mp3;648.webp;えっ ちょっ...;Oye...;Hang on!;False;False;;Nijika;Nijika
+653;653;0:12:55.774000;0:12:59.760000;653.mp3;653.webp;大丈夫だから リョウは表情が出にくいだけ;Tranquila. Ryo no es muy habladora.;Y-You're okay! Ryo's just not the expressive type.;False;False;;Nijika;Nijika
+656;656;0:12:59.760000;0:13:01.670000;656.mp3;656.webp;"""変人""って言ったら喜ぶよー";"Le gusta que le digan ""rarita"".";Feel free to call her weird! She likes it!;False;False;;Nijika;Nijika
+659;659;0:13:01.655000;0:13:03.280000;659.mp3;659.webp;うれしくないし;En realidad no...;I don't, actually.;False;False;;Ryo;Ryo
+662;662;0:13:03.199000;0:13:04.380000;662.mp3;662.webp;うれしそうだ;Ya veo...;Seemed like she did...;False;False;;Hitori;Hitori
+665;665;0:13:04.408000;0:13:06.740000;665.mp3;665.webp;そういえば 店長が... えっ?;Por cierto, la gerente...;By the way, about the manager...;False;False;;Ryo;Ryo
+668;668;0:13:06.740000;0:13:08.980000;668.mp3;668.webp;時間まで練習しとけって;Te dijo que ensayaras,;She told you to practice until it was time,;False;False;;Ryo;Ryo
+671;671;0:13:08.954000;0:13:11.820000;671.mp3;671.webp;あと 虹夏が勝手に ライブハウス抜け出したこと;pero te escabulliste.;but instead you snuck out of the club,;False;False;;Ryo;Ryo
+678;678;0:13:11.749000;0:13:16.690000;678.mp3;678.webp;怒りながら買い出し行った　ひいー ウソ! 帰ってくる前に スタジオ行こう;Salió a comprar furiosa. -No puede ser. Estaremos en el estudio cuando vuelva.;so she got so mad she went out shopping. N-No way! Let's be in the studio before she comes back!;False;False;;Ryo,Nijika;Ryo,Nijika
+681;681;0:13:17.090000;0:13:18.310000;681.mp3;681.webp;ひとりちゃんも あっ;Ven, Hitori.;You too, Hitori-chan!;False;False;;Nijika;Nijika
+684;684;0:13:18.339000;0:13:19.610000;684.mp3;684.webp;ほら!;¡Vamos!;C'mon!;False;False;;Nijika;Nijika
+687;687;0:13:20.610000;0:13:21.801000;687.mp3;687.webp;は... はい!;Sí.;R-Right!;False;False;;Hitori;Hitori
+690;690;0:13:22.301000;0:13:23.780000;690.mp3;690.webp;現実は怖い;La vida real da miedo.;Real life is scary.;False;False;;Hitori;Hitori
+693;693;0:13:24.660000;0:13:29.570000;693.mp3;693.webp;でも これから楽しいことが たくさん待っている気がする;Pero siento que me espera bastante diversión.;But I feel like there's some fun stuff coming up!;False;False;;Hitori;Hitori
+696;696;0:13:30.800000;0:13:33.120000;696.mp3;696.webp;これ 今日のセットリストとスコア;Aquí tienes las canciones y las partituras.;Here's today's set list and score.;False;False;;Nijika;Nijika
+700;700;0:13:33.145000;0:13:36.160000;700.mp3;700.webp;あっ あの...　バンドメンバーは?;¿Dónde están las demás?;Wh-Where are the other band members?;False;False;;Hitori;Hitori
+703;703;0:13:36.148000;0:13:37.820000;703.mp3;703.webp;これで全員だよ;Ya estamos todas.;This is everyone!;False;False;;Nijika;Nijika
+706;706;0:13:37.816000;0:13:40;706.mp3;706.webp;あたしたち 今回は インストバンドだから;Hoy haremos los instrumentales.;We'll be doing all instrumentals this time.;False;False;;Nijika;Nijika
+709;709;0:13:40.600000;0:13:43.660000;709.mp3;709.webp;うん この曲ならいける;Bien, puedo con esta canción.;Right. I can handle this song.;False;False;;Hitori;Hitori
+712;712;0:13:43.572000;0:13:46.510000;712.mp3;712.webp;でも ボーカルいない分 演奏 頑張らないと;Pero sin cantante vamos a tener que esforzarnos...;Though without any vocals, the playing's gotta be all that much better...;False;False;;Hitori;Hitori
+718;718;0:13:47.280000;0:13:50.720000;718.mp3;718.webp;私 ギターうまいらしいし　やれる やれるはず!;Soy buena tocando. Puedo hacerlo. Creo que puedo.;But I'm supposedly good at guitar. I can do this. I think I can do this!;False;False;;Hitori;Hitori
+722;722;0:13:53.270000;0:13:54.667000;722.mp3;722.webp;ゴリラ? フンフン!;¿Un gorila?;Gorilla?;False;False;;Ryo;Ryo
+725;725;0:13:57.230000;0:14:00.190000;725.mp3;725.webp;演奏聴いたら 2人とも驚くかも;A lo mejor las sorprendo cuando toque.;Maybe they'll be blown away by my playing!;False;False;;Hitori;Hitori
+728;728;0:14:00.214000;0:14:04.570000;728.mp3;728.webp;だって ネットだと結構... いや わりと評判いいし;O sea, soy buena... o, al menos, en internet.;I mean, I get pretty good... pretty decent reactions online.;False;False;;Hitori;Hitori
+731;731;0:14:05.050000;0:14:07.730000;731.mp3;731.webp;登録者数3万人だし;Yo tengo 30 000 suscriptores.;I even have 30,000 subscribers!;False;False;;Hitori;Hitori
+734;734;0:14:07.721000;0:14:09.840000;734.mp3;734.webp;よし やってやる!;¡Bien, aquí voy!;Yeah, let's do this!;False;False;;Hitori;Hitori
+737;737;0:14:09.840000;0:14:11.080000;737.mp3;737.webp;それじゃ いくよ!;Empecemos.;Okay, let's go!;False;False;;Nijika;Nijika
+742;742;0:14:26.630000;0:14:27.840000;742.mp3;742.webp;ド下手だ プッ;Eres horrible.;You suck!;False;False;;Nijika;Nijika
+746;746;0:14:29.090000;0:14:30.650000;746.mp3;746.webp;ななな... なんで? あっ ウソウソ;¿Por qué?;H-How can I suck?;False;False;;Hitori;Hitori
+749;749;0:14:30.650000;0:14:32.730000;749.mp3;749.webp;私 ギターヒーローなのに;¡Soy guitarhero!;I'm guitarhero!;False;False;;Hitori;Hitori
+752;752;0:14:32.730000;0:14:34.890000;752.mp3;752.webp;登録者3万人なのにー?;¡Tengo 30 000 suscriptores!;I've got 30,000 subscribers!;False;False;;Hitori;Hitori
+755;755;0:14:34.890000;0:14:36.875000;755.mp3;755.webp;説明しよう! えっ?;¡Yo les explico!;Allow me to explain!;False;False;;Guitar Man;Guitar Man
+759;759;0:14:36.959000;0:14:41.130000;759.mp3;759.webp;バンドは 生身の人間と　呼吸を合わせることが とっても重要だけど;¡En una banda es esencial estar en armonía!;In a band, it's super important to be in sync with your fellow live performers!;False;False;;Guitar Man;Guitar Man
+762;762;0:14:41.088000;0:14:43.940000;762.mp3;762.webp;コミュ症の ひとりは 目すら合わせられないので;Hitori tiene ansiedad social y no mira a los ojos.;But Hitori has social anxiety and can't make eye contact,;False;False;;Guitar Man;Guitar Man
+765;765;0:14:43.940000;0:14:45.759000;765.mp3;765.webp;突っ走る演奏をする!;Por eso se adelanta.;and she'll be inclined to rush ahead of the others!;False;False;;Guitar Man;Guitar Man
+768;768;0:14:46.320000;0:14:48.030000;768.mp3;768.webp;ソロ弾きは最強でも;Por muy buena solista que sea,;She might be an awesome solo player,;False;False;;Guitar Man;Guitar Man
+772;772;0:14:47.887000;0:14:51.740000;772.mp3;772.webp;バンドになるとミジンコ以下　最弱になるのだ!;en una banda está en el nivel más bajo de todos.;but when in a band, she's sub-water-flea level, the worst there is!;False;False;;Guitar Man;Guitar Man
+775;775;0:14:51.765000;0:14:54.280000;775.mp3;775.webp;どうも プランクトン後藤でーす;Hola, me llamo Plancton Goto.;Hello. I'm Plankton Goto.;False;False;;Hitori;Hitori
+778;778;0:14:54.268000;0:14:57.080000;778.mp3;778.webp;売れないお笑い芸人みたいな人 出てきた!;¡Parece una humorista sin gracia!;She sounds like an unfunny comedian!;False;False;;Nijika;Nijika
+781;781;0:14:57.104000;0:14:59.710000;781.mp3;781.webp;こうして 後藤ひとりは灰となり;Hitori Goto se convirtió en historia;And thus, Hitori Goto turned to dust,;False;False;;Hitori;Hitori
+784;784;0:14:59.648000;0:15:02.960000;784.mp3;784.webp;もう二度とギターを持つことは なかったのでした;y nunca volvió a tomar la guitarra.;and never picked up a guitar again.;False;False;;Hitori;Hitori
+786;786;0:15:09.408000;0:15:11.010000;786.mp3;786.webp;ちょちょ... ちょちょ!;¡Un momento!;;False;;;Nijika;
+789;789;0:15:11.035000;0:15:12.760000;789.mp3;789.webp;ねえ 出てきてー;Sal de ahí.;Come out, please!;False;False;;Nijika;Nijika
+792;792;0:15:12.786000;0:15:14.600000;792.mp3;792.webp;本番 始まっちゃうよ;Ya vamos a empezar.;The show's about to start!;False;False;;Nijika;Nijika
+795;795;0:15:14.330000;0:15:16.520000;795.mp3;795.webp;やっ ややや... やっぱり できません!;No puedo hacerlo.;I c-c-can't do it!;False;False;;Hitori;Hitori
+798;798;0:15:16.498000;0:15:19.180000;798.mp3;798.webp;しょうがないよ 即席バンドなんだし;No es para tanto. Hoy es nuestro primer día.;It's not your fault! We just came together today!;False;False;;Nijika;Nijika
+801;801;0:15:19.126000;0:15:21.440000;801.mp3;801.webp;あたしだって そんな うまくないし;Yo tampoco soy buena.;It's not like I'm very good either.;False;False;;Nijika;Nijika
+804;804;0:15:21.378000;0:15:22.770000;804.mp3;804.webp;私は うまい;Yo soy muy buena.;I'm very good.;False;False;;Ryo;Ryo
+808;808;0:15:24.230000;0:15:26.360000;808.mp3;808.webp;とりあえず こっち向いて!;¡Mírame a mí!;Just look at me, okay!;False;False;;Nijika;Nijika
+811;811;0:15:26.360000;0:15:28.140000;811.mp3;811.webp;現実逃避しないでー;Quédate con nosotras.;Stay here in reality!;False;False;;Nijika;Nijika
+814;814;0:15:27.926000;0:15:32.680000;814.mp3;814.webp;あっ エ... MCでも 全くお役に立てないですし;Ni siquiera hago bien el principio...;It isn't like I could do the intro or anything...;False;False;;Hitori;Hitori
+817;817;0:15:32.640000;0:15:36.570000;817.mp3;817.webp;ア... アハハハ 私の命をもって ハラキリショーでも...;Podría suicidarme en vivo.;I-I could offer up my life to put on a harakiri show!;False;False;;Hitori;Hitori
+820;820;0:15:36.518000;0:15:39.490000;820.mp3;820.webp;バ... バンド名くらい 覚えて帰ってもらえるはず...;Al menos entretendremos a la gente, ¿no?;Th-They'll at least remember the name of the band, right?;False;False;;Hitori;Hitori
+823;823;0:15:39.480000;0:15:40.880000;823.mp3;823.webp;ド下手で すみません!;Siento ser tan mala.;Sorry I sucked!;False;False;;Hitori;Hitori
+826;826;0:15:40.870000;0:15:41.920000;826.mp3;826.webp;ロックすぎる!;¡Eso es demasiado!;That's a little too rock!;False;False;;Nijika;Nijika
+829;829;0:15:41.941000;0:15:43.450000;829.mp3;829.webp;大丈夫;Tranquila.;It's okay.;False;False;;Ryo;Ryo
+832;832;0:15:43.400000;0:15:47.130000;832.mp3;832.webp;ひとりがヤジられたら 私がベースで ポムッてするから;Si te abuchean, les pego con el bajo.;If they boo you, I'll give them a bonk with my bass.;False;False;;Ryo;Ryo
+835;835;0:15:47.130000;0:15:50.680000;835.mp3;835.webp;べ... ベース そんなファンシーな音しますかね;¿El bajo hace ese ruido?;Does a bass make such a fancy noise?;False;False;;Hitori;Hitori
+840;840;0:15:50.680000;0:15:53.630000;840.mp3;840.webp;流血沙汰もロックだから　ロックだから;Bueno, la sangre es muy roquera. -Es rock.;I mean, bloodshed is pretty rock. It's rock.;False;False;;Nijika;Nijika,Ryo
+843;843;0:15:53.577000;0:15:55.730000;843.mp3;843.webp;ロック 免罪符すぎる!;¡Todo no es rock!;"You can't justify everything with ""rock""!";False;False;;Hitori;Hitori
+846;846;0:15:55.730000;0:16:00.170000;846.mp3;846.webp;それに うちのバンド見に来るの 多分 あたしの友達だけだし;Además, seguro que solo vienen nuestros amigos.;Besides, it'll probably just be my friends who come to watch us play!;False;False;;Nijika;Nijika
+850;850;0:16:00.960000;0:16:03.630000;850.mp3;850.webp;私 友達 虹夏だけだから;Nijika es mi única amiga, así que...;And Nijika is my only friend, so...;False;False;;Ryo;Ryo
+853;853;0:16:03.587000;0:16:07.720000;853.mp3;853.webp;普通の女子高生に 演奏の よしあしとか 分かんないって;Las adolescentes no saben nada de calidad musical.;Normal high school girls don't know good music from bad.;False;False;;Nijika;Nijika
+856;856;0:16:07.716000;0:16:10.030000;856.mp3;856.webp;炎上しそうな発言;Eso es lo que se dice en internet...;That kind of take could get you in trouble on the internet.;False;False;;Hitori;Hitori
+859;859;0:16:10.600000;0:16:12.730000;859.mp3;859.webp;ねっ? だから安心せい!;Vamos, tranquilízate.;Okay? So just chill!;False;False;;Nijika;Nijika
+862;862;0:16:13.138000;0:16:14.760000;862.mp3;862.webp;と... 言われても;No sé...;I d-dunno...;False;False;;Hitori;Hitori
+865;865;0:16:14.760000;0:16:16.550000;865.mp3;865.webp;私は よしあし分かるけど;Yo sí distingo la calidad.;I know good music from bad.;False;False;;Ryo;Ryo
+868;868;0:16:16.517000;0:16:19.520000;868.mp3;868.webp;リョウは普通じゃないから えっ... エヘヘヘヘ;Pero tú no eres normal.;Well, you're not normal.;False;False;;Nijika;Nijika
+871;871;0:16:19.603000;0:16:21.540000;871.mp3;871.webp;いや 喜ぶな 喜ぶな;Oye, eso no es un cumplido.;Hey, that wasn't a compliment.;False;False;;Nijika;Nijika
+874;874;0:16:21.563000;0:16:23.140000;874.mp3;874.webp;ごめんなさい;Lo siento.;Sorry.;False;False;;Hitori;Hitori
+877;877;0:16:23.500000;0:16:24.720000;877.mp3;877.webp;けど...;Pero...;But...;False;False;;Nijika;Nijika
+880;880;0:16:24.720000;0:16:26.568000;880.mp3;880.webp;無理強いするもんじゃない;No podemos obligarla.;We can't force her.;False;False;;Ryo;Ryo
+883;883;0:16:27.710000;0:16:29.060000;883.mp3;883.webp;だよね;Cierto.;You're right.;False;False;;Nijika;Nijika
+886;886;0:16:29.029000;0:16:30.700000;886.mp3;886.webp;無理なお願いして ごめん;Siento haberte obligado.;Sorry to push you so hard.;False;False;;Nijika;Nijika
+889;889;0:16:30.656000;0:16:32.170000;889.mp3;889.webp;あっ いや そこは! ん?;No, en realidad...;No, actually...;False;False;;Hitori;Hitori
+893;893;0:16:32.970000;0:16:37.050000;893.mp3;893.webp;あっ ほ... 本当に うれしかったんです　声かけられて;Me alegro de que hayas hablado conmigo.;I r-really was happy you reached out to me.;False;False;;Hitori;Hitori
+896;896;0:16:37.700000;0:16:40.600000;896.mp3;896.webp;バンドは ずっと 組みたいと思ってたから;Llevo mucho queriendo estar en una banda,;I've wanted to be in a band for so long...;False;False;;Hitori;Hitori
+899;899;0:16:40.374000;0:16:43.470000;899.mp3;899.webp;で... でも メンバー集まらなくて;pero no encontraba gente,;B-But I couldn't get the people together...;False;False;;Hitori;Hitori
+902;902;0:16:43.419000;0:16:46.520000;902.mp3;902.webp;だから ふだんは カバー曲 ネットに上げたり;así que me dedico a subir versiones a internet.;So I just upload covers to the internet instead.;False;False;;Hitori;Hitori
+905;905;0:16:46.520000;0:16:48.190000;905.mp3;905.webp;ふだんは何弾くの?;¿Qué tocas?;What do you usually play?;False;False;;Ryo;Ryo
+908;908;0:16:48.173000;0:16:51.230000;908.mp3;908.webp;あっ 結成したとき すぐ対応できるように;Canciones famosas recientes;M-Mostly songs by popular bands from the last few years,;False;False;;Hitori;Hitori
+911;911;0:16:51.218000;0:16:54.260000;911.mp3;911.webp;ここ数年の 売れ線バンドの曲は大体...;para tocarlas en cuanto formara una banda...;so I could play them right away once the band got together...;False;False;;Hitori;Hitori
+914;914;0:16:53.980000;0:16:54.990000;914.mp3;914.webp;えっ すご!;Increíble.;That's awesome!;False;False;;Nijika;Nijika
+917;917;0:16:55.013000;0:16:56.800000;917.mp3;917.webp;いや 全然;Para nada.;It's not.;False;False;;Hitori;Hitori
+920;920;0:16:56.724000;0:16:59.380000;920.mp3;920.webp;結局 こんな感じになって;Por eso soy así.;It's the reason I'm the way I am now.;False;False;;Hitori;Hitori
+923;923;0:16:59.380000;0:17:02.750000;923.mp3;923.webp;やっぱり 私には 誰かとバンド組むなんて...;Estar en una banda era un sueño imposible.;Being in a band with other people was a pipe dream after all.;False;False;;Hitori;Hitori
+926;926;0:17:03.130000;0:17:05.360000;926.mp3;926.webp;売れ線のカバーばっか...;¿Haces versiones famosas?;Covering all popular songs?;False;False;;Nijika;Nijika
+931;931;0:17:05.360000;0:17:08.460000;931.mp3;931.webp;なんか ギターヒーローさんみたいだね　って 知ってる?;¿No es lo que hace guitarhero? ¿Te suena?;She sounds like guitarhero-san! Have you heard of her?;False;False;;Nijika;Nijika
+934;934;0:17:09.090000;0:17:11.630000;934.mp3;934.webp;ギターヒーロー;Creo que tiene nuestra edad... -Guitarhero...;guitarhero...;False;False;;Nijika;Hitori
+937;937;0:17:11.530000;0:17:12.990000;937.mp3;937.webp;えっ! 私?;¿Yo?;M-Me?!;False;False;;Hitori;Hitori
+940;940;0:17:12.990000;0:17:15.560000;940.mp3;940.webp;知らないなら あとでURL送るよ;Si no la conoces, luego te la enseño.;I'll send you a link if you haven't!;False;False;;Nijika;Nijika
+943;943;0:17:15.560000;0:17:18.160000;943.mp3;943.webp;もう最高に うまいから 聴いてみて!;¡Es la mejor! Deberías escucharla.;She's super awesome! You should hear her!;False;False;;Nijika;Nijika
+946;946;0:17:18.160000;0:17:20.080000;946.mp3;946.webp;最高?;¿La mejor?;Awe... some?;False;False;;Hitori;Hitori
+954;954;0:17:20.080000;0:17:26.040000;954.mp3;954.webp;私も オススメに 何度も上がってくるから　見たことあるけど すごく うまかった　ねっ!;Me salió recomendada. La veo bastante. -Es excelente. -¿A que sí?;She comes up in my recommendations a lot, so I've seen her too. She really is excellent. Right?!;False;False;;Ryo;Ryo,Nijika
+957;957;0:17:26.003000;0:17:28.213000;957.mp3;957.webp;ネーミングセンスは ちょっと痛いけど...;Aunque su apodo da asquito...;Though her naming sense is a bit cringy...;False;False;;Nijika;Nijika
+960;960;0:17:28.480000;0:17:29.650000;960.mp3;960.webp;痛いの?;¿Ah, sí?;It is?!;False;False;;Hitori;Hitori
+963;963;0:17:29.650000;0:17:33.520000;963.mp3;963.webp;あたし フォローして 新着通知もオンにしてるんだー;Yo tengo las notificaciones activadas solo para ella.;I follow her with notifications on!;False;False;;Nijika;Nijika
+966;966;0:17:33.510000;0:17:35.780000;966.mp3;966.webp;いつか 一緒に演奏してみたいな;Ojalá toque con ella algún día.;I'd love to play with her some day!;False;False;;Nijika;Nijika
+969;969;0:17:35.763000;0:17:37.660000;969.mp3;969.webp;今 したんですけどね;Pues acabas de hacerlo...;You just did, actually...;False;False;;Hitori;Hitori
+972;972;0:17:37.681000;0:17:41.280000;972.mp3;972.webp;えーっとね 何が言いたいかっていうと;Lo que intento decir es que,;Look, what I'm getting at here;False;False;;Nijika;Nijika
+975;975;0:17:41.268000;0:17:44.770000;975.mp3;975.webp;うまくて話題の人もね 私たちが見てないところで;por muy buena que seas, mucha gente toca la guitarra.;is that even awesome, popular people are out there playing guitar,;False;False;;Nijika;Nijika
+978;978;0:17:44.730000;0:17:48.580000;978.mp3;978.webp;たっくさん たっくさん ギターを弾いてきたんだろうなって;Hay tanta gente que no podemos ver a todo el mundo.;lots and lots of them, in places we're not even watching.;False;False;;Nijika;Nijika
+984;984;0:17:49.400000;0:17:53.030000;984.mp3;984.webp;あとで見てみて 動画見てると伝わってくるから;Vela luego. Cuando la veas, me entenderás.;You should watch her later! I think you'll get what I mean if you watch the videos.;False;False;;Nijika;Nijika
+989;989;0:17:54.650000;0:18:00.120000;989.mp3;989.webp;現実世界の人たちは　誰も 私なんか 興味ないと思ってた;Siempre pensé que la gente no se preocupaba por mí...;I always figured real-life people didn't care about me at all...;False;False;;Hitori;Hitori
+992;992;0:18:02.470000;0:18:05.940000;992.mp3;992.webp;今日がダメだからって バンド 諦めるのは早いって;No abandones el sueño de formar una banda por lo de hoy.;You can't give up on playing in a band just because it didn't work out today!;False;False;;Nijika;Nijika
+995;995;0:18:05.940000;0:18:08.290000;995.mp3;995.webp;あたしたちが アレなだけかもだし;Puede que fuera culpa nuestra...;It's possible it's our problem, anyway...;False;False;;Nijika;Nijika
+997;997;0:18:08.290000;0:18:09.338000;997.mp3;997.webp;アレ? ううっ...;;Our problem?;;False;;;Ryo
+1000;1000;0:18:09.850000;0:18:11.090000;1000.mp3;1000.webp;ひとりちゃん?;¿Hitori?;Hitori-chan?;False;False;;Nijika;Nijika
+1003;1003;0:18:11.090000;0:18:14.780000;1003.mp3;1003.webp;けど こんな優しい人が ずっと見ていてくれて;Una persona como ella me vio;But someone this nice has been watching me all this time,;False;False;;Hitori;Hitori
+1006;1006;0:18:14.780000;0:18:17.170000;1006.mp3;1006.webp;私なんかに声をかけてくれた;y habló conmigo...;and actually spoke to me...;False;False;;Hitori;Hitori
+1009;1009;0:18:17.130000;0:18:18.240000;1009.mp3;1009.webp;あっ あっ 立った;Se paró.;She stood up.;False;False;;Ryo;Ryo
+1012;1012;0:18:18.740000;0:18:22.160000;1012.mp3;1012.webp;こんな奇跡 多分 一生 起こらない;Es un milagro que no ocurre mucho.;It's the kind of miracle most people never experience!;False;False;;Hitori;Hitori
+1015;1015;0:18:22.870000;0:18:24.978000;1015.mp3;1015.webp;絶対 ムダにしちゃダメだ!;¡No puedo perder la ocasión!;I can't let it go to waste!;False;False;;Hitori;Hitori
+1018;1018;0:18:25.562000;0:18:27.500000;1018.mp3;1018.webp;わ... 私 その...;Yo...;I... I'm...;False;False;;Hitori;Hitori
+1021;1021;0:18:27.960000;0:18:31.026000;1021.mp3;1021.webp;もしかして 出てくれる気になったとか?;¿Quieres actuar?;D-Do you want to perform after all?;False;False;;Nijika;Nijika
+1025;1025;0:18:33.028000;0:18:34.420000;1025.mp3;1025.webp;ひ... ひとりちゃん?;¿Hitori?;Hitori-chan?;False;False;;Nijika;Nijika
+1030;1030;0:18:34.420000;0:18:37.820000;1030.mp3;1030.webp;頭では分かってる でも やっぱり怖い;Sé que en el fondo... Tengo miedo.;I know all that, rationally... But I'm still too scared...;False;False;;Hitori;Hitori
+1033;1033;0:18:37.783000;0:18:40.390000;1033.mp3;1033.webp;お客さんの目線も 耐えられるわけが...;No puedo actuar con público...;There's no way I can play in front of an audience...;False;False;;Hitori;Hitori
+1036;1036;0:18:40.410000;0:18:43.330000;1036.mp3;1036.webp;怖いなら これに入って演奏したら?;Si tienes miedo, toca aquí adentro.;If you're scared, you could play from in here.;False;False;;Ryo;Ryo
+1040;1040;0:18:44.310000;0:18:48.560000;1040.mp3;1040.webp;いっ い... いつも弾いてる環境と同じですー;Se parece a donde toco siempre.;I-It's the same environment that I play in all the time!;False;False;;Hitori;Hitori
+1043;1043;0:18:49.086000;0:18:51.190000;1043.mp3;1043.webp;どんな所に住んでるの?;¿Dónde vives?;Where exactly do you live?;False;False;;Nijika;Nijika
+1046;1046;0:18:51.630000;0:18:54.640000;1046.mp3;1046.webp;皆さん 下北 盛り上げていきましょう!;¿Cómo están, gente?;How you feelin' tonight, Shimo-Kita?!;False;False;;Hitori;Hitori
+1049;1049;0:18:54.424000;0:18:56.150000;1049.mp3;1049.webp;少し気が大きくなった;Ahora es otra.;She's suddenly more outgoing.;False;False;;Ryo;Ryo
+1052;1052;0:18:56.176000;0:18:59.480000;1052.mp3;1052.webp;そういえば ライブで なんて紹介すればいい?;Por cierto, ¿cómo te presentamos?;By the way, how do you want us to introduce you?;False;False;;Nijika;Nijika
+1055;1055;0:18:59.480000;0:19:02.170000;1055.mp3;1055.webp;ひとりちゃん? 本名でいいかな?;¿Hitori? ¿Usamos tu nombre?;"""Hitori-chan""? Should we use your real name?";False;False;;Nijika;Nijika
+1058;1058;0:19:02.170000;0:19:03.900000;1058.mp3;1058.webp;い... いや それは...;Mejor no...;I'd... I'd rather not...;False;False;;Hitori;Hitori
+1061;1061;0:19:03.900000;0:19:05.770000;1061.mp3;1061.webp;じゃあ あだ名とかはないの?;¿Te ponemos algún apodo?;Any nicknames, then?;False;False;;Nijika;Nijika
+1064;1064;0:19:05.770000;0:19:09.106000;1064.mp3;1064.webp;"ちゅ... 中学では ""あのー""とか""おい""とか";"En la secundaria me llamaban ""oye"" y ""tú""...";"In middle school, they called me ""Hey"" and ""You there""...";False;False;;Hitori;Hitori
+1067;1067;0:19:09.020000;0:19:10.840000;1067.mp3;1067.webp;それ あだ名じゃなくない?;Esos no son apodos.;I don't think those are nicknames!;False;False;;Nijika;Nijika
+1071;1071;0:19:10.816000;0:19:14.790000;1071.mp3;1071.webp;あああ... あだ名で呼び合うほど　親しい交友関係は 持ったことが...;Nunca he conocido a nadie tanto como para que me ponga apodos.;I never knew anyone well enough to get nicknames from them!;False;False;;Hitori;Hitori
+1076;1076;0:19:14.820000;0:19:17.940000;1076.mp3;1076.webp;ひとり... ひとりぼっち...;Hitori... Hitoribocchi, solitaria...;Hitori... Hitoribocchi ...;False;False;;Ryo;Ryo
+1079;1079;0:19:17.940000;0:19:19.120000;1079.mp3;1079.webp;ぼっちちゃんは?;¿Qué tal Bocchi?;How about Bocchi-chan?;False;False;;Ryo;Ryo
+1082;1082;0:19:19.120000;0:19:21.180000;1082.mp3;1082.webp;うっ またデリケートなところを;Tú y tu falta de tacto otra vez.;Another tactless comment!;False;False;;Nijika;Nijika
+1087;1087;0:19:21.180000;0:19:24.140000;1087.mp3;1087.webp;ぼぼぼ... ぼっちです!　喜んでるし;¡Bocchi! -¿Le gusta?;I'm B-B-Bocchi! She likes it?;False;False;;Hitori;Nijika,Hitori
+1090;1090;0:19:24.162000;0:19:26.180000;1090.mp3;1090.webp;あだ名とか初めてで;Es mi primer apodo...;It's just my first ever nickname...;False;False;;Hitori;Hitori
+1093;1093;0:19:26.164000;0:19:28.360000;1093.mp3;1093.webp;ううー なんか 涙出てきた;Va a llorar...;This is making me teary-eyed.;False;False;;Nijika;Nijika
+1096;1096;0:19:28.292000;0:19:31.030000;1096.mp3;1096.webp;あっ まだ バンド名 聞いてなかったです;Por cierto, no sé cómo se llama la banda.;Oh, you haven't told me your band name yet.;False;False;;Hitori;Hitori
+1101;1101;0:19:33.110000;0:19:34.715000;1101.mp3;1101.webp;結束バンドだよ;Somos Kessoku Band.;It's Kessoku Band.;False;False;;Ryo;Ryo
+1105;1105;0:19:37.030000;0:19:39.020000;1105.mp3;1105.webp;結束バンド...;Kessoku Band...;Kessoku Band...;False;False;;Hitori;Hitori
+1108;1108;0:19:39.020000;0:19:40.820000;1108.mp3;1108.webp;結束バンド?;"¿Eso no significa ""cinta""?";"Isn't that the word for ""zip tie""?";False;False;;Hitori;Hitori
+1111;1111;0:19:40.846000;0:19:42.639000;1111.mp3;1111.webp;プッ 傑作;Es genial.;It's brilliant.;False;False;;Ryo;Ryo
+1114;1114;0:19:42.570000;0:19:44.820000;1114.mp3;1114.webp;寒いし 絶対 変えるからー!;¡No tiene gracia! Vamos a cambiarlo.;It's the worst pun! We're totally changing it!;False;False;;Nijika;Nijika
+1117;1117;0:19:44.820000;0:19:46.600000;1117.mp3;1117.webp;なんで? かわいいよね;¿Por qué? Es lindo.;Why? It's cute.;False;False;;Ryo;Ryo
+1120;1120;0:19:46.560000;0:19:48.854000;1120.mp3;1120.webp;あっ はい うああー!;Sí.;Y-Yes.;False;False;;Hitori;Hitori
+1123;1123;0:19:48.910000;0:19:52.050000;1123.mp3;1123.webp;バンド名は後回しで そろそろ出番だよ!;Vamos, ya es hora de tocar.;Band name aside, it's time to play!;False;False;;Nijika;Nijika
+1127;1127;0:19:53.190000;0:19:54.420000;1127.mp3;1127.webp;大丈夫 あっ;Tranquila.;Don't worry.;False;False;;Nijika;Nijika
+1130;1130;0:19:54.840000;0:19:58.550000;1130.mp3;1130.webp;下手でも 楽しく弾くことだけは 心掛けよう;Aunque no seas tan buena, la clave está en divertirte.;The key is to have fun, even if you suck!;False;False;;Nijika;Nijika
+1133;1133;0:19:58.550000;0:20:01.260000;1133.mp3;1133.webp;音って ものすごく 感情が表れやすいから;Cuando tocas dejas ver lo que sientes.;Your feelings really come out in your playing, see?;False;False;;Nijika;Nijika
+1136;1136;0:20:01.980000;0:20:03.680000;1136.mp3;1136.webp;は... はい;Bien...;R-Right...;False;False;;Hitori;Hitori
+1139;1139;0:20:03.702000;0:20:07.040000;1139.mp3;1139.webp;技術を求めていくのは 次からで 全然いいよ;Ya trabajaremos la técnica para la próxima vez.;We can always work on the skill part next time.;False;False;;Nijika;Nijika
+1142;1142;0:20:06.970000;0:20:08.220000;1142.mp3;1142.webp;うん;Sí.;Yeah.;False;False;;Ryo;Ryo
+1145;1145;0:20:08.130000;0:20:09.540000;1145.mp3;1145.webp;"""次""って...";La próxima...;Next... time...;False;False;;Hitori;Hitori
+1149;1149;0:20:09.540000;0:20:11.460000;1149.mp3;1149.webp;よし 行こう! うん;Bien, vamos. -Sí.;Okay, let's go! Right.;False;False;;Nijika;Nijika,Ryo
+1153;1153;0:20:12.720000;0:20:15.797000;1153.mp3;1153.webp;私...　次も いていいんだ;Quieren una próxima vez.;They're okay with there being a next time!;False;False;;Hitori;Hitori
+1156;1156;0:20:19.051000;0:20:22.240000;1156.mp3;1156.webp;はじめまして! 結束バンドでーす!;Encantadas. ¡Somos Kessoku Band!;Nice to meet you! We're Kessoku Band!;False;False;;Nijika;Nijika
+1161;1161;0:20:22.240000;0:20:26.320000;1161.mp3;1161.webp;今日は みんなも多分 知ってる曲を何曲か やるので　聴いてください!;¡Seguro que conocen nuestras canciones, así que disfruten!;We'll play a bunch of songs you probably know, so please enjoy!;False;False;;Nijika;Nijika
+1164;1164;0:20:26.350000;0:20:27.700000;1164.mp3;1164.webp;)んだ? あれ;¿Quién es esa?;Who's that?;False;False;;Seika;Seika
+1167;1167;0:20:37.800000;0:20:41.560000;1167.mp3;1167.webp;いつもの実力 出せなくて 最悪だけど;Odio no poder tocar como de costumbre, pero...;I hate that I can't play as well as I usually do, but...;False;False;;Hitori;Hitori
+1171;1171;0:20:41.560000;0:20:46.390000;1171.mp3;1171.webp;バンド組んで 誰かと演奏するのって　こんな楽しいんだ!;¡Me está encantando tocar con más gente!;playing in a band with other people is so much fun!;False;False;;Hitori;Hitori
+1174;1174;0:20:48.600000;0:20:52.100000;1174.mp3;1174.webp;私 今日 最高に輝いて...;Hasta ahora nunca he brillado...;I've never really shone before today...;False;False;;Hitori;Hitori
+1177;1177;0:20:52.560000;0:20:53.730000;1177.mp3;1177.webp;ない!;Y aún no brillo.;And I still don't!;False;False;;Hitori;Hitori
+1180;1180;0:20:53.730000;0:20:57.030000;1180.mp3;1180.webp;むしろ人生で 一番みじめかも!;¡Es lo más bajo que he caído hasta ahora!;This might actually be a low point for me!;False;False;;Hitori;Hitori
+1183;1183;0:21:00.842000;0:21:02.880000;1183.mp3;1183.webp;ミスりまくったー;Metí la pata.;Boy, I screwed up!;False;False;;Nijika;Nijika
+1188;1188;0:21:02.844000;0:21:05.820000;1188.mp3;1188.webp;MC スベってたね エヘッ　あっ あの! ん?;Sí, en tu entrada. -Este...;Your intro bombed, too. E-Excuse me!;False;False;;Ryo;Ryo,Hitori
+1192;1192;0:21:07.200000;0:21:08.475000;1192.mp3;1192.webp;何?;¿Qué?;What?;False;False;;Nijika;Nijika
+1197;1197;0:21:08.390000;0:21:11.770000;1197.mp3;1197.webp;つつ つつつ... 何? 怖いんだけど!;A... ¡Me das miedo!;B-B-B-B-B... Okay, you're freaking me out!;False;False;;,Nijika;,Nijika
+1201;1201;0:21:12.250000;0:21:17.010000;1201.mp3;1201.webp;次のライブまでには クラスメイトに　挨拶できるくらいには なっておきます!;¡Antes de la próxima, seré valiente y saludaré a mis compañeros de clase!;B-Before our next performance, I'm gonna get brave enough to say hello to my classmates!;False;False;;Hitori;Hitori
+1204;1204;0:21:16.960000;0:21:18.170000;1204.mp3;1204.webp;なんの宣言?;Cuánto dramatismo.;What a dramatic declaration.;False;False;;Nijika;Nijika
+1207;1207;0:21:18.193000;0:21:20.250000;1207.mp3;1207.webp;目覚ましい成長;Cuánto has crecido...;Such growth...;False;False;;Ryo;Ryo
+1211;1211;0:21:20.195000;0:21:22.320000;1211.mp3;1211.webp;でも そっか... うん!;Pero te entiendo.;Okay, I get it. Sure!;False;False;;Nijika;Nijika
+1215;1215;0:21:22.280000;0:21:26.550000;1215.mp3;1215.webp;よーし じゃあ今から　ぼっちちゃん歓迎会 兼 ライブの反省会だー;¡Celebraremos tu fiesta de bienvenida y funeral posconcierto!;Then let's have a Bocchi-chan-welcome-party- slash-concert-post-mortem!;False;False;;Nijika;Nijika
+1218;1218;0:21:26.576000;0:21:30.260000;1218.mp3;1218.webp;あっ 今日は人と話し過ぎて 疲れたので帰りまーす;Ya hablé demasiado hoy, así que me voy.;Actually, I'm pretty exhausted from all this social interaction, so I'm gonna go.;False;False;;Hitori;Hitori
+1221;1221;0:21:30.288000;0:21:31.850000;1221.mp3;1221.webp;え? ごめん 眠い;Perdón. Tengo sueño.;Sorry. I'm sleepy.;False;False;;Ryo;Ryo
+1225;1225;0:21:32.280000;0:21:33.760000;1225.mp3;1225.webp;しし... 失礼します!;Con permiso.;P-Pardon me!;False;False;;Hitori;Hitori
+1229;1229;0:21:38.900000;0:21:41.383000;1229.mp3;1229.webp;結束力 全然ないっ!;¡En esta banda no hay nada que nos una!;"There's no ""ties"" in this band at all!";False;False;;Nijika;Nijika
+1232;1232;0:21:49.370000;0:21:51.300000;1232.mp3;1232.webp;絶対 コミュ症 治して;Superaré mi ansiedad;I'm gonna get over my social anxiety;False;False;;Hitori;Hitori
+1235;1235;0:21:51.300000;0:21:54.896000;1235.mp3;1235.webp;ギターヒーローの私としての 力を発揮するんだ;y sacaré toda mi fuerza de guitarhero.;and bring out my full guitarhero powers!;False;False;;Hitori;Hitori
+1242;1242;0:21:56.670000;0:22:01.210000;1242.mp3;1242.webp;虹夏ちゃん リョウさん 結束バンドのために!;Lo haré por Nijika, Ryo y Kessoku Band.;For Nijika-chan, Ryo-san, and Kessoku Band!;False;False;;Hitori;Hitori
+1245;1245;0:22:02.860000;0:22:04.960000;1245.mp3;1245.webp;すす... すいません! すいません!;¡Perdón! ¡Perdón!;S-Sorry! Sorry!;False;False;;Hitori;Hitori

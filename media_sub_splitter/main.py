@@ -377,9 +377,14 @@ def main():
 
 
 def split_video_by_subtitles(
-    translator, video_file, subtitles, episode_folder_output_path, args
+    translator,
+    video_file,
+    subtitles,
+    episode_folder_output_path,
+    args,
+    output_csv_name="data.csv",
 ):
-    video = mp.VideoFileClip(video_file)
+    video = mp.VideoFileClip(video_file) if video_file else None
 
     # # TODO: Sync subtitles calling ffsubsync
     # Use first found internal sub as reference for timing since it should be 100% perfect
@@ -408,8 +413,8 @@ def split_video_by_subtitles(
     sorted_lines = [dict(t) for t in {tuple(d.items()) for d in sorted_lines}]
     sorted_lines.sort(key=lambda x: x["start"])
 
-    csv_filepath = os.path.join(episode_folder_output_path, "data.csv")
-    with open(csv_filepath, "w", newline="", encoding="utf-8") as csvfile:
+    csv_filepath = os.path.join(episode_folder_output_path, output_csv_name)
+    with open(csv_filepath, "w+", newline="", encoding="utf-8") as csvfile:
         writer = csv.DictWriter(
             csvfile, fieldnames=EpisodeCsvRow._fields, delimiter=";"
         )
@@ -529,7 +534,7 @@ def generate_segment(
     screenshot_filename = f"{i + 1:03d}.webp"
 
     # Audio
-    if not args.dryrun:
+    if video and not args.dryrun:
         try:
             subclip = video.subclip(start_time_seconds, end_time_seconds)
             audio = subclip.audio
