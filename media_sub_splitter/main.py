@@ -1,28 +1,26 @@
-import pathlib
-import shutil
-import inquirer
-
-import babelfish
-import re
 import argparse
-import os
 import csv
+import json
+import logging
+import os
+import pathlib
+import re
+import shutil
 import string
 import subprocess
-
-import moviepy.editor as mp
-import jaconvV2
-import logging
-import deepl
-import requests
-import json
-import pysubs2
-import ffmpeg
 from collections import namedtuple
-from pathlib import Path
-from anilist import Client
-
 from datetime import timedelta
+from pathlib import Path
+
+import babelfish
+import deepl
+import ffmpeg
+import inquirer
+import jaconvV2
+import moviepy.editor as mp
+import pysubs2
+import requests
+from anilist import Client
 from dotenv import load_dotenv
 from guessit import guessit
 
@@ -601,7 +599,7 @@ def join_sentences_to_segment(sentences, ln):
     invalid_quotes = r"``|''"
     joined_sentence = re.sub(invalid_quotes, '"', joined_sentence)
 
-    actor_sentence = ",".join(set(map(lambda x: x["actor"], sentences)))
+    actor_sentence = ",".join(sorted(set(map(lambda x: x["actor"], sentences))))
 
     return (
         re.sub(rf"{'|'.join(remove_redundant_symbols)}", "", joined_sentence),
@@ -610,7 +608,7 @@ def join_sentences_to_segment(sentences, ln):
 
 
 def process_subtitle_line(line):
-    if line.type != "Dialogue" or (line.name and "sign" in line.name):
+    if line.type != "Dialogue" or (line.name and "sign" in line.name.lower()):
         return ""
 
     # *Top is usually used for background conversations with an ongoing

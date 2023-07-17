@@ -1,0 +1,54 @@
+import os
+
+import pysubs2
+from guessit import guessit
+
+from media_sub_splitter.main import MatchingSubtitle
+
+
+def read_input_subtitles(anime_folder_path):
+    subtitles_filepaths = sorted(
+        [
+            os.path.join(anime_folder_path, filename)
+            for filename in os.listdir(anime_folder_path)
+            if filename.endswith(".ass") or filename.endswith(".srt")
+        ]
+    )
+
+    current_season = 0
+    current_episode = 0
+    matching_subtitles = {}
+    for subtitle_path in subtitles_filepaths:
+        subtitle_info = guessit(subtitle_path)
+        season_number = subtitle_info["season"]
+        episode_number = subtitle_info["episode"]
+        subtitle_language = subtitle_info["subtitle_language"].alpha2
+
+        if season_number == current_season and episode_number == current_episode:
+            matching_subtitles[subtitle_language] = MatchingSubtitle(
+                origin="external",
+                filepath=subtitle_path,
+                data=pysubs2.load(subtitle_path),
+            )
+            continue
+
+        if matching_subtitles:
+            yield matching_subtitles
+
+        matching_subtitles = {
+            subtitle_language: MatchingSubtitle(
+                origin="external",
+                filepath=subtitle_path,
+                data=pysubs2.load(subtitle_path),
+            )
+        }
+        current_season = season_number
+        current_episode = episode_number
+
+    if matching_subtitles:
+        yield matching_subtitles
+
+
+def read_subtitles_from_folders(anime_folder_paths):
+    for path in anime_folder_paths:
+        return read_input_subtitles(path)
