@@ -21,6 +21,7 @@ import moviepy.editor as mp
 import pysubs2
 import requests
 from anilist import Client
+from langdetect import detect
 from dotenv import load_dotenv
 from guessit import guessit
 
@@ -82,7 +83,8 @@ def main():
     )
 
     anilist = CachedAnilist()
-
+    first_time_check = False
+    subtitles_dict_remembered = {}
     for episode_filepath in episode_filepaths:
         try:
             logging.info(
@@ -194,8 +196,24 @@ def main():
                             "subtitle_language"
                         ].alpha2
                     else:
-                        # TODO: Try to infer language from subtitle content
-                        pass
+                        try:
+                            subtitle_data = pysubs2.load(subtitle_filepath)
+
+                            # Concatenate all the subtitle lines into a single string for better accuracy
+                            subtitle_text = " ".join(
+                                [event.text for event in subtitle_data]
+                            )
+
+                            # Use langdetect to guess the language
+                            subtitle_language = detect(subtitle_text)
+                            logging.info(
+                                f"> External subtitle detected language: {subtitle_language}"
+                            )
+                        except Exception as e:
+                            logging.error(
+                                f"Failed to detect language for subtitle: {e}"
+                            )
+                            continue
 
                     if not subtitle_language:
                         logging.error(
@@ -237,6 +255,7 @@ def main():
             os.makedirs(tmp_output_folder, exist_ok=True)
             file_probe = ffmpeg.probe(episode_filepath)
 
+            # Generate the list of available subs
             subtitles_dict = {}
             for stream in file_probe["streams"]:
                 if stream["codec_type"] == "subtitle":
@@ -259,10 +278,37 @@ def main():
                 ),
             ]
 
-            selected_subtitles = inquirer.prompt(subtitle_questions)
-            selected_indices = [
-                subtitle["value"] for subtitle in selected_subtitles["subtitle_streams"]
-            ]
+            # Check if want to remember this selection for future episodes
+            # TODO: If there is any variation in index+language, ask again
+            if first_time_check == False:
+                selected_subtitles = inquirer.prompt(subtitle_questions)
+                selected_indices = [
+                    subtitle["value"]
+                    for subtitle in selected_subtitles["subtitle_streams"]
+                ]
+                subtitle_remember_question = [
+                    inquirer.Confirm(
+                        "subtitle_remember",
+                        message="Do you want to remember this selection for future episodes?",
+                        default=False,
+                    )
+                ]
+                selected_remember_subtitles = inquirer.prompt(
+                    subtitle_remember_question
+                )
+
+                if selected_remember_subtitles["subtitle_remember"]:
+                    first_time_check = True
+                    subtitles_dict_remembered = selected_indices
+            else:
+                if subtitles_dict_remembered != {}:
+                    selected_indices = subtitles_dict_remembered
+                else:
+                    selected_subtitles = inquirer.prompt(subtitle_questions)
+                    selected_indices = [
+                        subtitle["value"]
+                        for subtitle in selected_subtitles["subtitle_streams"]
+                    ]
 
             subtitle_streams = [
                 stream
