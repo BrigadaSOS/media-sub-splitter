@@ -279,13 +279,50 @@ def main():
             ]
 
             # Check if want to remember this selection for future episodes
-            # TODO: If there is any variation in index+language, ask again
-            if first_time_check == False:
+            current_subtitles_dict = {
+                index: subtitles_dict[index]
+                for index in subtitles_dict
+                if index in subtitles_dict_remembered
+            }
+
+            # If there was a previous selection
+            if subtitles_dict_remembered:
+                # If the current subtitles dictionary is different from the remembered one
+                if current_subtitles_dict != subtitles_dict_remembered:
+                    logging.info(
+                        "Previous subtitles used are different from current episode. Asking for selection again..."
+                    )
+                    selected_subtitles = inquirer.prompt(subtitle_questions)
+                    selected_indices = [
+                        subtitle["value"]
+                        for subtitle in selected_subtitles["subtitle_streams"]
+                    ]
+
+                    subtitle_remember_question = [
+                        inquirer.Confirm(
+                            "subtitle_remember",
+                            message="Do you want to remember this selection for future episodes?",
+                            default=False,
+                        )
+                    ]
+                    selected_remember_subtitles = inquirer.prompt(
+                        subtitle_remember_question
+                    )
+                    if selected_remember_subtitles["subtitle_remember"]:
+                        subtitles_dict_remembered = {
+                            index: subtitles_dict[index] for index in selected_indices
+                        }
+                else:
+                    # Previous selection if the current and remembered dictionaries are the same
+                    selected_indices = [index for index in subtitles_dict_remembered]
+            else:
+                # If it's the first time or if the remembered selection was cleared, ask for the selection
                 selected_subtitles = inquirer.prompt(subtitle_questions)
                 selected_indices = [
                     subtitle["value"]
                     for subtitle in selected_subtitles["subtitle_streams"]
                 ]
+
                 subtitle_remember_question = [
                     inquirer.Confirm(
                         "subtitle_remember",
@@ -296,19 +333,10 @@ def main():
                 selected_remember_subtitles = inquirer.prompt(
                     subtitle_remember_question
                 )
-
                 if selected_remember_subtitles["subtitle_remember"]:
-                    first_time_check = True
-                    subtitles_dict_remembered = selected_indices
-            else:
-                if subtitles_dict_remembered != {}:
-                    selected_indices = subtitles_dict_remembered
-                else:
-                    selected_subtitles = inquirer.prompt(subtitle_questions)
-                    selected_indices = [
-                        subtitle["value"]
-                        for subtitle in selected_subtitles["subtitle_streams"]
-                    ]
+                    subtitles_dict_remembered = {
+                        index: subtitles_dict[index] for index in selected_indices
+                    }
 
             subtitle_streams = [
                 stream
