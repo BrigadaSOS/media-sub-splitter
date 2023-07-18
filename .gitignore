@@ -5,6 +5,7 @@ __pycache__/
 
 media/
 backup/
+*.input.csv
 
 # C extensions
 *.so
