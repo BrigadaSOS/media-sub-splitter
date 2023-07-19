@@ -14,7 +14,6 @@ anime_folder_paths = [("tests/input/bocchi-the-rock")]
     "matching_subtitles", read_subtitles_from_folders(anime_folder_paths)
 )
 def test_subtitles_snapshots(snapshot, matching_subtitles):
-    print(matching_subtitles)
     sample_subtitles_filepath = getattr(matching_subtitles["ja"], "filepath")
 
     snapshot.snapshot_dir = "tests/snapshots"
