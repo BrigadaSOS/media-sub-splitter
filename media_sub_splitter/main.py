@@ -164,7 +164,7 @@ def extract_segments_from_episode(
                     "folder_media_anime": anime_folder_name,
                     "japanese_name": anime_info.title.native,
                     "english_name": anime_info.title.english,
-                    "romaji_name": anime_info.tile.romaji,
+                    "romaji_name": anime_info.title.romaji,
                     "airing_format": anime_info.format,
                     "airing_status": anime_info.status,
                     "genres": anime_info.genres,
