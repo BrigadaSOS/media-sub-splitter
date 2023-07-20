@@ -1,10 +1,10 @@
 ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREENSHOT;CONTENT;CONTENT_TRANSLATION_SPANISH;CONTENT_TRANSLATION_ENGLISH;CONTENT_SPANISH_MT;CONTENT_ENGLISH_MT;ACTOR_JA;ACTOR_ES;ACTOR_EN
-4;4,5;3;2;0:00:05.309000;0:00:07.750000;4.mp3;4.webp;)えー 諸君　)ん?;Chicas. -Y la crema llegó al techo...;Excuse me, girls.;False;False;;seika/kita;Seika
+4;4,5;3;2;0:00:05.309000;0:00:07.750000;4.mp3;4.webp;えー 諸君　ん?;Chicas. -Y la crema llegó al techo...;Excuse me, girls.;False;False;;seika/kita;Seika
 7;7;8;6;0:00:08.250000;0:00:10.127000;7.mp3;7.webp;お待ちかねの給料だぞ;Aquí tienen sus sueldos.;It's your long-awaited payday.;False;False;;seika;Seika
 11;11;12;10;0:00:11.530000;0:00:13.450000;11.mp3;11.webp;やったー;¡Viva!;Yay!;False;False;;nijika/ryo/kita;Nijika/Ryo/Kita
 14;14;13;15;0:00:13.030000;0:00:14.048000;14.mp3;14.webp;や... やった;Viva.;Y-Yay.;False;False;;hitori;Hitori
 17;17,20;18;16,19;0:00:14.030000;0:00:16.480000;17.mp3;17.webp;ありがとう! んっ　ありがとうございます んっ;Gracias. -Muchas gracias.;Thanks! Thank you very much.;False;False;;nijika/ryo;Nijika,Ryo
-22;22;23;21,24;0:00:16.480000;0:00:18.594000;22.mp3;22.webp;)ありがとうございます はい;Muchas gracias. -Toma.;Thank you! Sure.;False;False;;kita/seika;Kita,Seika
+22;22;23;21,24;0:00:16.480000;0:00:18.594000;22.mp3;22.webp;ありがとうございます はい;Muchas gracias. -Toma.;Thank you! Sure.;False;False;;kita/seika;Kita,Seika
 26;26;27;25;0:00:19.160000;0:00:20.830000;26.mp3;26.webp;はい ぼっちちゃんの分;Toma el tuyo, Bocchi.;And for you, Bocchi-chan.;False;False;;seika;Seika
 29;29;30;28;0:00:20.830000;0:00:22.598000;29.mp3;29.webp;あっ ありがとうございます;Muchas gracias.;Th-Thank you!;False;False;;hitori;Hitori
 33;33;32;31;0:00:25.640000;0:00:27.686000;33.mp3;33.webp;い... 1万円;Diez mil yenes...;T-Ten thousand yen!;False;False;;hitori;Hitori

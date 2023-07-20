@@ -191,7 +191,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 866;866;867;865;0:12:38.490000;0:12:39.780000;866.mp3;866.webp;着いちゃった;Ya llegué.;I'm here.;False;False;;Hitori;Hitori
 868;868;870;869,871;0:12:41.803000;0:12:44.280000;868.mp3;868.webp;ぼっち頑張れ ぼっち頑張れ;Ánimo, Bocchi. Ánimo, Bocchi.;Do it, Bocchi! Do it, Bocchi!;False;False;;Hitori;Hitori
 873;873;874;872,875;0:12:44.280000;0:12:46.500000;873.mp3;873.webp;ぼっち頑張れ ぼっち頑張れ;Ánimo, Bocchi. ¡Ánimo, Bocchi!;Do it, Bocchi! Do it, Bocchi!;False;False;;Hitori;Hitori
-877;877;878;876;0:12:46.500000;0:12:48.740000;877.mp3;877.webp;) チケットの販売は5時からですよ;Vendemos entradas a partir de las cinco.;Tickets don't go on sale until five o'clock.;False;False;;Seika;Seika
+877;877;878;876;0:12:46.500000;0:12:48.740000;877.mp3;877.webp;チケットの販売は5時からですよ;Vendemos entradas a partir de las cinco.;Tickets don't go on sale until five o'clock.;False;False;;Seika;Seika
 881;881;882;880;0:12:50.390000;0:12:51.910000;881.mp3;881.webp;まだ準備中なんで;Aún nos estamos preparando.;We're still getting ready here.;False;False;;Seika;Seika
 884;884;885,887;883,886;0:12:51.910000;0:12:54.940000;884.mp3;884.webp;スタッフさん? あっ 怪しまれてる;¿Trabaja aquí? Debe creer que...;She works here?! She thinks I'm up to no good...;False;False;;Hitori;Hitori
 889;889;890;888;0:12:54.940000;0:12:56.650000;889.mp3;889.webp;誤解を解かないと!;Tengo que arreglar esto.;I've got to clear this up!;False;False;;Hitori;Hitori
@@ -354,4 +354,4 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 1525;1525;1527;1526;0:21:53.229000;0:21:54.870000;1525.mp3;1525.webp;あとは...;solo queda...;All that's left...;False;False;;Nijika;Nijika
 1528;1528;1530;1529;0:21:54.856000;0:21:57.430000;1528.mp3;1528.webp;新しいボーカルを見つけるだけだ!;encontrar una vocalista nueva.;is to find a new vocalist!;False;False;;Nijika;Nijika
 1533;1533;1534;1532;0:21:59.290000;0:22:00.560000;1533.mp3;1533.webp;これ 誰ー?;¿Para quién es esto?;Who's this one for?;False;False;;Girl Student A;Girl Student A
-1535;1535,1538;1537;1536;0:22:00.528000;0:22:04.949000;1535.mp3;1535.webp;)はいはーい　私 私ー! フフッ;¡Yo! ¡Yo!;Me, me! It's me, it's me!;False;False;;Kita;Kita
+1535;1535,1538;1537;1536;0:22:00.528000;0:22:04.949000;1535.mp3;1535.webp;はいはーい　私 私ー! フフッ;¡Yo! ¡Yo!;Me, me! It's me, it's me!;False;False;;Kita;Kita

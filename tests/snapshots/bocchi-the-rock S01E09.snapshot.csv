@@ -14,7 +14,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 51;51;52;50;0:00:54.920000;0:00:57.640000;51.mp3;51.webp;いや ふだんから 予定は空いてるけど;Bueno, siempre tuve la agenda libre,;Of course, it's usually clear regardless, but...;False;False;;hitori;Hitori
 54;54,56;55;53;0:00:57.610000;0:01:02.940000;54.mp3;54.webp;で... でも 空いてるのと 空けてるのは　気持ちが全然違うわけで;pero no es lo mismo dejarla libre a propósito.;B-But keeping it clear has a totally different feel, right?;False;False;;hitori;Hitori
 59;59;57;58;0:01:02.870000;0:01:07.542000;59.mp3;59.webp;バイトで会っても みんな 全く遊びの話をしてこないし;Nos vemos en el trabajo, pero nadie dice nada sobre salir.;Still, even at work, nobody so much as suggests hanging out...;False;False;;hitori;Hitori
-61;61;62;60;0:01:07.500000;0:01:10.628000;61.mp3;61.webp;)ぼっちちゃん 明日のバイトも よろしくね;Nos vemos mañana en el trabajo, Bocchi.;Bocchi-chan! See you at work again tomorrow!;False;False;;nijika;Nijika
+61;61;62;60;0:01:07.500000;0:01:10.628000;61.mp3;61.webp;ぼっちちゃん 明日のバイトも よろしくね;Nos vemos mañana en el trabajo, Bocchi.;Bocchi-chan! See you at work again tomorrow!;False;False;;nijika;Nijika
 65;65;64;63;0:01:10.590000;0:01:14.920000;65.mp3;65.webp;バンド仲間だし みんなで遊ぶとかじゃないのかな?;Las integrantes de una banda suelen salir juntas, ¿no?;The members of a band usually hang out, don't they?;False;False;;hitori;Hitori
 67;67;68;66;0:01:14.920000;0:01:18.970000;67.mp3;67.webp;4人で集まれる日があるなら 練習したほうがいいもんね;Claro, si coincidimos las cuatro, es mejor ensayar.;But I guess when we're all available, we should be practicing...;False;False;;hitori;Hitori
 71;71;70;69;0:01:20.350000;0:01:23.683000;71.mp3;71.webp;で... でも 一度くらいは みんなで...;Pero aunque sea un día...;S-Still, just for once, I'd like to...;False;False;;hitori;Hitori
@@ -27,7 +27,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 111;111;112;110;0:01:56.080000;0:01:57.967000;111.mp3;111.webp;ひとりちゃーん ご飯よー;¡A comer, Hitori!;Hitori-chan! Time to eat!;False;False;;michiyo;Michiyo
 114;114;115;113;0:01:58.760000;0:02:02.013000;114.mp3;114.webp;まっ まあ まだ夏休みはあるんだし;Aún quedan días de vacaciones.;A-Anyway, there's a lot of summer break left!;False;False;;hitori;Hitori
 118;118;117;116;0:02:02.380000;0:02:05.840000;118.mp3;118.webp;きっと そのうち 誰かが誘ってくれるよね;De seguro alguien propondrá algo algún día.;I'm sure one of them will make the offer sooner or later.;False;False;;hitori;Hitori
-120;120;;119;0:02:05.760000;0:02:07.018000;120.mp3;120.webp;たち)イエーイ!;;Yay!;;False;;;Kita/Kita's Friend A
+120;120;;119;0:02:05.760000;0:02:07.018000;120.mp3;120.webp;イエーイ!;;Yay!;;False;;;Kita/Kita's Friend A
 125;125;;124;0:02:09;0:02:11.314000;125.mp3;125.webp;一般相対性理論は;;The general theory of relativity;;False;;;Man N
 130;130,132;;127;0:02:11.260000;0:02:15.820000;130.mp3;130.webp;強い重力が働くと　時間が遅れる とされています;;states that the passage of time slows in the presence of a powerful gravity well.;;False;;;Man N
 144;144;;142;0:02:25;0:02:28.498000;144.mp3;144.webp;極めて高密度で強い重力のため;;Their extreme density and high gravitational potential;;False;;;Man N
@@ -51,7 +51,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 242;242;243;241;0:04:49.130000;0:04:50.515000;242.mp3;242.webp;それはヤバいわ;Qué miedo.;That's not good!;False;False;;nijika;Nijika
 246;246;245;244;0:04:50.930000;0:04:52.260000;246.mp3;246.webp;いつもどおりのぼっち;Siempre hace eso.;Typical Bocchi.;False;False;;ryo;Ryo
 248;248;249;247;0:04:52.220000;0:04:53.480000;248.mp3;248.webp;違います!;¡Que no!;It is not!;False;False;;kita;Kita
-251;251;252;250;0:04:53.480000;0:04:54.769000;251.mp3;251.webp;)おーい ん?;Chicas.;Hey.;False;False;;seika;Seika
+251;251;252;250;0:04:53.480000;0:04:54.769000;251.mp3;251.webp;おーい ん?;Chicas.;Hey.;False;False;;seika;Seika
 253;253;255;254;0:04:54.852000;0:04:57.980000;253.mp3;253.webp;ちょっと ぼっちちゃんに あれ やめさせてくんない?;Hagan que Bocchi pare, por favor.;Could you get Bocchi-chan to knock it off?;False;False;;seika;Seika
 258;258;256;257;0:04:58.670000;0:04:59.941000;258.mp3;258.webp;"""あれ""?";¿Qué?;Eh?;False;False;;ryo;Ryo
 259;259,263;261,262;260;0:05:02.944000;0:05:08.950000;259.mp3;259.webp;朝から あの調子で ライブハウス前に　セミのお墓 作り続けてんだよね;Lleva toda la mañana así, haciendo tumbas de cigarras ahí delante.;She's been making cicada graves in front of the club all day.;False;False;;seika;Seika

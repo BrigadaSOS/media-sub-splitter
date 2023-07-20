@@ -87,7 +87,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 435;435;436;434,437;0:08:00.830000;0:08:03.210000;435.mp3;435.webp;ないないない 精神崩壊する!;¡No, no! ¡Ya estoy con mis crisis!;No, no, no! I'm having a mental breakdown!;False;False;;Hitori;Hitori
 439;439,444,447;440,446,449;438,443,445,448;0:08:03.210000;0:08:09.710000;439.mp3;439.webp;うわっ ちょっと 見て見て!　い... 今 笑われようものなら　精神崩壊どころか 消滅してしまうー!;¡Vaya, mira! -¿Qué? Si se ríen de mí, no tendré una crisis... ¡Querré morirme!;Wow, look at that! At what? I-If they're laughing at me now, it won't just be a mental breakdown, it'll be mental annihilation!;False;False;;Hitori,Kita's Friend A;Hitori,Kita's Friend A,Kita's Friend B
 450;450;452;451;0:08:09.739000;0:08:12.920000;450.mp3;450.webp;ヤバい! かわい過ぎて笑っちゃう;Es tan lindo que tienes que reírte.;Aw, it's so cute, I've gotta laugh!;False;False;;Kita's Friend A;Kita's Friend A
-453;453;456;454;0:08:12.617000;0:08:15.203000;453.mp3;453.webp;)ギター? 癒やされるー;¿Una guitarra? -Me alegraste el día.;Guitar?;False;False;;Kita;Kita
+453;453;456;454;0:08:12.617000;0:08:15.203000;453.mp3;453.webp;ギター? 癒やされるー;¿Una guitarra? -Me alegraste el día.;Guitar?;False;False;;Kita;Kita
 457;457;458;459;0:08:15.286000;0:08:16.913000;457.mp3;457.webp;ねー 喜多ちゃん;Oye, Kita.;Right, Kita-chan?;False;False;;Kita's Friend B;Kita's Friend B
 460;460;462;461;0:08:16.996000;0:08:18.260000;460.mp3;460.webp;喜多ちゃん?;¿Kita?;Kita-chan?;False;False;;Kita's Friend B;Kita's Friend B
 463;463;465;464;0:08:17.914000;0:08:21.100000;463.mp3;463.webp;あっ ごめんごめん なになに?;¡Lo siento! ¿Qué pasa?;Sorry, sorry! What was it?;False;False;;Kita;Kita
@@ -332,7 +332,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 1330;1330,1332;1331;1329;0:20:12.720000;0:20:15.797000;1330.mp3;1330.webp;私...　次も いていいんだ;Quieren una próxima vez.;They're okay with there being a next time!;False;False;;Hitori;Hitori
 1333;1333;1335;1334;0:20:19.051000;0:20:22.240000;1333.mp3;1333.webp;はじめまして! 結束バンドでーす!;Encantadas. ¡Somos Kessoku Band!;Nice to meet you! We're Kessoku Band!;False;False;;Nijika;Nijika
 1337;1337,1340;1338;1336,1339;0:20:22.240000;0:20:26.320000;1337.mp3;1337.webp;今日は みんなも多分 知ってる曲を何曲か やるので　聴いてください!;¡Seguro que conocen nuestras canciones, así que disfruten!;We'll play a bunch of songs you probably know, so please enjoy!;False;False;;Nijika;Nijika
-1341;1341;1342;1343;0:20:26.350000;0:20:27.700000;1341.mp3;1341.webp;)んだ? あれ;¿Quién es esa?;Who's that?;False;False;;Seika;Seika
+1341;1341;1342;1343;0:20:26.350000;0:20:27.700000;1341.mp3;1341.webp;んだ? あれ;¿Quién es esa?;Who's that?;False;False;;Seika;Seika
 1346;1346;1347;1345;0:20:37.800000;0:20:41.560000;1346.mp3;1346.webp;いつもの実力 出せなくて 最悪だけど;Odio no poder tocar como de costumbre, pero...;I hate that I can't play as well as I usually do, but...;False;False;;Hitori;Hitori
 1349;1349,1351;1350;1348;0:20:41.560000;0:20:46.390000;1349.mp3;1349.webp;バンド組んで 誰かと演奏するのって　こんな楽しいんだ!;¡Me está encantando tocar con más gente!;playing in a band with other people is so much fun!;False;False;;Hitori;Hitori
 1354;1354;1353;1352;0:20:48.600000;0:20:52.100000;1354.mp3;1354.webp;私 今日 最高に輝いて...;Hasta ahora nunca he brillado...;I've never really shone before today...;False;False;;Hitori;Hitori

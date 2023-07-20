@@ -1,5 +1,5 @@
 ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREENSHOT;CONTENT;CONTENT_TRANSLATION_SPANISH;CONTENT_TRANSLATION_ENGLISH;CONTENT_SPANISH_MT;CONTENT_ENGLISH_MT;ACTOR_JA;ACTOR_ES;ACTOR_EN
-6;6;;7;0:00:22.671000;0:00:25.500000;6.mp3;6.webp;"‪&lrm;)‬ ‪ ぜんぶ天気のせいでいいよ‬";;We can blame it all on the weather;;False;;;Kita
+6;6;;7;0:00:22.671000;0:00:25.500000;6.mp3;6.webp;‪‬ ‪ ぜんぶ天気のせいでいいよ‬;;We can blame it all on the weather;;False;;;Kita
 9;9;;11;0:00:25.340000;0:00:28.040000;9.mp3;9.webp;"‪ この気まずさも&lrm;倦怠&lrm;感も‬";;All this awkwardness and exhaustion;;False;;;Kita
 12;12;;14;0:00:27.968000;0:00:32.260000;12.mp3;12.webp;‪ 太陽は隠れながら知らんぷり‬;;The sun hides away, pretending not to see;;False;;;Kita
 16;16;;15;0:00:32.840000;0:00:35.840000;16.mp3;16.webp;‪ ガタゴト揺れる満員電車‬;;A packed train clatters along the track;;False;;;Kita
@@ -29,7 +29,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 101;101;102;100;0:02:40.090000;0:02:42.140000;101.mp3;101.webp;‪それじゃあ 次の曲の前に‬;Antes de tocar otra,;Now, before we play our next song...;False;False;;kita;Kita
 107;107;105;106,108;0:02:42.510000;0:02:46.810000;107.mp3;107.webp;‪結束バンドのリーダー‬ ‪ドラムの伊地知虹夏先輩です‬;los dejo con la líder de Kessoku Band, Nijika Ijichi, la baterista.;Let's have a few words from Kessoku Band's leader: our drummer and my senpai, Nijika Ijichi!;False;False;;kita;Kita
 112;112,114;110;111,113;0:02:48.640000;0:02:52.270000;112.mp3;112.webp;‪皆さん はじめまして!‬　‪盛り上がってますかー?‬;¡Mucho gusto! ¿Se están divirtiendo?;Nice to meet you, everyone! Are you having a good time?!;False;False;;nijika;Nijika
-115;115;116;117;0:02:52.321000;0:02:55.610000;115.mp3;115.webp;‪‬ ‪)割と頑張ってんな‬;Lo están haciendo bien.;They've worked pretty hard.;False;False;;seika;Seika
+115;115;116;117;0:02:52.321000;0:02:55.610000;115.mp3;115.webp;‪‬ ‪割と頑張ってんな‬;Lo están haciendo bien.;They've worked pretty hard.;False;False;;seika;Seika
 120;120;119;118;0:02:55.610000;0:02:56.980000;120.mp3;120.webp;‪ですねー‬;Sí.;Yeah...;False;False;;kikuri;Kikuri
 121;121,126;123,125;122,124;0:02:57.034000;0:03:01.160000;121.mp3;121.webp;‪でも ぼっちちゃん...‬　‪ベースの山田リョウいわく‬ ‪ん?‬;Pero Bocchi... Según Ryo Yamada, nuestra bajista,;But Bocchi-chan... Our esteemed bassist, Ryo Yamada,;False;False;;kikuri,nijika;Kikuri,Nijika
 129;129;128;127;0:03:01.160000;0:03:04.580000;129.mp3;129.webp;‪結束バンドは‬ ‪MCが つまらないそうでして‬;no tenemos ninguna gracia hablando.;told me that any MCing I did for Kessoku Band would be a flop,;False;False;;nijika;Nijika

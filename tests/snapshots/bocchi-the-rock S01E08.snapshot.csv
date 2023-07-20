@@ -1,6 +1,6 @@
 ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREENSHOT;CONTENT;CONTENT_TRANSLATION_SPANISH;CONTENT_TRANSLATION_ENGLISH;CONTENT_SPANISH_MT;CONTENT_ENGLISH_MT;ACTOR_JA;ACTOR_ES;ACTOR_EN
 1;1;2;0;0:00:09.909000;0:00:13.701000;1.mp3;1.webp;嫌な予感 当たっちゃった...;Mi mal presentimiento se hizo realidad.;I hate it when I'm right.;False;False;;hitori;Hitori
-5;5;6;4;0:00:16.640000;0:00:19.620000;5.mp3;5.webp;)虹夏たちが 作っていったんだよ;Los hicieron Nijika y compañía.;Nijika and her friends made them.;False;False;;seika;Seika
+5;5;6;4;0:00:16.640000;0:00:19.620000;5.mp3;5.webp;虹夏たちが 作っていったんだよ;Los hicieron Nijika y compañía.;Nijika and her friends made them.;False;False;;seika;Seika
 8;8;9;7;0:00:20.230000;0:00:23.676000;8.mp3;8.webp;結局 台風 来ちゃいましたね;Al final, sí vino el tifón.;But the typhoon still came in the end.;False;False;;pa;PA
 11;11;12;10;0:00:23.620000;0:00:28.050000;11.mp3;11.webp;まあ てるてる坊主で どうにかなるわけじゃないからさ;Unos muñecos no pueden detenerlo.;Well, it's not like rain charms actually affect the weather.;False;False;;seika;Seika
 14;14,16;15;13;0:00:28.050000;0:00:32.393000;14.mp3;14.webp;この様子じゃ　チケット買った人すら 来ないんじゃないですか?;Puede que no vengan ni los que tenían entrada.;Even the people who bought tickets might not come at this rate.;False;False;;pa;PA
@@ -10,7 +10,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 28;28;29;27;0:00:45.760000;0:00:49.535000;28.mp3;28.webp;どんな状況でも 乗り越えられるようにならないと;Tienen que aprenden a superar cualquier cosa.;They need to learn to make it through any situation.;False;False;;seika;Seika
 31;31;32;30;0:00:50.480000;0:00:52.050000;31.mp3;31.webp;ハンカチありますよ;Tengo un pañuelo.;I've got a handkerchief.;False;False;;pa;PA
 34;34;35;33;0:00:52.050000;0:00:53.664000;34.mp3;34.webp;あっち行ってよ;Déjame en paz.;Oh, go away.;False;False;;seika;Seika
-40;40;41;39;0:00:55.970000;0:00:59.503000;40.mp3;40.webp;)友達も やっぱり来られないみたいです;Mis amigas no pueden venir.;Looks like my friends can't come either.;False;False;;kita;Kita
+40;40;41;39;0:00:55.970000;0:00:59.503000;40.mp3;40.webp;友達も やっぱり来られないみたいです;Mis amigas no pueden venir.;Looks like my friends can't come either.;False;False;;kita;Kita
 43;43;44;42;0:00:59.470000;0:01:01.100000;43.mp3;43.webp;う... うちの親も;Mis papás tampoco.;S-Same with my parents.;False;False;;hitori;Hitori
 46;46;47;45;0:01:01.030000;0:01:04.425000;46.mp3;46.webp;そ... 祖母が ふたりを 見ててくれるはずだったんですけど;Mi abuela iba a cuidar de Futari,;M-My grandma was supposed to look after Futari,;False;False;;hitori;Hitori
 49;49;50;48;0:01:04.400000;0:01:06.552000;49.mp3;49.webp;こ... 来られなくなっちゃって;pero ya no puede ir.;b-but now she can't come, so...;False;False;;hitori;Hitori

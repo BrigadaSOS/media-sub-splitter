@@ -768,6 +768,7 @@ def process_subtitle_line(line):
 
     # *Top, sign... is usually used for background conversations with an ongoing
     # dialog
+
     if line.style and re.search(r"top|sign|tipo tv|block", line.style.lower()):
         return ""
 
@@ -781,19 +782,23 @@ def process_subtitle_line(line):
         jaconvV2.normalize(line.plaintext, "NFKC").replace("\n", " ").replace("\r", "")
     )
 
+    processed_sentence = remove_nested_parenthesis(processed_sentence)
+
     special_chars = [
-        r"\《.*?\》",
-        r"\（.*?\）",
-        r"\(.*?\)",
-        r"\[.*?\]",
-        r"\{.*?\}",
-        r"\【.*?\】",
         "●",
         "→",
         "ー?♪ー?",
     ]
 
     return re.sub(rf"{'|'.join(special_chars)}", "", processed_sentence).strip()
+
+
+def remove_nested_parenthesis(sentence):
+    nb_rep = 1
+    while nb_rep:
+        (sentence, nb_rep) = re.subn(r"\([^()（）\[\]\{\}《》【】]*\)", "", sentence)
+
+    return sentence
 
 
 def extract_anime_title_for_guessit(episode_filepath):

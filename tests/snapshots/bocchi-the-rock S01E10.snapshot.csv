@@ -40,7 +40,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 167;167;165;166;0:02:21.280000;0:02:23.071000;167.mp3;167.webp;なんの音?;¿Qué ruido es ese?;What was that?;False;False;;presidenta consejo;
 170;170;171;169;0:02:23.780000;0:02:27.033000;170.mp3;170.webp;先生 誰か倒れてるんですけど!;¡Profesor! ¡Hay alguien en el suelo!;Teacher! Someone's collapsed out here!;False;False;;presidenta consejo;SC President
 196;196;197;195;0:04:01.260000;0:04:03.212000;196.mp3;196.webp;知らない天井だ...;Un techo desconocido.;An unfamiliar ceiling.;False;False;;hitori;Hitori
-199;199;200;198;0:04:03.200000;0:04:06.132000;199.mp3;199.webp;)あっ 目 覚めた?;¿Ya despertaste?;Hey, you're awake?;False;False;;kita;Kita
+199;199;200;198;0:04:03.200000;0:04:06.132000;199.mp3;199.webp;あっ 目 覚めた?;¿Ya despertaste?;Hey, you're awake?;False;False;;kita;Kita
 202;202;203;201;0:04:06.510000;0:04:08.190000;202.mp3;202.webp;どう? 具合は;¿Cómo estás?;How are you feeling?;False;False;;kita;Kita
 205;205;206;204;0:04:08.190000;0:04:10.595000;205.mp3;205.webp;あっ 全然 大丈夫です;Perfectamente bien.;I'm f-fine.;False;False;;hitori;Hitori
 207;207;209;208;0:04:10.678000;0:04:13.950000;207.mp3;207.webp;後藤さん倒れたって聞いて 心配しちゃった;Te desmayaste. Me tenías preocupada.;I heard you collapsed, so I got worried.;False;False;;kita;Kita
@@ -213,7 +213,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 880;880;881;879;0:13:25.030000;0:13:27.151000;880.mp3;880.webp;だから まだ始まってないって;¡Aún no ha empezado!;Seriously, it hasn't started yet!;False;False;;nijika;Nijika
 883;883;884;882;0:13:27.110000;0:13:31.030000;883.mp3;883.webp;ちょ... ちょっとでも 成長したと思った私がバカでした;Fui una tonta al pensar que había madurado.;I w-was a fool to think I'd grown as a person...;False;False;;hitori;Hitori
 887;887;888;886;0:13:30.990000;0:13:33.365000;887.mp3;887.webp;銀ちゃーん おはよー!;¡Buenas, Gin!;Gin-chan! Mornin'!;False;False;;kikuri;Kikuri
-889;889;;890;0:13:33.449000;0:13:34.742000;889.mp3;889.webp;)ああ?;;Yeah?;;False;;;Gin-chan
+889;889;;890;0:13:33.449000;0:13:34.742000;889.mp3;889.webp;ああ?;;Yeah?;;False;;;Gin-chan
 892;892;893;891;0:13:35.710000;0:13:37.760000;892.mp3;892.webp;お... お姉ちゃんに会いたい;Necesito a mi hermana.;I m-miss my sister!;False;False;;nijika;Nijika
 895;895;896;894;0:13:37.740000;0:13:39.496000;895.mp3;895.webp;ついに 伊地知先輩まで!;¡Afecta hasta a Ijichi!;It's gotten to Ijichi-senpai too!;False;False;;kita;Kita
 899;899;900;898;0:13:40.670000;0:13:44.110000;899.mp3;899.webp;この人 店長の銀ちゃんね;Este es Gin, el gerente.;This is the manager, Gin-chan!;False;False;;kikuri;Kikuri
@@ -223,7 +223,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 911;911,913;912;910;0:13:52.810000;0:13:55.130000;911.mp3;911.webp;好きなジャンルは... えっ?　パンクロックよ;Me gusta el punk rock.;Punk rock's my genre of choice!;False;False;;gin;Gin-chan
 915;915;916;914;0:13:55.130000;0:13:57.960000;915.mp3;915.webp;見た目とのギャップに 頭 バグるよね?;La diferencia confunde, ¿verdad?;The contrast between how he looks and talks kinda shorts out your brain, right?;False;False;;kikuri;Kikuri
 918;918,921;919;917,920;0:13:57.960000;0:14:01.810000;918.mp3;918.webp;でも 安心して　銀ちゃんは心が乙女な ただのオッサンだから;Tranquilas, Gin es un viejo con corazón de dama.;But don't worry. Gin-chan's a nice old guy with the heart of a pure maiden!;False;False;;kikuri;Kikuri
-923;923;924;922,925;0:14:01.770000;0:14:04.104000;923.mp3;923.webp;)おい 廣井 はい?;Oye, Hiroi. -¿Sí?;Hey, Hiroi. Yeah?;False;False;;shima;Kikuri,Shima
+923;923;924;922,925;0:14:01.770000;0:14:04.104000;923.mp3;923.webp;おい 廣井 はい?;Oye, Hiroi. -¿Sí?;Hey, Hiroi. Yeah?;False;False;;shima;Kikuri,Shima
 926;926;928;927;0:14:04.188000;0:14:06.940000;926.mp3;926.webp;遅刻するなって いつも言ってるよな?;Siempre te decimos que no llegues tarde.;For the millionth time, don't be late.;False;False;;shima;Shima
 929;929,933;931;930,932;0:14:07.024000;0:14:10.903000;929.mp3;929.webp;もうリハーサル 終わっちゃいましたよ!　ごめーん!;¡Ya terminó el ensayo! -Perdón.;Our rehearsal's already over! Sorry!;False;False;;eliza;Eliza,Kikuri
 936;936;937;935;0:14:10.870000;0:14:13.614000;936.mp3;936.webp;もしかして 結束バンドの人たちですか?;¿Son las de Kessoku Band?;Are these the members of Kessoku Band?;False;False;;shima;Shima

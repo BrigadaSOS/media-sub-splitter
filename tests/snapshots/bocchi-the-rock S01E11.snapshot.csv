@@ -1,7 +1,7 @@
 ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREENSHOT;CONTENT;CONTENT_TRANSLATION_SPANISH;CONTENT_TRANSLATION_ENGLISH;CONTENT_SPANISH_MT;CONTENT_ENGLISH_MT;ACTOR_JA;ACTOR_ES;ACTOR_EN
 6;6;7;5;0:00:03.389000;0:00:06.191000;6.mp3;6.webp;‪フランクフルト‬ ‪いかがですかー?‬;¿Quieren salchichas de Frankfurt?;Anyone want a hot dog?;False;False;;extra A;Caller A
 15;15;16;11;0:00:06.190000;0:00:09.190000;15.mp3;15.webp;‪‬ ‪2年2組 お化け屋敷やってまーす‬;Casa embrujada en la clase 2-2.;Class 2-2's doing a haunted house!;False;False;;extra B;Caller B
-17;17;19;18;0:00:13.900000;0:00:17.660000;17.mp3;17.webp;‪)いやー‬ ‪初日から すごい盛り上がりだね‬;Es el primer día y ya hay mucha gente.;Boy, even the first day is a total event!;False;False;;nijika;Nijika
+17;17;19;18;0:00:13.900000;0:00:17.660000;17.mp3;17.webp;‪いやー‬ ‪初日から すごい盛り上がりだね‬;Es el primer día y ya hay mucha gente.;Boy, even the first day is a total event!;False;False;;nijika;Nijika
 20;20;22;21;0:00:17.612000;0:00:20.040000;20.mp3;20.webp;‪うちらの高校とは全然 違うね‬;No se parece en nada a nuestra prepa.;Not at all like our school!;False;False;;nijika;Nijika
 23;23;25;24;0:00:20.574000;0:00:22.160000;23.mp3;23.webp;‪ねえ どこから回る?‬;¿Por dónde empezamos?;Hey, where do you wanna start?;False;False;;extra C;Shuka Mob B
 27;27;28;26;0:00:22.110000;0:00:23.540000;27.mp3;27.webp;‪うーんとねえ‬;Pues...;Dunno...;False;False;;extra M;Shuka Mob M
@@ -12,7 +12,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 46;46;48;47;0:00:36.965000;0:00:38.860000;46.mp3;46.webp;‪おっ ここっぽい‬;Creo que es ahí.;Hey, bet this's it!;False;False;;nijika;Nijika
 49;49;51;50;0:00:38.884000;0:00:41.910000;49.mp3;49.webp;‪やっほー! ぼっちちゃん いる?‬;¡Hola! ¿Estás aquí, Bocchi?;Hi-ho! Is Bocchi-chan in?;False;False;;nijika;Nijika
 52;52;54;53;0:00:41.845000;0:00:43.520000;52.mp3;52.webp;‪ぼっち もてなせ‬;Atiéndenos, Bocchi.;Serve us, Bocchi.;False;False;;ryo;Ryo
-55;55;57;56;0:00:43.555000;0:00:45.980000;55.mp3;55.webp;‪)あ... 先輩‬;Chicas...;Senpai...;False;False;;kita;Kita
+55;55;57;56;0:00:43.555000;0:00:45.980000;55.mp3;55.webp;‪あ... 先輩‬;Chicas...;Senpai...;False;False;;kita;Kita
 59;59;61;60;0:00:46.016000;0:00:50;59.mp3;59.webp;‪あれ? 喜多ちゃんも‬ ‪メイド服ぼっちちゃん見に来たの?‬;¿Tú también viniste a verla disfrazada de sirvienta?;Kita-chan! Did you come to see Bocchi-chan in her maid costume too?;False;False;;nijika;Nijika
 62;62;64;63;0:00:49.978000;0:00:52.773000;62.mp3;62.webp;‪‬ ‪どこ? メイド服ぼっちちゃんは‬;¿Dónde está la Bocchi sirvienta?;Where's the Bocchi-chan maid?;False;False;;ryo;Ryo
 66;66;67;65;0:00:52.770000;0:00:54.400000;66.mp3;66.webp;‪それが...‬;Pues...;About that...;False;False;;kita;Kita
@@ -322,7 +322,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 1306;1306;1307;1305;0:20:36.460000;0:20:37.998000;1306.mp3;1306.webp;‪はーい‬;¡Hola!;Hi!;False;False;;kita;Kita
 1310;1310;1311;1309;0:20:40.100000;0:20:42.800000;1310.mp3;1310.webp;‪‬ ‪やっぱり予想どおりの事態に...‬;Es tal como me lo había imaginado.;It's just what I expected.;False;False;;hitori;Hitori
 1312;1312;1314;1313;0:20:42.836000;0:20:45.506000;1312.mp3;1312.webp;‪お姉ちゃーん!‬ ‪あっ‬;¡Hermanita!;Big Sis!;False;False;;futari;Futari
-1315;1315;1317;1316;0:20:47.174000;0:20:49.551000;1315.mp3;1315.webp;) 頑張れー!;¡Ánimo!;Give it your best!;False;False;;futari;Futari
+1315;1315;1317;1316;0:20:47.174000;0:20:49.551000;1315.mp3;1315.webp;頑張れー!;¡Ánimo!;Give it your best!;False;False;;futari;Futari
 1319;1319;1320;1318;0:20:49.500000;0:20:50.900000;1319.mp3;1319.webp;‪‬ ‪ひとりちゃーん!‬;¡Hitori!;Hitori-chan!;False;False;;fans 1/2;Fan 1/2
 1321;1321;1324;1322;0:20:50.928000;0:20:53.180000;1321.mp3;1321.webp;‪‬ ‪あっ 私のファンたち‬;Mis fans...;M-My fans!;False;False;;hitori;Hitori
 1326;1326;1327;1325;0:20:53.770000;0:20:55.560000;1326.mp3;1326.webp;‪同じクラスの人たちも‬;Y las de mi clase.;People from my class, too...;False;False;;hitori;Hitori
@@ -335,5 +335,5 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 1353;1353;1354;1352,1355;0:21:16.960000;0:21:20.250000;1353.mp3;1353.webp;‪って あれ?‬ ‪ぼっちちゃん なんで無視すんの?‬;¿Eh? ¿Por qué me ignoras, Bocchi?;Huh? Whu? Don't ignore me, Bocchi-chan!;False;False;;kikuri;Kikuri
 1357;1357;1358;1356;0:21:20.250000;0:21:21.760000;1357.mp3;1357.webp;‪きくりおねえさんだよー‬;¡Soy yo, Kikuri!;It's me, Big Sister Kikuri!;False;False;;kikuri;Kikuri
 1359;1359;1361;1360;0:21:21.750000;0:21:23.880000;1359.mp3;1359.webp;‪呼ぶんじゃなかった‬ ‪ほらほらー‬;No debí invitarla.;I shouldn't have invited her!;False;False;;hitori;Hitori
-1363;1363;1364;1362;0:21:23.880000;0:21:26.560000;1363.mp3;1363.webp;‪)てめえは‬ ‪そろそろ いいかげんにしとけ!‬;¡Compórtate de una buena vez!;Get it together, loser!;False;False;;seika;Seika
+1363;1363;1364;1362;0:21:23.880000;0:21:26.560000;1363.mp3;1363.webp;‪てめえは‬ ‪そろそろ いいかげんにしとけ!‬;¡Compórtate de una buena vez!;Get it together, loser!;False;False;;seika;Seika
 1365;1365;1367;1366;0:21:26.422000;0:21:29.800000;1365.mp3;1365.webp;‪‬ ‪あっ ひいい... 先輩 ギブギブ!‬;¡Me rindo, me rindo!;S-Senpai... Uncle, uncle!;False;False;;kikuri;Kikuri

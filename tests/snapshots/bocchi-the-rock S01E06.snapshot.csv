@@ -2,7 +2,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 6;6,7;4;5;0:00:03.170000;0:00:08.176000;6.mp3;6.webp;後藤ひとりは ちょっとシャイでコミュ症で　ギターが大好き ぼっちな女の子;Hitori Goto es una chica tímida y con problemas para comunicarse.;Hitori Gotoh is a slightly shy, socially anxious, and isolated guitar enthusiast!;False;False;;hombre guitarra;Guitar Man
 9;9;10;8;0:00:08.150000;0:00:10.600000;9.mp3;9.webp;ギターは友達ィー;La guitarra es mi amiga.;This guitar's my friend!;False;False;;hitori;Hitori
 12;12,14,15;13,17;11;0:00:10.600000;0:00:16.184000;12.mp3;12.webp;でもいつか　バンドをくんでみたいなぁー　なんて思ってたら...;Pero también quiero unirme a una banda. Con eso en mente...;But some day, I might like to join a band!;False;False;;hitori,hombre guitarra;Hitori
-19;19;20;18;0:00:16.160000;0:00:18.650000;19.mp3;19.webp;) あたしたちとバンドやろう!;¡Formemos una banda!;Hey, come join our band!;False;False;;nijika;Nijika
+19;19;20;18;0:00:16.160000;0:00:18.650000;19.mp3;19.webp;あたしたちとバンドやろう!;¡Formemos una banda!;Hey, come join our band!;False;False;;nijika;Nijika
 22;22,24;23;21;0:00:18.650000;0:00:23.817000;22.mp3;22.webp;と... ひょんなことから 愉快な仲間たちと　ロックバンドを組むことに なっちゃった;Acabó en un banda de rock con tres compañeras más.;From that humble beginning, she formed a rock band with this group of colorful characters!;False;False;;hombre guitarra;Guitar Man
 26;26;27;25;0:00:23.790000;0:00:26.402000;26.mp3;26.webp;そこから毎日 大忙し;Desde entonces ha estado muy ocupada.;Since then, her life has been one event after another!;False;False;;hombre guitarra;Guitar Man
 29;29;30;28;0:00:26.330000;0:00:28.279000;29.mp3;29.webp;この前も店長さんから;Le gerente les dijo...;And just now, the club manager said,;False;False;;hombre guitarra;Guitar Man
@@ -47,7 +47,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 212;212;213;;0:03:15.488000;0:03:18.700000;212.mp3;212.webp;コミュ症だから ビラ配るとか無理だった;¿cómo voy a repartir panfletos sin saber comunicarme?;;False;;;hitori;
 215;215;217;216;0:03:23.663000;0:03:27.709000;215.mp3;215.webp;ああ 打つ手がなさすぎて どうしよう;No sé qué hacer.;I feel so powerless.;False;False;;hitori;Hitori
 219;219;220;218;0:03:27.760000;0:03:30.160000;219.mp3;219.webp;怖くて ここから動けない;Me asusta tanto que no puedo moverme.;I'm too scared to even move.;False;False;;hitori;Hitori
-226;226,227;225;224;0:03:34;0:03:37.540000;226.mp3;226.webp;) お友達 来てくれるみたいです　よかったー;¡Van a venir unas amigas! Menos mal.;Looks like lots of my friends are coming! Thank goodness!;False;False;;kita;Kita
+226;226,227;225;224;0:03:34;0:03:37.540000;226.mp3;226.webp;お友達 来てくれるみたいです　よかったー;¡Van a venir unas amigas! Menos mal.;Looks like lots of my friends are coming! Thank goodness!;False;False;;kita;Kita
 230;230;232;231;0:03:37.427000;0:03:38.930000;230.mp3;230.webp;なんか売れた;Ya las vendí.;I got 'em sold.;False;False;;ryo;Ryo
 236;236,240,242;238,239;237,241;0:03:38.720000;0:03:44.350000;236.mp3;236.webp;ぼっちちゃんは どうかな?　今日は来る? 新曲も みんなで合わせたいし　ふっ!;¿Qué tal tú, Bocchi? ¿Vendrás a ensayar hoy? Deberíamos probar la canción nueva.;How are you doing, Bocchi-chan? Coming today? I want to try the new song all together!;False;False;;nijika;Nijika
 243;243,247;245;244,246;0:03:44.434000;0:03:49.160000;243.mp3;243.webp;うううう... みんな順調そう　な... なんて返事する?;A ellas les va bien. ¿Qué contesto?;Th-They're all taking care of it! Wh-What do I say back?;False;False;;hitori;Hitori
