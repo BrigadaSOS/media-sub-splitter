@@ -38,6 +38,13 @@ if not logger.handlers:
     handler.setFormatter(formatter)
     logger.addHandler(handler)
 
+emoji = re.compile("["
+        u"\U0001F600-\U0001F64F"  # emoticons
+        u"\U0001F300-\U0001F5FF"  # symbols & pictographs
+        u"\U0001F680-\U0001F6FF"  # transport & map symbols
+        u"\U0001F1E0-\U0001F1FF"  # flags (iOS)
+                   "]+", re.UNICODE)
+
 SUPPORTED_LANGUAGES = ["en", "ja", "es"]
 
 EpisodeCsvRow = namedtuple(
@@ -747,6 +754,7 @@ def join_sentences_to_segment(sentences, ln):
         r"(?<=。)\s",
         r"^-",
         r"(?<=\s)+\s",
+        r"(?<=\.\.\.)。",
     ]
 
     # Sometimes japanese subs don't use the appropriate " symbol for quotes
@@ -793,10 +801,9 @@ def process_subtitle_line(line):
     processed_sentence = remove_nested_parenthesis(processed_sentence)
 
     special_chars = r"●|→|ー?♪ー?|\u202a|\u202c|➡"
+    processed_sentence = re.sub(special_chars, "", processed_sentence)
 
-    nb_rep = 1
-    while nb_rep:
-        (processed_sentence, nb_rep) = re.subn(special_chars, "", processed_sentence)
+    processed_sentence = emoji.sub("", processed_sentence)
 
     return processed_sentence.strip()
 
