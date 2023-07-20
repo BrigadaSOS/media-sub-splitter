@@ -46,9 +46,9 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 174;174;175;173;0:02:38.550000;0:02:42.780000;174.mp3;174.webp;最近 バンドの練習 忙しくて 久しぶりに見たけど;He estado tanto tiempo ensayando que llevo mucho tiempo sin mirarlos.;I've been so busy with rehearsals, I haven't looked in ages...;False;False;;hitori;Hitori
 182;182;184;183;0:02:43.466000;0:02:46.850000;182.mp3;182.webp;やっぱり 私の動画のコメント欄は あったかいなー;En mis comentarios son muy considerados.;My comments section is the nicest place in the world.;False;False;;hitori;Hitori
 185;185;187;186;0:02:46.845000;0:02:49.598000;185.mp3;185.webp;優しいコメントしかな... ん?;Todos son positivos.;Every single comment is kind andー;False;False;;hitori;Hitori
-189;189;191;188;0:02:49.640000;0:02:51.308000;189.mp3;189.webp;"""失踪したの?""";¿Desapareció?;Did she drop her channel?;False;False;;voz hombre 30s;30M VO
-192;192;195;194;0:02:51.391000;0:02:53.650000;192.mp3;192.webp;"""チャンネル登録 外そうかな...""";No sé si cancelar mi suscripción...;I might have to unsubscribe...;False;False;;voz mujer 20s;20F VO
-197;197;199;198;0:02:53.685000;0:02:56.070000;197.mp3;197.webp;"""ギターヒーロー ××だかー""";guitarhero se muri*, ¿eh?;guitarhero's de*d, I guess.;False;False;;voz hombre 20s;20M VO
+189;189;191;188;0:02:49.640000;0:02:51.308000;189.mp3;189.webp;\"失踪したの?\";¿Desapareció?;Did she drop her channel?;False;False;;voz hombre 30s;30M VO
+192;192;195;194;0:02:51.391000;0:02:53.650000;192.mp3;192.webp;\"チャンネル登録 外そうかな...\";No sé si cancelar mi suscripción...;I might have to unsubscribe...;False;False;;voz mujer 20s;20F VO
+197;197;199;198;0:02:53.685000;0:02:56.070000;197.mp3;197.webp;\"ギターヒーロー ××だかー\";guitarhero se muri*, ¿eh?;guitarhero's de*d, I guess.;False;False;;voz hombre 20s;20M VO
 201;201;203;202,204;0:02:58.648000;0:03:02.240000;201.mp3;201.webp;ヤヤヤ... ヤバい! 早く動画上げなきゃ 居場所が...;¡Ay, no! ¡Tengo que subir un video pronto!;C-C-Crud! I-If I don't upload a video, my home...;False;False;;hitori;Hitori
 206;206;207;205;0:03:02.240000;0:03:05.071000;206.mp3;206.webp;ネットでの居場所がなくなる!;¡O perderé mi hogar en la red!;I'll lose my online home!;False;False;;hitori;Hitori
 247;247;248;246,249;0:04:38.840000;0:04:42.780000;247.mp3;247.webp;あっ あれ? 最後に動画上げたの いつだっけ?;¿Eh? ¿Cuándo subí el último video?;H-Huh? When was the last time I uploaded again?;False;False;;hitori;Hitori
@@ -93,7 +93,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 411;411;412;410;0:07:04.650000;0:07:07.280000;411.mp3;411.webp;つ... 次は どこ行きます?;¿Adónde vamos ahora?;Wh-Where to next?;False;False;;hitori;Hitori
 414;414,416;415;413,417;0:07:07.270000;0:07:11.060000;414.mp3;414.webp;おお いいねえ　このまま 全出し物 コンプリートだー!;¡Así se habla! ¡Veámoslo todo!;Good enthusiasm! Let's keep going until we do the full circuit!;False;False;;nijika;Nijika
 419;419,422;420;418,421;0:07:11.030000;0:07:14.410000;419.mp3;419.webp;さすがにハメ外し過ぎです　後藤さんも...;Nos estamos divirtiendo demasiado, hasta Goto.;I think you're having too much fun! And Gotoh-san has this...;False;False;;kita;Kita
-429;429,433;428,434;427;0:07:14.910000;0:07:19.940000;429.mp3;429.webp;"""このまま遊び続ければ""　""メイド喫茶に戻る時間が どんどん遅れて いいかもー""";"""Si seguimos así, tardaré más en regresar al café"".";"""The longer we mess around out here, the later I get back to the maid cafe!""";False;False;;kita;Kita
+429;429,433;428,434;427;0:07:14.910000;0:07:19.940000;429.mp3;429.webp;\"このまま遊び続ければ\"　\"メイド喫茶に戻る時間が どんどん遅れて いいかもー\";\"Si seguimos así, tardaré más en regresar al café\".;\"The longer we mess around out here, the later I get back to the maid cafe!\";False;False;;kita;Kita
 435;435;437;436;0:07:19.701000;0:07:22;435.mp3;435.webp;みたいな顔しないで!;Se te nota en la cara.;...look on her face!;False;False;;kita;Kita
 439;439;438;440;0:07:21.910000;0:07:22.920000;439.mp3;439.webp;バ... バレた!;Me pilló.;B-Busted!;False;False;;hitori;Hitori
 444;444;445;443;0:07:24.670000;0:07:28.160000;444.mp3;444.webp;1年2組のメイド喫茶へ ようこそ;Bienvenidos al café de sirvientas de la clase 1-2.;Welcome to Class 1-2's maid cafe!;False;False;;compañera B;Classmate B
@@ -137,17 +137,17 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 592;592;593;591;0:09:37.130000;0:09:38.720000;592.mp3;592.webp;ああ そうだね;Ah, sí.;Oh, right...;False;False;;nijika;Nijika
 594;594;596;595;0:09:38.715000;0:09:40.470000;594.mp3;594.webp;誰か お金貸して;¿Me prestan dinero?;Can someone spot me?;False;False;;ryo;Ryo
 608;608;610;609;0:09:40.508000;0:09:43.040000;608.mp3;608.webp;わあー おいしそう!;¡Qué apetitoso se ve!;Wow, it looks delicious!;False;False;;kita;Kita
-612;612,615,617;613,616;611,614;0:09:43.040000;0:09:48.810000;612.mp3;612.webp;"あっ これ　この""ふわぴゅあ とろける魔法のオムライス""って　どんなの?";¿Y este? ¿Qué es un omurice Fuwa Pyua que te derrite?;How about this? What's the Sure-Pure Melt-in-Your-Mouth Magic Omurice?;False;False;;nijika;Nijika
+612;612,615,617;613,616;611,614;0:09:43.040000;0:09:48.810000;612.mp3;612.webp;あっ これ　この\"ふわぴゅあ とろける魔法のオムライス\"って　どんなの?;¿Y este? ¿Qué es un omurice Fuwa Pyua que te derrite?;How about this? What's the Sure-Pure Melt-in-Your-Mouth Magic Omurice?;False;False;;nijika;Nijika
 619;619;620;618;0:09:48.810000;0:09:50.610000;619.mp3;619.webp;ただのオムライスですね;Es un omurice normal.;It's just normal omurice.;False;False;;hitori;Hitori
-622;622;623;621;0:09:50.610000;0:09:54.010000;622.mp3;622.webp;"""ユニコーンのゆめかわ きらきらオムライス""は?";¿Y el omurice Kira Kira sueño de unicornio?;And the Unicorn Fantasy Dream Sparkle-Shine Omurice?;False;False;;kita;Kita
+622;622;623;621;0:09:50.610000;0:09:54.010000;622.mp3;622.webp;\"ユニコーンのゆめかわ きらきらオムライス\"は?;¿Y el omurice Kira Kira sueño de unicornio?;And the Unicorn Fantasy Dream Sparkle-Shine Omurice?;False;False;;kita;Kita
 624;624;626;625;0:09:53.938000;0:09:55.960000;624.mp3;624.webp;これも普通のオムライスですね;Es un simple omurice.;That's also normal omurice.;False;False;;hitori;Hitori
-627;627;629;628;0:09:55.982000;0:09:59.700000;627.mp3;627.webp;"""もうむりまぢむり やみかわオムライス""";¿Y el omurice oscuro No Puedo Más?;And the Lie-4-U Die-4-U Sickly-Chic Omurice?;False;False;;ryo;Ryo
+627;627;629;628;0:09:55.982000;0:09:59.700000;627.mp3;627.webp;\"もうむりまぢむり やみかわオムライス\";¿Y el omurice oscuro No Puedo Más?;And the Lie-4-U Die-4-U Sickly-Chic Omurice?;False;False;;ryo;Ryo
 630;630;632;631;0:09:59.611000;0:10:02.280000;630.mp3;630.webp;ただのオムライスですね;Es un omurice normal.;It's... normal omurice.;False;False;;hitori;Hitori
 634;634,636;635;633;0:10:02.280000;0:10:05.500000;634.mp3;634.webp;これ メニュー名 違うだけで　中身 全部一緒?;¿Todo es lo mismo pero con varios nombres?;So it's all the same thing with different names?!;False;False;;nijika;Nijika
 637;637;639;638;0:10:05.491000;0:10:08.390000;637.mp3;637.webp;メイド服で予算なくなったらしくて;Todo el presupuesto se invirtió en los trajes.;We spent all our budget on the costumes.;False;False;;hitori;Hitori
-640;640;642;641;0:10:08.953000;0:10:13.130000;640.mp3;640.webp;"あっ""ふわぴゅあ とろける魔法のオムライス""です";Un omurice Fuwa Pyua que te derrite.;O-One Sure-Pure M-Melt-in-Your-Mouth Magic Omurice...;False;False;;hitori;Hitori
+640;640;642;641;0:10:08.953000;0:10:13.130000;640.mp3;640.webp;あっ\"ふわぴゅあ とろける魔法のオムライス\"です;Un omurice Fuwa Pyua que te derrite.;O-One Sure-Pure M-Melt-in-Your-Mouth Magic Omurice...;False;False;;hitori;Hitori
 643;643;645;644;0:10:13.124000;0:10:14.840000;643.mp3;643.webp;すみませーん;Disculpa...;Excuse me!;False;False;;nijika;Nijika
-652;652,654;653;648;0:10:14.840000;0:10:19.650000;652.mp3;652.webp;"この""美味しくなる呪文""ってやつ　1つ 下さーい";Quiero uno de estos hechizos para potenciar el sabor.;I'd like one of these deliciousness spells, if you please!;False;False;;nijika;Nijika
+652;652,654;653;648;0:10:14.840000;0:10:19.650000;652.mp3;652.webp;この\"美味しくなる呪文\"ってやつ　1つ 下さーい;Quiero uno de estos hechizos para potenciar el sabor.;I'd like one of these deliciousness spells, if you please!;False;False;;nijika;Nijika
 655;655;657;656;0:10:19.631000;0:10:21.720000;655.mp3;655.webp;えっ! あっ いや それは...;No. Eso es...;Oh, w-well...;False;False;;hitori;Hitori
 659;659;660;658;0:10:21.720000;0:10:23.880000;659.mp3;659.webp;お客様は神様;El cliente siempre tiene la razón.;The customer's always right.;False;False;;ryo;Ryo
 666;666;667;665;0:10:23.880000;0:10:26.800000;666.mp3;666.webp;メイドさん お願いしますよー;Por favor, señorita sirvienta.;Help us out, Miss Maid!;False;False;;nijika;Nijika
@@ -175,7 +175,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 749;749;751;750;0:11:57.395000;0:11:59.040000;749.mp3;749.webp;もちろんです!;¡Por supuesto!;Of course you can!;False;False;;compañera B;Classmate B
 753;753;755;754;0:12:01.983000;0:12:04.030000;753.mp3;753.webp;ヤバーい かわいい!;¡Qué lindas!;Crazy cute!;False;False;;compañera B/A;Classmate A/B
 757;757;758;756;0:12:04.030000;0:12:05.490000;757.mp3;757.webp;いや 待ってください!;¡Un momento!;Hold it!;False;False;;kita;Kita
-762;762;763;761;0:12:05.830000;0:12:08.410000;762.mp3;762.webp;先輩はお姉様スタイルで!;Mejor un estilo más maduro.;"Let's have Senpai in ""big sister"" style!";False;False;;kita;Kita
+762;762;763;761;0:12:05.830000;0:12:08.410000;762.mp3;762.webp;先輩はお姉様スタイルで!;Mejor un estilo más maduro.;Let's have Senpai in \"big sister\" style!;False;False;;kita;Kita
 765;765;766;764;0:12:08.410000;0:12:11.410000;765.mp3;765.webp;いや あえて男装スタイルってのも;¡O de mayordomo!;Or... What about boy style?!;False;False;;kita;Kita
 768;768;769;767;0:12:11.410000;0:12:14.680000;768.mp3;768.webp;我ながら すばらしいコーデね!;¡Te queda como anillo al dedo!;A fabulous choice, if I do say so myself!;False;False;;kita;Kita
 771;771;772;770;0:12:14.680000;0:12:17.900000;771.mp3;771.webp;あたしとの熱量の違い ヤバくない?;La diferencia de entusiasmo es muy notoria, ¿no?;Isn't she getting a bit too excited compared to with me?;False;False;;nijika;Nijika
@@ -279,7 +279,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 1114;1114;1115;1113;0:17:30.020000;0:17:33.740000;1114.mp3;1114.webp;少しずつでも前に進んでるから いいじゃないですか;Al menos vamos avanzando poco a poco.;We're making steady progress. That's all that matters!;False;False;;kita;Kita
 1117;1117;1118;1116,1121;0:17:37.430000;0:17:40.863000;1117.mp3;1117.webp;いよいよ 文化祭ライブ;Vamos a dar un concierto en el festival.;It's almost here. The festival performance.;False;False;;hitori;Hitori
 1131;1131;1130;1124;0:17:43.240000;0:17:46.952000;1131.mp3;1131.webp;学校の人の前での 初めてのライブ;Tocaré por primera vez delante de los de la escuela.;My first performance in front of the school.;False;False;;hitori;Hitori
-1135;1135;1136;1133;0:17:47.710000;0:17:50.340000;1135.mp3;1135.webp;"喜多さんみたいに""絶対""とか 言えないけど";No tengo la confianza de Kita,;I can't be as confident as Kita-san is.;False;False;;hitori;Hitori
+1135;1135;1136;1133;0:17:47.710000;0:17:50.340000;1135.mp3;1135.webp;喜多さんみたいに\"絶対\"とか 言えないけど;No tengo la confianza de Kita,;I can't be as confident as Kita-san is.;False;False;;hitori;Hitori
 1137;1137;1139;1138;0:17:51.290000;0:17:54.877000;1137.mp3;1137.webp;少しでも楽しんでもらいたい;pero espero que lo disfruten.;But I do hope they enjoy us!;False;False;;hitori;Hitori
 1147;1147;1148;1146;0:18:12.020000;0:18:14.200000;1147.mp3;1147.webp;今日 お姉ちゃんも来るって;Mi hermana también viene.;My sister said she'd be here too!;False;False;;nijika;Nijika
 1149;1149,1153;1151,1154;1150;0:18:14.146000;0:18:17.540000;1149.mp3;1149.webp;へえー そうなんですか!　自信を持つんだ 私;¿Ah, sí? Confía más en ti misma.;Wow, really?;False;False;;hitori,kita;Kita
@@ -304,7 +304,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 1245;1245;1246;1244;0:19:34.430000;0:19:37.060000;1245.mp3;1245.webp;結束バンドさん まもなくです;Kessoku Band, enseguida les toca.;Kessoku Band! You're up soon!;False;False;;organizadora festival;CF Staff
 1247;1247;1249;1248;0:19:37.021000;0:19:38.480000;1247.mp3;1247.webp;はーい;¡Bien!;Right!;False;False;;nijika;Nijika
 1250;1250;1252;1251;0:19:38.522000;0:19:41.880000;1250.mp3;1250.webp;よし! じゃあ 円陣でも組んどく?;¿Nos ponemos en círculo?;Okay! Wanna do a huddle?;False;False;;nijika;Nijika
-1254;1254;1255;1253;0:19:41.880000;0:19:45.200000;1254.mp3;1254.webp;"あっ 手 合わせて ""おーっ!""ってやつ しよっか";"Juntemos las manos y gritemos ""oh"" o algo.";"Oh! Or that thing where we put our hands together and go ""Yeah!""";False;False;;nijika;Nijika
+1254;1254;1255;1253;0:19:41.880000;0:19:45.200000;1254.mp3;1254.webp;あっ 手 合わせて \"おーっ!\"ってやつ しよっか;Juntemos las manos y gritemos \"oh\" o algo.;Oh! Or that thing where we put our hands together and go \"Yeah!\";False;False;;nijika;Nijika
 1256;1256;1258;1257;0:19:45.195000;0:19:47.420000;1256.mp3;1256.webp;いいですね やりましょう;¡Sí! ¡Buena idea!;I love it! Let's do it!;False;False;;kita;Kita
 1261;1261;1262;1260;0:19:48.210000;0:19:49.580000;1261.mp3;1261.webp;暑苦しい;Me agobian.;So stuffy.;False;False;;ryo;Ryo
 1264;1264;1265;1263;0:19:49.580000;0:19:51.600000;1264.mp3;1264.webp;みんな 左手ね;Pongan la mano izquierda.;Left hands, all!;False;False;;nijika;Nijika

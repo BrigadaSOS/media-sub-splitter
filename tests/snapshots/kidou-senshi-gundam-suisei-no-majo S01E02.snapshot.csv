@@ -101,7 +101,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 341;341;340;339;0:06:55.020000;0:06:57.810000;341.mp3;341.webp;僕は人を好きになったりしないよ;Eso no me pasará en la vida.;Falling in love is something I'll never do.;False;False;;;
 344;344;342;343;0:06:58.690000;0:07:00.090000;344.mp3;344.webp;絶対に;De ningún modo.;No matter what.;False;False;;;
 347;347;345;346;0:07:04.860000;0:07:06.440000;347.mp3;347.webp;手伝うよ;Te ayudaré.;Let me help.;False;False;;;
-348;348;349;350;0:07:08.030000;0:07:11.730000;348.mp3;348.webp;ハッ あんたたちのエースさまが 壊したんだけど?;Todo esto lo destrozó su querido piloto.;"It was your great ""ace"" who broke these, you know.";False;False;;;
+348;348;349;350;0:07:08.030000;0:07:11.730000;348.mp3;348.webp;ハッ あんたたちのエースさまが 壊したんだけど?;Todo esto lo destrozó su querido piloto.;It was your great \"ace\" who broke these, you know.;False;False;;;
 352;352;353;351;0:07:11.650000;0:07:13.980000;352.mp3;352.webp;にいさんから 直すように言われたから;Mi hermano me dijo que lo arregle.;Well, my brother told me to fix them.;False;False;;;
 355;355;356;354;0:07:13.980000;0:07:15.660000;355.mp3;355.webp;反省したってわけ;¿Significa que lo siente?;Does that mean he's sorry?;False;False;;;
 359;359;357;358;0:07:16.330000;0:07:18.415000;359.mp3;359.webp;で その本人は?;¿Y dónde está ahora?;And where is he now?;False;False;;;
@@ -158,12 +158,12 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 521;521;520;519;0:09:39.180000;0:09:40.766000;521.mp3;521.webp;デリング総裁です;Del presidente Delling.;President Delling.;False;False;;;
 525;525;524;523;0:09:41.980000;0:09:44.170000;525.mp3;525.webp;どうか お引き取りください;Márchate ya, por favor.;Now, if you would please leave.;False;False;;;
 530;530;529;528;0:09:54.030000;0:09:55.500000;530.mp3;530.webp;ミオリネさま;Señorita Miorine.;Mistress Miorine.;False;False;;;
-533;533;532;531;0:09:57.080000;0:09:59.270000;533.mp3;533.webp;学校に戻ればいいんでしょ;Que regrese a clase, ¿no?;"""Go back to class,"" right?";False;False;;;
+533;533;532;531;0:09:57.080000;0:09:59.270000;533.mp3;533.webp;学校に戻ればいいんでしょ;Que regrese a clase, ¿no?;\"Go back to class,\" right?;False;False;;;
 534;534;536;535;0:09:59.242000;0:10:01.900000;534.mp3;534.webp;いえ お父さまから ご伝言です;No. Tengo un mensaje de su padre.;No. I have a message from your father;False;False;;;
 539;539,541;538;537,540;0:10:01.900000;0:10:04.164000;539.mp3;539.webp;見たくない　では 読みます;No quiero leerlo. -Se lo leeré yo.;I don't want to read it. Then I'll read it for you.;False;False;;;
-544;544;542;543;0:10:05.300000;0:10:06.540000;544.mp3;544.webp;"""ミオリネ""";"""Miorine,";"""Miorine,";False;False;;;
-547;547;546;545;0:10:06.960000;0:10:09.211000;547.mp3;547.webp;"""学校は退学させる"" は?";haré que dejes la escuela.;"I'm unenrolling you from the school.""";False;False;;;
-551;551;549;550;0:10:09.440000;0:10:12.950000;551.mp3;551.webp;"""花婿も こちらで用意する すぐに戻ってこい""";"Te buscaré un novio personalmente. Regresa de inmediato"".";"""I'll arrange a groom myself. Return immediately.""";False;False;;;
+544;544;542;543;0:10:05.300000;0:10:06.540000;544.mp3;544.webp;\"ミオリネ\";\"Miorine,;\"Miorine,;False;False;;;
+547;547;546;545;0:10:06.960000;0:10:09.211000;547.mp3;547.webp;\"学校は退学させる\" は?;haré que dejes la escuela.;I'm unenrolling you from the school.\";False;False;;;
+551;551;549;550;0:10:09.440000;0:10:12.950000;551.mp3;551.webp;\"花婿も こちらで用意する すぐに戻ってこい\";Te buscaré un novio personalmente. Regresa de inmediato\".;\"I'll arrange a groom myself. Return immediately.\";False;False;;;
 553;553;554;552,555;0:10:12.950000;0:10:14.450000;553.mp3;553.webp;はあ? 以上です;Eso es todo.;What? That's all.;False;False;;;
 557;557;558;556;0:10:14.450000;0:10:15.880000;557.mp3;557.webp;貸して! あ...;¡Dame eso!;Give me that!;False;False;;;
 562;562;561;560;0:10:19.520000;0:10:22;562.mp3;562.webp;なんなの これ;¿Qué diablos es esto?;What the hell is this?;False;False;;;

@@ -57,7 +57,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 194;194;195;193;0:04:38.880000;0:04:41.890000;194.mp3;194.webp;スッゴいね あなたのモビルスーツ!;Ese Mobile Suit es increíble. -¿Qué?;Your mobile suit was amazing!;False;False;;;
 200;200;199;198;0:04:42.340000;0:04:45.770000;200.mp3;200.webp;群体制御には どんな階層構造を使っているの?;¿Qué estructura de capa usa para el control de masas?;What kind of layer structure is it using for its swarm control?;False;False;;;
 202;202;203;201,204;0:04:45.770000;0:04:49.183000;202.mp3;202.webp;従来の構造? それとも同時的空間コンセプト?;¿Es convencional o se basa en un concepto espacial simultáneo?;Is it a conventional one? Or is it based on a simultaneous spatial concept?;False;False;;;
-206;206,208;207;205;0:04:49.150000;0:04:54.730000;206.mp3;206.webp;お母さんが... 確か...　継起的空間と併用って...;"Mi mamá dijo algo de ""usar espacios sucesivos""...";"My mom said something about ""using successive spaces concurrently...""";False;False;;;
+206;206,208;207;205;0:04:49.150000;0:04:54.730000;206.mp3;206.webp;お母さんが... 確か...　継起的空間と併用って...;Mi mamá dijo algo de \"usar espacios sucesivos\"...;My mom said something about \"using successive spaces concurrently...\";False;False;;;
 210;210,212;211;209;0:04:54.730000;0:04:59.568000;210.mp3;210.webp;そっか! 確かに それなら⸺　あの概念統合スキーマの 意味は分かるわ! あれで...;¡Claro! Ahora entiendo el esquema de síntesis de conceptos.;So that's it! Now I understand the concept-synthesizing schema.;False;False;;;
 216;216;213;214,215;0:04:59.260000;0:05:01.480000;216.mp3;216.webp;おい 水星女;Hace que... -Eh, mercuriana.;It enables it to clear the friction- Hey! Mercurian wench!;False;False;;;
 219;219;218;217;0:05:01.920000;0:05:03.947000;219.mp3;219.webp;この前の決闘は無効だ;Anularon nuestro último duelo.;Our last duel was voided.;False;False;;;
@@ -149,7 +149,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 529;529;527;528;0:09:56.120000;0:09:58.480000;529.mp3;529.webp;ダメ... なんです!;¡Está mal!;It's wrong!;False;False;;;
 532;532;531;530;0:10:00.660000;0:10:02.204000;532.mp3;532.webp;なぜ あんなことを言った;¿Por qué dijiste algo así?;Why would you say something like that?;False;False;;;
 534;534;535;533;0:10:03.020000;0:10:05.207000;534.mp3;534.webp;お前も俺を 笑いたいんじゃないのか?;¿Tú no quieres reírte de mí?;Don't you want to laugh at me, too?;False;False;;;
-538;538;537;536;0:10:06.860000;0:10:10.580000;538.mp3;538.webp;逃げたら1つだからです;"Es porque: ""Si huyes, ganas uno"".";"It's because ""If you run, you gain one.""";False;False;;;
+538;538;537;536;0:10:06.860000;0:10:10.580000;538.mp3;538.webp;逃げたら1つだからです;Es porque: \"Si huyes, ganas uno\".;It's because \"If you run, you gain one.\";False;False;;;
 541;541,543;542;540;0:10:12;0:10:16.720000;541.mp3;541.webp;た... 例えば⸺　スッゴい強い敵がいて...;Por ejemplo, si te enfrentas a un enemigo fuerte,;F-For example, if you're facing a strong enemy,;False;False;;;
 546;546;544;545;0:10:16.630000;0:10:20.590000;546.mp3;546.webp;でも 逃げたら 安全... 安心が手に入ります;si huyes, ganas seguridad y resguardo.;by running away, you'd gain safety and security.;False;False;;;
 549;549;548;547;0:10:20.590000;0:10:22.210000;549.mp3;549.webp;俺は逃げん;Yo no huiría.;I wouldn't run.;False;False;;;
@@ -164,8 +164,8 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 577;577;576;575;0:10:43.660000;0:10:47.710000;577.mp3;577.webp;逃げずに進んだら 逃げなかった自分とか⸺;Si avanzas sin huir, ganas confianza en ti mismo,;If you move forward without running, you gain confidence in yourself,;False;False;;;
 580;580;578;579;0:10:47.690000;0:10:50.290000;580.mp3;580.webp;経験とか 認められたりとか...;experiencia o reconocimiento.;or experience, or recognition.;False;False;;;
 583;583;581;582;0:10:50.970000;0:10:53.840000;583.mp3;583.webp;逃げるより いっぱい手に入るんです;Se gana mucho más que huyendo.;You gain a lot more than you would by running.;False;False;;;
-585;585;586;584;0:10:53.840000;0:10:56.800000;585.mp3;585.webp;だから 逃げたら1つ;"Por eso ""Si huyes, ganas uno.";"That's why ""If you run, you gain one.""";False;False;;;
-588;588;589;587;0:10:57.140000;0:10:59.600000;588.mp3;588.webp;進めば2つって...;"Pero si avanzas, ganas dos"".";"And, ""If you move forward, you gain two.""";False;False;;;
+585;585;586;584;0:10:53.840000;0:10:56.800000;585.mp3;585.webp;だから 逃げたら1つ;Por eso \"Si huyes, ganas uno.;That's why \"If you run, you gain one.\";False;False;;;
+588;588;589;587;0:10:57.140000;0:10:59.600000;588.mp3;588.webp;進めば2つって...;Pero si avanzas, ganas dos\".;And, \"If you move forward, you gain two.\";False;False;;;
 592;592;590;591;0:11:00.330000;0:11:02.960000;592.mp3;592.webp;そいつは ご立派な哲学で;Qué filosofía.;That's quite a philosophy.;False;False;;;
 593;593,596;595;594;0:11:02.931000;0:11:06.650000;593.mp3;593.webp;お母さんが⸺　教えてくれたんです;Me la enseñó mi mamá.;My mother taught it to me.;False;False;;;
 599;599;598;597;0:11:07.890000;0:11:12.270000;599.mp3;599.webp;お母さんは いつも強くて... 優しくて...;Mi mamá siempre es muy fuerte y buena.;My mother is always strong and kind.;False;False;;;
@@ -256,7 +256,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 891;891;892;893;0:16:37.223000;0:16:38.892000;891.mp3;891.webp;クソ親父...;Mi maldito papá...;My lousy father...;False;False;;;
 896;896;895;894;0:16:39.210000;0:16:41.640000;896.mp3;896.webp;今度こそ 思いどおりにならないから!;¡Esta vez no dejaré que salga como él quiere!;This time, I won't let things turn out as he pleases!;False;False;;;
 899;899;898;897;0:16:45.350000;0:16:46.733000;899.mp3;899.webp;モビルクラフト?;¿Un Mobile Craft?;A mobile craft?;False;False;;;
-902;902;901;900;0:16:48.110000;0:16:51.110000;902.mp3;902.webp;持ち堪えろって言われても...;"Claro, ""que aguante"". Qué fácil es decirlo.";"""Hanging on"" is easier said than done...";False;False;;;
+902;902;901;900;0:16:48.110000;0:16:51.110000;902.mp3;902.webp;持ち堪えろって言われても...;Claro, \"que aguante\". Qué fácil es decirlo.;\"Hanging on\" is easier said than done...;False;False;;;
 903;903,907;905,909;904,906,908;0:16:51.446000;0:16:57.140000;903.mp3;903.webp;スレッタ・マーキュリー　君が魔女なら切り抜けられるはずだ;Suletta Mercury, si de verdad eres una bruja, podrás sobrevivir a esta situación.;Suletta Mercury, if you really are a witch, you can survive this situation.;False;False;;;
 912;912,915;911,914;910;0:17:01.830000;0:17:10.215000;912.mp3;912.webp;持ち堪える 持ち堪える 持ち堪える 持ち堪える 持ち堪える 持ち堪える　持ち堪える 持ち堪える 持ち堪える 持ち堪える 持ち堪える 持ち堪える;Tengo que aguantar. Tengo que aguantar.;I've got to hang on. I've got to hang on.;False;False;;;
 917;917;918;916;0:17:10.210000;0:17:12.467000;917.mp3;917.webp;持ち堪える! ああ!;¡Aguantaré!;I will hang on!;False;False;;;
@@ -315,7 +315,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 1108;1108;1107;1106,1109;0:21:01.550000;0:21:05.360000;1108.mp3;1108.webp;そう! ざまあみろ クソ親父!;¡Eso es! ¡Toma eso! ¡Papá, eres idiota!;That's right! Take that, you louse of a father!;False;False;;;
 1111;1111;1113;1112;0:21:07.160000;0:21:11.130000;1111.mp3;1111.webp;よよよよ... よかったね ミ... ミオミオ!;Qué buena noticia, ¿verdad, Mio-Mio?;G-Good news, right, Mio-Mio?;False;False;;;
 1115;1115;;1114;0:21:11.130000;0:21:11.831000;1115.mp3;1115.webp;はあ?;;Excuse me?;;False;;;
-1118;1118,1119;1117;1116,1120;0:21:11.830000;0:21:14.730000;1118.mp3;1118.webp;ごめんなさい!　なんなの ミオミオって;¡Perdona! -¿Quién diablos es Mio-Mio?;"I'm sorry! What the heck is ""Mio-Mio""?";False;False;;;
+1118;1118,1119;1117;1116,1120;0:21:11.830000;0:21:14.730000;1118.mp3;1118.webp;ごめんなさい!　なんなの ミオミオって;¡Perdona! -¿Quién diablos es Mio-Mio?;I'm sorry! What the heck is \"Mio-Mio\"?;False;False;;;
 1122;1122,1124;1123;1121;0:21:14.690000;0:21:21.340000;1122.mp3;1122.webp;友達... あだ名で呼ぶの...　リストの結構上のほう... だったから...;Como llamar a una amiga por su apodo estaba al principio de mi lista...;Calling a friend by a nickname was near the top of my list, so...;False;False;;;
 1127;1127;1125;1126;0:21:21.130000;0:21:23;1127.mp3;1127.webp;かわいくないですか...;Es lindo, ¿verdad?;It's cute, isn't it?;False;False;;;
 1129;1129;1128;1130;0:21:22.900000;0:21:25.094000;1129.mp3;1129.webp;却下 センスなさすぎ う...;Rechazado. Es muy ridículo.;Rejected. It's super lame.;False;False;;;

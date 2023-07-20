@@ -202,7 +202,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 893;893;894;895;0:19:14.306000;0:19:16.570000;893.mp3;893.webp;お前は どうする?;¿Qué harás tú?;What will you do now?;False;False;;naji;Naji
 896;896;898;897;0:19:16.342000;0:19:18.778000;896.mp3;896.webp;合流は 少し待ってくれ。;No me uniré aún.;Wait a bit before I join you.;False;False;;olcott;Olcott
 899;899;901;900;0:19:18.778000;0:19:21.180000;899.mp3;899.webp;考える時間が欲しくなった。;Necesito tiempo para pensar.;I need time to think.;False;False;;olcott;Olcott
-903;903;905;904;0:19:29.021000;0:19:33.092000;903.mp3;903.webp;「父さん」って聞こえたから;"Oí que decía ""papá"".";"I heard someone saying ""Daddy.""";False;False;;guel;Guel
+903;903;905;904;0:19:29.021000;0:19:33.092000;903.mp3;903.webp;「父さん」って聞こえたから;Oí que decía \"papá\".;I heard someone saying \"Daddy.\";False;False;;guel;Guel
 906;906;907;908,909;0:19:33.092000;0:19:37.120000;906.mp3;906.webp;助けてほしかったんじゃ ないかって...;Supongo que quería que la salvara.;I thought maybe she wanted him... to save her...;False;False;;guel;Guel
 914;914;915;916;0:19:46.672000;0:19:48.770000;914.mp3;914.webp;俺は どうすれば...;¿Qué debería hacer?;What should I do?;False;False;;guel;Guel
 917;917;919;918;0:19:48.707000;0:19:52.278000;917.mp3;917.webp;俺は お前の親じゃない。ん?;Yo no soy tu papá.;I'm not your father.;False;False;;olcott;Olcott

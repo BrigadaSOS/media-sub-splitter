@@ -172,7 +172,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 673;673;675;674;0:13:15.673000;0:13:19.577000;673.mp3;673.webp;家族... ですか? これが お父さん;¿Es tu familia?;This is your family?;False;False;;lilique;Lilique
 693;693;694;692;0:13:33.160000;0:13:35.770000;693.mp3;693.webp;ど... どうして 私のこと...;¿Cómo es que me conoces?;H-How did you know about me?;False;False;;suletta;Suletta
 695;695;697;696;0:13:35.693000;0:13:39.697000;695.mp3;695.webp;あっ もしかして 会社のPV 見てくれたんですか?;¿La viste en el video de la empresa?;Did you happen to see our PR video?;False;False;;lilique;Lilique
-707;707;708,710;706,709;0:13:46.840000;0:13:51.075000;707.mp3;707.webp;「お姉ちゃん」...わ... 分かりました!;"""Hermanita""... ¡Bien!";"""Big Sister""? Y-You got it!";False;False;;suletta;Suletta
+707;707;708,710;706,709;0:13:46.840000;0:13:51.075000;707.mp3;707.webp;「お姉ちゃん」...わ... 分かりました!;\"Hermanita\"... ¡Bien!;\"Big Sister\"? Y-You got it!;False;False;;suletta;Suletta
 712;712,714;713;711,715;0:13:51.020000;0:13:56.146000;712.mp3;712.webp;お姉ちゃん ソフィさんに 頑張って教えます　いろいろ!;Haré todo lo posible por enseñarte de todo.;Sophie, as your big sister, I'll do my best to teach you! All I know!;False;False;;suletta;Suletta
 716;716;718;717;0:13:56.146000;0:13:58.182000;716.mp3;716.webp;どういうこと?;¿Qué significa esto?;What's the meaning of this?;False;False;;nika;Nika
 720;720;721;719;0:13:57.980000;0:14:02.280000;720.mp3;720.webp;あなたたちを推薦した企業 グループに登録されているけど;La empresa que los recomienda está registrada en el grupo,;The corporation that endorsed you is registered within the Group,;False;False;;nika;Nika
@@ -201,7 +201,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 816;816;815;814;0:16:11.450000;0:16:13.450000;816.mp3;816.webp;ヘドが出る。;Me da náuseas.;It makes me sick.;False;False;;norea;Norea
 819;819;818;817;0:16:15.330000;0:16:17.588000;819.mp3;819.webp;気が合いそうだな。;Parece que congeniamos.;Sounds like we'll get along well.;False;False;;elan 5;Elan (Clone 5)
 820;820;;821;0:16:17.588000;0:16:19.556000;820.mp3;820.webp;ん?;;Huh?;;False;;;Elan (Clone 5)
-824;824;823;822;0:16:24.210000;0:16:26.530000;824.mp3;824.webp;連絡役なんて...;¿Por qué hago de intermediaria?;"Some ""go-between"" I am...";False;False;;nika;Nika
+824;824;823;822;0:16:24.210000;0:16:26.530000;824.mp3;824.webp;連絡役なんて...;¿Por qué hago de intermediaria?;Some \"go-between\" I am...;False;False;;nika;Nika
 826;826;827;825;0:16:31.340000;0:16:35.439000;826.mp3;826.webp;プラント・クエタで 君は 僕らを助けてくれた。;En la Planta Quetta nos salvaste.;At Plant Quetta, you saved us all from harm.;False;False;;martin;Martin
 828;828,834;830,831;829,832,833;0:16:35.439000;0:16:41.779000;828.mp3;828.webp;マルタン。でも　僕には 寮長として みんなを守る責任がある。;Martin. Pero como líder del dormitorio es mi deber protegernos.;Martin... Even so... As head of the House, I'm responsible for everyone's safety.;False;False;;martin,nika;Martin,Nika
 836;836;837;835;0:16:41.640000;0:16:44.190000;836.mp3;836.webp;何か隠しているなら教えてくれよ。;Si ocultas algo, dímelo, por favor.;If you're hiding something, then tell me!;False;False;;martin;Martin
@@ -277,6 +277,6 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 1146;1146;1147;1145;0:23:26.780000;0:23:31.087000;1146.mp3;1146.webp;デリング総裁が 極秘裏に 進めていたプロジェクト。;El proyecto que llevaba en secreto el presidente Delling.;A secret project that President Delling was pursuing.;False;False;;prospera;Prospera
 1148;1148,1152;1149,1151;1150;0:23:31.087000;0:23:36.593000;1148.mp3;1148.webp;GUNDフォーマットの ネットワークを利用して　戦争のない世界に書き換える。;Consiste en usar la red del GUND Format y reescribir un mundo sin guerras.;Using the GUND Format's network, we'll rewrite this into a world without war.;False;False;;prospera;Prospera
 1154;1154;1155;1153;0:23:36.520000;0:23:38.695000;1154.mp3;1154.webp;お父様の大願よ。;Era el deseo de tu padre.;It's your father's greatest wish.;False;False;;prospera;Prospera
-1157;1157;1158;1156,1159;0:23:38.610000;0:23:42.432000;1157.mp3;1157.webp;戦争? どういうこと?;¿Guerras? ¿Qué quieres decir?;"""Without war..."" What do you mean?";False;False;;miorine;Miorine
+1157;1157;1158;1156,1159;0:23:38.610000;0:23:42.432000;1157.mp3;1157.webp;戦争? どういうこと?;¿Guerras? ¿Qué quieres decir?;\"Without war...\" What do you mean?;False;False;;miorine;Miorine
 1161;1161;1162;1160;0:23:42.360000;0:23:44.601000;1161.mp3;1161.webp;ミオリネ・レンブラン;Miorine Rembran,;Miorine Rembran,;False;False;;prospera;Prospera
 1163;1163,1166;1165;1164;0:23:44.601000;0:23:49.680000;1163.mp3;1163.webp;あなたに クワイエット・ゼロを　引き継いでほしいのです。;quiero que tú prosigas con Quiet Zero.;I'd like you to take over the work of Quiet Zero.;False;False;;prospera;Prospera

@@ -67,7 +67,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 259;259;261;260;0:05:58.618000;0:06:02.689000;259.mp3;259.webp;ソ... ソフィさん 止まって。やだー。あははっ。;Detente, Sophie.;M-Ms. Sophie, wait!;False;False;;suletta;Suletta
 266;266;265;264;0:06:04.160000;0:06:07.360000;266.mp3;266.webp;残念でしたね 口説き落とせなくて。;Siento que tu intento de seducción fracasara.;Too bad. You couldn't win her over.;False;False;;norea;Norea
 267;267;269;268;0:06:07.260000;0:06:10.196000;267.mp3;267.webp;まっ 次の機会があるさ。;Tendré más oportunidades.;Well, there's always next time.;False;False;;elan 5;Elan (Clone 5)
-270;270;271;272;0:06:10.196000;0:06:14.200000;270.mp3;270.webp;ガンダムのパイロットに 次なんてあるんですか?;¿Un piloto de Gundam puede pensar en el futuro?;"Can a Gundam pilot really count on a ""next time""?";False;False;;norea;Norea
+270;270;271;272;0:06:10.196000;0:06:14.200000;270.mp3;270.webp;ガンダムのパイロットに 次なんてあるんですか?;¿Un piloto de Gundam puede pensar en el futuro?;Can a Gundam pilot really count on a \"next time\"?;False;False;;norea;Norea
 273;273,276;275,277;274;0:06:14.200000;0:06:18.838000;273.mp3;273.webp;「ペイル社」に飼われて　箱庭で 命を浪費して;Te adoptó Peil y vives desgastándote en su jardín.;Peil Technologies has you on a leash, idling your life away in a toy garden.;False;False;;norea;Norea
 280;280;278;279;0:06:18.820000;0:06:20.840000;280.mp3;280.webp;滑稽ですね。;Es patético.;It's hard not to laugh.;False;False;;norea;Norea
 282;282;283;281,284;0:06:20.840000;0:06:24.844000;282.mp3;282.webp;君のその目 僕の知ってるヤツに そっくりだ。;Tienes la misma mirada que alguien que conocí.;Those eyes of yours... They remind me of someone I used to know.;False;False;;elan 5;Elan (Clone 5)
@@ -76,7 +76,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 292;292;293;294;0:06:33.486000;0:06:35.755000;292.mp3;292.webp;イラつきますね あなた。;Eres insoportable.;You're an irritating fellow.;False;False;;norea;Norea
 297;297;296;295;0:06:35.300000;0:06:38.491000;297.mp3;297.webp;君も なかなか うっとうしいよ。;Podría decir lo mismo de ti.;You're pretty annoying yourself!;False;False;;elan 5;Elan (Clone 5)
 304;304;305;303;0:06:42.270000;0:06:44.850000;304.mp3;304.webp;エランさんは 気持ち悪くなんか...;Elan no da re...;Mr. Elan isn't gross...;False;False;;suletta;Suletta
-315;315;317;316;0:06:52.405000;0:06:54.407000;315.mp3;315.webp;本物? そう。;¿De verdad?;"""Real""?";False;False;;suletta;Suletta
+315;315;317;316;0:06:52.405000;0:06:54.407000;315.mp3;315.webp;本物? そう。;¿De verdad?;\"Real\"?;False;False;;suletta;Suletta
 325;325;327;326;0:07:00.780000;0:07:04.684000;325.mp3;325.webp;ごめんなさい。私 お嫁さんいますから。;Lo siento, pero tengo una prometida.;I'm sorry, but... I have a bride.;False;False;;suletta;Suletta
 329;329,333;332,335;331,334;0:07:04.684000;0:07:11.858000;329.mp3;329.webp;お嫁さん? ミオリネさんと約束したんです　そばにいるって。決闘も負けないって。;Le prometí a Miorine que me quedaría a su lado. Que no perdería ni un duelo.;I made a promise to Ms. Miorine. I'll stay at her side and I'll never lose a duel.;False;False;;suletta;Suletta
 336;336;338;337;0:07:11.858000;0:07:15.200000;336.mp3;336.webp;だから 決闘 私が勝ちます。;Por eso ganaré yo.;So I have no choice... but to win.;False;False;;suletta;Suletta
@@ -106,7 +106,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 436;436,439;438,441;437,440;0:08:50.123000;0:08:54.194000;436.mp3;436.webp;コンテナ射出準備 完了しました。バシン! しゃあ!;Listos para expulsar el contenedor. ¡Bien!;Container launch preparations complete! Here we go!;False;False;;chuchu,lilique;Chuchu,Lilique
 443;443,447;444,446,449;442,445,448;0:08:54.060000;0:09:00.667000;443.mp3;443.webp;頼むぜ エラン。「株式会社ガンダム」の　アピールチャンスだ。全力でいけよ! ピピッ;Contamos contigo, Elan. Es nuestra oportunidad de lucirnos como GUND-ARM. Dalo todo.;We're counting on you, Elan! This is a chance to publicize GUND-ARM, Inc.! Give it all you've got!;False;False;;ojelo;Ojelo
 451;451;452;450;0:09:00.660000;0:09:04.270000;451.mp3;451.webp;全力 出したら 死ぬんだよ こっちは。;Si lo doy todo, me moriré.;I could die from giving it my all, you know...;False;False;;elan 5;Elan (Clone 5)
-455;455;454;453;0:09:04.170000;0:09:07.373000;455.mp3;455.webp;あのときの私って なんだろう?;"¿Qué será ""la Suletta de aquel día""?";"What did she mean by ""like I was before""?";False;False;;suletta;Suletta
+455;455;454;453;0:09:04.170000;0:09:07.373000;455.mp3;455.webp;あのときの私って なんだろう?;¿Qué será \"la Suletta de aquel día\"?;What did she mean by \"like I was before\"?;False;False;;suletta;Suletta
 456;456;458;457;0:09:07.373000;0:09:10.777000;456.mp3;456.webp;ミオリネさん 殺すって...あっ。;Y habló de matar a Miorine.;And about killing Ms. Miorine?;False;False;;suletta;Suletta
 459;459;460,463;461,462;0:09:10.777000;0:09:14.820000;459.mp3;459.webp;そうだよね。勝ったら ニカさん 助けられる。;Tienes razón. Si gano, salvaré a Nika;Right. If I win, I can save Ms. Nika.;False;False;;suletta;Suletta
 464;464;466;465;0:09:14.347000;0:09:17.216000;464.mp3;464.webp;ソフィさんとも 話 できるよね。;y podré hablar con Sophie.;And then I can talk to Ms. Sophie, too.;False;False;;suletta;Suletta

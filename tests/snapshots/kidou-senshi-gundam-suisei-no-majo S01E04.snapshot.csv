@@ -189,7 +189,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 670;670;669;668;0:12:22.560000;0:12:26.740000;670.mp3;670.webp;実習のサポートくらい マニュアルを暗記すればわけないわ;Para darte apoyo solo tengo que memorizar el manual.;Exercise support doesn't require more than memorizing the manual.;False;False;;miorine;
 672;672;673;671;0:12:26.740000;0:12:29.210000;672.mp3;672.webp;ス... スゴいです;Es increíble.;Th-That's amazing!;False;False;;suletta;
 676;676;674;675;0:12:29.160000;0:12:33.260000;676.mp3;676.webp;じゃ... じゃあ ここ 教えてくれますか?;¿Puedes explicarme esto, entonces?;W-Well then, can you teach me about this?;False;False;;suletta;
-678;678,681;679;677,680;0:12:34.380000;0:12:38.610000;678.mp3;678.webp;モビル重機理論?　初歩的なとこじゃない;¿La teoría de maquinaria móvil? Esto es muy básico.;"""Mobile Heavy Machinery Principles""? This is just the basics.";False;False;;miorine;
+678;678,681;679;677,680;0:12:34.380000;0:12:38.610000;678.mp3;678.webp;モビル重機理論?　初歩的なとこじゃない;¿La teoría de maquinaria móvil? Esto es muy básico.;\"Mobile Heavy Machinery Principles\"? This is just the basics.;False;False;;miorine;
 683;683;684;682;0:12:39.960000;0:12:43.820000;683.mp3;683.webp;不安要素は 私より あんたのほうみたいね;En lugar de preocuparte por mí, preocúpate por ti misma.;I'd say you have more cause for concern than I do.;False;False;;miorine;
 687;687;686;685;0:12:44.800000;0:12:46.360000;687.mp3;687.webp;頑張ります...;Haré lo que pueda.;I'll do my best.;False;False;;suletta;
 690;690,692;689;688,691;0:12:47.340000;0:12:52.750000;690.mp3;690.webp;我々 地球居住民は⸺　宇宙事業のために1世紀近く⸺;Los residentes de la Tierra llevamos cerca de un siglo;We Earth residents have devoted nearly a century's worth of taxes and labor;False;False;;manifestante;
@@ -203,7 +203,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 725;725;727;726;0:13:27.586000;0:13:31.820000;725.mp3;725.webp;アーシアンの工場を アーシアンが使って何が悪いんだよ;¿Qué tiene de malo que los Earthians usen una fábrica earthiana?;What the heck is wrong with Earthians using Earthian factories?;False;False;;ojelo;
 730;730;729;728;0:13:31.820000;0:13:33.530000;730.mp3;730.webp;仕方ないよ;Es inevitable.;It can't be helped.;False;False;;martin;
 733;733;731;732;0:13:33.520000;0:13:37.370000;733.mp3;733.webp;大きなメディアは どこも スペーシアンの資本傘下だから;A los medios más importantes los financian Spacians.;All the major media companies rely on Spacian capital.;False;False;;martin;
-734;734,738;735,737;736;0:13:37.596000;0:13:42.726000;734.mp3;734.webp;恩恵はなし アーシアンは黙って働け　だもんな;"Nunca ganamos. ""Earthians, callen y trabajen"".";They think Earthians should just shut up and work without proper benefits.;False;False;;nuno;
+734;734,738;735,737;736;0:13:37.596000;0:13:42.726000;734.mp3;734.webp;恩恵はなし アーシアンは黙って働け　だもんな;Nunca ganamos. \"Earthians, callen y trabajen\".;They think Earthians should just shut up and work without proper benefits.;False;False;;nuno;
 741;741;740;739;0:13:43.140000;0:13:45.500000;741.mp3;741.webp;あれ? チュチュは?;¿Dónde está Chuchu?;Hey, where's Chuchu?;False;False;;martin;
 744;744;743;742,745;0:13:46.090000;0:13:48.260000;744.mp3;744.webp;チュチュ 元気か?;¡Chuchu! -¿Cómo estás?;Chuchu! How's everything?;False;False;;hombre A/B;
 746;746;748;747;0:13:48.231000;0:13:49.710000;746.mp3;746.webp;メシ食ってるか?;¿Comes bien?;Are they feeding you?;False;False;;hombre C;
@@ -245,7 +245,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 864;864,865;862,867;863,866;0:15:59.240000;0:16:05.020000;864.mp3;864.webp;お姫さまに助けてもらうんなら⸺　うちらの寮に来てんじゃねえよ クソスペーシアン;Para pedirle ayuda a la princesa no tenías que ir a nuestra residencia, Spacian de porquería.;If the Princess is helping you, why'd you come to our House?! Spacian turd.;False;False;;chuchu;
 869;869,872;870;868,871;0:16:04.820000;0:16:08.770000;869.mp3;869.webp;チュチュ だからあれは...　地球寮の子?;Chuchu, no era... -¿Eres de la residencia Terrícola?;Chuchu, I explained to you... You're from Earth House?;False;False;;nika/miorine;
 875;875;874;873;0:16:09.280000;0:16:10.820000;875.mp3;875.webp;文句あっか;¿Algún problema?;Got a problem with that?;False;False;;chuchu;
-877;877;878;876;0:16:10.820000;0:16:13.600000;877.mp3;877.webp;スペーシアンてだけで クソ呼ばわり?;"¿Dices que es ""de porquería"" solo por ser Spacian?";You call us turds, just because we're Spacians?;False;False;;miorine;
+877;877;878;876;0:16:10.820000;0:16:13.600000;877.mp3;877.webp;スペーシアンてだけで クソ呼ばわり?;¿Dices que es \"de porquería\" solo por ser Spacian?;You call us turds, just because we're Spacians?;False;False;;miorine;
 881;881;880;879;0:16:13.600000;0:16:17.270000;881.mp3;881.webp;あなたもアーシアンを 差別する連中と変わらないのね;Eres igual que los que discriminan a los Earthians.;Then you're no different from those who discriminate against Earthians.;False;False;;miorine;
 884;884,886;883;882,885;0:16:17.270000;0:16:19.480000;884.mp3;884.webp;てめえー　チュチュ;Serás... -Chuchu.;Why you... Chuchu!;False;False;;chuchu;
 888;888;889;887;0:16:19.480000;0:16:21.450000;888.mp3;888.webp;やめ... やめてください;Paren, por favor.;P-Please, stop!;False;False;;suletta;

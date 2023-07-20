@@ -108,7 +108,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 376;376;375;374;0:09:40.460000;0:09:43.690000;376.mp3;376.webp;デリングの要求した特別総会は?;¿Y la reunión que solicitó Delling?;What about the special session that Delling requested?;False;False;;;
 378;378;379;377;0:09:43.690000;0:09:47.690000;378.mp3;378.webp;そんな要求は受け取っていないよ;No aceptamos sus condiciones.;We've received no such request.;False;False;;;
 380;380,384;382;381,383;0:09:48.178000;0:09:54.090000;380.mp3;380.webp;送電システムを 隠れみのに開発している⸺　惑星間攻撃兵器...;El sistema láser es una tapadera para desarrollar un arma interplanetaria.;An interplanetary weapon developed under the guise of a power transmission system...;False;False;;;
-388;388,389;387;385,386;0:09:54.590000;0:09:59.510000;388.mp3;388.webp;今回は どうやら⸺　それが誤作動を 起こしてしまった;Y así parece que esta vez se activó por error.;"L1 Interplanetary Laser Transmission System ""ILTS"" I wonder, what if it were to be mistakenly activated?";False;False;;;
+388;388,389;387;385,386;0:09:54.590000;0:09:59.510000;388.mp3;388.webp;今回は どうやら⸺　それが誤作動を 起こしてしまった;Y así parece que esta vez se activó por error.;L1 Interplanetary Laser Transmission System \"ILTS\" I wonder, what if it were to be mistakenly activated?;False;False;;;
 391;391,395;392,394;390,393;0:09:59.490000;0:10:05.380000;391.mp3;391.webp;あれを使えば ベネリットどころか⸺　ラグランジュ4全域に 被害を及ぼします;Si se usa, toda la zona de Lagrange 4 recibirá daños, no solo Benerit.;If we use that thing, it'll devastate not just Benerit but all of Lagrange 4.;False;False;;;
 397;397,400;398;396,399;0:10:05.380000;0:10:10.130000;397.mp3;397.webp;その責任は誰が?　もちろん 我々が取る;¿Quién asumirá la responsabilidad? -Nosotros, obviamente.;Who'll take responsibility? We will, of course.;False;False;;;
 402;402;403;401;0:10:11.190000;0:10:13.850000;402.mp3;402.webp;議会連合の失態を受け⸺;Tras el error de la Unión,;To make up for the Assembly League's blunder,;False;False;;;
@@ -200,10 +200,10 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 714;714,715;713;712,716;0:16:59.990000;0:17:05.031000;714.mp3;714.webp;これ以上⸺　逃げ回っていられないの 私は!;Ya no puedo seguir huyendo.;I can't... keep running any longer... I...;False;False;;;
 718;718;719;717;0:17:17;0:17:18.640000;718.mp3;718.webp;早く 急げ!;¡Date prisa!;Hurry! Quick!;False;False;;;
 721;721;722;720;0:17:18.640000;0:17:20.990000;721.mp3;721.webp;うるさい! 分かってる!;¡Cállate! ¡Ya lo sé!;Shut up! I know, already!;False;False;;;
-726;726,728;727;725;0:17:29.100000;0:17:33.840000;726.mp3;726.webp;"そしたら遺伝子コードに⸺　""メッセージ未知なものが""って...";En el código genético había una especie de mensaje.;There was an unknown message in the genetic code.;False;False;;;
+726;726,728;727;725;0:17:29.100000;0:17:33.840000;726.mp3;726.webp;そしたら遺伝子コードに⸺　\"メッセージ未知なものが\"って...;En el código genético había una especie de mensaje.;There was an unknown message in the genetic code.;False;False;;;
 731;731;730;729;0:17:33.840000;0:17:36.938000;731.mp3;731.webp;文字コードに変換したら 言葉になったって;Al transformarlo en letras, aparecieron palabras.;When we converted it to text, it turned out to be words.;False;False;;;
-735;735;734;733;0:17:41.210000;0:17:42.470000;735.mp3;735.webp;私も⸺;"""Yo también...";I'll always...;False;False;;;
-738;738;737;736;0:17:44.050000;0:17:45.620000;738.mp3;738.webp;愛してる;"te amo"".";love you too.;False;False;;;
+735;735;734;733;0:17:41.210000;0:17:42.470000;735.mp3;735.webp;私も⸺;\"Yo también...;I'll always...;False;False;;;
+738;738;737;736;0:17:44.050000;0:17:45.620000;738.mp3;738.webp;愛してる;te amo\".;love you too.;False;False;;;
 741;741;742;740;0:17:50.660000;0:17:53.340000;741.mp3;741.webp;すべては かわいい我が子のため;Todo sea por mi amada hija.;All for the love of my precious child.;False;False;;;
 744;744;745;743;0:17:54.830000;0:17:57.900000;744.mp3;744.webp;母は強しよ お嬢さん;Las madres somos muy fuertes, señorita.;A mother can be very strong, young lady.;False;False;;;
 747;747;748;746;0:18:04.130000;0:18:05.520000;747.mp3;747.webp;お母さん!;¡Mamá!;Mom!;False;False;;;
@@ -222,7 +222,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 791;791;792;790;0:19:18.970000;0:19:21.280000;791.mp3;791.webp;作戦成功っす!;¡Misión cumplida!;Mission accomplished!;False;False;;;
 797;797;796;795;0:19:25.170000;0:19:27.100000;797.mp3;797.webp;人殺しは向いてないね;No eres una buena asesina.;You're not so good at killing people.;False;False;;;
 799;799;800;798;0:19:27.630000;0:19:29.980000;799.mp3;799.webp;次からは人助けにしときなよ;Mejor dedícate a salvar a alguien.;Next time, try helping them instead.;False;False;;;
-803;803;804;802;0:19:32.540000;0:19:34.610000;803.mp3;803.webp;進めば2つ;Si avanzas, ganas dos.;"""Move forward, gain two.""";False;False;;;
+803;803;804;802;0:19:32.540000;0:19:34.610000;803.mp3;803.webp;進めば2つ;Si avanzas, ganas dos.;\"Move forward, gain two.\";False;False;;;
 807;807;806;805;0:19:35.100000;0:19:37.210000;807.mp3;807.webp;あんたの言葉でしょ?;Lo decías tú, ¿no?;Those were your words, right?;False;False;;;
 809;809;810;808;0:19:37.210000;0:19:39.880000;809.mp3;809.webp;だったら言葉どおり進みなさいよ;Pues aprende de ello y avanza.;Then do as you say and move forward.;False;False;;;
 813;813;812;811;0:19:40.480000;0:19:43.790000;813.mp3;813.webp;あんたも スレッタもエリクトも;Suletta, Ericht y tú.;You, Suletta, Ericht...;False;False;;;
@@ -241,4 +241,4 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 854;854;855;853;0:20:50.150000;0:20:52.450000;854.mp3;854.webp;エリィ やめなさい!;¡No, Eri!;Eri! Stop that!;False;False;;;
 861;861;863;860;0:21:52.780000;0:21:54.260000;861.mp3;861.webp;みんな?;¿Hola?;Everyone...?;False;False;;;
 866;866;868;867;0:22:06.624000;0:22:09.610000;866.mp3;866.webp;は... エリィー!;¡Eri!;Eri!;False;False;;;
-872;872,874,879;873,875,876;871,877,878;0:23:43.510000;0:23:49.030000;872.mp3;872.webp;"次回　「機動戦士ガンダム 水星の魔女」　""最終回""";Próximo episodio: episodio final. Final Mobile Suit Gundam: The Witch from Mercury;Next time on Mobile Suit Gundam the Witch from Mercury, Mobile Suit Gundam the Witch from Mercury the final episode.;False;False;;;
+872;872,874,879;873,875,876;871,877,878;0:23:43.510000;0:23:49.030000;872.mp3;872.webp;次回　「機動戦士ガンダム 水星の魔女」　\"最終回\";Próximo episodio: episodio final. Final Mobile Suit Gundam: The Witch from Mercury;Next time on Mobile Suit Gundam the Witch from Mercury, Mobile Suit Gundam the Witch from Mercury the final episode.;False;False;;;

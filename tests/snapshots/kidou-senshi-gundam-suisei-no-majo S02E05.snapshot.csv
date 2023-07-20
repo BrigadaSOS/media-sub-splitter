@@ -52,7 +52,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 229;229;231;230,232;0:05:21.414000;0:05:23.583000;229.mp3;229.webp;嫌です。どうして?;No -¿Por qué no?;No! Why?;False;False;;suletta/elan 5;
 235;235,237;234,239;233,236,238;0:05:23.380000;0:05:29.655000;235.mp3;235.webp;僕のこと好きなんだろ? はっ!　だったら...嫌!;Te gusto, ¿no? Entonces... ¡No!;You like me, don't you? In that case... No!;False;False;;elan 5,suletta;
 240;240,244;242;241,243;0:05:29.655000;0:05:34.727000;240.mp3;240.webp;今のエランさんは 好きじゃないです!　ビリビリビリッ... はっ!;Ahora no me gustas nada, Elan.;The way you are now, Mr. Elan... I don't like you!;False;False;;suletta;
-247;247;246;245,248;0:05:34.370000;0:05:38.940000;247.mp3;247.webp;「エラン エラン」って イラつくなぁ。;"""Elan, Elan""... Qué fastidiosa eres.";Elan this, Elan that... How irritating.;False;False;;elan 5;
+247;247;246;245,248;0:05:34.370000;0:05:38.940000;247.mp3;247.webp;「エラン エラン」って イラつくなぁ。;\"Elan, Elan\"... Qué fastidiosa eres.;Elan this, Elan that... How irritating.;False;False;;elan 5;
 249;249;251;250;0:05:38.731000;0:05:41.340000;249.mp3;249.webp;そんなヤツ ここにはいないよ。;Ese tipo no existe.;The man you're thinking of isn't here!;False;False;;elan 5;
 252;252,256;254;253,255;0:05:41.267000;0:05:46.239000;252.mp3;252.webp;はっ...さあ 早く エアリアルを　渡しなよ。なっ!?;Entrégame el Aerial de una buena vez.;Now... Hand over Aerial to me, immediate-;False;False;;elan 5;
 258;258;259;257,260;0:05:47.660000;0:05:51.911000;258.mp3;258.webp;エラン こいつに何をしている?;¿Qué haces, Elan?;Elan! What are you doing to her?;False;False;;guel;
@@ -79,7 +79,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 336;336;334;335;0:07:28.220000;0:07:32.311000;336.mp3;336.webp;その前に もう一度 学園に来たかった。;Pero quería venir antes de eso.;Before that, I wanted to visit the school one more time.;False;False;;guel;
 338;338;339;337;0:07:32.240000;0:07:36.315000;338.mp3;338.webp;ジェターク寮のヤツらにも 謝りたかったしな。;Y disculparme con la gente de la residencia Jeturk.;I wanted to apologize to everyone in Jeturk House, too.;False;False;;guel;
 341;341;342;340;0:07:36.280000;0:07:40.019000;341.mp3;341.webp;どうして 私なんかに話を?;¿Por qué me cuentas esto?;Why would you tell this to someone like me?;False;False;;suletta;
-343;343;345;344;0:07:40.019000;0:07:42.922000;343.mp3;343.webp;進めば2つ。あっ。;"""Si avanzas, ganas dos"".";"""Move forward, gain two.""";False;False;;guel;
+343;343;345;344;0:07:40.019000;0:07:42.922000;343.mp3;343.webp;進めば2つ。あっ。;\"Si avanzas, ganas dos\".;\"Move forward, gain two.\";False;False;;guel;
 347;347;348;346;0:07:42.840000;0:07:47.660000;347.mp3;347.webp;俺は 進むことが どれだけ怖いか やっと分かった。;Por fin sé lo aterrador que es avanzar.;I... finally understand how frightening it is to move forward.;False;False;;guel;
 349;349;351;350;0:07:47.660000;0:07:51.720000;349.mp3;349.webp;怖いから 父さんから ずっと逃げてたんだって。;Por eso siempre huía de mi padre.;It's because I was scared that I kept running away from my father.;False;False;;guel;
 354;354;353;352;0:07:52.970000;0:07:55.134000;354.mp3;354.webp;でも 今は進める。;Pero ahora puedo avanzar.;But now I can move forward.;False;False;;guel;
@@ -206,7 +206,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 810;810;812;811;0:15:49.642000;0:15:52.811000;810.mp3;810.webp;そう邪けんにすんなよ。;No seas tan fría.;Don't be so rude.;False;False;;elan 5;
 814;814;815;813,816;0:15:52.790000;0:15:56.181000;814.mp3;814.webp;なんだ 君も ここにいたのか。;Vaya, tú también estás acá.;What's this? So you're here too, huh?;False;False;;elan 5;
 819;819;817;818;0:15:56.060000;0:16:00.185000;819.mp3;819.webp;心配してたよ アーシアンの連中。;Los Earthians estaban preocupados.;They were worried about you... your Earthian friends.;False;False;;elan 5;
-820;820,824;822,823;821,825;0:16:00.185000;0:16:08.027000;820.mp3;820.webp;ランブルリングのとき 気付いちゃったんだよね　ガンダムとグラスレーは グルなんじゃないかって。;Durante el Rumble Ring me di cuenta de que GUND-ARM y Grassley podían estar relacionadas.;"It occurred to me during the Rumble Ring. ""The Gundams and Grassley must be in cahoots,"" I thought.";False;False;;elan 5;
+820;820,824;822,823;821,825;0:16:00.185000;0:16:08.027000;820.mp3;820.webp;ランブルリングのとき 気付いちゃったんだよね　ガンダムとグラスレーは グルなんじゃないかって。;Durante el Rumble Ring me di cuenta de que GUND-ARM y Grassley podían estar relacionadas.;It occurred to me during the Rumble Ring. \"The Gundams and Grassley must be in cahoots,\" I thought.;False;False;;elan 5;
 827;827;828;826;0:16:07.900000;0:16:11.463000;827.mp3;827.webp;で カマをかけてみたら大正解。;Puse un anzuelo y me demostraron que tenía razón.;And when I snooped around, I was right on the money!;False;False;;elan 5;
 830;830;831;829;0:16:11.380000;0:16:14.199000;830.mp3;830.webp;僕も 「ペイル」に いられなくなっちゃったし;Ahora ya no puedo quedarme en Peil.;I'm not welcome at Peil now.;False;False;;elan 5;
 833;833;834;832;0:16:14.130000;0:16:16.870000;833.mp3;833.webp;かくまわれる者同士 仲よくしようよ。;Todos somos refugiados. Seamos amigos.;Since we're all fugitives, let's be friends.;False;False;;elan 5;
@@ -235,7 +235,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 918;918;920;919;0:17:47.159000;0:17:49.161000;918.mp3;918.webp;みんな!;¡Chicos!;Everyone!;False;False;;suletta;
 922;922;924;923;0:17:53.699000;0:17:55.667000;922.mp3;922.webp;グエル先輩!;¡Guel!;Mr. Guel!;False;False;;felsi;
 927;927;929;928;0:18:05.811000;0:18:08.080000;927.mp3;927.webp;はっ! いけ スレッタ!;¡Adelante, Suletta!;Go, Suletta!;False;False;;chuchu;
-934;934;937;935;0:18:23.295000;0:18:25.297000;934.mp3;934.webp;兄さん! グエル先輩!;¡Guel! -¡Guel!;Brother!;False;False;;"felsi; petra; kamil/lauda";
+934;934;937;935;0:18:23.295000;0:18:25.297000;934.mp3;934.webp;兄さん! グエル先輩!;¡Guel! -¡Guel!;Brother!;False;False;;felsi\; petra\; kamil/lauda;
 940;940;941;942;0:18:31.537000;0:18:34.020000;940.mp3;940.webp;はっ! 防がれた?;¿Lo bloqueó?;He blocked it?;False;False;;suletta;
 947;947;949,950;948,951;0:18:58.964000;0:19:01.820000;947.mp3;947.webp;すごーい。んだよ あの動き。;Impresionante. ¿Cómo puede moverse así?;Wow! What was that move?!;False;False;;maisie,renee;
 952;952;954;953,955;0:19:01.800000;0:19:04.703000;952.mp3;952.webp;グエル先輩! 頑張れ!;¡Guel! -¡Tú puedes!;Mr. Guel! You can do it!;False;False;;petra/felsi;

@@ -240,7 +240,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 846;846,848;845;844,847;0:14:39.270000;0:14:44.860000;846.mp3;846.webp;こんなことなら...　来るんじゃ... なかったです;Para esto hubiera sido mejor no venir.;If this is how it is, I never should have come to the school.;False;False;;suletta;
 850;850;851;849;0:14:44.860000;0:14:46.970000;850.mp3;850.webp;なに卑屈になってんのよ!;¿Por qué te infravaloras?;Why are you putting yourself down?;False;False;;miorine;
 853;853;854;852;0:14:46.970000;0:14:49.180000;853.mp3;853.webp;いつものやつは どうしたのよ!;¿Y eso que dices siempre?;What happened to your motto?;False;False;;miorine;
-855;855;856;857;0:14:49.115000;0:14:51.190000;855.mp3;855.webp;進めば2つなんでしょ!;"""Si avanzas, ganas dos"".";Move forward, gain two, right?;False;False;;miorine;
+855;855;856;857;0:14:49.115000;0:14:51.190000;855.mp3;855.webp;進めば2つなんでしょ!;\"Si avanzas, ganas dos\".;Move forward, gain two, right?;False;False;;miorine;
 858;858,862;860;859,861;0:14:51.159000;0:14:53.900000;858.mp3;858.webp;できない... です　なんでよ!;No puedo. -¿Por qué no?;I can't... Why the heck not?!;False;False;;suletta;
 865;865;863;864;0:14:54.240000;0:14:57.170000;865.mp3;865.webp;いつもできるわけ... じゃない;No siempre se puede.;I can't do it all the time.;False;False;;suletta;
 867;867;868;866;0:14:57.170000;0:15:00.760000;867.mp3;867.webp;進むの... いつも怖くて...;Avanzar da miedo.;Moving forward is always... scary...;False;False;;suletta;
@@ -254,7 +254,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 897;897;898;896;0:15:25.260000;0:15:27.112000;897.mp3;897.webp;地球に行きたかったのに!;Ir a la Tierra.;I wanted to go to Earth!;False;False;;miorine;
 901;901;900;899;0:15:27.650000;0:15:29.860000;901.mp3;901.webp;あの... なんの話...;¿De qué estás hablando?;What are you talking about?;False;False;;suletta;
 904;904;903;902;0:15:29.850000;0:15:32.560000;904.mp3;904.webp;あんたが 花婿なんかになっちゃったから!;Pero te convertiste en el novio.;It's because you became my groom!;False;False;;miorine;
-907;907;905;906;0:15:33.180000;0:15:36.530000;907.mp3;907.webp;バカみたいに 進めば2つって言うから!;"Y siempre dices: ""Si avanzas, ganas dos cosas"".";"You and your stupid ""move forward, gain two!""";False;False;;miorine;
+907;907;905;906;0:15:33.180000;0:15:36.530000;907.mp3;907.webp;バカみたいに 進めば2つって言うから!;Y siempre dices: \"Si avanzas, ganas dos cosas\".;You and your stupid \"move forward, gain two!\";False;False;;miorine;
 909;909;908;910;0:15:36.860000;0:15:38.660000;909.mp3;909.webp;会社作るはめになって;Ahora tengo una empresa;Now I have to run a company,;False;False;;miorine;
 912;912,915;913;911,914;0:15:38.620000;0:15:42.400000;912.mp3;912.webp;クソ親父に チクチク小言 言われて!　頭下げて!;y he de rebajarme ante las críticas de mi padre.;listen to my father's infuriating criticism, and bow my head!;False;False;;miorine;
 917;917;918;916;0:15:42.400000;0:15:45.490000;917.mp3;917.webp;す... すいま... そお!;Lo sien...;I-I'm sorry!;False;False;;suletta;
@@ -327,7 +327,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 1141;1141;1142;1140;0:19:28.930000;0:19:31.397000;1141.mp3;1141.webp;通信が... つながらない;¿No hay comunicaciones?;I can't get a signal.;False;False;;miorine;
 1145;1145;1146;1147;0:19:31.689000;0:19:33.640000;1145.mp3;1145.webp;な... なんですか これ!;¿Qué pasa?;What's happening?;False;False;;suletta;
 1148;1148;1149;1150;0:19:33.608000;0:19:37.320000;1148.mp3;1148.webp;敵性体の攻撃を受けている 可能性があるってことよ;Es posible que estén atacando unos enemigos.;We may be under attack by hostile forces.;False;False;;miorine;
-1154;1154,1157;1155;1152,1156;0:19:37.320000;0:19:39.850000;1154.mp3;1154.webp;敵!?　どこのどいつだよ!;¿Enemigos? -¿Quiénes son?;"""Hostile?"" Who the hell would attack here?";False;False;;ojelo/chuchu;
+1154;1154,1157;1155;1152,1156;0:19:37.320000;0:19:39.850000;1154.mp3;1154.webp;敵!?　どこのどいつだよ!;¿Enemigos? -¿Quiénes son?;\"Hostile?\" Who the hell would attack here?;False;False;;ojelo/chuchu;
 1159;1159;1160;1158;0:19:39.850000;0:19:42.075000;1159.mp3;1159.webp;そんなの僕に聞かれても!;¡A mí no me preguntes!;How am I supposed to know?!;False;False;;martin;
 1164;1164;1163;1162;0:19:42.060000;0:19:45.600000;1164.mp3;1164.webp;たとえば テロリスト... とか?;Podrían ser terroristas.;They could be terrorists.;False;False;;till;
 1167;1167,1170;1166;1168,1169;0:19:46.870000;0:19:49.870000;1167.mp3;1167.webp;お急ぎください　シェルターに退避を;Retírese al refugio cuanto antes.;Please hurry. You must take shelter.;False;False;;guardaespaldas 1;

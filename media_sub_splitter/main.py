@@ -554,9 +554,7 @@ def split_video_by_subtitles(
 
     csv_filepath = os.path.join(episode_folder_output_path, output_csv_name)
     with open(csv_filepath, "w+", newline="", encoding="utf-8") as csvfile:
-        writer = csv.DictWriter(
-            csvfile, fieldnames=EpisodeCsvRow._fields, delimiter=";"
-        )
+        writer = csv.DictWriter( csvfile, fieldnames=EpisodeCsvRow._fields, delimiter=";", quoting=csv.QUOTE_NONE, escapechar='\\')
         writer.writeheader()
 
         segment_start = sorted_lines[0]["start"] - 1

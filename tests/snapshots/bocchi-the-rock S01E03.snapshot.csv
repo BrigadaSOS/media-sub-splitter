@@ -65,14 +65,14 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 290;290;292;291;0:05:22.163000;0:05:24.082000;290.mp3;290.webp;えっ 私の名前 知っ...;¿Sabe mi nombre?;Sh-She knows my nー;False;False;;hitori;Hitori
 294;294;295;293;0:05:24.050000;0:05:26.320000;294.mp3;294.webp;ねえ 誰かに用事でもあるの?;¿Estás buscando a alguien?;Are you looking for someone in here?;False;False;;kita;Kita
 297;297;299;298;0:05:26.960000;0:05:28.920000;297.mp3;297.webp;い... 言うんだ ひとり!;¡Díselo, Hitori!;S-Say it, Hitori!;False;False;;hitori;Hitori
-303;303,305;304;302;0:05:28.900000;0:05:33.133000;303.mp3;303.webp;"""バンドのギターボーカルを 探していて""　""うちのバンドに 興味ないですか!""";"""Buscamos guitarrista vocalista para nuestro grupo, ¿te interesa?"".";"""My band is looking for a guitar-slash- vocalist. Would you be interested?""";False;False;;hitori;Hitori
+303;303,305;304;302;0:05:28.900000;0:05:33.133000;303.mp3;303.webp;\"バンドのギターボーカルを 探していて\"　\"うちのバンドに 興味ないですか!\";\"Buscamos guitarrista vocalista para nuestro grupo, ¿te interesa?\".;\"My band is looking for a guitar-slash- vocalist. Would you be interested?\";False;False;;hitori;Hitori
 310;310;311;307;0:05:35.890000;0:05:37.178000;310.mp3;310.webp;バ! ギ! ボ!;¡Buguivo!;Ba! Gui! Vo!;False;False;;hitori;Hitori
 317;317;318;316;0:05:37.140000;0:05:39.681000;317.mp3;317.webp;突然のヒューマンビートボックス!;¿Beatbox, así de repente?;She became a human beatbox!;False;False;;kita;Kita
 320;320,324;322;321,323;0:05:41.683000;0:05:47.063000;320.mp3;320.webp;えっと...　ぶんつく ぱーつく つくつく ぱーつく...;Este... Btsc, batsc...;Er... Bam-chika-boom-chika... bam-chika-boom-chika...;False;False;;kita;Kita
 326;326;327;325;0:05:47.030000;0:05:50.817000;326.mp3;326.webp;す... すみませーん!;¡Lo siento!;I... I'm so sorry!;False;False;;hitori;Hitori
 330;330;329;328;0:05:50.700000;0:05:51.860000;330.mp3;330.webp;あっ ちょっと!;¡Espera!;W-Wait!;False;False;;kita;Kita
 333;333;334;332;0:05:55.870000;0:05:59.784000;333.mp3;333.webp;一日で2つも 黒歴史を更新してしまった;En un día le sumé dos sucesos a mi pasado oscuro.;Two more additions to my dark past in one day.;False;False;;hitori;Hitori
-337;337,340;338;336,339;0:06:02.180000;0:06:07.490000;337.mp3;337.webp;"聴いてください　新曲""ダブル黒歴史 ぼっち弾き語りversion""";"Escuchen mi nueva canción, ""La historia del doble suceso oscuro de Bocchi"".";Lend me your ears. This is my new song: Double Dark Past, Bocchi Acoustic Version.;False;False;;hitori;Hitori
+337;337,340;338;336,339;0:06:02.180000;0:06:07.490000;337.mp3;337.webp;聴いてください　新曲\"ダブル黒歴史 ぼっち弾き語りversion\";Escuchen mi nueva canción, \"La historia del doble suceso oscuro de Bocchi\".;Lend me your ears. This is my new song: Double Dark Past, Bocchi Acoustic Version.;False;False;;hitori;Hitori
 343;343;344;342;0:06:12.740000;0:06:15.970000;343.mp3;343.webp;憂鬱な日々増えていくトラウマ;Días deprimentes, traumas que se multiplican.;Melancholy days, multiplying traumas;False;False;;hitori;Hitori
 346;346;347;345;0:06:15.970000;0:06:19.888000;346.mp3;346.webp;いらない私の負の遺産;Un legado de negatividad innecesario.;Wanna ditch this negative legacy I carry...;False;False;;hitori;Hitori
 349;349;350;348;0:06:19.920000;0:06:24.559000;349.mp3;349.webp;思い出しては ひっそり泣いてる;Hago memoria y lloro en soledad.;The memories bring soft, secret tears to my eyes;False;False;;hitori;Hitori
@@ -111,7 +111,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 465;465,468;467;466;0:07:57.151000;0:08:00.947000;465.mp3;465.webp;ギターって こっち ジャンジャンするだけじゃないのね　うえっ?;Descubrí que la guitarra no se toca así.;There's more to playing than just this strum-strum stuff, right?;False;False;;kita;Kita
 470;470;471;469;0:08:00.910000;0:08:04.160000;470.mp3;470.webp;この木の棒 飾りかと思ってた;Pensaba que este palo era decorativo.;I'd figured this wooden stick part was just for decoration!;False;False;;kita;Kita
 473;473;474;472;0:08:04.160000;0:08:08.120000;473.mp3;473.webp;初心者が一人で始めるには 難しすぎるのよね;Y es muy difícil aprender a tocar por tu cuenta.;It's way too hard for someone to learn on their own.;False;False;;kita;Kita
-476;476;477;475;0:08:08.120000;0:08:11.380000;476.mp3;476.webp;メジャーコード? マイナー? 野球の話?;Acordes mayores, menores... Suena a ligas de béisbol.;"""Major chords""? ""Minor""? What is this, baseball?";False;False;;kita;Kita
+476;476;477;475;0:08:08.120000;0:08:11.380000;476.mp3;476.webp;メジャーコード? マイナー? 野球の話?;Acordes mayores, menores... Suena a ligas de béisbol.;\"Major chords\"? \"Minor\"? What is this, baseball?;False;False;;kita;Kita
 479;479;480;478;0:08:11.370000;0:08:13.334000;479.mp3;479.webp;分からないの次元が違いすぎる!;De verdad no sabe nada.;Her non-comprehension is on a whole other level!;False;False;;hitori;Hitori
 481;481;483;482;0:08:13.418000;0:08:16.504000;481.mp3;481.webp;後藤さんは 誰かに教えてもらったの? ギター;¿A ti te enseñó a tocar alguien?;Did someone teach you to play, Gotoh-san?;False;False;;kita;Kita
 485;485;486;484;0:08:16.500000;0:08:18.560000;485.mp3;485.webp;あっ い... いや ほとんど独学で;No, aprendí por mi cuenta.;N-No, I mostly taught myself...;False;False;;hitori;Hitori
@@ -209,7 +209,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 801;801;802;800;0:12:38.720000;0:12:41.018000;801.mp3;801.webp;リョウ先輩は あの顔がいいんですよ;Esa expresión es parte de su encanto.;Ryo-senpai looks fine just the way she is!;False;False;;kita;Kita
 809;809;811;810;0:12:41.102000;0:12:43.938000;809.mp3;809.webp;ぼっち そんな所で何してる?;¿Qué haces ahí, Bocchi?;Bocchi. What are you doing down there?;False;False;;ryo;Ryo
 813;813;812;814;0:12:43.960000;0:12:47.240000;813.mp3;813.webp;あっ アイデンティティの喪失中です;Perder mi identidad.;Losing my identity.;False;False;;hitori;Hitori
-816;816,819;817;815,818;0:12:47.240000;0:12:53.364000;816.mp3;816.webp;"では 聴いてください　""その日入った新人より使えない ダメバイトのエレジー""";"Escuchen ""Elegía a la inútil que trabaja peor que la chica nueva"".";"Now, lend me your ears. This is... ""The Elegy of the Part-Time Worker Who Lost Her Identity to the Just-Arrived Newbie.""";False;False;;hitori;Hitori
+816;816,819;817;815,818;0:12:47.240000;0:12:53.364000;816.mp3;816.webp;では 聴いてください　\"その日入った新人より使えない ダメバイトのエレジー\";Escuchen \"Elegía a la inútil que trabaja peor que la chica nueva\".;Now, lend me your ears. This is... \"The Elegy of the Part-Time Worker Who Lost Her Identity to the Just-Arrived Newbie.\";False;False;;hitori;Hitori
 835;835;836;834;0:13:15.850000;0:13:17.471000;835.mp3;835.webp;ぼっちちゃん ぼっちちゃん;¡Bocchi, Bocchi!;Bocchi-chan! Bocchi-chan!;False;False;;nijika;Nijika
 838;838,841;839;837,840;0:13:17.470000;0:13:20.057000;838.mp3;838.webp;喜多ちゃんに ドリンク教えたげてよ　はっ はい!;Enséñale a servir bebidas a Kita. -Voy.;Teach Kita-chan how to do the drinks! R-Right!;False;False;;nijika;Hitori,Nijika
 842;842;844;843;0:13:20.141000;0:13:22.852000;842.mp3;842.webp;名誉挽回のチャンス!;¡Puedo recuperar mi honor!;Now's my chance to restore my good name!;False;False;;hitori;Hitori
@@ -235,7 +235,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 936;936;937;935;0:14:44.940000;0:14:47.687000;936.mp3;936.webp;リョウさん ほかのバンドもしてたんだ;Así que tocaba en otra banda.;Ryo-san was in another band, too?;False;False;;hitori;Hitori
 940;940,941;939,942;938;0:14:47.640000;0:14:51.520000;940.mp3;940.webp;ちょっと浮世離れしてる雰囲気とか　ユニセックスな見た目とか;Que parezca de otro mundo, su apariencia unisex...;Her above-it-all attitude, her unisex look...;False;False;;kita;Kita
 944;944;945;943;0:14:51.510000;0:14:53.651000;944.mp3;944.webp;もう 何もかも キャーって感じで;Todo eso te hace chillar.;It all makes me squee!;False;False;;kita;Kita
-948;948;947;946;0:14:53.620000;0:14:54.694000;948.mp3;948.webp;"""キャー""?";¿Chillar?;"""Squee""?";False;False;;hitori;Hitori
+948;948;947;946;0:14:53.620000;0:14:54.694000;948.mp3;948.webp;\"キャー\"?;¿Chillar?;\"Squee\"?;False;False;;hitori;Hitori
 950;950;951;949;0:14:54.660000;0:14:57.400000;950.mp3;950.webp;そして 何より 楽器が様になってて;Y verla con su instrumento es mortal.;And she just looks so right holding an instrument!;False;False;;kita;Kita
 953;953;954;952;0:14:57.380000;0:14:59.240000;953.mp3;953.webp;あっ それは分かります;Eso lo entiendo.;Oh, I know what you mean!;False;False;;hitori;Hitori
 956;956;957;955;0:14:59.240000;0:15:02.940000;956.mp3;956.webp;わ... 私が持つと どうしても 楽器に持たされてる感が...;En mi caso, el instrumento destaca más que yo.;Wh-When I hold mine, it looks more like the instrument's holding me.;False;False;;hitori;Hitori

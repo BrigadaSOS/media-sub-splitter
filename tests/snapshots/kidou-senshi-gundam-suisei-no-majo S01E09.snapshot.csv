@@ -152,7 +152,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 523;523;522;521;0:10:24.640000;0:10:27.500000;523.mp3;523.webp;ファラクトを渡せるわけないよな;¿Cómo podrías darles un Pharact?;There's no way you can give them the Pharact.;False;False;;elan;
 526;526;525;524;0:10:27.890000;0:10:31.770000;526.mp3;526.webp;俺たちのことがバレたら それこそ大騒ぎだ;Se armaría un buen escándalo si nos descubrieran.;If they found out about us, there'd really be an uproar.;False;False;;elan;
 529;529;528;527;0:10:32.650000;0:10:34.760000;529.mp3;529.webp;バアさんたちから伝言;Tengo un mensaje de las viejas.;I also have a message from the old ladies.;False;False;;elan;
-532;532;531;530;0:10:34.760000;0:10:39.640000;532.mp3;532.webp;あいつらに手を貸す以上 成果は持ち帰ってこいって...;"""Si los ayudarás, esperamos resultados"".";If you insist on helping them, you'd better bring back results.;False;False;;elan;
+532;532;531;530;0:10:34.760000;0:10:39.640000;532.mp3;532.webp;あいつらに手を貸す以上 成果は持ち帰ってこいって...;\"Si los ayudarás, esperamos resultados\".;If you insist on helping them, you'd better bring back results.;False;False;;elan;
 535;535;534;533;0:10:41.040000;0:10:42.620000;535.mp3;535.webp;分かってるわ;Lo sé.;I know.;False;False;;belmeria;
 538;538,540;537;536,539;0:10:44;0:10:48.460000;538.mp3;538.webp;メイジー　私 みんなに迷惑かけないかな;¿De seguro no os pondré en apuros, Maisie?;Maisie... you don't think I'll get in the way, do you?;False;False;;ireesha;
 542;542;543;541;0:10:48.460000;0:10:51.586000;542.mp3;542.webp;イリーシャは怖がりすぎ 見なよ;Tienes demasiado miedo, Ireesha. Mira.;Ireesha's such a scaredy-cat. Look!;False;False;;maisie;
@@ -325,7 +325,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 1125;1125;1124;1123;0:21:47.120000;0:21:49.570000;1125.mp3;1125.webp;最初から決闘で奪えばよかった;Debería haberlo pedido en un duelo.;I should have dueled for it from the beginning.;False;False;;shaddiq;
 1128;1128,1129;1127;1126;0:21:50.160000;0:21:53.420000;1128.mp3;1128.webp;今さら泣きごと言っても⸺　会社はあげないわよ;No te daré la empresa por mucho que te quejes.;No amount of whining will get you this company now.;False;False;;miorine;
 1132;1132;1131;1130;0:21:53.880000;0:21:55.830000;1132.mp3;1132.webp;いや 君をだよ;No. Me refería a ti.;Not for that... but for your hand.;False;False;;shaddiq;
-1135;1135;1134;1133;0:21:57.670000;0:22:00.370000;1135.mp3;1135.webp;ホルダーになって君を守る;"""Me haré Holder y te protegeré"".";"""I'll become the Holder and protect you myself.""";False;False;;shaddiq;
+1135;1135;1134;1133;0:21:57.670000;0:22:00.370000;1135.mp3;1135.webp;ホルダーになって君を守る;\"Me haré Holder y te protegeré\".;\"I'll become the Holder and protect you myself.\";False;False;;shaddiq;
 1138;1138;1137,1139;1136;0:22:00.370000;0:22:04.740000;1138.mp3;1138.webp;その一言が言えれば 俺も中に入れたのかな;Si hubiera dicho eso, ¿habría podido entrar?;If I'd only said those words, maybe you'd have let me in.;False;False;;shaddiq;
 1142;1142;1141;1140;0:22:13.400000;0:22:14.800000;1142.mp3;1142.webp;バカね;Será tonto...;Fool...;False;False;;miorine;
 1145;1145;1144;1143;0:22:18.400000;0:22:19.930000;1145.mp3;1145.webp;今さらよ;Ya es tarde.;Too little, too late.;False;False;;miorine;

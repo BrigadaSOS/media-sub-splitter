@@ -175,7 +175,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 693;693;695;694;0:13:16.827000;0:13:18.963000;693.mp3;693.webp;通告書のチェックも お願いします。;Y mira estas notificaciones.;And please look over these notifications!;False;False;;Lilique;Lilique
 697;697;698;696;0:13:18.900000;0:13:21.732000;697.mp3;697.webp;新しいアプリ買いたいんだけど。あーしのデミの;Quiero comprar una app nueva.;I'd like to buy a new app.;False;False;;Nuno;Nuno
 701;701,702;700;699;0:13:21.370000;0:13:26.570000;701.mp3;701.webp;補修費用が先っしょ。あの... 私も...助成金だからね。お金がないの 僕たちは。;Yo... Este...;I...I, uh...;False;False;;Suletta;Suletta
-705;705;703;704,706;0:13:26.300000;0:13:28.539000;705.mp3;705.webp;はい。ん?;Miren.;Over here! Huh?;False;False;;Till;"Miorine; Chuchu; Ojelo; Nuno; Aliya; Lilique & Martin,Till"
+705;705;703;704,706;0:13:26.300000;0:13:28.539000;705.mp3;705.webp;はい。ん?;Miren.;Over here! Huh?;False;False;;Till;Miorine\; Chuchu\; Ojelo\; Nuno\; Aliya\; Lilique & Martin,Till
 707;707;709;708;0:13:30.474000;0:13:33.477000;707.mp3;707.webp;あっ あ... あの...;Ah, este...;Uh, well, I...;False;False;;Suletta;Suletta
 712;712;711;710,713;0:13:33.040000;0:13:38.470000;712.mp3;712.webp;温室... 見てほしい... です。;Me gustaría que vieras el invernadero.;I'd like you... to look... at the greenhouse.;False;False;;Suletta;Suletta
 717;717;715;716;0:13:43.510000;0:13:46.290000;717.mp3;717.webp;リリッケ 書類をまとめといてちょうだい。;Lilique, organiza los materiales para revisarlos.;Lilique! Organize the materials for me to check.;False;False;;Miorine;Miorine
@@ -184,7 +184,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 727;727;729;728;0:13:56.133000;0:13:59.136000;727.mp3;727.webp;⚟ドンドン ⚟こんにちはー。;¡Hola!;Hello!;False;False;;Prospera;Prospera
 731;731;732;730;0:13:58.810000;0:14:01.906000;731.mp3;731.webp;どなたか いらっしゃいます?;¿Hay alguien?;Is there anyone home?;False;False;;Prospera;Prospera
 733;733;735;734,736;0:14:01.906000;0:14:04.010000;733.mp3;733.webp;誰? お母さん。;¿Quién es? -¿Mamá?;Who's that? Mom?;False;False;;Aliya;Aliya,Suletta
-737;737;739;738,740;0:14:03.941000;0:14:06.811000;737.mp3;737.webp;お母さん!? えっ!?;"¿""Mamá""?";"""Mom""?! What?!";False;False;;Ojelo;Everyone,Ojelo
+737;737;739;738,740;0:14:03.941000;0:14:06.811000;737.mp3;737.webp;お母さん!? えっ!?;¿\"Mamá\"?;\"Mom\"?! What?!;False;False;;Ojelo;Everyone,Ojelo
 741;741;743;742;0:14:06.811000;0:14:08.813000;741.mp3;741.webp;どうしたの? 突然。;¿A qué viniste?;What are you doing here?;False;False;;Suletta;Suletta
 746;746;745;744;0:14:08.670000;0:14:11.482000;746.mp3;746.webp;参考人聴取が終わったの。;Los investigadores ya dejaron de interrogarme.;The investigators finished questioning me.;False;False;;Prospera;Prospera
 749;749;748;747;0:14:11.380000;0:14:14.418000;749.mp3;749.webp;あれ以来 あなたたちに 会えていなかったでしょ?;No te veía desde el incidente, ¿no?;I hadn't seen you at all since the incident, right?;False;False;;Prospera;Prospera
@@ -246,7 +246,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 964;964,966;965;963;0:18:39.050000;0:18:43.360000;964.mp3;964.webp;えっ? で... でも　みんなを救えるのは 私たちだけだって...;¿Qué? Pero solo nosotras dos pudimos salvar a todos.;What? B-But only the two of us could save everyone.;False;False;;Suletta;Suletta
 967;967;969,970;968,971;0:18:43.320000;0:18:46.857000;967.mp3;967.webp;お母さんが そう言ったの? はい。;¿Eso es lo que te dijo tu madre? Sí.;Is that what your mom told you? Yes.;False;False;;Miorine,Suletta;Miorine,Suletta
 974;974;973;972;0:18:46.560000;0:18:50.194000;974.mp3;974.webp;お母さんが言ったら あんた なんでもやるの!?;¿Harás todo lo que te diga tu madre?;Will you do anything your mom tells you to?;False;False;;Miorine;Miorine
-977;977;976;975;0:18:50.060000;0:18:52.363000;977.mp3;977.webp;なんでもは しませんけど...;"Yo no diría ""todo""...";"I wouldn't say ""anything""...";False;False;;Suletta;Suletta
+977;977;976;975;0:18:50.060000;0:18:52.363000;977.mp3;977.webp;なんでもは しませんけど...;Yo no diría \"todo\"...;I wouldn't say \"anything\"...;False;False;;Suletta;Suletta
 980;980;979;978;0:18:52.290000;0:18:56.400000;980.mp3;980.webp;水星に学校をつくる夢 諦めろって言われたら!?;¿Y si te dijera que te olvidaras de crear una escuela en Mercurio?;What if she told you to give up your dream of building a school at Mercury?;False;False;;Miorine;Miorine
 981;981;983;982;0:18:56.400000;0:19:00.904000;981.mp3;981.webp;それは ちょっと 困るかも...;Pues supongo que sería un problema...;I'd be troubled... I guess...;False;False;;Suletta;Suletta
 984;984;986;985;0:19:00.904000;0:19:02.906000;984.mp3;984.webp;でも...ん?;Pero...;But...;False;False;;Suletta;Suletta
@@ -274,14 +274,14 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 1077;1077;1076;1075;0:20:46.250000;0:20:49.079000;1077.mp3;1077.webp;そのとおりの意味よ。;Lo que oíste.;I meant exactly what I said.;False;False;;Prospera;Prospera
 1080;1080;1079;1078;0:20:48.960000;0:20:51.982000;1080.mp3;1080.webp;21年前の ヴァナディース事変で;Durante el Incidente de Vanadis de hace 21 años,;During the Vanadis Incident 21 years ago,;False;False;;Prospera;Prospera
 1083;1083,1084;1082,1086;1081,1085;0:20:51.950000;0:20:58.956000;1083.mp3;1083.webp;私は デリング・レンブランに　夫を 仲間を 恩師を奪われた。;Delling Rembran me privó de mi marido, mis compañeros... y mi mentora.;Delling Rembran deprived me of my husband, my colleagues... and my mentor.;False;False;;Prospera;Prospera
-1089;1089;1087;1088;0:20:58.610000;0:21:04.595000;1089.mp3;1089.webp;あの男は 魔女狩りと称して 機関の人間を皆殺しにしたわ。;En nombre de la caza de brujas, ese tipo mató a la gente del Instituto.;"In the name of ""witch-hunting,"" that man slaughtered everyone at the Institute.";False;False;;Prospera;Prospera
+1089;1089;1087;1088;0:20:58.610000;0:21:04.595000;1089.mp3;1089.webp;あの男は 魔女狩りと称して 機関の人間を皆殺しにしたわ。;En nombre de la caza de brujas, ese tipo mató a la gente del Instituto.;In the name of \"witch-hunting,\" that man slaughtered everyone at the Institute.;False;False;;Prospera;Prospera
 1090;1090;1092;1091;0:21:04.595000;0:21:07.931000;1090.mp3;1090.webp;生き残ったのは 私たちだけ。;Solo sobrevivimos nosotras.;We're the only ones who survived.;False;False;;Prospera;Prospera
 1093;1093,1098;1095,1097;1094,1096;0:21:07.931000;0:21:13.770000;1093.mp3;1093.webp;うそ...あなた　スレッタを 「人殺し」と責めていたけど;Es mentira... Acusaste a Suletta de ser una asesina,;You're lying... You accused Suletta of being a murderer,;False;False;;Miorine,Prospera;Miorine,Prospera
 1101;1101;1100;1099;0:21:13.610000;0:21:16.773000;1101.mp3;1101.webp;自分も同じ所にいるのよ。;pero tú estás en la misma posición.;but you're in the same position.;False;False;;Prospera;Prospera
 1104;1104;1103;1102;0:21:16.740000;0:21:19.510000;1104.mp3;1104.webp;人殺しの輪の中に。;En la del ciclo de los asesinos...;Inside the circle of murderers...;False;False;;Prospera;Prospera
 1108;1108;1107;1106;0:21:22.740000;0:21:25.482000;1108.mp3;1108.webp;あなたにも聞いてほしいわ;Quiero que los oigas.;I want you to hear them too.;False;False;;Prospera;Prospera
 1109;1109;1111;1110;0:21:25.482000;0:21:29.286000;1109.mp3;1109.webp;殺された同胞たちの 悲鳴と叫びを。;Los chillidos y los gritos de mis compañeros.;The screams and cries of my comrades...;False;False;;Prospera;Prospera
-1114;1114;1113;1112;0:21:29.250000;0:21:33.624000;1114.mp3;1114.webp;「復讐を果たせ。デリングを殺せ」と;"""Venga nuestras muertes. Mata a Delling"".";"""Avenge our deaths... Kill that man Delling...""";False;False;;Prospera;Prospera
+1114;1114;1113;1112;0:21:29.250000;0:21:33.624000;1114.mp3;1114.webp;「復讐を果たせ。デリングを殺せ」と;\"Venga nuestras muertes. Mata a Delling\".;\"Avenge our deaths... Kill that man Delling...\";False;False;;Prospera;Prospera
 1117;1117;1116;1115;0:21:33.590000;0:21:36.894000;1117.mp3;1117.webp;今も 私の耳元で ささやいている。;Me lo susurran al oído en este mismo instante.;They're whispering it in my ear, even as we speak.;False;False;;Prospera;Prospera
 1119;1119;1121;1120;0:21:42.633000;0:21:46.003000;1119.mp3;1119.webp;復讐したければ 大人同士で 勝手に やって!;Si quieres venganza, ¿por qué no se matan los adultos?;If you want revenge, why don't you adults kill each other?;False;False;;Miorine;Miorine
 1122;1122;1124;1123;0:21:46.003000;0:21:50.908000;1122.mp3;1122.webp;でも スレッタを あんたの復讐に巻き込まないで!;Pero ¡deja a Suletta al margen de tu venganza!;But leave Suletta out of your vengeance!;False;False;;Miorine;Miorine

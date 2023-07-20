@@ -82,7 +82,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 345;345;346;344,347;0:05:35.180000;0:05:39.580000;345.mp3;345.webp;あっ まあ作詞なんて朝メシ前 ちょちょいのちょいですよ;Bueno, escribir letras es pan comido.;W-Well, I can write lyrics like nobody's business! It's the super-easiest thing ever!;False;False;;hitori;Hitori
 348;348;350;349;0:05:39.549000;0:05:41.884000;348.mp3;348.webp;後藤さんって すぐ調子乗っちゃうのね;Goto no tarda en dejarse llevar.;You get carried away so easily, Gotoh-san.;False;False;;kita;Kita
 351;351,354,355;353;352;0:05:41.968000;0:05:48.599000;351.mp3;351.webp;エヘッ エヘヘ 大ヒット間違いなしの　バンドらしい歌詞 書いちゃいますから　フフッ フフフ;Escribiré una letra propia de una banda megaexitosa.;I'm gonna write the most band-like lyrics and guarantee us a huge hit!;False;False;;hitori;Hitori
-358;358;357;356;0:05:48.480000;0:05:49.660000;358.mp3;358.webp;"""らしい""...";"""Propia de"", ¿eh?";"""Band-like""?";False;False;;ryo;Ryo
+358;358;357;356;0:05:48.480000;0:05:49.660000;358.mp3;358.webp;\"らしい\"...;\"Propia de\", ¿eh?;\"Band-like\"?;False;False;;ryo;Ryo
 363;363,365;364;366;0:05:54.981000;0:05:58.650000;363.mp3;363.webp;な...　何も思いつかない...;No se me ocurre nada.;I couldn't think of anything!;False;False;;hitori;Hitori
 383;383,386;384;370;0:05:59.790000;0:06:03.970000;383.mp3;383.webp;歌詞は1行も書けてないのに　サインは完成してしまった;No he escrito ni una línea, pero ya tengo mi autógrafo.;I failed to write a single lyric, but I've perfected my signature...;False;False;;hitori;Hitori
 389;389,392;390;388;0:06:03.970000;0:06:07.660000;389.mp3;389.webp;こ... こんなこと してる場合じゃないのに!　わーい ワンワン;¡No tengo tiempo para esto!;Why can't I get my priorities in order?!;False;False;;hitori;Hitori
@@ -126,7 +126,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 576;576,579;577;575,578;0:08:38.750000;0:08:42.857000;576.mp3;576.webp;この前 思いつかなかったけど まだあったんだよ　バンドらしいこと;El otro día no se me ocurrió, pero hay otra cosa típica de una banda.;I didn't think of it until now, but there's one other really band-like thing we can do!;False;False;;nijika;Nijika
 581;581;583;582;0:08:45.359000;0:08:47.153000;581.mp3;581.webp;アー写を撮ろう!;¡Nuestra FdA!;Take ProPhos!;False;False;;nijika;Nijika
 585;585;584;;0:08:48.200000;0:08:49.530000;585.mp3;585.webp;ア... ?;¿Efedeá?;;False;;;hitori;
-588;588;587;586;0:08:49.480000;0:08:51.324000;588.mp3;588.webp;アーティスト写真だって;"""Foto de artista"".";Promotional photos, she means.;False;False;;kita;Kita
+588;588;587;586;0:08:49.480000;0:08:51.324000;588.mp3;588.webp;アーティスト写真だって;\"Foto de artista\".;Promotional photos, she means.;False;False;;kita;Kita
 590;590;592;591;0:08:52.450000;0:08:56.537000;590.mp3;590.webp;今ある結束バンドのアー写には ぼっちちゃん 写ってないしね;En la que tenemos ahora no apareces tú, Bocchi.;Since Bocchi-chan isn't in Kessoku Band's current ProPho.;False;False;;nijika;Nijika
 594;594;595;593;0:08:56.500000;0:08:58.080000;594.mp3;594.webp;い... 今ある?;¿Hay una?;C-Current?;False;False;;hitori;Hitori
 597;597;598;596,599;0:08:58.490000;0:09:01.260000;597.mp3;597.webp;見る? この前 ライブ出るために撮った;¿Quieres verla? La tomamos antes del concierto.;Want to see? We took it for our last concert.;False;False;;ryo;Ryo
@@ -161,7 +161,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 705;705;706;704;0:10:40.840000;0:10:42.184000;705.mp3;705.webp;かっこ悪いからやだ;No, me vería patética.;Nah, that's lame.;False;False;;ryo;Ryo
 709;709;711;710;0:10:48.357000;0:10:50.151000;709.mp3;709.webp;あっ こことかどうです?;¿Qué tal aquí?;What about here?;False;False;;kita;Kita
 714;714;713;712;0:10:50.740000;0:10:52.027000;714.mp3;714.webp;良くないですか?;Está bien, ¿no?;Isn't it nice?;False;False;;kita;Kita
-716;716,718;717;715;0:10:52.020000;0:10:55.656000;716.mp3;716.webp;たくさん ポスターとか貼ってあって　下北沢らしいというか;Hay muchos pósteres. Es típico de Shimo-Kitazawa.;"With all these posters up, it has a real ""Shimo-Kitazawa"" vibe!";False;False;;kita;Kita
+716;716,718;717;715;0:10:52.020000;0:10:55.656000;716.mp3;716.webp;たくさん ポスターとか貼ってあって　下北沢らしいというか;Hay muchos pósteres. Es típico de Shimo-Kitazawa.;With all these posters up, it has a real \"Shimo-Kitazawa\" vibe!;False;False;;kita;Kita
 719;719;721;720;0:10:55.739000;0:10:59.326000;719.mp3;719.webp;そこ 前まで よく行ってたCDショップだった;Allí solía haber una tienda de discos que frecuentaba.;That used to be a CD shop I went to a lot.;False;False;;ryo;Ryo
 725;725,727;726;724;0:11:00.900000;0:11:05.082000;725.mp3;725.webp;レコードショップも ライブハウスも　どんどん なくなるねー;Cada vez cierran más tiendas de discos y clubes.;Lots of record shops and club venues closing these days, yeah.;False;False;;nijika;Nijika
 728;728;730;729;0:11:05.166000;0:11:08.961000;728.mp3;728.webp;昔ながらの店が どんどん消えていく;Las tiendas tradicionales desaparecen.;Shops that have been there for decades, disappearing one by one...;False;False;;ryo;Ryo
@@ -177,8 +177,8 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 762;762;763;761;0:11:39.840000;0:11:41.680000;762.mp3;762.webp;おお でかした!;¡Bien hecho!;Hey, great work!;False;False;;nijika;Nijika
 765;765;766;764;0:11:42.460000;0:11:44.260000;765.mp3;765.webp;それじゃあ 撮るよー;La voy a tomar.;Taking it now!;False;False;;nijika;Nijika
 771;771;770;769;0:11:47.150000;0:11:51.212000;771.mp3;771.webp;メンバーのキャラは出てるけど いまいちバンド感が...;Muestra nuestras personalidades, pero no parecemos una banda.;We're definitely capturing everyone's personalities, but it's not really band-like.;False;False;;nijika;Nijika
-773;773;774;772;0:11:51.200000;0:11:54.089000;773.mp3;773.webp;バンドっぽさを感じる要素が 欲しいなー;Necesitamos remediar eso.;"Isn't there a way to really make it scream ""band""?";False;False;;nijika;Nijika
-775;775;777,779;776,778;0:11:54.173000;0:11:58.761000;775.mp3;775.webp;"""バンドマンのお手本たる存在"" こと私の表情を まねしてみて";Yo soy una música ejemplar. Imiten mi expresión.;As I am the quintessential musician, you need only mimic my expression.;False;False;;ryo;Ryo
+773;773;774;772;0:11:51.200000;0:11:54.089000;773.mp3;773.webp;バンドっぽさを感じる要素が 欲しいなー;Necesitamos remediar eso.;Isn't there a way to really make it scream \"band\"?;False;False;;nijika;Nijika
+775;775;777,779;776,778;0:11:54.173000;0:11:58.761000;775.mp3;775.webp;\"バンドマンのお手本たる存在\" こと私の表情を まねしてみて;Yo soy una música ejemplar. Imiten mi expresión.;As I am the quintessential musician, you need only mimic my expression.;False;False;;ryo;Ryo
 782;782;781;780;0:11:58.740000;0:12:01.096000;782.mp3;782.webp;ホント どこから来るの? その自信;¿De dónde sacas esa confianza?;I'd love to know where you get all that confidence...;False;False;;nijika;Nijika
 784;784;785;783;0:12:01.070000;0:12:04.725000;784.mp3;784.webp;でも 先輩の言うとおりにすれば 間違いなんてないですよ;Si hacemos lo que dice, seguro que queda bien.;But we can't go wrong doing what Senpai says!;False;False;;kita;Kita
 787;787,790;788;786,789;0:12:04.720000;0:12:07.061000;787.mp3;787.webp;ねっ? 後藤さん　あっ はい;¿Verdad, Goto? -Sí...;Right, Gotoh-san? Y-Yes...;False;False;;kita/hitori;Hitori,Kita
@@ -227,7 +227,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 941;941;942;940;0:14:28.620000;0:14:31.330000;941.mp3;941.webp;それ いい! 喜多ちゃん天才ー;¡Me gusta! Eres un genio.;Great idea! You're a genius, Kita-chan!;False;False;;nijika;Nijika
 944;944,947;945;943,946;0:14:31.270000;0:14:35.620000;944.mp3;944.webp;有識者が言っていた　オープニングでジャンプする アニメは神アニメと;Un experto dijo que los animes con saltos en el opening son insuperables.;A wise man once said, any anime where they jump in the OP is a god-tier anime.;False;False;;ryo;Ryo
 950;950,952;951;949;0:14:36.140000;0:14:39.340000;950.mp3;950.webp;つまり アー写でジャンプすれば　神バンドになるのでは?;Si saltamos, seremos una banda insuperable, ¿no?;Would jumping in our ProPho thus make us a god-tier band?;False;False;;ryo;Ryo
-954;954;955;953;0:14:39.340000;0:14:40.800000;954.mp3;954.webp;"何が""つまり""なんだろう?";¿Cómo llegó a eso?;Where is she getting that from?;False;False;;hitori;Hitori
+954;954;955;953;0:14:39.340000;0:14:40.800000;954.mp3;954.webp;何が\"つまり\"なんだろう?;¿Cómo llegó a eso?;Where is she getting that from?;False;False;;hitori;Hitori
 957;957;958;956;0:14:40.800000;0:14:42.925000;957.mp3;957.webp;全然 意味分かんないんだけど...;No le veo el sentido,;I'm not sure I followed your logic there...;False;False;;nijika;Nijika
 960;960;961;959;0:14:42.900000;0:14:44.843000;960.mp3;960.webp;とりあえず やってみよう!;pero vamos a intentarlo.;But let's give it a try!;False;False;;nijika;Nijika
 964;964;965;;0:14:46.345000;0:14:47.805000;964.mp3;964.webp;5 4...;Cinco, cuatro...;;False;;;nijika;
@@ -293,7 +293,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 1194;1194,1203;1202;1201;0:17:58.704000;0:18:02.708000;1194.mp3;1194.webp;個人的に このサインは　ロックバンドにしては 子供っぽい気がする;La del centro me parece de niña, no de banda de rock.;Though personally I think one is a bit childish for a band.;False;False;;ryo;Ryo
 1206;1206;1205;1204;0:18:02.630000;0:18:04.418000;1206.mp3;1206.webp;そのページじゃないです;¡Esa no era la página!;That's not the right page!;False;False;;hitori;Hitori
 1209;1209;1208;1207;0:18:09.960000;0:18:12.259000;1209.mp3;1209.webp;ぼっち的には この歌詞で満足?;¿Estás satisfecha con esta letra?;Are you personally satisfied with these lyrics, Bocchi?;False;False;;ryo;Ryo
-1211;1211,1214;1212;1210,1213;0:18:12.230000;0:18:17.389000;1211.mp3;1211.webp;えっ あっ え... それは　ヒットしたバンドらしいのが いいのかなーと...;Supuse que quedaría bien si era como la de una banda exitosa.;"Oh, w-well... I figured we should do something really ""hit band""-like...";False;False;;hitori;Hitori
+1211;1211,1214;1212;1210,1213;0:18:12.230000;0:18:17.389000;1211.mp3;1211.webp;えっ あっ え... それは　ヒットしたバンドらしいのが いいのかなーと...;Supuse que quedaría bien si era como la de una banda exitosa.;Oh, w-well... I figured we should do something really \"hit band\"-like...;False;False;;hitori;Hitori
 1218;1218,1221;1219;1217,1220;0:18:22.340000;0:18:26.148000;1218.mp3;1218.webp;言ったっけ?　私 昔は 別のバンドにいたんだ;¿Te lo había dicho? Ya estuve en otra banda.;Did I ever tell you? I was in another band a long time ago.;False;False;;ryo;Ryo
 1222;1222;1224;1223;0:18:27.733000;0:18:32.279000;1222.mp3;1222.webp;そのバンドの青臭いけど まっすぐな歌詞が好きだったんだ;Me gustaban las letras inmaduras y directas que usaban.;Their lyrics were awkward, but I liked how honest they were.;False;False;;ryo;Ryo
 1225;1225,1228;1227;1226;0:18:33.197000;0:18:37.492000;1225.mp3;1225.webp;でも 売れるために必死になって　どんどん歌詞を売れ線にして;Pero solo querían vender y las cambiaron.;But, desperate for sales, they started going in a more commercial direction.;False;False;;ryo;Ryo

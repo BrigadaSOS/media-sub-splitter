@@ -82,7 +82,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 299;299,302;300;298,301;0:04:53.430000;0:04:58.160000;299.mp3;299.webp;完熟マンゴー かぶりたい!　っていうか 今すぐ この場から消え去りたいー!;¡Quiero ponerme la caja de mangos maduros y desaparecer!;I want my mango box! Actually, I want to disappear altogether!;False;False;;hitori;Hitori
 304;304;305;303;0:04:58.030000;0:04:59.827000;304.mp3;304.webp;じゃあ 早速 1曲目 いきます;Sin más preámbulo,;Well, let's get to that first song!;False;False;;kita;Kita
 308;308;307;306;0:05:00.270000;0:05:03.288000;308.mp3;308.webp;聴いてください 私たちのオリジナル曲で;nuestra primera canción es una original,;Please lend your ears to our original song:;False;False;;kita;Kita
-310;310;311;309;0:05:03.260000;0:05:05.600000;310.mp3;310.webp;"""ギターと孤独と蒼い惑星""";"""Guitarra, soledad y un planeta azul"".";"""Guitar, Solitude, and the Blue Planet""!";False;False;;kita;Kita
+310;310;311;309;0:05:03.260000;0:05:05.600000;310.mp3;310.webp;\"ギターと孤独と蒼い惑星\";\"Guitarra, soledad y un planeta azul\".;\"Guitar, Solitude, and the Blue Planet\"!;False;False;;kita;Kita
 315;315;;314,317;0:05:20.240000;0:05:26.200000;315.mp3;315.webp;突然降る夕立 あぁ傘もないや嫌;;A sudden evening shower falls And yeah, it figures, I don't have an umbrella...;;False;;;Kita
 318;318;;319;0:05:26.145000;0:05:30.230000;318.mp3;318.webp;空のご機嫌なんか知らない;;Who cares how the sky's feeling, anyway?;;False;;;Kita
 322;322,326;327;321,324,325,328;0:05:30.230000;0:05:39.980000;322.mp3;322.webp;季節の変わり目の服は...　なんか 虹夏ちゃん さっきからドラム もたついてるな;Nijika está tocando despacio.;When it's time for the seasons to change What are you supposed to wear? Who knows? Nijika-chan's drumming feels a little slow. Spring and fall... yeah, where'd they go?;False;False;;hitori;Hitori,Kita
@@ -92,10 +92,10 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 345;345;;344;0:05:56.160000;0:06:01.346000;345.mp3;345.webp;変だね 世界の音がしない;;But why? I can't hear the sounds of the world...;;False;;;Kita
 348;348;;347;0:06:01.290000;0:06:05.475000;348.mp3;348.webp;足りない 足りない 誰にも気づかれない;;It's not enough, not enough, No one knows I'm here;;False;;;Kita
 351;351,355;354;350,353;0:06:05.400000;0:06:10.939000;351.mp3;351.webp;殴り書きみたいな音 出せない状態で...　みんな いつもと全然違う;No están tocando como siempre.;I screamed when I couldn't make a scribble of a sound We're not playing the way we usually do...;False;False;;hitori;Hitori,Kita
-357;357;;356;0:06:10.890000;0:06:15.550000;357.mp3;357.webp;「ありのまま」なんて 誰に見せるんだ;;"Who am I supposed to show ""just who I am"" to?";;False;;;Kita
+357;357;;356;0:06:10.890000;0:06:15.550000;357.mp3;357.webp;「ありのまま」なんて 誰に見せるんだ;;Who am I supposed to show \"just who I am\" to?;;False;;;Kita
 360;360;;359;0:06:15.550000;0:06:20.560000;360.mp3;360.webp;馬鹿なわたしは歌うだけ;;So I'm singing just like the fool I am;;False;;;Kita
 362;362;;363;0:06:20.532000;0:06:24.369000;362.mp3;362.webp;ぶちまけちゃおうか 星に;;Let's lay it all out to the stars!;;False;;;Kita
-366;366;367;365;0:06:46.580000;0:06:49.269000;366.mp3;366.webp;"""ギターと孤独と蒼い惑星""でした";"Esa fue ""Guitarra, soledad y un planeta azul"".";"That was ""Guitar, Solitude, and the Blue Planet""!";False;False;;kita;Kita
+366;366;367;365;0:06:46.580000;0:06:49.269000;366.mp3;366.webp;\"ギターと孤独と蒼い惑星\"でした;Esa fue \"Guitarra, soledad y un planeta azul\".;That was \"Guitar, Solitude, and the Blue Planet\"!;False;False;;kita;Kita
 369;369;370;368;0:06:49.220000;0:06:51.521000;369.mp3;369.webp;やっぱ 全然パッとしないわ;Qué pérdida de tiempo.;Yeah, what a waste of time.;False;False;;público A;Audience A
 372;372;373;371;0:06:51.520000;0:06:53.620000;372.mp3;372.webp;早く来るんじゃなかったね;¿Para qué llegamos temprano?;We should've showed up later.;False;False;;público B;Audience B
 375;375;376;374;0:06:53.620000;0:06:55.192000;375.mp3;375.webp;あっ えっと...;Este...;Um...;False;False;;kita;Kita
@@ -117,7 +117,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 442;442;443;441,444;0:09:16.240000;0:09:18.919000;442.mp3;442.webp;ちょっと いいじゃん ねっ!;No estuvo mal. -No.;Hey, not bad! Yeah!;False;False;;público A/B;Audience A,Audience B
 445;445,449;447;446,448;0:09:21.004000;0:09:23.799000;445.mp3;445.webp;めっちゃ かっこよかった!　ねえー!;¡Son las mejores! -Sí.;That was super cool! Yeah!;False;False;;fan hitori 1;Fan 1,Fan 2
 453;453;452;451;0:09:26.370000;0:09:28.011000;453.mp3;453.webp;見事なドヤ顔;Está claramente orgullosa.;Magnificent smugface.;False;False;;kikuri;Kikuri
-459;459;460;458;0:09:38.500000;0:09:41.108000;459.mp3;459.webp;"2曲目""あのバンド""でした";"La de recién se llama ""Esa banda"".";"That was our second song, ""That Band""!";False;False;;kita;Kita
+459;459;460;458;0:09:38.500000;0:09:41.108000;459.mp3;459.webp;2曲目\"あのバンド\"でした;La de recién se llama \"Esa banda\".;That was our second song, \"That Band\"!;False;False;;kita;Kita
 462;462;463;461;0:09:41.050000;0:09:43.902000;462.mp3;462.webp;じゃあ次 ラストの曲です!;La siguiente es la última.;Now, here's our last song!;False;False;;kita;Kita
 468;468;469;466,467;0:09:48.730000;0:09:50.200000;468.mp3;468.webp;かんぱーい! お疲れさまです;¡Salud!;Cheers! Well done, all!;False;False;;todas;Nijika/Ryo/Kita/Seika/Kikuri,PA
 471;471;472;470;0:09:50.900000;0:09:52.411000;471.mp3;471.webp;ライブ よく頑張った;Muy bien hecho.;Nice work on the concert.;False;False;;seika;Seika
@@ -252,10 +252,10 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 950;950;951;949;0:16:06.490000;0:16:09.079000;950.mp3;950.webp;その顔 伝染するんですか;¿Esa cara es contagiosa?;That face is contagious, huh?;False;False;;pa;PA
 952;952,956;953;954,955;0:16:09.162000;0:16:13.400000;952.mp3;952.webp;あーあ ずっと隠してたのに!　この名前 嫌なんですよ!;¡Quería mantenerlo en secreto! Odio el nombre.;I hid it for so long! I hate my name so much!;False;False;;kita;Kita
 958;958;959;957;0:16:13.320000;0:16:15.410000;958.mp3;958.webp;なんで? かわいいじゃん;¿Por qué? Es lindo.;How come? It's cute.;False;False;;seika;Seika
-963;963,964;962;961,965;0:16:15.410000;0:16:20.090000;963.mp3;963.webp;"店長さんみたいに ""星の歌""なんて書く　すてきネームの人には 分かりませんよ!";"¡Jamás lo entenderías! ¡Tu nombre significa ""canción de las estrellas""!";"You wouldn't understand, since you have a beautiful name that means ""song of the stars""!";False;False;;kita;Kita
+963;963,964;962;961,965;0:16:15.410000;0:16:20.090000;963.mp3;963.webp;店長さんみたいに \"星の歌\"なんて書く　すてきネームの人には 分かりませんよ!;¡Jamás lo entenderías! ¡Tu nombre significa \"canción de las estrellas\"!;You wouldn't understand, since you have a beautiful name that means \"song of the stars\"!;False;False;;kita;Kita
 967;967;968;966;0:16:20;0:16:21.424000;967.mp3;967.webp;おっ 荒れてるねえ;Está fuera de control.;Look at her freak out!;False;False;;kikuri;Kikuri
 970;970;971;969;0:16:21.370000;0:16:23.802000;970.mp3;970.webp;だって ダジャレみたいでしょ?;El mío parece un mal chiste.;But mine sounds like a bad pun!;False;False;;kita;Kita
-973;973,975;974;972,976;0:16:23.780000;0:16:28.348000;973.mp3;973.webp;"""きたー""""いくよ""って...　アハハ アホかーい アハハッ アハハハハ...";"Con el apellido, es como si me llamara ""voy y vuelvo"".";"""Kita! Ikuyo!"" Are you serious?!";False;False;;kita;Kita
+973;973,975;974;972,976;0:16:23.780000;0:16:28.348000;973.mp3;973.webp;\"きたー\"\"いくよ\"って...　アハハ アホかーい アハハッ アハハハハ...;Con el apellido, es como si me llamara \"voy y vuelvo\".;\"Kita! Ikuyo!\" Are you serious?!;False;False;;kita;Kita
 978;978;979;977;0:16:28.380000;0:16:29.891000;978.mp3;978.webp;おい ぶっ壊れたぞ;Se le soltó un tornillo.;I think we broke her.;False;False;;ryo;Seika
 981;981;982;980;0:16:30.720000;0:16:33.660000;981.mp3;981.webp;私のフルネームは 喜多喜多です;Me llamo Kita Kita y punto.;My full name is Kita Kita.;False;False;;kita;Kita
 983;983;985;984;0:16:33.603000;0:16:36.856000;983.mp3;983.webp;プッ なんか弱ってるの 新鮮で面白い;Es divertido verte tan debilitada.;Seeing you withdraw into your shell is fun.;False;False;;ryo;Ryo
@@ -336,6 +336,6 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 1259;1259;1261;1260;0:21:37.657000;0:21:40.243000;1259.mp3;1259.webp;あっ が... 頑張ります;Me esforzaré.;I'll d-do my best...;False;False;;hitori;Hitori
 1263;1263;1264;1262;0:21:41.390000;0:21:44.330000;1263.mp3;1263.webp;でも あたし 確信したんだ;Ahora estoy convencida.;But now I know it for sure!;False;False;;nijika;Nijika
 1267;1267;1266;1265;0:21:44.950000;0:21:47.750000;1267.mp3;1267.webp;ぼっちちゃんがいたら 夢をかなえられるって!;Contigo podré cumplir mi sueño.;Having you with us will make our dreams possible!;False;False;;nijika;Nijika
-1270;1270,1272;1271;1269,1273;0:21:48.820000;0:21:53.005000;1270.mp3;1270.webp;だから これからも たくさん見せてね　ぼっちちゃんのロック;Así que espero que sigas mostrándome tu rock.;"So keep showing us more and more. Of ""Bocchi-chan's rock.""";False;False;;nijika;Nijika
-1277;1277;1276;1275;0:21:55.040000;0:21:56.759000;1277.mp3;1277.webp;"""ぼっち・ざ・ろっく""を!";¡Bocchi the rock!;Bocchi the Rock!;False;False;;nijika;Nijika
+1270;1270,1272;1271;1269,1273;0:21:48.820000;0:21:53.005000;1270.mp3;1270.webp;だから これからも たくさん見せてね　ぼっちちゃんのロック;Así que espero que sigas mostrándome tu rock.;So keep showing us more and more. Of \"Bocchi-chan's rock.\";False;False;;nijika;Nijika
+1277;1277;1276;1275;0:21:55.040000;0:21:56.759000;1277.mp3;1277.webp;\"ぼっち・ざ・ろっく\"を!;¡Bocchi the rock!;Bocchi the Rock!;False;False;;nijika;Nijika
 1282;1282;1280;1281;0:22:03.490000;0:22:05.017000;1282.mp3;1282.webp;はい!;¡Sí!;Okay!;False;False;;hitori;Hitori

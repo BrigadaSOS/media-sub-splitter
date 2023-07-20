@@ -53,7 +53,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 248;248;249;247;0:04:52.220000;0:04:53.480000;248.mp3;248.webp;違います!;¡Que no!;It is not!;False;False;;kita;Kita
 251;251;252;250;0:04:53.480000;0:04:54.769000;251.mp3;251.webp;おーい ん?;Chicas.;Hey.;False;False;;seika;Seika
 253;253;255;254;0:04:54.852000;0:04:57.980000;253.mp3;253.webp;ちょっと ぼっちちゃんに あれ やめさせてくんない?;Hagan que Bocchi pare, por favor.;Could you get Bocchi-chan to knock it off?;False;False;;seika;Seika
-258;258;256;257;0:04:58.670000;0:04:59.941000;258.mp3;258.webp;"""あれ""?";¿Qué?;Eh?;False;False;;ryo;Ryo
+258;258;256;257;0:04:58.670000;0:04:59.941000;258.mp3;258.webp;\"あれ\"?;¿Qué?;Eh?;False;False;;ryo;Ryo
 259;259,263;261,262;260;0:05:02.944000;0:05:08.950000;259.mp3;259.webp;朝から あの調子で ライブハウス前に　セミのお墓 作り続けてんだよね;Lleva toda la mañana así, haciendo tumbas de cigarras ahí delante.;She's been making cicada graves in front of the club all day.;False;False;;seika;Seika
 265;265;266;264,267;0:05:08.900000;0:05:11.911000;265.mp3;265.webp;限界すぎる! なんで変になってんの?;¡Eso es demasiado! ¿Qué le pasa?;That's way too out there! What's got her freaking out like that?;False;False;;nijika;Nijika
 269;269;270;268;0:05:11.870000;0:05:15.039000;269.mp3;269.webp;夏休みが 今日で終わるからでしょうか?;¿Será porque hoy acaban las vacaciones?;I wonder if it's because today's the last day of summer break.;False;False;;kita;Kita
@@ -64,11 +64,11 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 290;290,292;289,291;288;0:05:31.560000;0:05:37.437000;290.mp3;290.webp;あっ えっと い... 妹に ギター教えてって言われて　教えたりしました;Mi hermana me pidió que le enseñara a tocar la guitarra y eso he hecho.;Um, I... My little sister asked me to teach her guitar, so I did.;False;False;;hitori;Hitori
 294;294;295;293;0:05:37.350000;0:05:39.220000;294.mp3;294.webp;へえー いいじゃん;Pues qué bien.;Hey, that's nice.;False;False;;seika;Seika
 297;297;298;296;0:05:39.200000;0:05:40.800000;297.mp3;297.webp;で... でも;Aunque...;B-But...;False;False;;hitori;Hitori
-300;300;301;299;0:05:40.800000;0:05:44.569000;300.mp3;300.webp;"""今日はお姉ちゃんに ギターを教えてもらいました""";Hoy mi hermana me enseñó a tocar la guitarra.;Today I asked my sister to teach me to play guitar!;False;False;;hitori;Futari
-303;303,305;304;302;0:05:44.530000;0:05:50.240000;303.mp3;303.webp;"""お姉ちゃんは いつでも家にいて ギターを練習して""　""すごいなと思いました""";La admiro porque siempre está en casa practicando.;I thought it was awesome how my sister stayed inside practicing, day after day!;False;False;;futari;Futari
-308;308,309;307,310;306;0:05:50.240000;0:05:55.496000;308.mp3;308.webp;"""ふたりは夏休み やること いっぱいだし""　""友達とも遊ばなきゃだから""";Yo en verano tengo muchas cosas que hacer, como salir con mis amigas,;I have too many things to do and too many friends to play with over summer break,;False;False;;futari;Futari
-312;312;313;311;0:05:55.410000;0:05:58.624000;312.mp3;312.webp;"""お姉ちゃんみたいに 毎日 練習できないので""";así que no puedo practicar a diario como ella.;so I can't stay home practicing every day like her!;False;False;;futari;Futari
-315;315;316;314;0:05:58.590000;0:06:00.543000;315.mp3;315.webp;"""すごいなと思いました""";Por eso la admiro.;That's why I think it's awesome!;False;False;;futari;Futari
+300;300;301;299;0:05:40.800000;0:05:44.569000;300.mp3;300.webp;\"今日はお姉ちゃんに ギターを教えてもらいました\";Hoy mi hermana me enseñó a tocar la guitarra.;Today I asked my sister to teach me to play guitar!;False;False;;hitori;Futari
+303;303,305;304;302;0:05:44.530000;0:05:50.240000;303.mp3;303.webp;\"お姉ちゃんは いつでも家にいて ギターを練習して\"　\"すごいなと思いました\";La admiro porque siempre está en casa practicando.;I thought it was awesome how my sister stayed inside practicing, day after day!;False;False;;futari;Futari
+308;308,309;307,310;306;0:05:50.240000;0:05:55.496000;308.mp3;308.webp;\"ふたりは夏休み やること いっぱいだし\"　\"友達とも遊ばなきゃだから\";Yo en verano tengo muchas cosas que hacer, como salir con mis amigas,;I have too many things to do and too many friends to play with over summer break,;False;False;;futari;Futari
+312;312;313;311;0:05:55.410000;0:05:58.624000;312.mp3;312.webp;\"お姉ちゃんみたいに 毎日 練習できないので\";así que no puedo practicar a diario como ella.;so I can't stay home practicing every day like her!;False;False;;futari;Futari
+315;315;316;314;0:05:58.590000;0:06:00.543000;315.mp3;315.webp;\"すごいなと思いました\";Por eso la admiro.;That's why I think it's awesome!;False;False;;futari;Futari
 318;318,320;319,321;317;0:06:01.030000;0:06:06.841000;318.mp3;318.webp;い... 妹の言葉について 考え込んでしまって　数日 寝込みました;Sus palabras me hicieron reflexionar y... pasé unos días en cama.;H-Her words sent me into a spiral, and I ended up not getting out of bed for days.;False;False;;hitori;Hitori
 323;323,326;324;322,325;0:06:06.820000;0:06:09.500000;323.mp3;323.webp;そう...　予定は空けてます!;Ya veo. -¡Pero tengo días libres!;I see. I cleared my schedule!;False;False;;seika/hitori;Hitori,Seika
 330;330;329;328;0:06:09.980000;0:06:13.100000;330.mp3;330.webp;あ... 空いてるんじゃなくて 空けてるんです;Mejor dicho, los reservé a propósito.;N-Not because I have nothing to do! I cleared it on purpose!;False;False;;hitori;Hitori
@@ -268,7 +268,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 1027;1027;1028;1026;0:16:33.540000;0:16:36.136000;1027.mp3;1027.webp;天まで届く高い塔を建てようとし;construyendo una torre muy alta.;to prove themselves equal to God.;False;False;;ryo;Ryo
 1030;1030;1031;1029;0:16:36.680000;0:16:40.099000;1030.mp3;1030.webp;怒った神は 人間の言語をバラバラにし;Dios se molestó y diversificó sus idiomas,;God, enraged, scrambled the languages of humans,;False;False;;ryo;Ryo
 1033;1033;1034;1032;0:16:40.080000;0:16:42.267000;1033.mp3;1033.webp;地上を混乱に陥れた;lo que los sumió en el caos.;and cast their lands into chaos.;False;False;;ryo;Ryo
-1036;1036;1037;1035;0:16:42.230000;0:16:44.269000;1036.mp3;1036.webp;"ああ""バベルの塔""ね";La Torre de Babel, ¿no?;Talking about the Tower of Babel?;False;False;;nijika;Nijika
+1036;1036;1037;1035;0:16:42.230000;0:16:44.269000;1036.mp3;1036.webp;ああ\"バベルの塔\"ね;La Torre de Babel, ¿no?;Talking about the Tower of Babel?;False;False;;nijika;Nijika
 1039;1039;1040;1038;0:16:44.250000;0:16:48.440000;1039.mp3;1039.webp;そ... それから学ばず また人は こんな高い建物を;Pero no aprendieron la lección e hicieron más torres como esta.;B-But humans failed to learn and built another tall tower like this?;False;False;;hitori;Hitori
 1042;1042;1043;1041;0:16:48.440000;0:16:51.109000;1042.mp3;1042.webp;皆さーん あの 景色を...;Chicas, mejor disfruten el paisaje.;Guys! The scenery!;False;False;;kita;Kita
 1045;1045;1046;1044;0:16:51.080000;0:16:53.800000;1045.mp3;1045.webp;喜多ちゃん満足したみたいだし 降りよっか;Kita parece satisfecha. ¿Bajamos?;Kita-chan got what she wanted, so let's blow this joint.;False;False;;nijika;Nijika
@@ -310,15 +310,15 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 1178;1178;1179;1180;0:19:04.284000;0:19:06.119000;1178.mp3;1178.webp;え... 長かった;Y tardaste.;It took forever.;False;False;;ryo;Ryo
 1182;1182;1183;1181;0:19:06.100000;0:19:07.871000;1182.mp3;1182.webp;何をお願いしたんですか?;¿Qué pediste?;What were you wishing for?;False;False;;kita;Kita
 1186;1186;1185;1184;0:19:08.760000;0:19:11.708000;1186.mp3;1186.webp;あたしは真面目に お願いと お礼しちゃった;Yo pedí lo típico y mostré agradecimiento.;I was wishing and thanking her pretty hard too!;False;False;;nijika;Nijika
-1188;1188;1189;1187;0:19:12.170000;0:19:15.100000;1188.mp3;1188.webp;"""神様 ライブ 成功させてくれて ありがとう""";"""Gracias por hacer que el concierto saliera bien.";"""Goddess, thanks for making our concert a success.";False;False;;nijika;Nijika
-1191;1191;1192;1190;0:19:15.090000;0:19:18.090000;1191.mp3;1191.webp;"""これからも よろしくお願いします""って";"Por favor, sigue apoyándonos"".";"Keep that good fortune coming!""";False;False;;nijika;Nijika
+1188;1188;1189;1187;0:19:12.170000;0:19:15.100000;1188.mp3;1188.webp;\"神様 ライブ 成功させてくれて ありがとう\";\"Gracias por hacer que el concierto saliera bien.;\"Goddess, thanks for making our concert a success.;False;False;;nijika;Nijika
+1191;1191;1192;1190;0:19:15.090000;0:19:18.090000;1191.mp3;1191.webp;\"これからも よろしくお願いします\"って;Por favor, sigue apoyándonos\".;Keep that good fortune coming!\";False;False;;nijika;Nijika
 1195;1195;1194;1193;0:19:18.030000;0:19:20.133000;1195.mp3;1195.webp;そ... そうですか;Ya veo...;R-Really?;False;False;;hitori;Hitori
 1196;1196;1198;1197;0:19:20.217000;0:19:22.719000;1196.mp3;1196.webp;明日から練習 頑張るぞ!;¡Seguiremos ensayando un montón!;Let's get back to practice tomorrow!;False;False;;nijika;Nijika
 1201;1201;1200;1199;0:19:22.710000;0:19:25.597000;1201.mp3;1201.webp;まだ次のライブ 決まってないけどー!;Aunque aún no tengamos otro concierto.;Even though we don't have a next concert scheduled!;False;False;;nijika;Nijika
 1204;1204;1203;1202;0:19:26.030000;0:19:27.182000;1204.mp3;1204.webp;言えない;No puedo decírselo.;I can't tell them...;False;False;;hitori;Hitori
-1206;1206,1209;1207;1205,1208;0:19:27.140000;0:19:30.920000;1206.mp3;1206.webp;神様 お願いします!　夏休み初日に 時間を戻してください;"""Por favor, devuélveme al principio de las vacaciones.";Please, Goddess! Turn back time to the first day of summer!;False;False;;hitori;Hitori
+1206;1206,1209;1207;1205,1208;0:19:27.140000;0:19:30.920000;1206.mp3;1206.webp;神様 お願いします!　夏休み初日に 時間を戻してください;\"Por favor, devuélveme al principio de las vacaciones.;Please, Goddess! Turn back time to the first day of summer!;False;False;;hitori;Hitori
 1211;1211;1212;1210;0:19:30.920000;0:19:32.640000;1211.mp3;1211.webp;なんでもするから戻してください;¡Haré lo que sea!;I'll do anything, just turn back time!;False;False;;hitori;Hitori
-1214;1214;1215;1213;0:19:32.610000;0:19:36.024000;1214.mp3;1214.webp;それか 一生 食うに困らない 巨万の富と名声を!;"¡Y quiero fama y fortuna para no morirme de hambre!"".";Either that, or give me fame and fortune so that I never go hungry!;False;False;;hitori;Hitori
+1214;1214;1215;1213;0:19:32.610000;0:19:36.024000;1214.mp3;1214.webp;それか 一生 食うに困らない 巨万の富と名声を!;¡Y quiero fama y fortuna para no morirme de hambre!\".;Either that, or give me fame and fortune so that I never go hungry!;False;False;;hitori;Hitori
 1218;1218;1217;1216;0:19:36.530000;0:19:39.653000;1218.mp3;1218.webp;めっちゃ不毛なお願い していただなんて!;Pedí algo poco productivo.;...that I made a really vapid wish!;False;False;;hitori;Hitori
 1220;1220,1224;1222;1221,1223;0:19:42.864000;0:19:46.660000;1220.mp3;1220.webp;ここから下北まで1時間くらい?　ですね;Tarda una hora hasta Shimokita, ¿no? -Sí.;It's about an hour from here to Shimo-Kita, right? Yeah.;False;False;;nijika;Kita,Nijika
 1225;1225;1226;1227;0:19:47.244000;0:19:50.455000;1225.mp3;1225.webp;あっ 後藤さんだけ 藤沢で乗り換えね?;Tú tienes que hacer transbordo en Fujisawa.;Gotoh-san, you'll change trains at Fujisawa, right?;False;False;;kita;Kita

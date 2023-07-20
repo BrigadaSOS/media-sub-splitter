@@ -32,15 +32,15 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 107;107;108;106;0:01:29.560000;0:01:32.680000;107.mp3;107.webp;って! 犬なんて 一度も飼ったことないのに;Y ella nunca ha tenido ningún perro.;So she said, but she's never even had a dog.;False;False;;nijika;Nijika
 110;110;111;109;0:01:32.680000;0:01:34.048000;110.mp3;110.webp;飼ってないんですか?;¿Ah, no?;She hasn't?;False;False;;kita;Kita
 113;113;114;112;0:01:33.980000;0:01:35.299000;113.mp3;113.webp;そうだよ;No.;She hasn't!;False;False;;nijika;Nijika
-117;117;116;115;0:01:35.260000;0:01:39.053000;117.mp3;117.webp;ほかにも 生き別れの双子の妹から 連絡が来たとか;Otra vez dijo que la había llamado su gemela perdida;"Then there's ""I just got a call from my twin sister separated at birth,""";False;False;;nijika;Nijika
-119;119;120;118;0:01:39.040000;0:01:41.800000;119.mp3;119.webp;お父さんが事故で 記憶喪失になったとか;o que su papá estaba amnésico tras un accidente.;"and ""my dad was in a car crash, and now he has amnesia.""";False;False;;nijika;Nijika
+117;117;116;115;0:01:35.260000;0:01:39.053000;117.mp3;117.webp;ほかにも 生き別れの双子の妹から 連絡が来たとか;Otra vez dijo que la había llamado su gemela perdida;Then there's \"I just got a call from my twin sister separated at birth,\";False;False;;nijika;Nijika
+119;119;120;118;0:01:39.040000;0:01:41.800000;119.mp3;119.webp;お父さんが事故で 記憶喪失になったとか;o que su papá estaba amnésico tras un accidente.;and \"my dad was in a car crash, and now he has amnesia.\";False;False;;nijika;Nijika
 122;122;123;121;0:01:41.720000;0:01:43.766000;122.mp3;122.webp;しょうもない言い訳を...;Son excusas pésimas.;Just all the silliest excuses...;False;False;;nijika;Nijika
 125;125,127;126;124;0:01:43.700000;0:01:47.770000;125.mp3;125.webp;そんなスラスラと　バラエティ豊富なウソが 思いつくなんて;Se inventa mentiras de película como si nada.;I'm impressed by how easily she comes up with such a wide range of lies.;False;False;;kita;Kita
 129;129;130;128,131;0:01:48.400000;0:01:51.523000;129.mp3;129.webp;さすが先輩 悪女で すてき!;Es una diablilla encantadora.;Senpai's amazing! I love me a bad girl!;False;False;;kita;Kita
 134;134;133;132;0:01:51.890000;0:01:54.318000;134.mp3;134.webp;リョウ狂いも ここまでくると...;Tu obsesión es lo grave.;That's a serious Ryo obsession right there.;False;False;;nijika;Nijika
 136;136;138;137;0:01:55.861000;0:01:58.060000;136.mp3;136.webp;着きました! ここです;Llegamos. Es aquí.;We're here! This is it!;False;False;;kita;Kita
 144;144;146;145;0:02:08.582000;0:02:11.752000;144.mp3;144.webp;えっ? ここ... だよね?;Es aquí, ¿no?;This... is it, isn't it?;False;False;;nijika;Nijika
-148;148;149;147;0:02:11.710000;0:02:15.050000;148.mp3;148.webp;"""結束バンド""って 書いてあるもんね";Dice Kessoku Band.;"It... does say ""Kessoku Band,"" right?";False;False;;nijika;Nijika
+148;148;149;147;0:02:11.710000;0:02:15.050000;148.mp3;148.webp;\"結束バンド\"って 書いてあるもんね;Dice Kessoku Band.;It... does say \"Kessoku Band,\" right?;False;False;;nijika;Nijika
 151;151,153;152;150;0:02:15.050000;0:02:18.133000;151.mp3;151.webp;後藤さんの家って　旅館でしたっけ?;¿Goto vivía en un spa?;Did she mention her house was a ryokan?;False;False;;kita;Kita
 155;155,158;156,157;154;0:02:18.080000;0:02:22.346000;155.mp3;155.webp;知らないけど　どっからどう見ても 普通の一軒家だね;Ni idea. Pero parece una casa normal.;I'm not sure. It just looks like a normal house to me.;False;False;;nijika;Nijika
 161;161;160;159;0:02:22.330000;0:02:23.889000;161.mp3;161.webp;ですね;Sí.;Yeah.;False;False;;kita;Kita
@@ -135,10 +135,10 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 531;531;532;533;0:08:56.907000;0:08:58.700000;531.mp3;531.webp;ワンワン うんうん;No.;Yeah, yeah!;False;False;;futari;Futari
 536;536;537;538;0:09:01.703000;0:09:03.560000;536.mp3;536.webp;フフッ 出来ました!;Terminé.;All done!;False;False;;kita;Kita
 540;540;541;539;0:09:03.520000;0:09:05.082000;540.mp3;540.webp;おっ どんなの どんなの?;A ver, a ver.;Let me see!;False;False;;nijika;Nijika
-549;549;550;548;0:09:06.400000;0:09:09.830000;549.mp3;549.webp;コンセプトは 友情 努力 勝利でーす;"El concepto es ""amistad, esfuerzo, victoria"".";The concept is friendship, effort, and victory!;False;False;;kita;Kita
+549;549;550;548;0:09:06.400000;0:09:09.830000;549.mp3;549.webp;コンセプトは 友情 努力 勝利でーす;El concepto es \"amistad, esfuerzo, victoria\".;The concept is friendship, effort, and victory!;False;False;;kita;Kita
 552;552;553;551;0:09:09.830000;0:09:11.588000;552.mp3;552.webp;体育祭で見るやつ!;¡Parece de festival deportivo!;It's not a dang sports festival!;False;False;;nijika;Nijika
 554;554,557;556;555;0:09:11.672000;0:09:14.320000;554.mp3;554.webp;ええー?　かわいくないですか?;¿No está bonita?;Aw, but I think it's cute!;False;False;;kita;Kita
-559;559,562;560;558,561;0:09:14.300000;0:09:17.890000;559.mp3;559.webp;待って 優勝って何?　ライブに そんな概念ないけど;¿Y de qué victoria hablas? Damos conciertos.;"Hang on. What are we winning at? I'm not sure how ""victory"" applies to a concert...";False;False;;nijika;Nijika
+559;559,562;560;558,561;0:09:14.300000;0:09:17.890000;559.mp3;559.webp;待って 優勝って何?　ライブに そんな概念ないけど;¿Y de qué victoria hablas? Damos conciertos.;Hang on. What are we winning at? I'm not sure how \"victory\" applies to a concert...;False;False;;nijika;Nijika
 564;564,567;565;563,566;0:09:17.890000;0:09:20.597000;564.mp3;564.webp;んっとー ノリです　ノリ?;Pues... Es que suena bien. -¿Eh?;Um... vibes! Vibes?;False;False;;kita/nijika;Kita,Nijika
 569;569,571;570;568;0:09:20.530000;0:09:24.910000;569.mp3;569.webp;だって こういうの着たら　みんなの心が ひとつになる気がしません?;Si nos ponemos algo así, nuestros corazones serán uno.;I just think wearing these would really get us feeling like a unit!;False;False;;kita;Kita
 574;574;572;573;0:09:24.870000;0:09:26.269000;574.mp3;574.webp;ねえ? 後藤さ...;¿Verdad, Goto?;Right, Gotoh-saー;False;False;;kita;Kita
@@ -163,7 +163,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 668;668,669;670;667;0:10:46.320000;0:10:49.186000;668.mp3;668.webp;ええっ?　後藤さん 戻ってきて!;¡Vuelve, Goto!;What? Come back, Gotoh-san!;False;False;;kita;Kita
 674;674;673;672;0:10:49.950000;0:10:53.190000;674.mp3;674.webp;結局 陰キャが 何をしても邪魔な存在であり;Los introvertidos molestamos hagamos lo que hagamos.;A place in which introverts are constantly underfoot,;False;False;;hitori;Hitori
 676;676,679;677;675,678;0:10:53.130000;0:10:58.612000;676.mp3;676.webp;隅のほうで じっとしていても　非協力的と罵られるところである!;Si esperamos en un rincón, nos critican por no colaborar.;but if they just sit quietly in a corner, they're persecuted for not being team players!;False;False;;hitori;Hitori
-681;681;682;680;0:10:58.590000;0:11:01.420000;681.mp3;681.webp;"""体育祭を 盛り下げたで賞""で死刑!";¡Ejecútenla por aguafiestas!;Death to those who bring down the sports festival mood!;False;False;;compañeros clase;Classmate
+681;681;682;680;0:10:58.590000;0:11:01.420000;681.mp3;681.webp;\"体育祭を 盛り下げたで賞\"で死刑!;¡Ejecútenla por aguafiestas!;Death to those who bring down the sports festival mood!;False;False;;compañeros clase;Classmate
 685;685,688;686;684,687;0:11:06.390000;0:11:11.020000;685.mp3;685.webp;NO 協調性 NO ライフ!　NO 協調性 NO ライフ!;No cooperation, no life.;No cooperation, no life! No cooperation, no life!;False;False;;compañeros clase;Classmates
 690;690;691;689;0:11:11.850000;0:11:13.980000;690.mp3;690.webp;ほら 本当に いるでしょ?;¿Ven que sí existen?;See? They really exist!;False;False;;futari;Futari
 694;694;695;693;0:11:15.720000;0:11:16.940000;694.mp3;694.webp;こんにちは;Hola.;Hello!;False;False;;kita;Kita
@@ -173,7 +173,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 706;706;707;705;0:11:24.660000;0:11:26.480000;706.mp3;706.webp;たくさん食べてね;Coman cuanto quieran.;Eat your fill, all right?;False;False;;michiyo;Michiyo
 709;709;710;708,711;0:11:26.480000;0:11:28.725000;709.mp3;709.webp;はい ありがとうございます;Sí. -Muchas gracias.;Sure! Thanks so much!;False;False;;nijika/kita;Kita,Nijika
 712;712;714;713;0:11:28.808000;0:11:31.150000;712.mp3;712.webp;ひとりと バンド組んでくれてるんだよね?;Tocan con ella en una banda, ¿no?;You let Hitori join your band, right?;False;False;;naoki (padre);Naoki
-716;716,719,721;717;715,718,720;0:11:31.150000;0:11:36.690000;716.mp3;716.webp;はい　くれてるっていうか あたしがお願いして　メンバーに なってもらった っていうか...;Sí. -Bueno, le pedí que se nos uniera.;"Yes. We didn't exactly ""let"" her join. I asked her to join, and she was willing to humor me.";False;False;;kita/nijika;Kita,Nijika
+716;716,719,721;717;715,718,720;0:11:31.150000;0:11:36.690000;716.mp3;716.webp;はい　くれてるっていうか あたしがお願いして　メンバーに なってもらった っていうか...;Sí. -Bueno, le pedí que se nos uniera.;Yes. We didn't exactly \"let\" her join. I asked her to join, and she was willing to humor me.;False;False;;kita/nijika;Kita,Nijika
 723;723;724;722;0:11:36.690000;0:11:38.318000;723.mp3;723.webp;へえー そうなんだ;Vaya, ¿en serio?;Really?;False;False;;michiyo;Michiyo
 726;726,729;727;725,728;0:11:38.260000;0:11:43.060000;726.mp3;726.webp;ほらな? 音楽は人と人をつなぐんだよ　な? ジミヘン;¿Ves? La música nos une. ¿Verdad, Jimi Hen?;See? Music really brings people together! Right, Jimihen?;False;False;;naoki (padre);Nijika
 732;732,734;733;731;0:11:43.990000;0:11:47.827000;732.mp3;732.webp;この子 自分の世界に入って　迷惑とか かけてない?;¿No les da problemas cuando se encierra en su mundo?;She doesn't cause too much trouble with her retreats into her own little world, does she?;False;False;;michiyo;Michiyo
@@ -237,7 +237,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 961;961;959;960;0:14:54.440000;0:14:56.980000;961.mp3;961.webp;それは...;El género cinematográfico traumático número uno.;the number-one source of movie trauma for introverts, by genre.;False;False;;hitori;Hitori
 973;973;974;972;0:14:58.500000;0:15:01.580000;973.mp3;973.webp;ぼっちちゃん もう時間ないから 頑張って;Reacciona, Bocchi, no tenemos tiempo.;Bocchi-chan! We're running out of time! Snap out of it!;False;False;;nijika;Nijika
 975;975,979;976;977;0:15:01.479000;0:15:05.210000;975.mp3;975.webp;へ... 平凡女子がイケメン...　後藤さーん;Dos galanes jamás seducirían a una chica común y corriente.;A-An ordinary girl has two hot guys trying to win her heart...;False;False;;hitori;Hitori
-983;983,984;982;981;0:15:05.210000;0:15:09.100000;983.mp3;983.webp;ダメだ こりゃ　あっ;La perdimos. -Y era demasiado bella, no era común.;"But if someone that cute is ""ordinary,"" what hope is there for me?";False;False;;nijika;Hitori
+983;983,984;982;981;0:15:05.210000;0:15:09.100000;983.mp3;983.webp;ダメだ こりゃ　あっ;La perdimos. -Y era demasiado bella, no era común.;But if someone that cute is \"ordinary,\" what hope is there for me?;False;False;;nijika;Hitori
 985;985;987;986;0:15:08.653000;0:15:12.310000;985.mp3;985.webp;おっ リョウからも たくさん デザイン案が届いたよ;Ryo también nos envió propuestas.;Ryo sent in a bunch of design ideas!;False;False;;nijika;Nijika
 988;988;989;990;0:15:11.865000;0:15:14.159000;988.mp3;988.webp;えっ 見たいです! 見せてください!;¿A ver? ¡Quiero verlas!;Let me see! I want to see!;False;False;;kita;Kita
 992;992;993;991;0:15:14.100000;0:15:16.953000;992.mp3;992.webp;ほら 一緒に見ようよ ぼっちちゃん;Ven a mirarlas, Bocchi.;C'mon! Look with us, Bocchi-chan!;False;False;;nijika;Nijika
@@ -247,7 +247,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 1007;1007;1006;1005;0:15:28.740000;0:15:30.216000;1007.mp3;1007.webp;意味分かんないんだけど;No entiendo nada.;I don't get it.;False;False;;nijika;Nijika
 1014;1014;1013;1012;0:15:32.250000;0:15:34.530000;1014.mp3;1014.webp;晩飯 どっちがいいかな?;¿Qué como para cenar?;Which should I have for dinner?;False;False;;ryo;Ryo
 1018;1018;1020;1019;0:15:35.930000;0:15:37.900000;1018.mp3;1018.webp;自分で考えろ!;¡Piénsalo tú sola!;Make your own decisions!;False;False;;nijika;Nijika
-1023;1023;1024;1022;0:15:39.040000;0:15:41.160000;1023.mp3;1023.webp;"""カレーがいいです""っと";Yo voto por el curry.;"""I think curry's better!""";False;False;;kita;Kita
+1023;1023;1024;1022;0:15:39.040000;0:15:41.160000;1023.mp3;1023.webp;\"カレーがいいです\"っと;Yo voto por el curry.;\"I think curry's better!\";False;False;;kita;Kita
 1026;1026;1027;1025;0:15:41.120000;0:15:43.313000;1026.mp3;1026.webp;喜多ちゃんも真面目に返さない!;¡No le contestes!;Kita-chan, don't actually respond!;False;False;;nijika;Nijika
 1029;1029;1030;1028;0:15:43.250000;0:15:44.930000;1029.mp3;1029.webp;あ... あの!;Oigan...;E-Excuse me...;False;False;;hitori;Hitori
 1034;1034;1033;1032;0:15:45.600000;0:15:47.734000;1034.mp3;1034.webp;おっ ぼっちちゃん 復活?;¿Regresaste, Bocchi?;Hey, Bocchi-chan's back?;False;False;;nijika;Nijika
@@ -317,7 +317,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 1264;1264;1265;1263;0:19:54.110000;0:19:56.441000;1264.mp3;1264.webp;あたし デザインとか得意なのだ;Se me da bien diseñar cosas.;I'm pretty good at the design stuff!;False;False;;nijika;Nijika
 1267;1267,1269;1268;1266;0:19:56.400000;0:19:59.840000;1267.mp3;1267.webp;なら 最初から　虹夏ちゃんがデザインすれば よかったのでは?;Pues podrías haberla diseñado tú desde el principio.;Then why didn't you just design it from the start?;False;False;;hitori;Hitori
 1271;1271;1272;1270;0:19:59.840000;0:20:01.029000;1271.mp3;1271.webp;ぼっちちゃん;Bocchi.;Bocchi-chan.;False;False;;nijika;Nijika
-1276;1276,1277,1278;1275,1279;1274;0:20:02.080000;0:20:08.036000;1276.mp3;1276.webp;なら 最初から　虹夏ちゃんがデザインすれば よかったのでは?　とでも言いたげな目だね;"""Pues podrías haberla diseñado tú desde el principio"". Pareces querer decirme eso.";"You look like you were just thinking, ""Then why didn't you just design it from the start?""";False;False;;nijika;Nijika
+1276;1276,1277,1278;1275,1279;1274;0:20:02.080000;0:20:08.036000;1276.mp3;1276.webp;なら 最初から　虹夏ちゃんがデザインすれば よかったのでは?　とでも言いたげな目だね;\"Pues podrías haberla diseñado tú desde el principio\". Pareces querer decirme eso.;You look like you were just thinking, \"Then why didn't you just design it from the start?\";False;False;;nijika;Nijika
 1280;1280;1282;1281;0:20:08.119000;0:20:10.480000;1280.mp3;1280.webp;エ... エスパー!;¡Es psíquica!;Sh-She's psychic!;False;False;;hitori;Hitori
 1287;1287,1289;1288;1286;0:20:13.530000;0:20:17.610000;1287.mp3;1287.webp;ぼっちちゃんの考えてること　だんだんと 分かるようになってきたかもー!;Cada vez entiendo mejor cómo piensas.;I'm getting pretty good at guessing what you're thinking lately!;False;False;;nijika;Nijika
 1291;1291;1292;1290;0:20:18.290000;0:20:20.923000;1291.mp3;1291.webp;いいねー 出てるよ 結束感!;Ahora sí que parecemos unidas.;Awesome! Our ties feel so much stronger now!;False;False;;nijika;Nijika

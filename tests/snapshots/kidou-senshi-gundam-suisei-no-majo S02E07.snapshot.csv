@@ -47,7 +47,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 210;210;212;211;0:04:44.334000;0:04:48.037000;210.mp3;210.webp;生物保護リストに該当するものを 持ち込む場合は;En caso de que porten algo protegido,;If you are carrying anything on the biological protection list,;False;False;;anuncio 2;Lobby Announcement A
 215;215;214;213;0:04:47.640000;0:04:51.180000;215.mp3;215.webp;係員に その旨を申請してください。;avisen al personal y rellenen la petición.;please notify the relevant staff.;False;False;;anuncio 2;Lobby Announcement A
 219;219;218;217;0:04:58.800000;0:05:02.452000;219.mp3;219.webp;なんで うちのモビルスーツが 護衛してるのよ?;¿Por qué nos escoltan nuestros Mobile Suits?;Why are our mobile suits escorting us?;False;False;;miorine;Miorine
-222;222;221;220;0:05:02.390000;0:05:04.620000;222.mp3;222.webp;平和的解決って言ったでしょ。;"Especifiqué. ""Una solución pacífica"".";I told you I'm seeking a peaceful solution!;False;False;;miorine;Miorine
+222;222;221;220;0:05:02.390000;0:05:04.620000;222.mp3;222.webp;平和的解決って言ったでしょ。;Especifiqué. \"Una solución pacífica\".;I told you I'm seeking a peaceful solution!;False;False;;miorine;Miorine
 224;224,226;225;223;0:05:04.570000;0:05:10.460000;224.mp3;224.webp;あちらさんに その理屈が通じると　本気で思ってます?;¿De verdad cree que lo aceptarían?;You seriously think those people will cooperate so reasonably?;False;False;;kenanji;Kenanji
 228;228;229;227;0:05:10.430000;0:05:12.462000;228.mp3;228.webp;お待たせしました。;Ya estoy aquí.;Sorry to keep you waiting.;False;False;;prospera;Prospera
 233;233,234;232;231;0:05:16.270000;0:05:21.470000;233.mp3;233.webp;武装はなくとも あれだけで　威圧効果は十分ですな。;Aunque no estén armados, son bastante imponentes.;Even without weapons, it looks daunting enough to quiet them down.;False;False;;kenanji;Kenanji
@@ -192,7 +192,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 813;813,818;816;815,817;0:16:07.750000;0:16:13.422000;813.mp3;813.webp;みんな知ってるだろ。ケナンジさん 何を...シャディク・ゼネリの呼び名ですよ。えっ?;¿Qué haces? -Es el apodo de Shaddiq Zenelli.;Mr. Kenanji, what are- That's Shaddiq Zenelli's nickname.;False;False;;guel;Guel,Kenanji
 821;821;819;820,822;0:16:13.320000;0:16:17.390000;821.mp3;821.webp;イエル・オグル。養子になる前の彼の名前です。;Yel Ogell era su nombre antes de que lo adoptaran.;Jeru Ogul... That was his name before he was adopted.;False;False;;kenanji;Kenanji
 823;823;825;824;0:16:17.326000;0:16:19.395000;823.mp3;823.webp;くっ...傑物でしたからね。;Era un prodigio.;Since he was a remarkable child,;False;False;;kenanji;Kenanji
-827;827;828;826;0:16:19.390000;0:16:23.265000;827.mp3;827.webp;その名にちなんで アカデミー時代は プリンスと呼ばれてた。;En Asticassia se ganó el apodo de príncipe.;"and because of that name, everyone at the Academy called him ""Prince.""";False;False;;kenanji;Kenanji
+827;827;828;826;0:16:19.390000;0:16:23.265000;827.mp3;827.webp;その名にちなんで アカデミー時代は プリンスと呼ばれてた。;En Asticassia se ganó el apodo de príncipe.;and because of that name, everyone at the Academy called him \"Prince.\";False;False;;kenanji;Kenanji
 830;830;831;829;0:16:23.120000;0:16:26.702000;830.mp3;830.webp;さっき言ったな みんな知っているって。;Dijiste que lo sabía todo el mundo.;You said it yourself. Everyone knows about it, right?;False;False;;kenanji;Kenanji
 834;834;833;832;0:16:26.420000;0:16:29.810000;834.mp3;834.webp;そんな報告は 一度も出てこなかったよ。;Pero nadie reportó eso.;And yet not one person has ever given us such a report.;False;False;;kenanji;Kenanji
 835;835,838;837;836;0:16:29.705000;0:16:35.144000;835.mp3;835.webp;「フォルドの夜明け」と 一緒にいた　お前以外のアーシアンからは。はっ!;No en el círculo de Earthians de Alba de Fold.;No one except you, an Earthian who lived with the Dawn of Fold.;False;False;;kenanji;Kenanji
@@ -266,4 +266,4 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 1129;1129;1127;1128;0:22:17.300000;0:22:21.480000;1129.mp3;1129.webp;私 何も分かっていなかった。;Yo no entendía nada.;I... didn't understand a thing.;False;False;;suletta;Suletta
 1131;1131;1133;1132;0:22:23.992000;0:22:26.240000;1131.mp3;1131.webp;私のせいだ。;Es culpa mía.;It's all my fault.;False;False;;miorine;Miorine
 1136;1136;1135;1134,1137;0:22:27.480000;0:22:32.167000;1136.mp3;1136.webp;私が これを...;Yo hice esto.;I... did this.;False;False;;miorine;Miorine
-1157;1157;1158;1156,1160,1161;0:23:44.020000;0:23:48.990000;1157.mp3;1157.webp;<次回...>;"Próximamente: ""El colofón de la esperanza"".";"Next time, Episode 20 ""The End of Hope.""";False;False;;norea;Caption,Norea
+1157;1157;1158;1156,1160,1161;0:23:44.020000;0:23:48.990000;1157.mp3;1157.webp;<次回...>;Próximamente: \"El colofón de la esperanza\".;Next time, Episode 20 \"The End of Hope.\";False;False;;norea;Caption,Norea

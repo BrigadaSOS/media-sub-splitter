@@ -230,7 +230,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 600;600;;599;0:20:42.460000;0:20:45.723000;600.mp3;600.webp;あのとき ばらまいた 「ベネリット」の資産も;;The Benerit Group assets we distributed...;;False;;;
 602;602;;601;0:20:45.530000;0:20:49.260000;602.mp3;602.webp;結局 また 宇宙に吸い上げられていく。;;They'll just be scooped up by space again.;;False;;;
 604;604;;603;0:20:49;0:20:52.263000;604.mp3;604.webp;一体 何が正しかったんだろうな。;;I wonder if it was the right move.;;False;;;
-606;606;;605;0:20:51.980000;0:20:55.333000;606.mp3;606.webp;人の数だけ 「正しい」があるもの。;;"There are as many ""right moves"" as there are individuals.";;False;;;
+606;606;;605;0:20:51.980000;0:20:55.333000;606.mp3;606.webp;人の数だけ 「正しい」があるもの。;;There are as many \"right moves\" as there are individuals.;;False;;;
 608;608;;607;0:20:55.160000;0:20:59.136000;608.mp3;608.webp;いつか 必ず どこかで間違うのよ。;;We all make mistakes at some point.;;False;;;
 610;610;;609,611;0:20:59.020000;0:21:02.920000;610.mp3;610.webp;それでも できることをするの この先も。;;But we have to keep doing what we can. In the future, as well.;;False;;;
 615;615;;614,616;0:21:20.660000;0:21:23.928000;615.mp3;615.webp;こっちにも 学校 つくるの? はい。;;You're going to make a school here too? Yes.;;False;;;

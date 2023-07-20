@@ -6,7 +6,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 88;88;90;89;0:02:16.595000;0:02:18.320000;88.mp3;88.webp;明日 STARRY集合ね!;Nos vemos en Starry, ¿sí?;Meetup at Starry tomorrow, okay?;False;False;;Nijika;Nijika
 91;91,94;93;92,95;0:02:18.347000;0:02:23.660000;91.mp3;91.webp;と... 家族以外からのLOINEに浮かれて　やって来たのは いいものの;Me alegro de haber recibido un mensaje de alguien que no sea familia, pero...;The joy of getting LOINE messages from someone who wasn't a relative got me this far, but...;False;False;;Hitori;Hitori
 97;97;98;96;0:02:24.530000;0:02:26.690000;97.mp3;97.webp;こんな芋娘が入ったら;Con mi aspecto de campesina,;If I walk in there looking like the hick I am,;False;False;;Hitori;Hitori
-99;99;101;100;0:02:26.605000;0:02:30.170000;99.mp3;99.webp;"""なんだ? こいつ""的な目で 見られるだろうし";me mirarán como un bicho raro en cuanto entre...;they'll all look at me like I don't belong there...;False;False;;Hitori;Hitori
+99;99;101;100;0:02:26.605000;0:02:30.170000;99.mp3;99.webp;\"なんだ? こいつ\"的な目で 見られるだろうし;me mirarán como un bicho raro en cuanto entre...;they'll all look at me like I don't belong there...;False;False;;Hitori;Hitori
 103;103;104;102;0:02:30.170000;0:02:34.170000;103.mp3;103.webp;前は虹夏ちゃんと一緒だったから 入れたけど;La última vez entré porque iba con Nijika, pero...;I made it in last time because I was with Nijika-chan, but...;False;False;;Hitori;Hitori
 106;106;107;105;0:02:36.060000;0:02:38.050000;106.mp3;106.webp;誰か入らないかな...;¿Habrá alguien adentro?;I wonder if anyone's there?;False;False;;Hitori;Hitori
 109;109;110;108;0:02:41.070000;0:02:43.350000;109.mp3;109.webp;誰かと一緒に入りたい;Preferiría entrar acompañada.;I wish I had someone to go in with.;False;False;;Hitori;Hitori
@@ -49,9 +49,9 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 258;258;260;259;0:04:32.439000;0:04:35.790000;258.mp3;258.webp;休みの日は 一人で廃墟探索したり;En sus días libres, sale a conocer la ciudad;On days off, she does urban exploration;False;False;;Nijika;Nijika
 262;262;263;261;0:04:35.790000;0:04:37.960000;262.mp3;262.webp;古着屋さん回ったり;y va a tiendas de segunda mano...;and visits second-hand clothing shops...;False;False;;Nijika;Nijika
 265;265;266;264;0:04:37.960000;0:04:39.040000;265.mp3;265.webp;いや 違う!;No...;No, she's not...;False;False;;Hitori;Hitori
-268;268;269;267;0:04:39.720000;0:04:42.550000;268.mp3;268.webp;"リョウさんは ""一人でいるのが好きな人""だ!";A Ryo le gusta estar sola.;Ryo-san likes being alone!;False;False;;Hitori;Hitori
+268;268;269;267;0:04:39.720000;0:04:42.550000;268.mp3;268.webp;リョウさんは \"一人でいるのが好きな人\"だ!;A Ryo le gusta estar sola.;Ryo-san likes being alone!;False;False;;Hitori;Hitori
 273;273;271;272;0:04:44.570000;0:04:47.430000;273.mp3;273.webp;コミュ症は 一人で服屋入れないし;Alguien con ansiedad social no entra sola a una tienda.;Someone with social anxiety could never enter a clothing shop on her own!;False;False;;Hitori;Hitori
-277;277,281;278;276;0:04:47.860000;0:04:53.877000;277.mp3;277.webp;"""ぼっち""と""一人好き""の間には　決して埋めることのできない 深く大きな溝が!";¡La distancia entre alguien aislado y solitario es demasiado grande!;The gap between the lonely and the loner is too deep and vast to ever be traversed!;False;False;;Hitori;Hitori
+277;277,281;278;276;0:04:47.860000;0:04:53.877000;277.mp3;277.webp;\"ぼっち\"と\"一人好き\"の間には　決して埋めることのできない 深く大きな溝が!;¡La distancia entre alguien aislado y solitario es demasiado grande!;The gap between the lonely and the loner is too deep and vast to ever be traversed!;False;False;;Hitori;Hitori
 282;282;284;283;0:04:55.170000;0:04:58.030000;282.mp3;282.webp;危うくトラップに 引っ掛かるところだった;Por poco caigo en la trampa.;I nearly fell into the trap.;False;False;;Hitori;Hitori
 286;286;287;285;0:04:58.030000;0:05:00.070000;286.mp3;286.webp;ぼっちちゃん 会話を楽しもうよ;Bocchi, disfruta de la charla.;Bocchi-chan, let's enjoy the conversation!;False;False;;Nijika;Nijika
 292;292;293;291;0:05:02.940000;0:05:05.570000;292.mp3;292.webp;次は 好きな音楽の話ー;¡Ahora hablaremos de música!;Next up, we'll talk about our favorite music!;False;False;;Nijika;Nijika
@@ -63,10 +63,10 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 314;314,316;315;313,317;0:05:19.710000;0:05:21.840000;314.mp3;314.webp;ホントだもん　ぼっちちゃんは?;Pero si es la verdad. -¿Bocchi?;That is true. Bocchi-chan?;False;False;;Ryo;Nijika,Ryo
 318;318;320;319;0:05:21.822000;0:05:23.960000;318.mp3;318.webp;あっ その...;Pues...;Oh, um...;False;False;;Hitori;Hitori
 322;322;323;321;0:05:23.960000;0:05:28.940000;322.mp3;322.webp;青春コンプレックスを 刺激する歌以外なら なんでも;Me gusta cualquier canción que no active mi complejo seishun.;I like any songs that don't trigger my seishun complex.;False;False;;Hitori;Hitori
-324;324;326;325;0:05:28.912000;0:05:31.540000;324.mp3;324.webp;ん? 青春コンプレックス?;"¿""Complejo seishun""?";"""Seishun complex""?";False;False;;Nijika;Nijika
+324;324;326;325;0:05:28.912000;0:05:31.540000;324.mp3;324.webp;ん? 青春コンプレックス?;¿\"Complejo seishun\"?;\"Seishun complex\"?;False;False;;Nijika;Nijika
 328;328;329;327;0:05:31.540000;0:05:33.100000;328.mp3;328.webp;説明しよう!;¡Yo les explico!;Allow me to explain!;False;False;;Guitar Man;Guitar Man
 334;334;333;331;0:05:33.350000;0:05:36.480000;334.mp3;334.webp;青春コンプレックスを 刺激する歌とは;Las canciones que activan el complejo de Hitori;Songs that trigger Hitori's seishun complex;False;False;;Guitar Man;Guitar Man
-343;343,347;344,346;342,345;0:05:36.480000;0:05:44.020000;343.mp3;343.webp;夏とか青い海 花火 淡い恋といった　ひとりの学校生活には 無縁のワードが多用されて;son canciones optimistas que mencionen el verano, el mar, fuegos artificiales, amor juvenil;"are glitter-coated upbeat songs that include words like ""summer,"" ""blue sea,"" ""fireworks,"" ""puppy love,""";False;False;;Guitar Man;Guitar Man
+343;343,347;344,346;342,345;0:05:36.480000;0:05:44.020000;343.mp3;343.webp;夏とか青い海 花火 淡い恋といった　ひとりの学校生活には 無縁のワードが多用されて;son canciones optimistas que mencionen el verano, el mar, fuegos artificiales, amor juvenil;are glitter-coated upbeat songs that include words like \"summer,\" \"blue sea,\" \"fireworks,\" \"puppy love,\";False;False;;Guitar Man;Guitar Man
 349;349;350;348;0:05:44.020000;0:05:47.860000;349.mp3;349.webp;キラキラにコーティングされた 爽やかな歌のことである;y lo que no tenga que ver con su experiencia escolar.;and other things irrelevant to her personal school experience!;False;False;;Guitar Man;Guitar Man
 352;352;353;351;0:05:48.990000;0:05:51.970000;352.mp3;352.webp;そういう歌詞聞くと 鬱々としてくる...;Esas palabras me producen melancolía... -Oye, ¿Bocchi?;Such words plunge me into a deep melancholy.;False;False;;Hitori;Hitori
 356;356,360,361;357,359;355,358;0:05:51.970000;0:05:56.950000;356.mp3;356.webp;逆に青春時代の鬱憤を ぼっちちゃん?　歌詞に たたきつけているバンドは　大好物だよね?;Por otra parte, te encantan las bandas que hablan de la desolación de la prepa, ¿no?;By the same token, you love bands that write about the bleakness of their high school years, right?;False;False;;Guitar Man;Guitar Man
@@ -105,7 +105,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 522;522;523;521;0:07:35.630000;0:07:38.100000;522.mp3;522.webp;次は ノルマの話ー;¡Vamos a hablar de los cupos!;Next, talk about quotas!;False;False;;Nijika;Nijika
 525;525;526;524;0:07:38.100000;0:07:39.600000;525.mp3;525.webp;堂々と流された;Evitó el tema...;Just shamelessly dodged that one, eh?;False;False;;Ryo;Ryo
 528;528;529;527;0:07:40.020000;0:07:43.090000;528.mp3;528.webp;あっ あの ノルマというのは...;¿Qué es eso de los cupos?;Um... What are quotas?;False;False;;Hitori;Hitori
-530;530;532;531;0:07:43.088000;0:07:46.150000;530.mp3;530.webp;昨日出たライブは ブッキングライブっていうんだけど;El concierto de ayer era un concierto reservado.;"The concert we did yesterday is called a ""booked concert.""";False;False;;Nijika;Nijika
+530;530;532;531;0:07:43.088000;0:07:46.150000;530.mp3;530.webp;昨日出たライブは ブッキングライブっていうんだけど;El concierto de ayer era un concierto reservado.;The concert we did yesterday is called a \"booked concert.\";False;False;;Nijika;Nijika
 533;533,536;535;534,537;0:07:46.175000;0:07:51.650000;533.mp3;533.webp;バンド側にはライブハウス側から　集客を保証するための チケットノルマが課せられていて;En él, el club le da unas entradas a la banda para que venga gente.;It's where the club assigns the band a ticket quota to make sure enough people come.;False;False;;Nijika;Nijika
 543;543,546;545;544;0:07:59.271000;0:08:03.650000;543.mp3;543.webp;ノルマ以上売れた分は　ライブハウスとバンド側で 分け合うんだけど...;Lo que se venda por encima de ese cupo se reparte entre el club y la banda...;Anything sold over the quota gets split between the club and the band...;False;False;;Nijika;Nijika
 548;548;550;549;0:08:08.363000;0:08:10.560000;548.mp3;548.webp;ノルマ分 集客できない場合;Pero si no se llena el cupo mínimo,;But if they can't bring in enough to meet the quota,;False;False;;Nijika;Nijika
@@ -139,7 +139,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 648;648;650,652;649,651;0:09:25.190000;0:09:28.040000;648.mp3;648.webp;働きたくない! だって...;No quiero trabajar. Porque...;I don't wanna work! Because...;False;False;;Hitori;Hitori
 654;654,657,659;656;655;0:09:28.068000;0:09:33.550000;654.mp3;654.webp;うっ... あっ... いらっしゃいませ　あたあたた...　絶対 こうなって...;Bienvenida... ¿Le caliento...? -Me pondría así...;W-Welcome... Sh-Should I warm... up?;False;False;;Hitori;Hitori
 662;662,665,667;664;663;0:09:33.573000;0:09:38.930000;662.mp3;662.webp;うっ... あっ... いらっしゃいませ　あたあたた...　こうなって...;Bienvenida... ¿Le caliento...? -Y entonces...;W-Welcome... Sh-Should I warm... up?;False;False;;Hitori;Hitori
-672;672;673;;0:09:39.496000;0:09:42.190000;672.mp3;672.webp;"""お客様に 不快感を与えたで賞""で";Por ahuyentar a los clientes, la condenamos a...;;False;;;Prosecutor;
+672;672;673;;0:09:39.496000;0:09:42.190000;672.mp3;672.webp;\"お客様に 不快感を与えたで賞\"で;Por ahuyentar a los clientes, la condenamos a...;;False;;;Prosecutor;
 675;675;676;;0:09:42.249000;0:09:43.770000;675.mp3;675.webp;死刑を求刑する!;¡Pena de muerte!;;False;;;Prosecutor;
 677;677;679,681;678,680;0:09:43.792000;0:09:47.460000;677.mp3;677.webp;えー それでは判決 死刑;Sentencia decidida. Muere.;Okay, here comes the ruling... Death!;False;False;;Judge;Judge
 684;684;685;683;0:09:47.690000;0:09:50.190000;684.mp3;684.webp;こうなるに決まってる!;¡Y será mi fin!;And then that!;False;False;;Hitori;Hitori
@@ -219,7 +219,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 969;969;970;968;0:14:00.610000;0:14:02.570000;969.mp3;969.webp;そっ そそ... そうでした;¿En serio?;R-R-R-Really?;False;False;;Hitori;Hitori
 972;972;973;971;0:14:02.570000;0:14:06.210000;972.mp3;972.webp;そういうことなので だから そんな緊張しないでいいよ;Eso significa que no tienes que ponerte nerviosa.;That means you don't have to be so nervous.;False;False;;Nijika;Nijika
 975;975;976;974;0:14:06.210000;0:14:07.690000;975.mp3;975.webp;ね? お姉ちゃん;¿Verdad, hermana?;Right, Sis?;False;False;;Nijika;Nijika
-977;977;979;978;0:14:07.639000;0:14:09.683000;977.mp3;977.webp;ここでは店長って呼べ あ...;Aquí soy la gerente.;"Call me ""Manager"" here.";False;False;;Seika;Seika
+977;977;979;978;0:14:07.639000;0:14:09.683000;977.mp3;977.webp;ここでは店長って呼べ あ...;Aquí soy la gerente.;Call me \"Manager\" here.;False;False;;Seika;Seika
 981;981;982;980;0:14:09.760000;0:14:12.180000;981.mp3;981.webp;あと 仕事に私情を挟むな;Familia y trabajo no se mezclan.;And keep our work and private relationships separate.;False;False;;Seika;Seika
 985;985;986;984;0:14:12.640000;0:14:15.480000;985.mp3;985.webp;もう 怖がらせないでよー;No intentes intimidarme.;Don't scare her like that!;False;False;;Nijika;Nijika
 992;992;994;993;0:14:15.897000;0:14:19.290000;992.mp3;992.webp;じゃあ まずは テーブルから片そうか;Bueno, primero vamos a limpiar las mesas.;Okay, let's clear the tables first.;False;False;;Nijika;Nijika
@@ -261,7 +261,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 1144;1144;;1143;0:16:17.280000;0:16:18.311000;1144.mp3;1144.webp;え?;;What?;;False;;;Hitori
 1146;1146;1147;1145;0:16:19.330000;0:16:22.040000;1146.mp3;1146.webp;えっ? いきなり接客開始?;¿Atenderé a los clientes?;Wait... Customer service already?!;False;False;;Hitori;Hitori
 1149;1149;1150;1148;0:16:22.040000;0:16:23.650000;1149.mp3;1149.webp;なんて言えばいいの?;¿Qué digo?;What do I say?!;False;False;;Hitori;Hitori
-1151;1151;1153;1152;0:16:23.441000;0:16:26.290000;1151.mp3;1151.webp;本日は お日柄も良く ご来店いただき...;"""Gracias por su prepotencia""...";"""Thank you for your royal parentage...""";False;False;;Hitori;Hitori
+1151;1151;1153;1152;0:16:23.441000;0:16:26.290000;1151.mp3;1151.webp;本日は お日柄も良く ご来店いただき...;\"Gracias por su prepotencia\"...;\"Thank you for your royal parentage...\";False;False;;Hitori;Hitori
 1154;1154;1156;1155,1157;0:16:26.277000;0:16:29.680000;1154.mp3;1154.webp;って違う! せ... せめて1回 予行練習を;¡Así no es! Tengo que practicar...;That's not it! J-Just give me a practice run, please!;False;False;;Hitori;Hitori
 1158;1158;1160;1159;0:16:29.614000;0:16:31.800000;1158.mp3;1158.webp;えっ あっ やっ ちょ... 待って 待って!;¡No, para!;N-No, wait! Stop it!;False;False;;Hitori;Hitori
 1167;1167;1168;1166;0:16:33.370000;0:16:34.800000;1167.mp3;1167.webp;終了しちゃった!;¡Se bloqueó!;She closed up!;False;False;;Nijika;Nijika
@@ -342,11 +342,11 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 1483;1483;;1484;0:21:17.485000;0:21:18.569000;1483.mp3;1483.webp;ん?;;Eh?;;False;;;Hitori
 1486;1486;1487;1485;0:21:19.610000;0:21:21.864000;1486.mp3;1486.webp;ぼっち 頑張ってたね;Bocchi se esforzó, ¿verdad?;Bocchi worked hard, huh?;False;False;;Ryo;Ryo
 1489;1489;1490;1488;0:21:22.350000;0:21:23.380000;1489.mp3;1489.webp;そだねー;Sí.;Yeah.;False;False;;Nijika;Nijika
-1491;1491;1493;1492;0:21:23.408000;0:21:27.120000;1491.mp3;1491.webp;"それに""また明日"" って言ってくれたねー";"Y hasta nos dijo ""hasta mañana"".";"And she managed to say ""see you tomorrow!""";False;False;;Nijika;Nijika
+1491;1491;1493;1492;0:21:23.408000;0:21:27.120000;1491.mp3;1491.webp;それに\"また明日\" って言ってくれたねー;Y hasta nos dijo \"hasta mañana\".;And she managed to say \"see you tomorrow!\";False;False;;Nijika;Nijika
 1495;1495;1496;1494;0:21:27.120000;0:21:28.380000;1495.mp3;1495.webp;うん;Sí.;Yeah.;False;False;;Ryo;Ryo
 1497;1497;1499;1498;0:21:28.413000;0:21:31.260000;1497.mp3;1497.webp;バンド組めて よかったよねー;Me alegra haber formado esta banda.;I'm glad we formed this band.;False;False;;Nijika;Nijika
 1502;1502;1500,1504;1501,1503;0:21:31.970000;0:21:34.520000;1502.mp3;1502.webp;そうだ ぼっちちゃんにLOINEしとこ;Por cierto. Vamos a mensajear a Bocchi.;Oh, right! Let's send a LOINE message to Bocchi-chan.;False;False;;Nijika;Nijika
-1506;1506;1507;1505;0:21:34.520000;0:21:36.587000;1506.mp3;1506.webp;"""明日も頑張ろう""って";"Le diré ""ánimo para mañana"".";"I'll say, ""Let's keep it up tomorrow!""";False;False;;Nijika;Nijika
+1506;1506;1507;1505;0:21:34.520000;0:21:36.587000;1506.mp3;1506.webp;\"明日も頑張ろう\"って;Le diré \"ánimo para mañana\".;I'll say, \"Let's keep it up tomorrow!\";False;False;;Nijika;Nijika
 1511;1511;1513,1515;1512,1514;0:21:39.465000;0:21:44.340000;1511.mp3;1511.webp;うーん ひどい熱 パパ 氷枕 作ってきて;Tiene mucha fiebre. Cariño, prepara un paño frío, ¿sí?;She's got an awful fever. Dear, prepare a cold compress, would you?;False;False;;Michiyo;Michiyo
 1516;1516;1518;1517;0:21:44.220000;0:21:45.888000;1516.mp3;1516.webp;病院 つれてくか?;¿La llevamos al hospital?;Does she need a trip to the hospital?;False;False;;Naoki;Naoki
 1520;1520;1521;1519;0:21:45.880000;0:21:49.225000;1520.mp3;1520.webp;い... 今頃 熱が;Ahora me dio fiebre...;N-Now I get the fever...;False;False;;Hitori;Hitori

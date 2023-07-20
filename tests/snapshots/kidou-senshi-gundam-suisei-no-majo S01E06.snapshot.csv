@@ -16,7 +16,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 48;48;47;46;0:00:53.570000;0:00:55.930000;48.mp3;48.webp;案の定 あぶり出されてきた;Se descubrió, como esperábamos.;As expected, we smoked her out.;False;False;;prospera;
 51;51,53;50;49,52;0:00:56.320000;0:01:00.950000;51.mp3;51.webp;心配?　大丈夫 エアリアルは勝つわ;¿Si me preocupa? No. El Aerial ganará.;Worried? Not at all. Aerial will surely win.;False;False;;prospera;
 56;56;55;54;0:01:01.330000;0:01:03.940000;56.mp3;56.webp;私のかわいい娘だもの;Es mi querida hija, al fin y al cabo.;I trust my darling daughter.;False;False;;prospera;
-61;61;60;59;0:02:38.880000;0:02:40.680000;61.mp3;61.webp;うっとうしいか...;Un incordio, ¿eh?;"""How you annoy me,"" huh?";False;False;;aliya;
+61;61;60;59;0:02:38.880000;0:02:40.680000;61.mp3;61.webp;うっとうしいか...;Un incordio, ¿eh?;\"How you annoy me,\" huh?;False;False;;aliya;
 64;64;63;62;0:02:41.050000;0:02:43.800000;64.mp3;64.webp;氷の君は なかなかヒドいことを言うな;El Soberano Helado es muy cruel.;Why would the Ice Prince speak so harshly?;False;False;;aliya;
 67;67;66;65;0:02:43.800000;0:02:46.140000;67.mp3;67.webp;感じ悪いですよ;Es muy antipático.;He's such a creep!;False;False;;lilique;
 69;69;70;68;0:02:46.140000;0:02:48.760000;69.mp3;69.webp;自分から誘ったんじゃねえのかよ;Te invitó él a salir, ¿no?;Isn't he the one who invited you?;False;False;;chuchu;
@@ -36,7 +36,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 115;115;116;114;0:03:31.020000;0:03:33.460000;115.mp3;115.webp;CEOの命令じゃあね...;Son órdenes del presidente.;It's a direct order from the CEO.;False;False;;petra;
 119;119;118;117;0:03:34.140000;0:03:36.150000;119.mp3;119.webp;どこで暮らせというんだ;¿Y dónde viviré?;Where am I supposed to live?;False;False;;guel;
 122;122;121;120;0:03:36.400000;0:03:38.460000;122.mp3;122.webp;お父上からの伝言です;Tengo un mensaje de su padre.;I have a message from your father.;False;False;;empleado jetark;
-125;125;124;123;0:03:38.460000;0:03:42.860000;125.mp3;125.webp;"""卒業までの学費を払ってやるのは せめてもの情けと思え""";Dice que le pagará la escuela hasta la graduación por compasión.;"""Consider it an act of mercy that I'm at least paying the rest of your tuition.""";False;False;;empleado jetark;
+125;125;124;123;0:03:38.460000;0:03:42.860000;125.mp3;125.webp;\"卒業までの学費を払ってやるのは せめてもの情けと思え\";Dice que le pagará la escuela hasta la graduación por compasión.;\"Consider it an act of mercy that I'm at least paying the rest of your tuition.\";False;False;;empleado jetark;
 128;128;127;126;0:03:43.540000;0:03:44.720000;128.mp3;128.webp;以上です;Eso es todo.;That is all.;False;False;;empleado jetark;
 130;130,133;131;129,132;0:03:45.200000;0:03:48.455000;130.mp3;130.webp;にいさん...　ラウダ;Guel... -Lauda,;Brother... Lauda.;False;False;;lauda;
 136;136;135;134;0:03:49.950000;0:03:51.710000;136.mp3;136.webp;ジェターク寮を頼む;encárgate de la residencia.;Look after Jeturk House.;False;False;;guel;
@@ -145,7 +145,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 488;488;487;486,489;0:09:50.650000;0:09:53.420000;488.mp3;488.webp;話? エラン・ケレスに?;¿Hablar? ¿Con Elan Ceres?;Talk? To Elan Ceres?;False;False;;dorm pale A;
 491;491;492;490;0:09:53.420000;0:09:55.310000;491.mp3;491.webp;あいつは応じないよ;No te contestará.;Good luck with that!;False;False;;dorm pale B;
 494;494;495;493;0:09:55.310000;0:09:57.730000;494.mp3;494.webp;俺たちとだって まともにしゃべらない;Ni siquiera habla con nosotros.;He hardly talks to us, his housemates.;False;False;;dorm pale B;
-497;497,499;498;496;0:09:57.730000;0:10:03.320000;497.mp3;497.webp;あのファラクトとかいう 機体のことも⸺　ペイル寮の生徒には 知らされていないんだ;Los de la residencia Pale no sabemos nada del Pharact.;"Nobody at Peil House knows a thing about that ""Pharact"" machine, either!";False;False;;dorm pale B;
+497;497,499;498;496;0:09:57.730000;0:10:03.320000;497.mp3;497.webp;あのファラクトとかいう 機体のことも⸺　ペイル寮の生徒には 知らされていないんだ;Los de la residencia Pale no sabemos nada del Pharact.;Nobody at Peil House knows a thing about that \"Pharact\" machine, either!;False;False;;dorm pale B;
 502;502,504;501;500,503;0:10:03.320000;0:10:06.720000;502.mp3;502.webp;お願いします　どうしても話したいんです;Por favor, tengo que hablar con él.;Please. I really would like to talk to him.;False;False;;suletta;
 508;508;;507;0:10:14.560000;0:10:17.260000;508.mp3;508.webp;あ... あー あー;;Testing... testing...;;False;;;
 511;511;510;509,512;0:10:17.870000;0:10:21.360000;511.mp3;511.webp;エランさん 聞こえてますか? スレッタです;¿Me oyes, Elan? Soy Suletta.;Mr. Elan, can you hear me? It's Suletta!;False;False;;suletta;
@@ -276,7 +276,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 965;965,968;966;964,967;0:19:30.970000;0:19:35.580000;965.mp3;965.webp;エランさん... エランさん...　エランさん!;Elan. ¡Elan!;Mr. Elan! Mr. Elan! Mr. Elan!;False;False;;suletta;
 971;971,973;970;969,972;0:19:40.230000;0:19:44.280000;971.mp3;971.webp;エランさん　ごめん... なさい;Lo siento, Elan.;Mr. Elan? I'm really sorry.;False;False;;suletta;
 975;975;976;974;0:19:44.280000;0:19:46.630000;975.mp3;975.webp;ケガ ないですか?;¿Te hiciste daño?;Are you hurt?;False;False;;suletta;
-979;979;978;977;0:19:46.940000;0:19:50.790000;979.mp3;979.webp;"""賭けは僕のことを教える"" だったね";Tengo que contarte algo sobre mí, ¿no?;Your stake was to learn about me, wasn't it?;False;False;;elan;
+979;979;978;977;0:19:46.940000;0:19:50.790000;979.mp3;979.webp;\"賭けは僕のことを教える\" だったね;Tengo que contarte algo sobre mí, ¿no?;Your stake was to learn about me, wasn't it?;False;False;;elan;
 983;983,985;982;981,984;0:19:51.820000;0:19:57.020000;983.mp3;983.webp;いたんだ 昔　誕生日 祝ってくれる人;Hace tiempo sí había alguien que celebraba mi cumpleaños.;I did have someone. Long ago. Someone who would celebrate my birthday.;False;False;;elan;
 988;988;987;986;0:19:57.740000;0:19:59.920000;988.mp3;988.webp;僕には何もないと思っていた;Creí que no tenía nada.;All this time, I thought I had nothing.;False;False;;elan;
 991;991;990;989;0:20:00.790000;0:20:03.550000;991.mp3;991.webp;けど そうじゃなかった;Pero me equivocaba.;But... it wasn't true.;False;False;;elan;

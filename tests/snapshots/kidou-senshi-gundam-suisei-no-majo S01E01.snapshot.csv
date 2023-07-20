@@ -202,7 +202,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 713;713;712;714;0:15:10.320000;0:15:11.840000;713.mp3;713.webp;本当に よろしいのですか?;¿Está seguro?;Are you sure about this?;False;False;;subordinado jeturk;
 716;716;717;715;0:15:12.050000;0:15:13.930000;716.mp3;716.webp;デリングが死ねば⸺;Si Delling muere,;If Delling dies,;False;False;;vim;
 718;718;720;719;0:15:13.838000;0:15:17.220000;718.mp3;718.webp;息子のグエルが 婚約者として確定する;mi hijo Guel se afianzará como su prometido.;my son Guel's engagement will be secured.;False;False;;vim;
-721;721;722;723;0:15:17.217000;0:15:20.762000;721.mp3;721.webp;決闘ごっこが 白紙になる前にやらねばな;Debo hacerlo antes de que anulen el duelo.;"I have to act before the results of these silly ""duels"" are nullified.";False;False;;vim;
+721;721;722;723;0:15:17.217000;0:15:20.762000;721.mp3;721.webp;決闘ごっこが 白紙になる前にやらねばな;Debo hacerlo antes de que anulen el duelo.;I have to act before the results of these silly \"duels\" are nullified.;False;False;;vim;
 725;725;724;726;0:15:21.640000;0:15:24.380000;725.mp3;725.webp;起爆は出港から 10分後にお願いします;Que explote diez minutos tras la partida.;Set the detonation for ten minutes after launch.;False;False;;subordinado jeturk;
 728;728;727;729;0:15:26.200000;0:15:27.650000;728.mp3;728.webp;デリング...;Delling,;Delling...;False;False;;vim;
 731;731;730;732;0:15:28.580000;0:15:31.950000;731.mp3;731.webp;長い付き合いも今日で終わりだな;nuestra larga relación acaba hoy.;our long friendship ends today.;False;False;;vim;
@@ -263,13 +263,13 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 926;926;927;928;0:19:10.742000;0:19:12.830000;926.mp3;926.webp;は? 家族?;¿Tu familia?;Family?;False;False;;miorine;
 929;929;930;931;0:19:12.827000;0:19:15.210000;929.mp3;929.webp;責任なら勝って果たします;Asumiré la responsabilidad ganando.;Why don't you let me fulfill my responsibility by winning?;False;False;;suletta;
 932;932;933;934,935;0:19:15.622000;0:19:19.630000;932.mp3;932.webp;私とエアリアルは あんなのに負けません!;Aerial y yo no perderemos contra ese.;Aerial and I will never lose to the likes of him!;False;False;;suletta;
-936;936;937;938;0:19:19.667000;0:19:21.840000;936.mp3;936.webp;あんなのだと...;"¿""Ese""?";"""The likes of him""?";False;False;;guel;
+936;936;937;938;0:19:19.667000;0:19:21.840000;936.mp3;936.webp;あんなのだと...;¿\"Ese\"?;\"The likes of him\"?;False;False;;guel;
 939;939,942;940;941;0:19:21.669000;0:19:25.760000;939.mp3;939.webp;く... シャディク!　決闘相手を再変更だ!;Shaddiq, cambia a la duelista de nuevo.;Shaddiq, I'm changing opponents again!;False;False;;guel;
 943;943,947;944,946;945,948;0:19:26.090000;0:19:29.520000;943.mp3;943.webp;了承しよう セセリア　はいはーい;De acuerdo. -Cecelia. -Bien.;Give him the go ahead, Cecilia. Sure thing.;False;False;;shaddiq,shaddiq/cecelia(?);
 950;950;949;951;0:19:33.080000;0:19:34.160000;950.mp3;950.webp;にいさん;Guel...;Brother!;False;False;;lauda(?);
 952;952;954;953;0:19:33.932000;0:19:37.110000;952.mp3;952.webp;田舎者の無知を修正してやる!;Le daré una lección a esa pueblerina.;I'll correct your ignorance, you country bumpkin!;False;False;;guel;
 956;956,958;955;957,959;0:19:40.280000;0:19:43.410000;956.mp3;956.webp;前!　お母さんが言ってました;¡Al frente! -Mi madre solía decir:;Straight ahead! My mother taught me,;False;False;;miorine;
-961;961;962;960,963;0:19:43.490000;0:19:48.250000;961.mp3;961.webp;逃げたら1つ 進めば2つ 手に入るって;"""Si huyes ganas una cosa. Si avanzas, ganas dos"".";"""If you run, you gain one,"" ""but if you move forward, you gain two.""";False;False;;suletta;
+961;961;962;960,963;0:19:43.490000;0:19:48.250000;961.mp3;961.webp;逃げたら1つ 進めば2つ 手に入るって;\"Si huyes ganas una cosa. Si avanzas, ganas dos\".;\"If you run, you gain one,\" \"but if you move forward, you gain two.\";False;False;;suletta;
 964;964;;965;0:19:48.279000;0:19:49.500000;964.mp3;964.webp;はあ?;;What?;;False;;;
 967;967;966;968;0:19:49.640000;0:19:52.250000;967.mp3;967.webp;逃げたら負けないが手に入ります;Si huyes, ganas el no perder.;When you run, you gain one by not losing.;False;False;;suletta;
 971;971;970;969;0:19:52.460000;0:19:54.790000;971.mp3;971.webp;でも 進めば...;Pero si avanzas...;But if you move forward...;False;False;;suletta;

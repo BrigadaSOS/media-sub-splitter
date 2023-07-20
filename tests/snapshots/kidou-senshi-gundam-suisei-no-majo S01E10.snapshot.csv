@@ -77,11 +77,11 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 285;285,286;284;283;0:05:50.450000;0:05:53.860000;285.mp3;285.webp;あとは宣伝だね　みんなに知ってもらわなきゃ;Solo hemos de promocionarnos para que nos conozcan todos.;All that's left is advertising. We have to let the world know.;False;False;;nika;
 288;288;289;287;0:05:53.750000;0:05:56.330000;288.mp3;288.webp;だから新作PV作るんだろ?;Por eso haremos otro video, ¿no?;That's why we're making a new PR video, right?;False;False;;ojelo;
 290;290,293;291;292;0:05:56.145000;0:06:00.107000;290.mp3;290.webp;うん　スレッタ 撮影場所の許可 取ってくれた?;Sí. ¿Conseguiste permiso para filmar, Suletta?;Suletta, did you get permission for the shooting location?;False;False;;nika;
-295;295;;294,296;0:06:00.090000;0:06:01.920000;295.mp3;295.webp;あ... あ?;;"Ah! ""Ah?""";;False;;;
+295;295;;294,296;0:06:00.090000;0:06:01.920000;295.mp3;295.webp;あ... あ?;;Ah! \"Ah?\";;False;;;
 299;299;297;298;0:06:03.340000;0:06:05.571000;299.mp3;299.webp;スレッタ わすれった;Suletta, olvidadiza neta.;Suletta... forgetta.;False;False;;suletta;
 302;302;303;;0:06:12.035000;0:06:14.997000;302.mp3;302.webp;なんなの それ... アハハ アハハ;¿Qué dices?;;False;;;nika;
 307;307;306;305;0:06:15.910000;0:06:18.917000;307.mp3;307.webp;不意打ちすぎんだよ! アハハハ アハハ;Te lo inventaste todo.;Was it funny?;False;False;;chuchu;
-311;311;310;309;0:06:26.750000;0:06:28.860000;311.mp3;311.webp;"""冗談を言って笑わせる""";"""Hacerlos reír con un chiste"".";"""Tell a joke and make everyone laugh.""";False;False;;nika;
+311;311;310;309;0:06:26.750000;0:06:28.860000;311.mp3;311.webp;\"冗談を言って笑わせる\";\"Hacerlos reír con un chiste\".;\"Tell a joke and make everyone laugh.\";False;False;;nika;
 313;313;314;312;0:06:28.780000;0:06:30.846000;313.mp3;313.webp;どおおー! ニカさん!;¡Nika!;Whoa! Ms. Nika!;False;False;;suletta;
 316;316;317;315;0:06:30.820000;0:06:32.990000;316.mp3;316.webp;リスト また埋まったね;Sigues llenando la lista, ¿eh?;You checked another item off your list.;False;False;;nika;
 321;321;319;320;0:06:35.260000;0:06:37.660000;321.mp3;321.webp;次は 何狙ってるの?;¿Cuál es tu siguiente objetivo?;What's next?;False;False;;nika;
@@ -183,9 +183,9 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 666;666,668;665;667;0:12:29.740000;0:12:32.980000;666.mp3;666.webp;アスティカシア　モビルスーツ?;Asticassia. ¿Un Mobile Suit?;Asticassia... A mobile suit?;False;False;;norea;
 671;671;;669;0:12:33.740000;0:12:35.480000;671.mp3;671.webp;ガンダムだよ それ;;That thing's a Gundam.;;False;;;
 674;674;672;673;0:12:37.020000;0:12:39.610000;674.mp3;674.webp;これが... 魔女?;¿Es una bruja?;Is this... a witch?;False;False;;norea;
-676;676;;675;0:12:39.610000;0:12:42.030000;676.mp3;676.webp;株式会社GUND-ARMだって;;"""GUND-ARM, Inc."" they're calling it.";;False;;;
+676;676;;675;0:12:39.610000;0:12:42.030000;676.mp3;676.webp;株式会社GUND-ARMだって;;\"GUND-ARM, Inc.\" they're calling it.;;False;;;
 680;680;;678;0:12:42.030000;0:12:43.630000;680.mp3;680.webp;なめてるよね;;They're making a joke of it.;;False;;;
-683;683;;681;0:12:43.630000;0:12:47.514000;683.mp3;683.webp;飛べる 踊れる エアリアルー ハッ;;"""It can fly! It can dance! Aerial!""";;False;;;
+683;683;;681;0:12:43.630000;0:12:47.514000;683.mp3;683.webp;飛べる 踊れる エアリアルー ハッ;;\"It can fly! It can dance! Aerial!\";;False;;;
 686;686;685;684;0:12:47.420000;0:12:49.057000;686.mp3;686.webp;ソフィー ナジは?;¿Dónde está Naji?;Sophie, where's Naji?;False;False;;norea;
 689;689;;688;0:12:49.360000;0:12:51.080000;689.mp3;689.webp;畑じゃないの?;;In his garden, I'll bet.;;False;;;
 692;692;690;691,693;0:12:51.360000;0:12:54.830000;692.mp3;692.webp;ナジー アスティカシア学園から⸺;¡Naji, llaman de la escuela Asticassia!;Naji! Call from the Asticassia School!;False;False;;norea;
@@ -339,7 +339,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 1229;1229,1230;1227;1228,1231;0:23:22.640000;0:23:25.170000;1229.mp3;1229.webp;そうでしょ?　ああ;¿Verdad? -Sí.;Isn't that right? Yes.;False;False;;henao/shaddiq;
 1234;1234;1233;1232;0:23:26.900000;0:23:29.260000;1234.mp3;1234.webp;ベネリットグループを解体する;Desmantelaremos el Benerit Group.;We're going to break up the Benerit Group.;False;False;;shaddiq;
 1235;1235;1237;1236,1238;0:23:30.698000;0:23:33.260000;1235.mp3;1235.webp;俺は もう ためらわない;No dudaré más.;I won't hesitate... any longer.;False;False;;shaddiq;
-1241;1241,1242;1240;1239;0:23:35.650000;0:23:40.166000;1241.mp3;1241.webp;"これより この船は⸺　我ら""フォルドの夜明け""の 管轄下に入る";Esta nave queda bajo el control de Alba de Fold.;This ship is now under the control of the Dawn of Fold.;False;False;;olcott;
+1241;1241,1242;1240;1239;0:23:35.650000;0:23:40.166000;1241.mp3;1241.webp;これより この船は⸺　我ら\"フォルドの夜明け\"の 管轄下に入る;Esta nave queda bajo el control de Alba de Fold.;This ship is now under the control of the Dawn of Fold.;False;False;;olcott;
 1245;1245,1246;1244;1243;0:23:40.700000;0:23:45.560000;1245.mp3;1245.webp;諸君らには... は...　速やかに 応じてくれることを要求する;Les exigimos que obedezcan inmediatamente.;We demand that all of you cooperate immediately.;False;False;;olcott;
 1249;1249;;1247,1250;0:23:47.120000;0:23:50.900000;1249.mp3;1249.webp;抵抗してもいいけど 殺すから;;Or feel free to resist... if you want to die.;;False;;;
 1254;1254,1255;;1252;0:23:54.370000;0:23:57.990000;1254.mp3;1254.webp;次回　「機動戦士ガンダム 水星の魔女」;;Next time on Mobile Suit Gundam: The Witch from Mercury,;;False;;;

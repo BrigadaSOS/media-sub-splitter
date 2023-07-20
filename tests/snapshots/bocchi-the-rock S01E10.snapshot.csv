@@ -12,7 +12,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 40;40;39,42;38,41;0:00:34.980000;0:00:39.092000;40.mp3;40.webp;お化け屋敷が6人 駄菓子屋さんが2人...;Seis para la casa embrujada. Dos para dulces tradicionales.;...six votes for a haunted house, and two votes for a candy shop.;False;False;;compañera clase C;Classmate C
 44;44;45;43;0:00:39.540000;0:00:41.594000;44.mp3;44.webp;いつから寝てたんだろ;¿Cuándo me dormí?;How long have I been out?;False;False;;hitori;Hitori
 48;48,49;47;46;0:00:41.580000;0:00:45.890000;48.mp3;48.webp;確か ホームルームで　文化祭のことを決める って言ってて...;Íbamos a decidir qué hacer en el festival cultural y...;I think I was in homeroom, and they started talking about festival project ideas...;False;False;;hitori;Hitori
-51;51,54;52;50,53;0:00:45.840000;0:00:49.840000;51.mp3;51.webp;"ダメだ　""一致団結""ってワードが 出たところから記憶が...";No recuerdo nada desde que mencionaron la cooperación.;"It's no use. Everything after the word ""unity"" came up is a blank.";False;False;;hitori;Hitori
+51;51,54;52;50,53;0:00:45.840000;0:00:49.840000;51.mp3;51.webp;ダメだ　\"一致団結\"ってワードが 出たところから記憶が...;No recuerdo nada desde que mencionaron la cooperación.;It's no use. Everything after the word \"unity\" came up is a blank.;False;False;;hitori;Hitori
 56;56;58;;0:00:49.811000;0:00:53.231000;56.mp3;56.webp;2組の出し物は メイド・執事喫茶に決まりました;Nuestra clase tendrá una cafetería de sirvientas.;;False;;;compañera clase C;
 62;62;61;60;0:00:53.800000;0:00:55.940000;62.mp3;62.webp;じゃあ メイド服そろえないとだ!;Necesitamos los trajes.;We'll have to get lots of maid uniforms!;False;False;;compañera clase X;Classmate X
 64;64,67;65;63,66;0:00:55.890000;0:00:59;64.mp3;64.webp;メ... メイド?　女子全員で着るんだもんね;¿Sirvientas? -Para todas las chicas.;M-Maid? Since all the girls'll be wearing them!;False;False;;hitori;Classmate Y,Hitori
@@ -31,9 +31,9 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 127;127;126;;0:01:49.980000;0:01:50.997000;127.mp3;127.webp;だねー;Y a mí.;;False;;;compañera clase B;
 132;132;133;131;0:01:57.010000;0:01:59.672000;132.mp3;132.webp;なんで 私 生徒会室の前に?;¿Qué hago delante del consejo?;How'd I end up at the student council room?!;False;False;;hitori;Hitori
 134;134;136;135;0:02:00.214000;0:02:02.133000;134.mp3;134.webp;何? この紙;¿Qué es esta hoja?;What's this piece of paper?;False;False;;hitori;Hitori
-145;145;146;144,147;0:02:02.600000;0:02:05.370000;145.mp3;145.webp;"""バンド出演希望 結束バンド""...";"""Presentación de banda: Kessoku Band"".";A band performance application... Kessoku Band...;False;False;;hitori;Hitori
+145;145;146;144,147;0:02:02.600000;0:02:05.370000;145.mp3;145.webp;\"バンド出演希望 結束バンド\"...;\"Presentación de banda: Kessoku Band\".;A band performance application... Kessoku Band...;False;False;;hitori;Hitori
 149;149;150;148;0:02:05.370000;0:02:08.056000;149.mp3;149.webp;って 誰? こんなの書いたの!;¿Quién escribió esto?;Who wrote all this?!;False;False;;hitori;Hitori
-152;152;153;151;0:02:08.010000;0:02:10.892000;152.mp3;152.webp;えっ 後藤ひとりが?;"¡¿""Hitori Goto""?!";What? Hitori Gotoh wrote it?!;False;False;;hitori;Hitori
+152;152;153;151;0:02:08.010000;0:02:10.892000;152.mp3;152.webp;えっ 後藤ひとりが?;¡¿\"Hitori Goto\"?!;What? Hitori Gotoh wrote it?!;False;False;;hitori;Hitori
 155;155;156;154;0:02:10.860000;0:02:12.660000;155.mp3;155.webp;私は硬派な ギタリストなんだ!;¡Eres una guitarrista seria!;I'm a professional guitarist now!;False;False;;hitori;Hitori
 158;158,160;159;157,161;0:02:12.590000;0:02:15.897000;158.mp3;158.webp;文化祭で ちやほやされたい なんて煩悩は消せ!　バンド活動に集中しろ!;¡Olvídate de que te adoren en el festival!;Begone, lust for culture festival attention! Focus on your band's career!;False;False;;hitori;Hitori
 163;163;164;162;0:02:16.790000;0:02:21.120000;163.mp3;163.webp;ほら 煩悩が薄れ... て...;¿Ves? Ya lo estás olvidando.;Good... the lust is fading.;False;False;;hitori;Hitori
@@ -252,7 +252,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 1015;1015;1016;1014;0:15:14.500000;0:15:16.885000;1015.mp3;1015.webp;さっきまで一緒にいたのに;Estaba aquí hace un momento.;She was with us just minutes ago...;False;False;;kita;Kita
 1018;1018;1019;1017,1020;0:15:17.190000;0:15:20.310000;1018.mp3;1018.webp;あれ? あんな所に座ってる;¿Eh? Está allí sentada.;Eh? She's sitting over there!;False;False;;kita;Kita
 1022;1022;1023;1021;0:15:20.310000;0:15:22.016000;1022.mp3;1022.webp;あっ あれは...;Es de esas.;Sh-She's doing...;False;False;;nijika;Nijika
-1025;1025,1027,1028;1026;1024;0:15:22.510000;0:15:27.850000;1025.mp3;1025.webp;"ライブハウスに よくいる　""手前で盛り上がってるお前らとは 違うんだぜ""感を出す　通ぶりたい客";Las sabelotodo que se creen superiores por estar más calmadas.;"the club classic: the ""I'm not like you overexcited sheeple"" customer!";False;False;;nijika;Nijika
+1025;1025,1027,1028;1026;1024;0:15:22.510000;0:15:27.850000;1025.mp3;1025.webp;ライブハウスに よくいる　\"手前で盛り上がってるお前らとは 違うんだぜ\"感を出す　通ぶりたい客;Las sabelotodo que se creen superiores por estar más calmadas.;the club classic: the \"I'm not like you overexcited sheeple\" customer!;False;False;;nijika;Nijika
 1030;1030;1031;1029;0:15:27.850000;0:15:29.648000;1030.mp3;1030.webp;音を聴け 音を;Escuchen el sonido.;Take in the sound. The sound!;False;False;;ryo;Ryo
 1032;1032,1036;1034;1033,1035;0:15:29.732000;0:15:34.445000;1032.mp3;1032.webp;リョウ先輩　SICK HACKって どんなバンドなんですか?;¿Qué tipo de banda es Sickhack?;Ryo-senpai. What kind of band is SICK HACK, exactly?;False;False;;kita;Kita
 1038;1038;1039;1037;0:15:34.420000;0:15:36.363000;1038.mp3;1038.webp;ジャンルはサイケデリック・ロック;Tocan rock psicodélico.;They play psychedelic rock.;False;False;;ryo;Ryo
@@ -283,7 +283,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 1154;1154,1158;1155,1157;1153,1156;0:17:40.880000;0:17:46.743000;1154.mp3;1154.webp;私って 実はさ 高校まで　教室の隅で じっとしている ネクラちゃんだったんだよ;¿Sabes qué? En la prepa siempre estaba callada en una esquina.;Lemme fill you in here. Up to high school, I was the gloomy misfit sittin' in a corner of the classroom.;False;False;;kikuri;Kikuri
 1162;1162;1161;1160;0:17:47.650000;0:17:49.830000;1162.mp3;1162.webp;あっ やっぱ分かる?;Lo entiendes, ¿eh?;Could ya tell?;False;False;;kikuri;Kikuri
 1164;1164;1165;1163;0:17:49.800000;0:17:53;1164.mp3;1164.webp;陰キャ同士は引かれ合うって ホントなんだなー;Ya sabía yo que los introvertidos nos atraemos.;I guess it's true what they say: gloomy people attract.;False;False;;kikuri;Kikuri
-1167;1167,1169;1168,1170;1166,1171;0:17:53.740000;0:18:01.174000;1167.mp3;1167.webp;でも あるとき 自分の将来 想像したら　普通の人生すぎて つまんねー って絶望しちゃって;Pero un día me imaginé mi futuro y me desesperó lo aburrido que iba a ser.;"But sometimes I'd imagine what my future was gonna look like, and I'd think, ""C'mon, that's lame!""";False;False;;kikuri;Kikuri
+1167;1167,1169;1168,1170;1166,1171;0:17:53.740000;0:18:01.174000;1167.mp3;1167.webp;でも あるとき 自分の将来 想像したら　普通の人生すぎて つまんねー って絶望しちゃって;Pero un día me imaginé mi futuro y me desesperó lo aburrido que iba a ser.;But sometimes I'd imagine what my future was gonna look like, and I'd think, \"C'mon, that's lame!\";False;False;;kikuri;Kikuri
 1173;1173;1175;1174;0:18:01.925000;0:18:06.010000;1173.mp3;1173.webp;真逆の生き方してやろう って思ってロック始めたの;Empecé a tocar rock para vivir de forma opuesta.;I started playing rock to make my life's course do a 180.;False;False;;kikuri;Kikuri
 1177;1177,1179;1178;1176;0:18:06.010000;0:18:10.851000;1177.mp3;1177.webp;楽器屋でベース買うのも ライブハウス行くのも　最初 めっちゃ怖かったし;Al principio me daba miedo comprar un bajo e ir a los clubes.;At first, I was scared stiff of buying a bass at the music shop or going into a club.;False;False;;kikuri;Kikuri
 1180;1180,1183;1182;1181;0:18:10.934000;0:18:15.564000;1180.mp3;1180.webp;酒 飲み始めたのも　初ライブの緊張を ごまかすためだしね;Empecé a beber para relajarme antes de mi primer concierto.;The whole reason I started drinking was to chill myself out before our first concert.;False;False;;kikuri;Kikuri
@@ -306,7 +306,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 1243;1243,1245;1242,1246;1244;0:19:10.080000;0:19:14.873000;1243.mp3;1243.webp;ぼっちちゃんに ずっと お金返してなかったんだから　少しは痛い目 見るべき;¡No! No le había devuelto el dinero a Bocchi. Que sufra un poco.;She needs to learn her lesson for bumming off of Bocchi-chan for so long.;False;False;;nijika;Nijika
 1247;1247;1249;1248;0:19:14.957000;0:19:17.250000;1247.mp3;1247.webp;郁代ー;Kikuyo...;Ikuyo...;False;False;;ryo;Ryo
 1251;1251;1253;1252;0:19:18.085000;0:19:21.213000;1251.mp3;1251.webp;喜多ちゃん ダメなバンドマンに 引っ掛からないで;No te dejas engatusar por ningún rockero.;Kita-chan! Don't fall for our wicked bandmate's tricks!;False;False;;nijika;Nijika
-1255;1255,1257;1256;1254;0:19:21.160000;0:19:25.968000;1255.mp3;1255.webp;"""彼氏にしちゃダメな3B""の Bって　ベーシスト ベーシスト ベーシスト のことだから";Los bajistas son de las peores parejas del mundo.;"The three Bs to avoid in a boyfriend are ""bassist, bassist, and bassist,"" after all!";False;False;;nijika;Nijika
+1255;1255,1257;1256;1254;0:19:21.160000;0:19:25.968000;1255.mp3;1255.webp;\"彼氏にしちゃダメな3B\"の Bって　ベーシスト ベーシスト ベーシスト のことだから;Los bajistas son de las peores parejas del mundo.;The three Bs to avoid in a boyfriend are \"bassist, bassist, and bassist,\" after all!;False;False;;nijika;Nijika
 1259;1259;1260;1258;0:19:26.440000;0:19:29.221000;1259.mp3;1259.webp;もう 絶対 人にお金借りません;No pediré dinero nunca más.;I'll never borrow money from anyone again.;False;False;;nijika;Ryo
 1262;1262;1263;1261;0:19:29.170000;0:19:30.931000;1262.mp3;1262.webp;じゃあ これだけあげる;Bien, toma esto.;Then I gift you this.;False;False;;nijika;Nijika
 1266;1266;1267;1265;0:19:36.180000;0:19:38.772000;1266.mp3;1266.webp;虹夏 優しい 好き;Qué buena eres. Te quiero.;You're kind, Nijika. I love you.;False;False;;ryo;Ryo

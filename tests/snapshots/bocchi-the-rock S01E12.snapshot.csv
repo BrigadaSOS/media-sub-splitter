@@ -5,10 +5,10 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 16;16;;15;0:00:32.840000;0:00:35.840000;16.mp3;16.webp;ガタゴト揺れる満員電車;;A packed train clatters along the track;;False;;;Kita
 18;18;;20;0:00:35.726000;0:00:38.220000;18.mp3;18.webp;すれ違うのは準急列車;;It brushes past a local express;;False;;;Kita
 22;22;;21;0:00:38.220000;0:00:43.390000;22.mp3;22.webp;輪郭のない雲の 表情を探してみる;;I'm gonna search for feelings in a shapeless cloud;;False;;;Kita
-25;25;;24;0:00:43.390000;0:00:46.350000;25.mp3;25.webp;「作者の気持ちを答えなさい」;;"The test asks, ""How was the author feeling here?""";;False;;;Kita
+25;25;;24;0:00:43.390000;0:00:46.350000;25.mp3;25.webp;「作者の気持ちを答えなさい」;;The test asks, \"How was the author feeling here?\";;False;;;Kita
 27;27;;29;0:00:46.236000;0:00:48.770000;27.mp3;27.webp;いったいなにが 正解なんだい?;;What could the right answer possibly be?;;False;;;Kita
 32;32;;31;0:00:49.320000;0:00:53.780000;32.mp3;32.webp;予定調和の シナリオ踏み抜いて;;Breaking through the script of pre-established harmony;;False;;;Kita
-34;34;;33;0:00:53.780000;0:00:59.080000;34.mp3;34.webp;青い春なんてもんは;;"Everyone talks about the ""springtime of life""";;False;;;Kita
+34;34;;33;0:00:53.780000;0:00:59.080000;34.mp3;34.webp;青い春なんてもんは;;Everyone talks about the \"springtime of life\";;False;;;Kita
 37;37;;36;0:00:59.080000;0:01:04.210000;37.mp3;37.webp;僕には似合わないんだ;;And I'm just not cut out for that;;False;;;Kita
 39;39;;38;0:01:04.210000;0:01:09.590000;39.mp3;39.webp;それでも知ってるから 一度しかない瞬間は;;Yet I know that this moment, which will never come again,;;False;;;Kita
 42;42;;41;0:01:09.590000;0:01:14.760000;42.mp3;42.webp;儚さを孕んでる;;is rich with evanescence;;False;;;Kita
@@ -23,7 +23,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 74;74;;75;0:01:59.268000;0:02:01.760000;74.mp3;74.webp;いつか死ぬまで何回だって;;So many times before I die someday...;;False;;;Kita
 77;77;;76;0:02:01.760000;0:02:07.390000;77.mp3;77.webp;こんなこともあったって 笑ってやんのさ;;I'll laugh thinking about what it was like;;False;;;Kita
 87;87;85;86;0:02:26.950000;0:02:28.870000;87.mp3;87.webp;ありがとうございました!;¡Muchas gracias!;Thank you!;False;False;;kita;Kita
-90;90;89;88;0:02:28.870000;0:02:31.430000;90.mp3;90.webp;"1曲目""忘れてやらない""でした";"Acabamos de tocar ""No lo olvidaré"".";"That was our first song, ""I Will Never Forget!""";False;False;;kita;Kita
+90;90;89;88;0:02:28.870000;0:02:31.430000;90.mp3;90.webp;1曲目\"忘れてやらない\"でした;Acabamos de tocar \"No lo olvidaré\".;That was our first song, \"I Will Never Forget!\";False;False;;kita;Kita
 93;93;91;92;0:02:33.340000;0:02:35.300000;93.mp3;93.webp;意外と盛り上がった;Les gustó bastante.;I can't believe how enthusiastic they are.;False;False;;hitori;Hitori
 94;94,97;96;95,98;0:02:35.137000;0:02:37.440000;94.mp3;94.webp;喜多ちゃーん!　けど...;Pero...;Kita-chan! But...;False;False;;hitori;Audience,Hitori
 101;101;102;100;0:02:40.090000;0:02:42.140000;101.mp3;101.webp;それじゃあ 次の曲の前に;Antes de tocar otra,;Now, before we play our next song...;False;False;;kita;Kita
@@ -33,7 +33,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 120;120;119;118;0:02:55.610000;0:02:56.980000;120.mp3;120.webp;ですねー;Sí.;Yeah...;False;False;;kikuri;Kikuri
 121;121,126;123,125;122,124;0:02:57.034000;0:03:01.160000;121.mp3;121.webp;でも ぼっちちゃん...　ベースの山田リョウいわく ん?;Pero Bocchi... Según Ryo Yamada, nuestra bajista,;But Bocchi-chan... Our esteemed bassist, Ryo Yamada,;False;False;;kikuri,nijika;Kikuri,Nijika
 129;129;128;127;0:03:01.160000;0:03:04.580000;129.mp3;129.webp;結束バンドは MCが つまらないそうでして;no tenemos ninguna gracia hablando.;told me that any MCing I did for Kessoku Band would be a flop,;False;False;;nijika;Nijika
-131;131;132;130;0:03:04.580000;0:03:06.830000;131.mp3;131.webp;"""どの口が?""って思うんですけど";¿Qué se cree? En fin...;"and at first I thought, ""How dare you!""";False;False;;nijika;Nijika
+131;131;132;130;0:03:04.580000;0:03:06.830000;131.mp3;131.webp;\"どの口が?\"って思うんですけど;¿Qué se cree? En fin...;and at first I thought, \"How dare you!\";False;False;;nijika;Nijika
 134;134,136;135;133,137;0:03:06.830000;0:03:11.120000;134.mp3;134.webp;面白いトークできるようになるまで　ライブ告知だけにしときますねー;Me limitaré a promocionarnos hasta que tengamos más gracia.;But until I learn to be entertaining with this stuff, I figured I'd stick to concert announcements!;False;False;;nijika;Nijika
 141;141;140;139;0:03:11.670000;0:03:15.590000;141.mp3;141.webp;って... まだ 次のライブの予定はないんですけど;Aunque aún no tenemos más conciertos programados.;Of course, I don't actually know when our next concert'll be...;False;False;;nijika;Nijika
 142;142,145,148;144,147;143;0:03:15.552000;0:03:19.980000;142.mp3;142.webp;もし 気になるって人がいたら　ボーカルの喜多ちゃんか...　喜多ちゃーん!;Si le interesamos a alguien, que hable con Kita... ¡Kita!;But if you wanna see more, just hit up our vocalist, Kita-chan,;False;False;;amigas kita,nijika;Nijika
@@ -41,13 +41,13 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 156;156;155;154;0:03:25.990000;0:03:27.680000;156.mp3;156.webp;ひとりちゃーん!;¡Hitori!;Hitori-chan!;False;False;;?;Audience
 159;159;158;157;0:03:28.430000;0:03:30.770000;159.mp3;159.webp;それじゃ 次の曲 いこっか;¿Vamos por la siguiente?;Anyway, let's move on to the next song!;False;False;;nijika;Nijika
 162;162;161;160;0:03:30.770000;0:03:31.950000;162.mp3;162.webp;はい!;Sí.;Right!;False;False;;kita;Kita
-165;165,169;164;163,168;0:03:32.480000;0:03:37.070000;165.mp3;165.webp;"それでは聴いてください　2曲目で""星座になれたら""";"Nuestra segunda canción es ""Ojalá fuéramos una constelación"".";"Please lend us your ears! Our next song is ""To Become a Constellation...""!";False;False;;kita;Kita
+165;165,169;164;163,168;0:03:32.480000;0:03:37.070000;165.mp3;165.webp;それでは聴いてください　2曲目で\"星座になれたら\";Nuestra segunda canción es \"Ojalá fuéramos una constelación\".;Please lend us your ears! Our next song is \"To Become a Constellation...\"!;False;False;;kita;Kita
 172;172;;174;0:04:05.018000;0:04:08.438000;172.mp3;172.webp;もうすぐ時計は6時;;The time's almost six;;False;;;Kita
 176;176;;177;0:04:08.939000;0:04:11.930000;176.mp3;176.webp;もうそこに一番星;;The evening star's already out there;;False;;;Kita
 180;180;;178;0:04:12.310000;0:04:14.440000;180.mp3;180.webp;影を踏んで;;Walking home, stepping on shadows;;False;;;Kita
 181;181;;182;0:04:14.319000;0:04:20.367000;181.mp3;181.webp;夜に紛れたくなる帰り道;;I'm hoping to blend into the night;;False;;;Kita
 183;183,188,191;185,189,193;184,186,187,190,192;0:04:21.410000;0:04:30.200000;183.mp3;183.webp;やっぱり おかしい　昨日まで なんともなかったのに　1・2弦のチューニングが 異常に合わない;Algo pasa. Ayer estaba totalmente afinada, pero hoy la primera cuerda no suena bien.;Yeah, something's not right. Lucky you, lucky you It's been fine this whole time, Must be nice to have everyone love you but now I can't get the E string in tune...;False;False;;hitori;Hitori,Kita
-196;196;;194;0:04:30.200000;0:04:37.630000;196.mp3;196.webp;「いいや 僕は ずっと一人きりさ」;;"""No, I've always been alone.""";;False;;;Kita
+196;196;;194;0:04:30.200000;0:04:37.630000;196.mp3;196.webp;「いいや 僕は ずっと一人きりさ」;;\"No, I've always been alone.\";;False;;;Kita
 199;199;;198;0:04:37.630000;0:04:41.630000;199.mp3;199.webp;君と集まって 星座になれたら;;If only I could become a constellation with you...;;False;;;Kita
 202;202,204,207,211,215;205,208,212,216;201,203,206,209,210,213,214;0:04:41.630000;0:04:53.480000;202.mp3;202.webp;星降る夜...　1弦が!　マズい! せめて 2弦のチューニングだけでも...　あっ ペグが故障してる!　あれじゃ 2弦も使いものにならない;¡La cuerda se...! Oh, no. Tengo que afinar al menos la segunda. ¿La clavija no funciona? Así tampoco podrá usar la segunda.;On a night of falling stars, I make that moment's wish The E string! Not good... But if I can at least get the B string in tune... A sparkling, twinkling, trembling signal up high The peg's broken! She can't use the B string now.;False;False;;hitori,kikuri;Hitori,Kikuri,Kita
 217;217,223,227,229,231,235,237;220,222,228,233;218,219,221,224,225,226,230,232,234,236;0:04:53.358000;0:05:11.080000;217.mp3;217.webp;これじゃ ソロ 無理だぞ　どうしよう... もうすぐソロが来る　せっかくの文化祭ライブが　私の機材トラブルで台なしに　どうしよう どうしよう...　どうしよう どうしよう どうしよう!　僕がどんなに 眩しくても;No puede hacer un solo. ¿Qué hago? Ya casi llegamos a mi solo. Voy a estropear el concierto por problemas técnicos. ¿Qué hago? ¿Qué hago?;She won't be able to do her solo. If only I could become a constellation with you... What'll I do? My solo's coming up... The kind that people point to in the sky If our big culture festival performance fails because I had equipment trouble... Don't let these lines that link us come undone What do I do? What do I do, what do I do, what do I do, what do I do?! No matter how brightly I shine;False;False;;hitori,kikuri;Hitori,Kikuri,Kita
@@ -124,7 +124,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 515;515;517;516,518;0:11:18.451000;0:11:22.372000;515.mp3;515.webp;ペグが壊れただけだろ? そんな心配しなくていいよ;Solo se salió una clavija. No te preocupes.;It's just a broken peg, right? It's really not that big a deal.;False;False;;naoki;Naoki
 521;521;520;519;0:11:22.300000;0:11:23.320000;521.mp3;521.webp;でも...;Pero...;But...;False;False;;hitori;Hitori
 523;523,525,526;524;522;0:11:23.240000;0:11:28.700000;523.mp3;523.webp;それに ライブ中に壊すなんて　なんか お父さん興奮しちゃうなー　え?;Y me emocioné al ver que la rompías en vivo.;Plus, it was pretty rad the way you broke it in the middle of the concert!;False;False;;naoki;Naoki
-528;528;529;527;0:11:28.700000;0:11:32.080000;528.mp3;528.webp;"今は""破壊専用ギター"" ってやつも売ってるらしいし";Ahora venden guitarras específicamente para romperlas.;Nowadays, they sell guitars designed to break.;False;False;;naoki;Naoki
+528;528;529;527;0:11:28.700000;0:11:32.080000;528.mp3;528.webp;今は\"破壊専用ギター\" ってやつも売ってるらしいし;Ahora venden guitarras específicamente para romperlas.;Nowadays, they sell guitars designed to break.;False;False;;naoki;Naoki
 531;531;532;530;0:11:32.080000;0:11:33.790000;531.mp3;531.webp;今度のライブで してくれよ;Inténtalo otro día.;You should use one of those in your next gig!;False;False;;naoki;Naoki
 533;533;535;534;0:11:33.758000;0:11:36.300000;533.mp3;533.webp;娘を どの方向に 持っていきたいんだ...;¿En qué me quieres convertir?;What kind of daughter are you trying to raise?;False;False;;hitori;Hitori
 538;538,540;537;536;0:11:36.670000;0:11:41.050000;538.mp3;538.webp;これも いい機会だし ひとりも自分のギター　買ってみたらどうだ? 遊んでー;Es una buena oportunidad para comprarte una propia.;Anyway, this is probably a good opportunity for you to buy your own guitar.;False;False;;naoki;Naoki
@@ -174,7 +174,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 713;713;714;712;0:14:28.220000;0:14:30.220000;713.mp3;713.webp;って ぼっちちゃんが;Eso pregunta Bocchi.;Bocchi-chan asked that.;False;False;;nijika;Nijika
 716;716;717;715;0:14:30.220000;0:14:33.350000;716.mp3;716.webp;お姉ちゃん 誕生日 近いし プレゼントかな?;Pronto es tu cumpleaños. ¿Será por eso?;Since your birthday's coming up, maybe she's talking about a present?;False;False;;nijika;Nijika
 720;720;718;719;0:14:33.600000;0:14:34.600000;720.mp3;720.webp;特にない;No quiero nada.;I don't want anything.;False;False;;seika;Seika
-722;722,724;723;721;0:14:35.220000;0:14:37.230000;722.mp3;722.webp;"""いらねえ""だって　うがっ";¡No quiere nada!;She says no thanks!;False;False;;nijika;Nijika
+722;722,724;723;721;0:14:35.220000;0:14:37.230000;722.mp3;722.webp;\"いらねえ\"だって　うがっ;¡No quiere nada!;She says no thanks!;False;False;;nijika;Nijika
 727;727;726;725;0:14:37.230000;0:14:38.230000;727.mp3;727.webp;終わった...;Se acabó.;I'm finished.;False;False;;hitori;Hitori
 728;728,731,732;730,733;729;0:14:38.109000;0:14:42.980000;728.mp3;728.webp;ぼっち 私は　Dingwallとル・フェの 新作ヘッドレス　それと Darkglassの アンプヘッドが欲しい;Yo quiero un Dingwall y unos headless de Le Fay. Y un amplificador de Darkglass.;Bocchi. I'd like a Dingwall and new Le Fay headless and a Darkglass amp head.;False;False;;ryo;Ryo
 734;734;736;735;0:14:43.031000;0:14:45.780000;734.mp3;734.webp;皆さーん 楽器屋さん行きますよー;Vamos a la tienda de instrumentos.;We're heading to the music shop, everyone!;False;False;;kita;Kita
@@ -259,7 +259,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 1031;1031;1032;1030;0:19:03.120000;0:19:04.450000;1031.mp3;1031.webp;ありがとうございました!;¡Muchas gracias!;Th-Thank you for having me!;False;False;;hitori;Hitori
 1034;1034;;1033,1036;0:19:04.450000;0:19:06.910000;1034.mp3;1034.webp;お客様? ギター忘れてますよ!;;M-Ma'am?! You forgot your guitar!;;False;;;Manager
 1037;1037;1039;1038;0:19:06.878000;0:19:09.080000;1037.mp3;1037.webp;どんだけ帰りたかったの;¿Tantas ganas tenía de irse?;How desperate was she to get out of here?;False;False;;nijika;Nijika
-1041;1041,1044;1042;1040,1043;0:19:10.120000;0:19:14.340000;1041.mp3;1041.webp;"はい　店長さん""また お店に 遊びに来てください""って";Toma. La vendedora dijo que espera que volvamos.;Here! The manager wants you to come by again some time.;False;False;;nijika;Nijika
+1041;1041,1044;1042;1040,1043;0:19:10.120000;0:19:14.340000;1041.mp3;1041.webp;はい　店長さん\"また お店に 遊びに来てください\"って;Toma. La vendedora dijo que espera que volvamos.;Here! The manager wants you to come by again some time.;False;False;;nijika;Nijika
 1045;1045;1047;1046;0:19:14.385000;0:19:17.010000;1045.mp3;1045.webp;あっ はい すみません;Sí. Lo siento.;R-Right. Sorry...;False;False;;hitori;Hitori
 1049;1049;1050;1048;0:19:17.010000;0:19:19.260000;1049.mp3;1049.webp;いいギター見つかって よかったね;Encontraste una buena guitarra.;I'm really glad you found a good guitar!;False;False;;kita;Kita
 1052;1052;1053;1051;0:19:19.260000;0:19:20.380000;1052.mp3;1052.webp;あっ はい;Sí.;R-Right.;False;False;;hitori;Hitori

@@ -12,7 +12,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 41;41;40;39,42,44;0:00:30.990000;0:00:34.700000;41.mp3;41.webp;何に使おう... 新しいスコア? 漫画 大人買い?;¿En qué me los gasto? ¿Partituras nuevas? ¿Mangas?;What'll I spend it on? New sheet music? A big manga haul?;False;False;;hitori;Hitori
 47;47;48;46;0:00:34.680000;0:00:37.320000;47.mp3;47.webp;あっ お母さんたちに ケーキとか買って驚かせ...;¿Sorprendo a mis padres con un pastel?;Maybe I'll buy a cake and surprise my family!;False;False;;hitori;Hitori
 51;51,55;53;52,54;0:00:37.071000;0:00:41.158000;51.mp3;51.webp;じゃあ せっかくのところ悪いんだけど　ライブ代 徴収するね;Siento ser aguafiestas, pero les resto lo del concierto.;Sorry to rain on various parades, but I've gotta collect these for the concert!;False;False;;nijika;Nijika
-56;56;59;57,60;0:00:41.659000;0:00:45.260000;56.mp3;56.webp;"聞いてください 新曲""さよなら諭吉""";"He aquí mi nueva canción: ""Adiós, Yukichi"".";"Lend me your ears. My new song, ""A Farewell to Yukichi.""";False;False;;hitori;Hitori
+56;56;59;57,60;0:00:41.659000;0:00:45.260000;56.mp3;56.webp;聞いてください 新曲\"さよなら諭吉\";He aquí mi nueva canción: \"Adiós, Yukichi\".;Lend me your ears. My new song, \"A Farewell to Yukichi.\";False;False;;hitori;Hitori
 61;61,65;63;62,64;0:00:45.204000;0:00:48.582000;61.mp3;61.webp;ごめんねー!　あたしだって心苦しいんだよ;¡Perdón! No creas que lo hago por gusto.;I'm so sorry! I hate it too, okay?;False;False;;nijika;Nijika
 66;66,71;68;67,70;0:00:50.793000;0:00:55.210000;66.mp3;66.webp;そういえば　ライブのノルマのために バイトしてるんだった;Es verdad, trabajaba para pagar lo que hace falta.;That's right. I was doing this job thing to pay our concert quota.;False;False;;hitori;Hitori
 74;74;75;73;0:00:55.210000;0:00:57.780000;74.mp3;74.webp;まあ 毎月 ここでバイト頑張れば;Bueno, si trabajo cada mes,;Of course, if I work hard here every month,;False;False;;hitori;Hitori
@@ -58,7 +58,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 253;253;254;252,255;0:04:30.800000;0:04:34.224000;253.mp3;253.webp;お金の問題じゃなくて 実力の問題;No es cuestión de dinero, sino de habilidad.;It's not about the money. It's about your skill.;False;False;;seika;Seika
 256;256;258;257;0:04:34.308000;0:04:37.061000;256.mp3;256.webp;えっ... この前は出してくれたじゃん;Pero el otro día tocamos.;But you let us play last time.;False;False;;nijika;Nijika
 261;261;260;259;0:04:37.480000;0:04:40.440000;261.mp3;261.webp;あれは思い出作りのために 特別にな;Les hice un favor para que tuvieran un recuerdo.;I made an exception so you could make a memory.;False;False;;seika;Seika
-263;263;264;262;0:04:40.440000;0:04:42.360000;263.mp3;263.webp;思い出作りって...;¿Un recuerdo?;"""Make a memory""?";False;False;;nijika;Nijika
+263;263;264;262;0:04:40.440000;0:04:42.360000;263.mp3;263.webp;思い出作りって...;¿Un recuerdo?;\"Make a memory\"?;False;False;;nijika;Nijika
 266;266;267,268;265,269;0:04:42.910000;0:04:46.680000;266.mp3;266.webp;ふだんはデモ音源審査とか してんの知ってんだろ?;Normalmente reviso todos los demos. Ya lo sabes.;Normally, I'd make you play first to apply. You know that, right?;False;False;;seika;Seika
 271;271;272;270;0:04:46.680000;0:04:48.200000;271.mp3;271.webp;そう... だけど;Sí, pero...;Yeah, but...;False;False;;nijika;Nijika
 274;274,276;275;273;0:04:48.200000;0:04:52.580000;274.mp3;274.webp;悪いけど　5月のライブみたいな クオリティなら出せないから;Lo siento, pero no pueden tocar si siguen como en mayo.;Sorry, but I can't have a repeat of that awful May performance.;False;False;;seika;Seika
@@ -111,7 +111,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 446;446;447;445;0:07:16.970000;0:07:19.810000;446.mp3;446.webp;でも じゃあ あとは頑張るだけですもんね;Entonces solo hay que esforzarse.;But that means we just have to work hard!;False;False;;kita;Kita
 450;450;451;449;0:07:21.250000;0:07:23.227000;450.mp3;450.webp;よかったー うん うん;Qué alivio.;Isn't that nice?;False;False;;kita;Kita
 453;453;454;452;0:07:23.220000;0:07:25.103000;453.mp3;453.webp;あっ うん そうだね;Sí. Claro.;Yeah, that's right.;False;False;;nijika;Nijika
-456;456;457;455;0:07:25.080000;0:07:28.120000;456.mp3;456.webp;"""この2人が一番 不安なんだけど""って顔してる";Tienes cara de que esas dos te preocupan.;"You've got that ""those two are the biggest problem"" look on your face.";False;False;;ryo;Ryo
+456;456;457;455;0:07:25.080000;0:07:28.120000;456.mp3;456.webp;\"この2人が一番 不安なんだけど\"って顔してる;Tienes cara de que esas dos te preocupan.;You've got that \"those two are the biggest problem\" look on your face.;False;False;;ryo;Ryo
 459;459;;458;0:07:28.080000;0:07:29.149000;459.mp3;459.webp;ドキッ;;Erk!;;False;;;Nijika
 463;463,465;464;462;0:07:29.130000;0:07:33.840000;463.mp3;463.webp;じゃあ 2人のパートは オケ流しとくから　アテブリの練習だけ しっかりしてくるように;Les pondremos el audio grabado. Practiquen solo los movimientos.;We'll record your parts in advance, so just practice miming along!;False;False;;ryo;Ryo
 470;470;468;469;0:07:34.010000;0:07:36.865000;470.mp3;470.webp;ダーメ エアバンドじゃないんだよ;¡Sí! -¡No! ¡Tocaremos en vivo!;No! No air guitars!;False;False;;kita y hitori/nijika;Nijika
@@ -139,7 +139,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 557;557;558;556;0:08:51.250000;0:08:52.691000;557.mp3;557.webp;あっ い... いえ;No hay de qué...;I-It's nothing...;False;False;;hitori;Hitori
 561;561;560;559;0:08:53.150000;0:08:56.987000;561.mp3;561.webp;でも 薄暗い所じゃなくて 教室で練習したほうが...;Pero podríamos practicar con más luz en el aula.;But shouldn't we practice in a classroom instead of this dreary place?;False;False;;kita;Kita
 563;563;564;562;0:08:56.970000;0:08:59.960000;563.mp3;563.webp;あっ やっ いや それは...;Bueno, es que...;Oh, w-well, actually...;False;False;;hitori;Hitori
-566;566,568,570;567;565,569;0:08:59.960000;0:09:05.400000;566.mp3;566.webp;"そんなことしたら みんな　""なんで喜多さんみたいな子が あんな子と?""　ってジロジロみられて 練習どころじゃ";Todo el mundo nos miraría y se preguntaría qué hace Kita conmigo.;"How am I supposed to practice with all those judging eyes asking, ""What's a cool girl like Kita doing with that loser?!""";False;False;;hitori;Hitori
+566;566,568,570;567;565,569;0:08:59.960000;0:09:05.400000;566.mp3;566.webp;そんなことしたら みんな　\"なんで喜多さんみたいな子が あんな子と?\"　ってジロジロみられて 練習どころじゃ;Todo el mundo nos miraría y se preguntaría qué hace Kita conmigo.;How am I supposed to practice with all those judging eyes asking, \"What's a cool girl like Kita doing with that loser?!\";False;False;;hitori;Hitori
 572;572;573;571;0:09:05.360000;0:09:07.164000;572.mp3;572.webp;あっ そうか え?;¡Ah, ya sé!;Oh, I get it!;False;False;;kita;Kita
 574;574;576,578;575,577;0:09:07.247000;0:09:11.610000;574.mp3;574.webp;教室で演奏したら うるさいものね さすが後藤さん;Es porque molestaríamos al resto, ¿no? ¡Qué considerada!;You don't want to bother people by playing in a classroom! You're so considerate, Gotoh-san!;False;False;;kita;Kita
 579;579,583;581;580,582;0:09:11.585000;0:09:15.213000;579.mp3;579.webp;いいほうに解釈してくれた　優しい!;Cree que tengo buenas intenciones. Qué dulce es.;She always assumes my motivations are pure! What a nice person!;False;False;;hitori;Hitori
@@ -147,20 +147,20 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 587;587;589;588;0:09:18.633000;0:09:22.440000;587.mp3;587.webp;私ね あれから考えてみたんだけど;he estado pensando en algo.;I've been thinking about it.;False;False;;kita;Kita
 591;591,594;592;590,593;0:09:22.440000;0:09:27.200000;591.mp3;591.webp;バンドとしての成長って　つまり 頑張ってることが 伝わればいいと思うの;Para demostrar que hemos progresado basta con que vean que nos esforzamos.;I think we just need to show that we've grown as a bandー in other words, how hard we've been working.;False;False;;kita;Kita
 596;596;597;595;0:09:27.200000;0:09:28.330000;596.mp3;596.webp;は... はい;Sí.;R-Right.;False;False;;hitori;Hitori
-599;599,602;600;598,601;0:09:28.330000;0:09:34.250000;599.mp3;599.webp;"私 そのときに心から""頑張った"" って言えるように　後悔しないようにしたくて";Quiero trabajar muy duro para no arrepentirme sobre el escenario.;When the time comes, I want to be able to say I gave it my all, and that I don't have any regrets.;False;False;;kita;Kita
+599;599,602;600;598,601;0:09:28.330000;0:09:34.250000;599.mp3;599.webp;私 そのときに心から\"頑張った\" って言えるように　後悔しないようにしたくて;Quiero trabajar muy duro para no arrepentirme sobre el escenario.;When the time comes, I want to be able to say I gave it my all, and that I don't have any regrets.;False;False;;kita;Kita
 605;605;604;603;0:09:34.250000;0:09:38.403000;605.mp3;605.webp;だから オーディションの日まで おつきあい よろしくお願いします;Así que acompáñame hasta el día de la audición.;So please stick with me until the day of the audition!;False;False;;kita;Kita
 607;607,609;608;606,610;0:09:38.370000;0:09:43.492000;607.mp3;607.webp;そ... そんな 頭 上げて　こ... こちらこそ よろしくお願いします;¡Levanta la cabeza! Vamos a hacer esto juntas.;P-Please don't bow! I-I'm the one who's h-happy to be here!;False;False;;hitori;Hitori
 611;611;612;613;0:09:45.535000;0:09:47.788000;611.mp3;611.webp;えっ 何 その髪型;¿Y esos peinados?;What's with the hair?;False;False;;nijika;Nijika
 615;615;616;614;0:09:54.310000;0:09:55.796000;615.mp3;615.webp;何やってんの?;¿Qué hacen?;What are we doing?;False;False;;nijika;Nijika
-618;618,620;619,621;617;0:09:55.760000;0:10:00.460000;618.mp3;618.webp;バ... バンドマンとしての成長を　見た目で表現... だそうです;Representar nuestro progreso físicamente. Creo.;"""V-Visually showing our growth as a band""... Apparently.";False;False;;hitori;Hitori
+618;618,620;619,621;617;0:09:55.760000;0:10:00.460000;618.mp3;618.webp;バ... バンドマンとしての成長を　見た目で表現... だそうです;Representar nuestro progreso físicamente. Creo.;\"V-Visually showing our growth as a band\"... Apparently.;False;False;;hitori;Hitori
 623;623;624;622;0:10:00.460000;0:10:02.010000;623.mp3;623.webp;やっぱり リョウか;Fue Ryo, ¿no?;More of Ryo's mischief?;False;False;;nijika;Nijika
 625;625,629;627;626,628;0:10:02.094000;0:10:06.390000;625.mp3;625.webp;飲酒 喫煙 女遊び　そして 髪型を きのこヘア;Alcohol, tabaco, mujeres y corte de hongo.;Drinking, smoking, dalliances with women, and the mop-top hairstyle...;False;False;;ryo;Ryo
-631;631,634;632;630,633;0:10:06.390000;0:10:09.680000;631.mp3;631.webp;それがバンドマン　イメージがコテコテすぎる!;Así son los músicos. -¡Lo estás exagerando!;"It all equals ""band."" You're laying it on a little thick!";False;False;;ryo/nijika;Nijika,Ryo
+631;631,634;632;630,633;0:10:06.390000;0:10:09.680000;631.mp3;631.webp;それがバンドマン　イメージがコテコテすぎる!;Así son los músicos. -¡Lo estás exagerando!;It all equals \"band.\" You're laying it on a little thick!;False;False;;ryo/nijika;Nijika,Ryo
 636;636;637;635;0:10:09.680000;0:10:12.437000;636.mp3;636.webp;それに たばこも お酒も 二十歳になってから!;Y nada de beber y fumar antes de los veinte.;And no smoking or drinking until you're twenty!;False;False;;nijika;Nijika
-638;638;640;639;0:10:12.521000;0:10:14.550000;638.mp3;638.webp;はい きのこー;¡Honguitos!;"Everyone say, ""mop-top""!";False;False;;kita;Kita
+638;638;640;639;0:10:12.521000;0:10:14.550000;638.mp3;638.webp;はい きのこー;¡Honguitos!;Everyone say, \"mop-top\"!;False;False;;kita;Kita
 644;644;642;643;0:10:15.090000;0:10:16.210000;644.mp3;644.webp;虹夏;Nijika.;Nijika.;False;False;;ryo;Ryo
 645;645;646;647;0:10:16.191000;0:10:18.140000;645.mp3;645.webp;んー 満足した?;¿Ya estás contenta?;Gotten it out of your system?;False;False;;nijika;Nijika
-649;649,652;650;648,651;0:10:18.140000;0:10:23.260000;649.mp3;649.webp;虹夏には 目が半分隠れて うざったい感じの　斜め前髪枠が空いてるから;A ti te queda mejor el peinado malote con flequillo que te tapa un ojo.;"We've got an opening for ""uneven bangs that hide one eye and a perpetually annoyed expression.""";False;False;;ryo;Ryo
+649;649,652;650;648,651;0:10:18.140000;0:10:23.260000;649.mp3;649.webp;虹夏には 目が半分隠れて うざったい感じの　斜め前髪枠が空いてるから;A ti te queda mejor el peinado malote con flequillo que te tapa un ojo.;We've got an opening for \"uneven bangs that hide one eye and a perpetually annoyed expression.\";False;False;;ryo;Ryo
 654;654;655;653;0:10:23.230000;0:10:25.300000;654.mp3;654.webp;そんな枠 結構です;No, gracias.;I'll pass, thanks.;False;False;;nijika;Nijika
 657;657;658;656;0:10:25.280000;0:10:27.202000;657.mp3;657.webp;あっ あのー ん?;Este...;U-Um...;False;False;;hitori;Hitori
 659;659;661;660;0:10:27.285000;0:10:30.840000;659.mp3;659.webp;あっ あ... 私 女遊び無理です;Veo difícil lo de salir con mujeres.;I c-can't have dalliances with women.;False;False;;hitori;Hitori
@@ -172,7 +172,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 691;691;690;689;0:10:53.970000;0:10:55.021000;691.mp3;691.webp;練習あるのみ!;¡A ensayar!;Practice is the only way!;False;False;;nijika;Nijika
 693;693,698;694,696;692,695,697;0:10:55.520000;0:10:59.818000;693.mp3;693.webp;ほーら さっさと着替えて! 喜多ちゃんも　あっ はい;Vamos, cámbiate. -Tú también, Kita. -Sí.;Now, get changed! You too, Kita-chan! R-Right!;False;False;;nijika,nijika/kita;Kita,Nijika
 700;700;701;699;0:11:00.210000;0:11:02.988000;700.mp3;700.webp;リョウさんの 言うことも ちょっと分かる;Lo que dice Ryo tiene sentido.;I think I get what Ryo-san's saying, though.;False;False;;hitori;Hitori
-702;702;704;703;0:11:08.577000;0:11:13.373000;702.mp3;702.webp;成長って 正直なところ よく分からない;No sé cómo se puede ver si has progresado o no.;"It's hard to know exactly what ""growth"" means.";False;False;;hitori;Hitori
+702;702;704;703;0:11:08.577000;0:11:13.373000;702.mp3;702.webp;成長って 正直なところ よく分からない;No sé cómo se puede ver si has progresado o no.;It's hard to know exactly what \"growth\" means.;False;False;;hitori;Hitori
 707;707;705;706;0:11:14.270000;0:11:15.380000;707.mp3;707.webp;イタッ;¡Ay!;Ow!;False;False;;kita;Kita
 708;708;710;709;0:11:15.459000;0:11:18.545000;708.mp3;708.webp;努力とは また違う気もする;No creo que equivalga al esfuerzo dedicado.;I don't think it's quite the same as effort put in.;False;False;;hitori;Hitori
 712;712;713;711;0:11:20.490000;0:11:23.800000;712.mp3;712.webp;ここ最近 本当に激動だった;Estos días han sido una montaña rusa.;My life as of late has been a whirlwind.;False;False;;hitori;Hitori
@@ -222,20 +222,20 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 900;900;901;899;0:14:37.550000;0:14:40.705000;900.mp3;900.webp;私が今 バンドやってる理由;¿Por qué estoy en una banda?;I spent all night thinking about my reason;False;False;;hitori;Hitori
 902;902;904;903;0:14:41.206000;0:14:43.208000;902.mp3;902.webp;ひと晩 考えたけど...;Lo pensé toda la noche.;for playing in this band now.;False;False;;hitori;Hitori
 906;906;907;905;0:14:46.840000;0:14:48.254000;906.mp3;906.webp;結束バンドです;Somos Kessoku Band.;We're Kessoku Band.;False;False;;nijika;Nijika
-909;909;910;908;0:14:50.240000;0:14:55.060000;909.mp3;909.webp;"じゃあ""ギターと孤独と蒼い惑星"" って曲 やりまーす!";"Vamos a tocar ""Guitarra, soledad y un planeta azul"".";"We're going to play our song, ""Guitar, Solitude, and the Blue Planet""!";False;False;;nijika;Nijika
+909;909;910;908;0:14:50.240000;0:14:55.060000;909.mp3;909.webp;じゃあ\"ギターと孤独と蒼い惑星\" って曲 やりまーす!;Vamos a tocar \"Guitarra, soledad y un planeta azul\".;We're going to play our song, \"Guitar, Solitude, and the Blue Planet\"!;False;False;;nijika;Nijika
 913;913,916;914;912,915;0:14:58.080000;0:15:02.936000;913.mp3;913.webp;今も 人気になって ちやほやされたいっていうのは　変わりない;Aún quiero volverme popular y recibir atención.;I do still want to become popular and have everyone go crazy for me...;False;False;;hitori;Hitori
 919;919;920;918;0:15:05.970000;0:15:09.170000;919.mp3;919.webp;でも それは 私だけじゃない;Pero no lo quiero solo para mí,;But now... it's not just for me.;False;False;;hitori;Hitori
 924;924;925;923;0:15:13.220000;0:15:15.031000;924.mp3;924.webp;この4人でだ!;sino para las cuatro.;It's the four of us!;False;False;;hitori;Hitori
 928;928;;926,929;0:15:25.010000;0:15:31.006000;928.mp3;928.webp;突然降る夕立 あぁ傘もないや嫌;;A sudden evening shower falls And yeah, it figures, I don't have an umbrella...;;False;;;Kita
 931;931;;930;0:15:30.880000;0:15:34.968000;931.mp3;931.webp;空のご機嫌なんか知らない;;Who cares how the sky's feeling, anyway?;;False;;;Kita
-934;934,938;937;933,936,939;0:15:34.950000;0:15:40.830000;934.mp3;934.webp;季節の変わり目の...　結局 成長って何か 分からなかった;Sigo sin saber qué es el progreso.;"When it's time for the seasons to change I never figured out what it means to have ""growth."" What are you supposed to wear? Who knows?";False;False;;hitori;Hitori,Kita
+934;934,938;937;933,936,939;0:15:34.950000;0:15:40.830000;934.mp3;934.webp;季節の変わり目の...　結局 成長って何か 分からなかった;Sigo sin saber qué es el progreso.;When it's time for the seasons to change I never figured out what it means to have \"growth.\" What are you supposed to wear? Who knows?;False;False;;hitori;Hitori,Kita
 941;941,946;944,949;940,943,945,947;0:15:40.830000;0:15:49.800000;941.mp3;941.webp;でも 今 私は　この4人で ちやほやされて バンドをし続けたい;Pero ahora quiero que se fijen en nosotras y sigamos como banda.;Spring and fall... yeah, where'd they go? But right now, what I want is to stay with this band and have people go crazy for us! The pressure of information, suffocating;False;False;;hitori;Hitori,Kita
 953;953;954;950,952,955;0:15:49.800000;0:15:54.760000;953.mp3;953.webp;虹夏ちゃんの本当の夢も かなえてあげたい;Quiero cumplir el verdadero sueño de Nijika.;A spiral of vertigo I want to make Nijika-chan's actual dream come true. Don't know where I am;False;False;;hitori;Hitori,Kita
 959;959;960;956,958;0:15:54.760000;0:16:00.890000;959.mp3;959.webp;だから こんなオーディション なんかで落ちるわけにはいかない;Así que tenemos que pasar esta audición.;I can hear myself breathing so loud, so loud... So... I can't afford to blow this audition!;False;False;;hitori;Hitori,Kita
 965;965;964;961,963;0:16:00.890000;0:16:06.230000;965.mp3;965.webp;このまま バンド終わらせたくない!;¡No quiero que la banda acabe aún!;But why? I can't hear the sounds of the world... I don't want the band to end just yet!;False;False;;hitori;Hitori,Kita
 967;967;;966;0:16:06.230000;0:16:10.350000;967.mp3;967.webp;足りない 足りない 誰にも気づかれない;;It's not enough, not enough, No one knows I'm here;;False;;;Kita
 969;969;;970;0:16:10.170000;0:16:15.520000;969.mp3;969.webp;殴り書きみたいな音 出せない状態で叫んだよ;;I screamed when I couldn't make a scribble of a sound;;False;;;Kita
-972;972;;974;0:16:15.216000;0:16:20.430000;972.mp3;972.webp;「ありのまま」なんて 誰に見せるんだ;;"Who am I supposed to show ""just who I am"" to?";;False;;;Kita
+972;972;;974;0:16:15.216000;0:16:20.430000;972.mp3;972.webp;「ありのまま」なんて 誰に見せるんだ;;Who am I supposed to show \"just who I am\" to?;;False;;;Kita
 976;976;;975;0:16:20.410000;0:16:25.268000;976.mp3;976.webp;馬鹿なわたしは歌うだけ;;So I'm singing just like the fool I am;;False;;;Kita
 979;979;;978;0:16:25.250000;0:16:28.563000;979.mp3;979.webp;ぶちまけちゃおうか 星に;;Let's lay it all out to the stars!;;False;;;Kita
 983;983;982;981;0:16:57.610000;0:16:59.928000;983.mp3;983.webp;ありがとうございました!;¡Muchas gracias!;Thank you for having us!;False;False;;las 4;Nijika

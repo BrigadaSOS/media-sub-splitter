@@ -6,7 +6,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 22;22,24;23;21;0:00:18.650000;0:00:23.817000;22.mp3;22.webp;と... ひょんなことから 愉快な仲間たちと　ロックバンドを組むことに なっちゃった;Acabó en un banda de rock con tres compañeras más.;From that humble beginning, she formed a rock band with this group of colorful characters!;False;False;;hombre guitarra;Guitar Man
 26;26;27;25;0:00:23.790000;0:00:26.402000;26.mp3;26.webp;そこから毎日 大忙し;Desde entonces ha estado muy ocupada.;Since then, her life has been one event after another!;False;False;;hombre guitarra;Guitar Man
 29;29;30;28;0:00:26.330000;0:00:28.279000;29.mp3;29.webp;この前も店長さんから;Le gerente les dijo...;And just now, the club manager said,;False;False;;hombre guitarra;Guitar Man
-32;32;33;31;0:00:28.240000;0:00:31.074000;32.mp3;32.webp;"""オーディションに合格しないと ライブには出さない""";"""No habrá concierto si no pasan la audición"".";"""I can't put you on stage unless you pass an audition,""";False;False;;hombre guitarra;Guitar Man
+32;32;33;31;0:00:28.240000;0:00:31.074000;32.mp3;32.webp;\"オーディションに合格しないと ライブには出さない\";\"No habrá concierto si no pasan la audición\".;\"I can't put you on stage unless you pass an audition,\";False;False;;hombre guitarra;Guitar Man
 35;35;36;34;0:00:31.050000;0:00:32.909000;35.mp3;35.webp;と言われて大慌て;¡Qué nervios!;which inspired a huge panic!;False;False;;hombre guitarra;Guitar Man
 46;46;45;44;0:00:39.750000;0:00:43.378000;46.mp3;46.webp;そして 練習に次ぐ練習の末...;Después de ensayar y ensayar...;And after hours and hours of practice...;False;False;;hombre guitarra;Guitar Man
 55;55,57;54,58;51,56,59;0:00:47.860000;0:00:52.428000;55.mp3;55.webp;ばーんざい!　見事 合格を勝ち取って 幸せいっぱい!;¡Viva! ¡Viva! Pasaron la audición y estaban muy felices.;Hooray! Hooray! Hooray! Hooray! They managed to pass their audition! Happiness bloomed!;False;False;;hombre guitarra,kessoku band;Guitar Man,Kessoku Band
@@ -51,8 +51,8 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 230;230;232;231;0:03:37.427000;0:03:38.930000;230.mp3;230.webp;なんか売れた;Ya las vendí.;I got 'em sold.;False;False;;ryo;Ryo
 236;236,240,242;238,239;237,241;0:03:38.720000;0:03:44.350000;236.mp3;236.webp;ぼっちちゃんは どうかな?　今日は来る? 新曲も みんなで合わせたいし　ふっ!;¿Qué tal tú, Bocchi? ¿Vendrás a ensayar hoy? Deberíamos probar la canción nueva.;How are you doing, Bocchi-chan? Coming today? I want to try the new song all together!;False;False;;nijika;Nijika
 243;243,247;245;244,246;0:03:44.434000;0:03:49.160000;243.mp3;243.webp;うううう... みんな順調そう　な... なんて返事する?;A ellas les va bien. ¿Qué contesto?;Th-They're all taking care of it! Wh-What do I say back?;False;False;;hitori;Hitori
-249;249;250;248;0:03:49.160000;0:03:51.960000;249.mp3;249.webp;"""ノルマ余裕です!""って強がる?";"Miento con un: ""¡Las venderé fácilmente!"".";"""I got that quota covered!"" and pretend I'm okay?";False;False;;hitori;Hitori
-252;252;253;251;0:03:51.960000;0:03:55.361000;252.mp3;252.webp;"いや 正直に""ノルマ無理ー!"" って言う?";"O soy honesta y digo: ""No puedo ni con cinco"".";"Or do I just admit, ""I can't handle the quota!""?";False;False;;hitori;Hitori
+249;249;250;248;0:03:49.160000;0:03:51.960000;249.mp3;249.webp;\"ノルマ余裕です!\"って強がる?;Miento con un: \"¡Las venderé fácilmente!\".;\"I got that quota covered!\" and pretend I'm okay?;False;False;;hitori;Hitori
+252;252;253;251;0:03:51.960000;0:03:55.361000;252.mp3;252.webp;いや 正直に\"ノルマ無理ー!\" って言う?;O soy honesta y digo: \"No puedo ni con cinco\".;Or do I just admit, \"I can't handle the quota!\"?;False;False;;hitori;Hitori
 255;255;256;254;0:03:55.360000;0:03:56.863000;255.mp3;255.webp;でも そしたら...;Pero entonces...;But if I do that...;False;False;;hitori;Hitori
 257;257;259;258;0:03:56.946000;0:03:59.699000;257.mp3;257.webp;ノルマ分が さばけない人は クビだよ;Quien no cumple el cupo, fuera.;You can't be in the band if you can't handle your quota.;False;False;;nijika;Nijika
 261;261;262;260;0:03:59.670000;0:04:01.451000;261.mp3;261.webp;バイバイ ぼっち;Adiós, Bocchi.;Bye-bye, Bocchi.;False;False;;ryo;Ryo
@@ -159,7 +159,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 678;678;679;677;0:11:10.870000;0:11:15.176000;678.mp3;678.webp;うん! だってお酒飲んだら 全部 忘れられるからさー つい;Sí. Porque al beber me olvido de todo.;Sure do! Drinking lets me forget everything, so I just...;False;False;;kikuri;Kikuri
 681;681,684;682;680,683;0:11:15.130000;0:11:17.970000;681.mp3;681.webp;全部?　ほら 将来の不安とか?;¿De todo? -De mis preocupaciones.;Everything? You know, like fears about the future.;False;False;;hitori;Hitori,Kikuri
 712;712;713;685;0:11:17.940000;0:11:21.724000;712.mp3;712.webp;年金問題 地方の過疎化 貧困 格差!;Salarios bajos, despoblación rural, desigualdad económica...;Pension problems! Rural depopulation! The poverty gap!;False;False;;kikuri;Kikuri
-736;736,738;737;735;0:11:24.400000;0:11:27.800000;736.mp3;736.webp;私は これを　幸せスパイラル って呼んでるんだ;"Yo lo llamo ""la espiral de felicidad"".";I call it a Happiness Spiral!;False;False;;kikuri;Kikuri
+736;736,738;737;735;0:11:24.400000;0:11:27.800000;736.mp3;736.webp;私は これを　幸せスパイラル って呼んでるんだ;Yo lo llamo \"la espiral de felicidad\".;I call it a Happiness Spiral!;False;False;;kikuri;Kikuri
 740;740;741;739;0:11:27.800000;0:11:28.910000;740.mp3;740.webp;まねしていいよ;Puedes imitarme.;Kids, try this at home!;False;False;;kikuri;Kikuri
 743;743;744;742;0:11:28.910000;0:11:30.107000;743.mp3;743.webp;あ... いや...;No, gracias.;Um...;False;False;;hitori;Hitori
 747;747;746;745;0:11:30.520000;0:11:32.300000;747.mp3;747.webp;悲しい幸せだ;Qué felicidad tan triste.;What a sad kind of happiness.;False;False;;hitori;Hitori
@@ -320,11 +320,11 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 1367;1367,1372,1373;1368,1370;1366,1369;0:20:51.760000;0:20:57.980000;1367.mp3;1367.webp;電車賃 貸してー ライブ行ったとき...　この展開...　返しまーす なんか覚えある;¿Me prestas para el tren? -Esto me suena familiar. -Te lo devolveré en el concierto.;Can I borrow some for the train? I'll pay you back at the concert.;False;False;;hitori/kikuri,kikuri;Kikuri
 1377;1377;1378;1376;0:20:59.440000;0:21:01.780000;1377.mp3;1377.webp;バンドマン お金なさすぎる;Qué pobres son los músicos.;Why are rockers all so poor?;False;False;;hitori;Hitori
 1382;1382;1383;1381;0:21:09.870000;0:21:12.898000;1382.mp3;1382.webp;わあー すごーい;¡Qué bonito!;Wow!;False;False;;fan 1;Fan 1/Fan 2/Crowd
-1386;1386;1385;1384;0:21:19.770000;0:21:23.700000;1386.mp3;1386.webp;"""今日 練習行かなくて すみませんでした""";"""Siento no haber ido a ensayar hoy.";I'm sorry I didn't make it to practice today.;False;False;;hitori;Hitori
-1388;1388;1389;1387,1390;0:21:24.120000;0:21:27.829000;1388.mp3;1388.webp;"""あと チケット 全部 売れました!""";"Por cierto, vendí todas las entradas"".";Also... I sold all my tickets!;False;False;;hitori;Hitori
+1386;1386;1385;1384;0:21:19.770000;0:21:23.700000;1386.mp3;1386.webp;\"今日 練習行かなくて すみませんでした\";\"Siento no haber ido a ensayar hoy.;I'm sorry I didn't make it to practice today.;False;False;;hitori;Hitori
+1388;1388;1389;1387,1390;0:21:24.120000;0:21:27.829000;1388.mp3;1388.webp;\"あと チケット 全部 売れました!\";Por cierto, vendí todas las entradas\".;Also... I sold all my tickets!;False;False;;hitori;Hitori
 1392;1392;1393;1391;0:21:28.250000;0:21:30.749000;1392.mp3;1392.webp;送信っと フフッ;Y enviar.;And... send!;False;False;;hitori;Hitori
 1395;1395;1396;1394;0:21:32.820000;0:21:35.796000;1395.mp3;1395.webp;ライブ 成功しますように;Espero que el concierto salga bien.;May our concert be a big success!;False;False;;hitori;Hitori
-1399;1399;1400;1398;0:21:38.780000;0:21:43.512000;1399.mp3;1399.webp;"""あと チケット 全部 売れました""だそうです";"""Por cierto, vendí todas las entradas"".";"""Also, I sold all my tickets,"" she said!";False;False;;kita;Kita
+1399;1399;1400;1398;0:21:38.780000;0:21:43.512000;1399.mp3;1399.webp;\"あと チケット 全部 売れました\"だそうです;\"Por cierto, vendí todas las entradas\".;\"Also, I sold all my tickets,\" she said!;False;False;;kita;Kita
 1402;1402,1406;1403;1401,1404,1405;0:21:43.930000;0:21:47.974000;1402.mp3;1402.webp;ぼっちちゃん 絶対 ウソついてるよね　だね;Bocchi nos está mintiendo. -Sí.;Bocchi-chan... She's totally lying, right? Totally.;False;False;;nijika;Nijika,Ryo
 1409;1409;1408;1407;0:21:48.670000;0:21:52.870000;1409.mp3;1409.webp;やっぱり このLOINEが プレッシャーになってたのかも;Seguro que se sintió presionada por mi mensaje.;I bet our LOINEs really did put pressure on her.;False;False;;nijika;Kita
 1411;1411;1412;1410;0:21:52.870000;0:21:54.314000;1411.mp3;1411.webp;かわいそうに;Pobrecita.;Poor thing.;False;False;;ryo;Ryo

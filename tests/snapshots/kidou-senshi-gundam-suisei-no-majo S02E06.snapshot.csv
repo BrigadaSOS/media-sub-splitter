@@ -13,7 +13,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 57;57;56;58;0:01:02.340000;0:01:04.948000;57.mp3;57.webp;いただきます! あぁ...;Buen provecho.;Let's eat!;False;False;;suletta;Suletta
 59;59;61;60;0:01:04.948000;0:01:08.010000;59.mp3;59.webp;なあ スレッタ 今日の授業中さ...;Suletta, en la clase de hoy...;Suletta, during today's class, you-;False;False;;ojelo;Ojelo
 62;62;63;64,65;0:01:07.917000;0:01:11.321000;62.mp3;62.webp;かっこよかったですか? えっ?;¿Estuvo bien?;Was I cool? Huh?;False;False;;suletta;Ojelo,Suletta
-66;66;68;67;0:01:11.321000;0:01:14.850000;66.mp3;66.webp;「授業中 かっこよく 先生に質問する」。;"""Hacer una buena pregunta al profesor en clase"".";Asking a question in class in a cool way.;False;False;;suletta;Suletta
+66;66;68;67;0:01:11.321000;0:01:14.850000;66.mp3;66.webp;「授業中 かっこよく 先生に質問する」。;\"Hacer una buena pregunta al profesor en clase\".;Asking a question in class in a cool way.;False;False;;suletta;Suletta
 70;70;69;71;0:01:15.980000;0:01:18.190000;70.mp3;70.webp;やりたいことリスト だったんですね。;¿Era de tu lista?;That was on your wish list too?;False;False;;lilique;Lilique
 72;72;74;73;0:01:18.094000;0:01:20.997000;72.mp3;72.webp;今日は 2つも埋まっちゃいました。;Hoy taché dos cosas.;I can cross two things off today!;False;False;;suletta;Suletta
 75;75;77;76,78;0:01:20.997000;0:01:25.368000;75.mp3;75.webp;毎日 授業に出て みんなと一緒に ランチ食べて;Ir a clase cada día y comer con ustedes;Going to class every day, and eating lunch with all of you...;False;False;;suletta;Suletta
@@ -252,10 +252,10 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 957;957,960;959;958,961;0:17:39.475000;0:17:45.080000;957.mp3;957.webp;みんなと勉強して　一緒に ランチも食べて おしゃべりできて...;Estudio, como y hablo con los demás.;I study with my friends, and we can chat together over lunch.;False;False;;suletta;Suletta
 962;962;963;964;0:17:45.080000;0:17:47.970000;962.mp3;962.webp;それでも ミオリネさんがいないのは...;Pero no estar con Miorine...;But even then, with Ms. Miorine gone...;False;False;;suletta;Suletta
 965;965;967;966;0:17:47.950000;0:17:51.954000;965.mp3;965.webp;会えなくなっちゃうのは嫌だって。;No me gusta pensar que no nos veremos más.;it hurts not being able to see her.;False;False;;suletta;Suletta
-968;968;969;970,971,972;0:17:51.954000;0:17:57.280000;968.mp3;968.webp;進めば2つって 今は思えない。;Ahora no considero que avanzando ganara dos cosas.;"""Move forward, gain two..."" Right now... I can't believe that.";False;False;;suletta;Suletta
+968;968;969;970,971,972;0:17:51.954000;0:17:57.280000;968.mp3;968.webp;進めば2つって 今は思えない。;Ahora no considero que avanzando ganara dos cosas.;\"Move forward, gain two...\" Right now... I can't believe that.;False;False;;suletta;Suletta
 976;976;978;977;0:18:18.447000;0:18:20.416000;976.mp3;976.webp;ここって...;¿Dónde estoy?;Where am I?;False;False;;suletta;Suletta
 982;982;980;981;0:18:25.500000;0:18:29.324000;982.mp3;982.webp;水星154年63日。;Día 63 del año mercuriano 154.;Mercurian year 154, day 63.;False;False;;ericht;Ericht
-983;983;985;984;0:18:29.324000;0:18:32.050000;983.mp3;983.webp;今日のゲームはディギングキング。;Hoy jugamos a Digging King.;"Today's game was ""DiggingKing.""";False;False;;ericht;Ericht
+983;983;985;984;0:18:29.324000;0:18:32.050000;983.mp3;983.webp;今日のゲームはディギングキング。;Hoy jugamos a Digging King.;Today's game was \"DiggingKing.\";False;False;;ericht;Ericht
 986;986;988;987;0:18:31.960000;0:18:35.064000;986.mp3;986.webp;スコアは6ー4で 僕の勝ち。;Gano yo seis a cuatro.;I won with a score of six to four.;False;False;;ericht;Ericht
 989;989;991;990;0:18:35.064000;0:18:38.480000;989.mp3;989.webp;もう一回って泣いて 諦めない君に;Tú lloras y no desistes.;You cried, wanting a rematch...;False;False;;ericht;Ericht
 992;992;994;993;0:18:38.467000;0:18:43.806000;992.mp3;992.webp;お母さんが ホットココアと 蜂蜜のキャンディーを1つ。;Mamá te da un chocolate caliente y un caramelo de miel.;so Mom gave you hot cocoa and one honey-flavored candy.;False;False;;ericht;Ericht
@@ -266,7 +266,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 1009;1009;1008;1007,1010;0:18:55.580000;0:18:58.320000;1009.mp3;1009.webp;エアリアルだよね? どうして 私と同じ...;Eres el Aerial, ¿no? ¿Por qué eres como yo?;You're Aerial, aren't you? Why do you look like me...?;False;False;;suletta;Suletta
 1013;1013;1011;1012;0:18:58.240000;0:19:00.289000;1013.mp3;1013.webp;⚞扉は開いたよ。;La puerta se abrió.;The door has opened.;False;False;;gundbit 1;GUND-Bit 1
 1015;1015;1014;1016;0:19:01.900000;0:19:04.560000;1015.mp3;1015.webp;鍵の役目は もうおしまい。;La llave ya cumplió su papel.;We don't need the key anymore.;False;False;;gundbit 2;GUND-Bit 2
-1017;1017;1018;1019;0:19:04.560000;0:19:06.880000;1017.mp3;1017.webp;みんな? 鍵?;¿Qué llave?;"Everyone? ""Key""?";False;False;;suletta;Suletta
+1017;1017;1018;1019;0:19:04.560000;0:19:06.880000;1017.mp3;1017.webp;みんな? 鍵?;¿Qué llave?;Everyone? \"Key\"?;False;False;;suletta;Suletta
 1020;1020;1021;1022;0:19:06.628000;0:19:09.398000;1020.mp3;1020.webp;鍵は あなたでしょ? スレッタ。;Tú eres la llave, Suletta.;The key is you, Suletta.;False;False;;gundbit 3;GUND-Bit 3
 1023;1023;1025;1024;0:19:09.398000;0:19:14.036000;1023.mp3;1023.webp;データストームの中でしか 生きられない エリィの代わり。;Sustitutas de Eri, que vive en la tormenta de datos.;Eri can only live inside the data storm, so you filled in for her.;False;False;;gundbit 4;GUND-Bit 4
 1026;1026;1027;1028;0:19:14.036000;0:19:17.039000;1026.mp3;1026.webp;肉体のないエリィの代わり。;Sustitutas de Eri, que no tiene cuerpo.;Eri has no physical form, so you filled in for her.;False;False;;gundbit 5;GUND-Bit 5
@@ -296,4 +296,4 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 1122;1122;1123;1121;0:21:51.990000;0:21:54.529000;1122.mp3;1122.webp;いいの? エリィ。;¿Estás segura, Eri?;Are you sure about this, Eri?;False;False;;prospera;Prospera
 1124;1124;1125;1126;0:21:54.529000;0:21:56.900000;1124.mp3;1124.webp;あの子も一緒に行くことだって...;Podría venir con nosotras.;What if she came with us...?;False;False;;prospera;Prospera
 1128;1128;1129;1130,1131;0:22:00.569000;0:22:05.240000;1128.mp3;1128.webp;そうね スレッタは 自由に生きていいのよね。;Tienes razón. Suletta puede ser libre.;You're right. Suletta deserves to live freely, doesn't she?;False;False;;prospera;Prospera
-1157;1157;1159;1156,1158,1160;0:23:53.920000;0:24:01.960000;1157.mp3;1157.webp;<次回 「機動戦士ガンダム 水星の魔女」>;"Próximamente: ""El método que no es el mejor"".";"Episode 19 Next time on Mobile Suit Gundam the Witch from Mercury, ""Not the Best Way.""";False;False;;shaddiq;Caption,Shaddiq
+1157;1157;1159;1156,1158,1160;0:23:53.920000;0:24:01.960000;1157.mp3;1157.webp;<次回 「機動戦士ガンダム 水星の魔女」>;Próximamente: \"El método que no es el mejor\".;Episode 19 Next time on Mobile Suit Gundam the Witch from Mercury, \"Not the Best Way.\";False;False;;shaddiq;Caption,Shaddiq
