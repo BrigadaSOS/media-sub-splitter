@@ -1,14 +1,14 @@
 ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREENSHOT;CONTENT;CONTENT_TRANSLATION_SPANISH;CONTENT_TRANSLATION_ENGLISH;CONTENT_SPANISH_MT;CONTENT_ENGLISH_MT;ACTOR_JA;ACTOR_ES;ACTOR_EN
 2;2;4;3;0:00:00.382000;0:00:03.830000;2.mp3;2.webp;鉱物から発見された パーメットの;La característica de compartir información;When Permet was discovered within minerals,;False;False;;profesor A;Teacher A
 5;5;7,8;6;0:00:03.820000;0:00:09.080000;5.mp3;5.webp;情報を共有するという特性は 全ての理論の基礎であり;descubierta en el Permet de los minerales es la base de todas las teorías;its special information-sharing properties became the basis for all these theories.;False;False;;profesor A;Teacher A
-9;9,12;10,13;11,14;0:00:08.825000;0:00:14.998000;9.mp3;9.webp;今日の あらゆるシステム管理や制御を　担っていると言える。 はい!;y soporta el control de todos los sistemas actuales. ¡Yo!;Today, it's responsible for controlling and managing systems of every kind. Excuse me!;False;False;;profesor A,suletta;Suletta,Teacher A
+9;9,12;10,13;11,14;0:00:08.825000;0:00:14.998000;9.mp3;9.webp;今日の あらゆるシステム管理や制御を　担っていると言える。はい!;y soporta el control de todos los sistemas actuales. ¡Yo!;Today, it's responsible for controlling and managing systems of every kind. Excuse me!;False;False;;profesor A,suletta;Suletta,Teacher A
 15;15;16;17;0:00:14.998000;0:00:17.467000;15.mp3;15.webp;モノレールとかにも 使われてますか?;¿También se usa en el monorraíl?;Is it used in the monorail too?;False;False;;suletta;Suletta
-19;19,23;20,22;18,21;0:00:17.370000;0:00:24.340000;19.mp3;19.webp;そう。 学園内交通の各車両と　総合運転指令をつなぐのも パーメットリンクであり;Sí. En la escuela, todos los vagones tienen un enlace Permet;Yes. Permet links connect all the transit cars on campus to central dispatch.;False;False;;profesor A;Teacher A
+19;19,23;20,22;18,21;0:00:17.370000;0:00:24.340000;19.mp3;19.webp;そう。学園内交通の各車両と　総合運転指令をつなぐのも パーメットリンクであり;Sí. En la escuela, todos los vagones tienen un enlace Permet;Yes. Permet links connect all the transit cars on campus to central dispatch.;False;False;;profesor A;Teacher A
 24;24;26;25;0:00:24.140000;0:00:26.609000;24.mp3;24.webp;これによって 情報の偏在化や...。;que conecta información y...;This prevents uneven data distribution...;False;False;;profesor A;Teacher A
-29;29,31,35,38;28,34,37;30,32,33,36;0:00:33.580000;0:00:45.261000;29.mp3;29.webp;LP041 スレッタ・マーキュリー　合格。 スレッタ　思ったより明るくね? グエルに負けて　ホルダーじゃなくなった ってのにな。;LP-041, Suletta Mercury, aprobaste. Suletta se ve más feliz de lo que creí. Pese a perder contra Guel y que dejó de ser Holder.;LP041, Suletta Mercury... Passed. Suletta seems surprisingly cheerful. I was worried when she lost the title of Holder to Guel...;False;False;;instructor,nuno,ojelo;Nuno,Ojelo,Professor
-40;40;41,43;39,42;0:00:45.140000;0:00:49.250000;40.mp3;40.webp;平気なわけないだろ。 エアリアルだって取られたんだ。;No está bien. Le quitaron el Aerial.;There's no way she's okay. They took Aerial too, after all.;False;False;;aliya;Aliya
+29;29,31,35,38;28,34,37;30,32,33,36;0:00:33.580000;0:00:45.261000;29.mp3;29.webp;LP041 スレッタ・マーキュリー　合格。スレッタ　思ったより明るくね? グエルに負けて　ホルダーじゃなくなった ってのにな。;LP-041, Suletta Mercury, aprobaste. Suletta se ve más feliz de lo que creí. Pese a perder contra Guel y que dejó de ser Holder.;LP041, Suletta Mercury... Passed. Suletta seems surprisingly cheerful. I was worried when she lost the title of Holder to Guel...;False;False;;instructor,nuno,ojelo;Nuno,Ojelo,Professor
+40;40;41,43;39,42;0:00:45.140000;0:00:49.250000;40.mp3;40.webp;平気なわけないだろ。エアリアルだって取られたんだ。;No está bien. Le quitaron el Aerial.;There's no way she's okay. They took Aerial too, after all.;False;False;;aliya;Aliya
 44;44;46;45;0:00:49.165000;0:00:51.601000;44.mp3;44.webp;絶対 傷ついてますよ。;De seguro está dolida.;She must be hurting...;False;False;;lilique;Lilique
-49;49,51;48;47,50;0:00:51.500000;0:00:57.607000;49.mp3;49.webp;ミオリネ先輩のことだって あんな終わり方...。　⚞コツコツコツ... んん...。 あっ。;También por cómo terminó las cosas con Miorine.;Then there's Ms. Miorine... For things to end like that...;False;False;;lilique;Lilique
+49;49,51;48;47,50;0:00:51.500000;0:00:57.607000;49.mp3;49.webp;ミオリネ先輩のことだって あんな終わり方...。⚞コツコツコツ... んん...。あっ。;También por cómo terminó las cosas con Miorine.;Then there's Ms. Miorine... For things to end like that...;False;False;;lilique;Lilique
 53;53,55;54;52;0:00:57.410000;0:01:02.345000;53.mp3;53.webp;今日のランチは ラーヌードルの　トッピングマシマシに してみました。;Hoy pedí lanoodles con guarnición extra.;For today's lunch, I tried making ramoodles with lots of toppings!;False;False;;suletta;Suletta
 57;57;56;58;0:01:02.340000;0:01:04.948000;57.mp3;57.webp;いただきます! あぁ...。;Buen provecho.;Let's eat!;False;False;;suletta;Suletta
 59;59;61;60;0:01:04.948000;0:01:08.010000;59.mp3;59.webp;なあ スレッタ 今日の授業中さ...。;Suletta, en la clase de hoy...;Suletta, during today's class, you-;False;False;;ojelo;Ojelo
@@ -23,33 +23,33 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 111;111,114;112;113;0:03:10.173000;0:03:15.111000;111.mp3;111.webp;各子会社の統合案　期日は いつだったかな? あっ...。;¿Cuándo integrarán a las empresas subsidiarias?;Your subsidiary merger plan... Remind me, when it was due?;False;False;;patrocinador B;Sponsor B
 116;116;117;115;0:03:15.110000;0:03:18.370000;116.mp3;116.webp;果たせないようでは 融資の話は なしだ;Si no pueden hacerlo, no tendrán el préstamo,;Financing is pointless if you can't meet your goals.;False;False;;patrocinador C;Sponsor C
 118;118;120;119;0:03:18.248000;0:03:20.540000;118.mp3;118.webp;ヴィム・ジェタークの息子君。;hijo de Vim Jeturk.;Even for the son of Vim Jeturk.;False;False;;patrocinador C;Sponsor C
-121;121;123;122,124;0:03:23.119000;0:03:26.189000;121.mp3;121.webp;ダメだ。 融資元は うなずかん。;Es inútil. No aceptarán nunca.;It's no use. The financiers won't say yes.;False;False;;guel;Guel
-126;126;127;125;0:03:26.140000;0:03:30.226000;126.mp3;126.webp;必要なのは 俺の実績か。 んん...。;Necesito algún logro propio.;They must be thinking I have no track record...;False;False;;guel;Guel
+121;121;123;122,124;0:03:23.119000;0:03:26.189000;121.mp3;121.webp;ダメだ。融資元は うなずかん。;Es inútil. No aceptarán nunca.;It's no use. The financiers won't say yes.;False;False;;guel;Guel
+126;126;127;125;0:03:26.140000;0:03:30.226000;126.mp3;126.webp;必要なのは 俺の実績か。んん...。;Necesito algún logro propio.;They must be thinking I have no track record...;False;False;;guel;Guel
 128;128;129;130;0:03:30.226000;0:03:32.262000;128.mp3;128.webp;実績というなら;Hablando de logros,;If you need a track record,;False;False;;prospera;Prospera
 132;132,134;133;131;0:03:32.220000;0:03:37.200000;132.mp3;132.webp;御社には 未発表の新型モビルスーツが　あるはずでは? うっ...。;¿no tienen un nuevo Mobile Suit sin anunciar?;doesn't your company have a new mobile suit model you haven't announced?;False;False;;prospera;Prospera
 135;135;136;137;0:03:37.200000;0:03:39.169000;135.mp3;135.webp;新型?;¿Un nuevo modelo?;A new model?;False;False;;miorine;Miorine
 139;139;140;138;0:03:41.030000;0:03:43.239000;139.mp3;139.webp;ガンダム!?;¡¿Un Gundam?!;A Gundam?!;False;False;;miorine;Miorine
 141;141;142;143;0:03:43.239000;0:03:46.643000;141.mp3;141.webp;次世代コンセプトモデル シュバルゼッテ。;Un modelo de nueva generación: el Schwarzette.;Our next-generation concept model, the Schwarzette.;False;False;;guel;Guel
-145;145,147,151;146,149;144,148,150;0:03:46.630000;0:03:55.018000;145.mp3;145.webp;父さんが開発を進めていたとは 聞いていたんだが...。　くっ... あんた　何 勝手に ガンダムの技術を 提供してんのよ!;Escuché que mi padre lo estaba desarrollando. ¿Por qué provees tecnología Gundam sin consultármelo?;I'd heard my dad was developing something, but... You snake! You can't share Gundam technology without my consent!;False;False;;guel,miorine;Guel,Miorine
+145;145,147,151;146,149;144,148,150;0:03:46.630000;0:03:55.018000;145.mp3;145.webp;父さんが開発を進めていたとは 聞いていたんだが...。くっ... あんた　何 勝手に ガンダムの技術を 提供してんのよ!;Escuché que mi padre lo estaba desarrollando. ¿Por qué provees tecnología Gundam sin consultármelo?;I'd heard my dad was developing something, but... You snake! You can't share Gundam technology without my consent!;False;False;;guel,miorine;Guel,Miorine
 152;152;153,155;154,156;0:03:55.018000;0:03:59.120000;152.mp3;152.webp;グエルも なんで黙ってたわけ!? 俺だって知らなかったんだ!;¿Y tú por qué no dijiste nada? ¡No lo sabía!;And you, Guel! Why didn't you tell me?! It's news to me too, okay?!;False;False;;guel,miorine;Guel,Miorine
 157;157;159;158;0:03:58.955000;0:04:01.958000;157.mp3;157.webp;まだ 買収される前でしたし;Fue antes de la adquisición;It was before you acquired us.;False;False;;prospera;Prospera
 161;161,163;162;160;0:04:01.810000;0:04:07.630000;161.mp3;161.webp;是非とも ドローン事業を一緒にって　熱烈に要望されちゃいまして。;y me pidieron apasionadamente que colaborara en la industria de drones.;He was so insistent that we go into the drone business together.;False;False;;prospera;Prospera
-165;165;166;164;0:04:07.490000;0:04:11.301000;165.mp3;165.webp;「シン・セー」は末端ですから。 ねえ。;Como Shin Sei está tan retrasada...;And since Shin Sei was at the bottom of the pecking order...;False;False;;prospera;Prospera
+165;165;166;164;0:04:07.490000;0:04:11.301000;165.mp3;165.webp;「シン・セー」は末端ですから。ねえ。;Como Shin Sei está tan retrasada...;And since Shin Sei was at the bottom of the pecking order...;False;False;;prospera;Prospera
 168;168;170;169;0:04:13.303000;0:04:15.738000;168.mp3;168.webp;で 提案って?;¿Y cuál es tu propuesta?;So? What are you proposing?;False;False;;miorine;Miorine
 171;171,175;173;172,174,176;0:04:15.738000;0:04:22.570000;171.mp3;171.webp;その機体 「株式会社ガンダム」と 「ジェターク社」の　共同開発として発表するのは いかがでしょう?;¿Por qué no anuncian que esa unidad la desarrollaron GUND-ARM y Jeturk?;That machine... Why don't you announce it was developed jointly between GUND-ARM, Inc. and Jeturk?;False;False;;prospera;Prospera
-177;177,180;178;179;0:04:22.512000;0:04:28.251000;177.mp3;177.webp;あっ。 そうすれば　お二人の結束を グループ内にアピールできますわ。;Así le mostrarán al grupo que están unidos.;Then you can also promote your union to the rest of the Group.;False;False;;prospera;Prospera
-181;181;183;182;0:04:28.251000;0:04:30.753000;181.mp3;181.webp;のめないわね。 ん?;No.;No can do.;False;False;;miorine;Miorine
-186;186,187,190;185,189;184,188;0:04:30.370000;0:04:39.596000;186.mp3;186.webp;「株式会社ガンダム」は モビルスーツの開発には　関与しない。 ガンダムの技術は　医療のために役立てるって 決めたから。;GUND-ARM no se involucrará en el desarrollo de Mobile Suits. Decidí que se centraría en la tecnología médica.;GUND-ARM, Inc. won't be involved in mobile suit development. We decided that we'd use Gundam technology for medical purposes.;False;False;;miorine;Miorine
+177;177,180;178;179;0:04:22.512000;0:04:28.251000;177.mp3;177.webp;あっ。そうすれば　お二人の結束を グループ内にアピールできますわ。;Así le mostrarán al grupo que están unidos.;Then you can also promote your union to the rest of the Group.;False;False;;prospera;Prospera
+181;181;183;182;0:04:28.251000;0:04:30.753000;181.mp3;181.webp;のめないわね。ん?;No.;No can do.;False;False;;miorine;Miorine
+186;186,187,190;185,189;184,188;0:04:30.370000;0:04:39.596000;186.mp3;186.webp;「株式会社ガンダム」は モビルスーツの開発には　関与しない。ガンダムの技術は　医療のために役立てるって 決めたから。;GUND-ARM no se involucrará en el desarrollo de Mobile Suits. Decidí que se centraría en la tecnología médica.;GUND-ARM, Inc. won't be involved in mobile suit development. We decided that we'd use Gundam technology for medical purposes.;False;False;;miorine;Miorine
 191;191,194;193,195;192;0:04:39.596000;0:04:45.602000;191.mp3;191.webp;総裁選を勝つためには　先ほどと同様 実績が必要です。;Para ganar las elecciones necesitan logros, como dijeron.;To win the presidential race, you likewise need a track record.;False;False;;prospera;Prospera
 197;197,199;198;196;0:04:45.430000;0:04:50.573000;197.mp3;197.webp;理念を守りたいのなら　それを生かした コンセプトにすればいい。;Si quieres conservar tus ideales, basa el concepto en ellos.;If you want to stick to your principles, you should use them in your concept.;False;False;;prospera;Prospera
 201;201;202;200;0:04:50.520000;0:04:52.770000;201.mp3;201.webp;どうか お忘れなく。;No lo olvides.;Please don't forget.;False;False;;prospera;Prospera
-203;203;205,207;204,206;0:04:52.709000;0:04:56.746000;203.mp3;203.webp;分かってるわ。 今度は こっちが 約束 守る番。;Ya lo sé. Es mi turno de cumplir mi promesa.;I know. Now it's my turn to fulfill my promise.;False;False;;miorine;Miorine
+203;203;205,207;204,206;0:04:52.709000;0:04:56.746000;203.mp3;203.webp;分かってるわ。今度は こっちが 約束 守る番。;Ya lo sé. Es mi turno de cumplir mi promesa.;I know. Now it's my turn to fulfill my promise.;False;False;;miorine;Miorine
 208;208;209;210;0:04:56.746000;0:04:58.915000;208.mp3;208.webp;ありがとうございます。;Muchas gracias.;Thank you very much.;False;False;;prospera;Prospera
 212;212;213;211;0:04:58.890000;0:05:02.420000;212.mp3;212.webp;っていうか あなた 今 どこにいるのよ?;¿Dónde estás tú ahora?;Sure, but where are you, anyway?;False;False;;miorine;Miorine
-214;214;216;215,217;0:05:02.385000;0:05:04.490000;214.mp3;214.webp;「グラスレー社」です。 はあ!?;En Grassley.;At Grassley. What?!;False;False;;prospera;Miorine,Prospera
-218;218,222;220;219,221;0:05:04.487000;0:05:10.560000;218.mp3;218.webp;是非とも お話ししたいって　熱烈に誘われちゃいまして。 あっ...。;Me invitaron con muchas ganas para tener una charla.;They were eager to chat. And they insisted on inviting me...;False;False;;prospera;Prospera
+214;214;216;215,217;0:05:02.385000;0:05:04.490000;214.mp3;214.webp;「グラスレー社」です。はあ!?;En Grassley.;At Grassley. What?!;False;False;;prospera;Miorine,Prospera
+218;218,222;220;219,221;0:05:04.487000;0:05:10.560000;218.mp3;218.webp;是非とも お話ししたいって　熱烈に誘われちゃいまして。あっ...。;Me invitaron con muchas ganas para tener una charla.;They were eager to chat. And they insisted on inviting me...;False;False;;prospera;Prospera
 223;223;;224;0:05:10.560000;0:05:12.829000;223.mp3;223.webp;はあー!?;;Whaaaa?!;;False;;;Miorine
-225;225;226;227;0:05:15.164000;0:05:17.867000;225.mp3;225.webp;ウィンストン博士。 あっ。;Profesora Winston.;Dr. Winston...;False;False;;godoy;Godoy
+225;225;226;227;0:05:15.164000;0:05:17.867000;225.mp3;225.webp;ウィンストン博士。あっ。;Profesora Winston.;Dr. Winston...;False;False;;godoy;Godoy
 229;229,233;228,232;230,231;0:05:17.750000;0:05:23.390000;229.mp3;229.webp;進捗は? プログラムの調整は　もう少し 時間を下さい。;¿Algún progreso? Necesito más tiempo para ajustar el programa.;Any progress? Please give me a little more time to adjust the programming.;False;False;;belmeria,godoy;Belmeria,Godoy
 234;234;236;235;0:05:23.373000;0:05:26.743000;234.mp3;234.webp;並列分散の応用は あなたの専門だ。;Te especializas en el PDP aplicado.;Applying parallel distribution is your specialty.;False;False;;godoy;Godoy
 238;238;239;237;0:05:26.510000;0:05:29.746000;238.mp3;238.webp;引き続き お願いします。;Continúa trabajando.;We'll continue to rely on you.;False;False;;godoy;Godoy
@@ -64,12 +64,12 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 269;269;270;268;0:05:57.720000;0:06:01.144000;269.mp3;269.webp;手段の好き嫌いなど 選んでいられませんよ。;no podemos ser quejumbrosos.;we can't afford to be picky about the means.;False;False;;shaddiq;Shaddiq
 271;271;273;272;0:06:01.144000;0:06:04.881000;271.mp3;271.webp;オープンキャンパスで使われた ガンダムタイプ;Supe que no se recuperó el Gundam;I hear you were unable to recover the Gundam types;False;False;;prospera;Prospera
 275;275;276;274;0:06:04.850000;0:06:07.583000;275.mp3;275.webp;回収できなかったと 伺いましたけど。;que usaron en las puertas abiertas.;used in the attack on the Open Campus...;False;False;;prospera;Prospera
-279;279;277,281;278,280;0:06:07.550000;0:06:12.090000;279.mp3;279.webp;ええ。 自己破壊プロトコルが 組み込まれていたようです;Así es. Tenía un protocolo de autodestrucción.;Yes. It seems they had built-in self-destruct protocols.;False;False;;shaddiq;Shaddiq
-282;282;284,286;283,285;0:06:11.688000;0:06:15.391000;282.mp3;282.webp;残念ながら。 ガンダムが欲しいなら;Desgraciadamente. Si quieres un Gundam,;It's unfortunate... If you wanted a Gundam,;False;False;;prospera,shaddiq;Prospera,Shaddiq
+279;279;277,281;278,280;0:06:07.550000;0:06:12.090000;279.mp3;279.webp;ええ。自己破壊プロトコルが 組み込まれていたようです;Así es. Tenía un protocolo de autodestrucción.;Yes. It seems they had built-in self-destruct protocols.;False;False;;shaddiq;Shaddiq
+282;282;284,286;283,285;0:06:11.688000;0:06:15.391000;282.mp3;282.webp;残念ながら。ガンダムが欲しいなら;Desgraciadamente. Si quieres un Gundam,;It's unfortunate... If you wanted a Gundam,;False;False;;prospera,shaddiq;Prospera,Shaddiq
 288;288;289;287;0:06:15.060000;0:06:19.729000;288.mp3;288.webp;たとえ 損壊していても 手に入れたいんじゃありません?;sospecho que te interesaría tenerlo incluso dañado.;wouldn't you try to obtain one even in a damaged state?;False;False;;prospera;Prospera
 291;291;292;290,293;0:06:19.660000;0:06:25.301000;291.mp3;291.webp;それとも 回収されると 何か不都合があるのかしら?;¿O hay algún motivo por el que no quieres que se recupere?;Or could it be... that their recovery would cause you some inconvenience?;False;False;;prospera;Prospera
 297;297;296;295;0:06:27.150000;0:06:29.305000;297.mp3;297.webp;シャディク!;¡Shaddiq!;Shaddiq!;False;False;;miorine;Miorine
-298;298;300,302;299,301;0:06:29.305000;0:06:33.280000;298.mp3;298.webp;やあ ミオリネ。 グエルは元気そうで何より。;Hola, Miorine. Me alegra verte, Guel.;Why hello, Miorine. Glad to see you looking well, Guel.;False;False;;shaddiq;Shaddiq
+298;298;300,302;299,301;0:06:29.305000;0:06:33.280000;298.mp3;298.webp;やあ ミオリネ。グエルは元気そうで何より。;Hola, Miorine. Me alegra verte, Guel.;Why hello, Miorine. Glad to see you looking well, Guel.;False;False;;shaddiq;Shaddiq
 303;303,307;305,310;304,306,308,309;0:06:33.276000;0:06:39.840000;303.mp3;303.webp;シャディク 断りなしに ミオリネの子会社と　取り引きとは どういうつもりだ? 勧誘さ。;¿Por qué negocias con una subsidiaria de Miorine sin decírselo? Es una invitación.;Shaddiq. Dealing with Miorine's subsidiary without her permission... What are you trying to do? Canvassing, of course.;False;False;;guel,shaddiq;Guel,Shaddiq
 311;311;313;312;0:06:39.782000;0:06:43.319000;311.mp3;311.webp;総裁選のために 支援してくれる企業を集めている。;Estoy reuniendo empresas que me apoyen en las elecciones.;I'm enlisting companies to support my election as president.;False;False;;shaddiq;Shaddiq
 315;315;316;314;0:06:43.180000;0:06:45.455000;315.mp3;315.webp;あんたも総裁選に?;¿Tú también participarás?;You're running, too?;False;False;;miorine;Miorine
@@ -80,50 +80,50 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 336;336;337;338;0:07:03.673000;0:07:05.742000;336.mp3;336.webp;投票まで あと2週間。;La votación será en dos semanas.;The vote is in two weeks.;False;False;;shaddiq;Shaddiq
 339;339;341;340;0:07:05.742000;0:07:08.544000;339.mp3;339.webp;楽しみにしてるよ。;Ya quiero ver qué sucede.;I'm looking forward to it.;False;False;;shaddiq;Shaddiq
 342;342;344;343;0:07:08.544000;0:07:12.040000;342.mp3;342.webp;温度のチェックと 日照パターンの調整。;Revisar la temperatura, ajustar los patrones de luz...;I've checked the temperature and adjusted sunlight patterns...;False;False;;suletta;Suletta
-345;345;347;346;0:07:12.015000;0:07:15.470000;345.mp3;345.webp;あっ 肥料もだ。 危ない 危ない。;¡Y fertilizarlos! Lo olvidaba.;Oh wait, the fertilizer! That was close...;False;False;;suletta;Suletta
-348;348;350,351;349,352;0:07:15.151000;0:07:18.721000;348.mp3;348.webp;スレッタ。 あっ。 はい?;Suletta. ¿Sí?;Suletta! Yes?;False;False;;chuchu,suletta;Chuchu,Suletta
+345;345;347;346;0:07:12.015000;0:07:15.470000;345.mp3;345.webp;あっ 肥料もだ。危ない 危ない。;¡Y fertilizarlos! Lo olvidaba.;Oh wait, the fertilizer! That was close...;False;False;;suletta;Suletta
+348;348;350,351;349,352;0:07:15.151000;0:07:18.721000;348.mp3;348.webp;スレッタ。あっ。はい?;Suletta. ¿Sí?;Suletta! Yes?;False;False;;chuchu,suletta;Chuchu,Suletta
 354;354;355;353;0:07:18.680000;0:07:22.258000;354.mp3;354.webp;お前 ムカついてねぇのかよ? ミオリネに。;¿No estás enojada con Miorine?;Aren't you pissed off at Miorine?;False;False;;chuchu;Chuchu
 356;356;358;357;0:07:22.258000;0:07:25.520000;356.mp3;356.webp;あいつ あんだけ嫌ってた おやじの後 継ぐんだろ?;Sigue los pasos del padre al que tanto odiaba;She's succeeding the father she hated so much,;False;False;;chuchu;Chuchu
 359;359,362;361,364;360,363;0:07:25.328000;0:07:31.934000;359.mp3;359.webp;それで 「ジェターク」のボンボン選んで　こっちは もう いらねぇって 身勝手すぎんだろ。;y eligió al niño de los Jeturk, abandonándonos. Es muy egoísta.;and she threw you aside for that Jeturk blowhard. How selfish can she be?;False;False;;chuchu;Chuchu
 365;365;367;366;0:07:31.934000;0:07:34.140000;365.mp3;365.webp;ミオリネさんは悪くないです。;No es su culpa.;Ms. Miorine did nothing wrong.;False;False;;suletta;Suletta
 368;368;370;369;0:07:33.936000;0:07:37.106000;368.mp3;368.webp;んっ... はあ!? なんでだよ!;¿Por qué no?;What?! But why?!;False;False;;chuchu;Chuchu
-371;371,376;372,374;373,375;0:07:37.106000;0:07:43.279000;371.mp3;371.webp;私が悪いんです。 ミオリネさんとの約束　破ったから。 んっ...。;Es mi culpa. No cumplí la promesa que le hice.;I'm the one at fault. I broke my promise to Ms. Miorine.;False;False;;suletta;Suletta
+371;371,376;372,374;373,375;0:07:37.106000;0:07:43.279000;371.mp3;371.webp;私が悪いんです。ミオリネさんとの約束　破ったから。んっ...。;Es mi culpa. No cumplí la promesa que le hice.;I'm the one at fault. I broke my promise to Ms. Miorine.;False;False;;suletta;Suletta
 377;377,380;378;379;0:07:43.279000;0:07:48.351000;377.mp3;377.webp;ミオリネさんに釣り合うって　勘違いしてた私が バカだったんです。;Fui una idiota al pensar que estaba a su altura.;It was foolish of me to think I was ever a match for her.;False;False;;suletta;Suletta
 381;381;383;382;0:07:48.351000;0:07:50.630000;381.mp3;381.webp;⚞ いつまで ここにいるつもりだ?;¿Hasta cuándo piensan quedarse?;How long are you going to hang around here?;False;False;;lauda;Lauda
-384;384,389;385,388;386,387;0:07:50.386000;0:07:56.192000;384.mp3;384.webp;てめぇら...。 ミオリネもホルダーも　今は 全て 兄さんのものだ。;Malnacido... Miorine y el título de Holder ahora son de mi hermano.;You creeps... Both Miorine and the title of Holder belong to my brother now.;False;False;;chuchu,lauda;Chuchu,Lauda
+384;384,389;385,388;386,387;0:07:50.386000;0:07:56.192000;384.mp3;384.webp;てめぇら...。ミオリネもホルダーも　今は 全て 兄さんのものだ。;Malnacido... Miorine y el título de Holder ahora son de mi hermano.;You creeps... Both Miorine and the title of Holder belong to my brother now.;False;False;;chuchu,lauda;Chuchu,Lauda
 390;390,394;391;392,393;0:07:56.192000;0:08:01.397000;390.mp3;390.webp;お前は もういらないんだよ　空っぽの水星女。;A ti ya no te necesitamos, cascarón vacío de Mercurio.;Nobody needs you any more. You empty Mercurian wench.;False;False;;lauda;Lauda
 396;396;395;397;0:08:01.370000;0:08:03.430000;396.mp3;396.webp;好き放題 言いやがって!;¡Te cerraré esa bocota!;Watch your mouth!;False;False;;chuchu;Chuchu
-398;398;400;399,401;0:08:03.399000;0:08:05.550000;398.mp3;398.webp;君とやり合う気はない。 んだと!?;No vine a pelear. -¿Qué?;I've no intention of fighting you. What'd you say?!;False;False;;lauda/chuchu;Chuchu,Lauda
+398;398;400;399,401;0:08:03.399000;0:08:05.550000;398.mp3;398.webp;君とやり合う気はない。んだと!?;No vine a pelear. -¿Qué?;I've no intention of fighting you. What'd you say?!;False;False;;lauda/chuchu;Chuchu,Lauda
 402;402,406;404;403,405;0:08:05.501000;0:08:09.872000;402.mp3;402.webp;チュアチュリー・パンランチ　オープンキャンパスでは 助けられた。;Chuatury Panlunch, me salvaste durante las puertas abiertas.;Chuatury Panlunch. You saved me during the Open Campus.;False;False;;lauda;Lauda
-408;408;409;407;0:08:09.550000;0:08:11.874000;408.mp3;408.webp;礼を言う。 あっ...。;Te lo agradezco.;Thank you.;False;False;;lauda;Lauda
+408;408;409;407;0:08:09.550000;0:08:11.874000;408.mp3;408.webp;礼を言う。あっ...。;Te lo agradezco.;Thank you.;False;False;;lauda;Lauda
 411;411;412;413;0:08:15.244000;0:08:17.213000;411.mp3;411.webp;ありがとな。;Gracias.;Thanks!;False;False;;felsi;Felsi
 416;416;415;414;0:08:18.500000;0:08:21.651000;416.mp3;416.webp;今 それ 関係ねぇだろうが!;¡Eso ahora no importa!;That's got nothing to do with this, damn it!;False;False;;chuchu;Chuchu
-417;417;419;418;0:08:21.651000;0:08:24.320000;417.mp3;417.webp;ラウダさんの言うとおりです。 えっ...。;Lauda tiene razón.;Mr. Lauda is right.;False;False;;suletta;Suletta
+417;417;419;418;0:08:21.651000;0:08:24.320000;417.mp3;417.webp;ラウダさんの言うとおりです。えっ...。;Lauda tiene razón.;Mr. Lauda is right.;False;False;;suletta;Suletta
 422;422;421;420;0:08:24.240000;0:08:27.323000;422.mp3;422.webp;最初から 私には 何もなかったんです。;Nunca tuve nada.;Though I never had anything to begin with,;False;False;;suletta;Suletta
 424;424;425;423;0:08:27.290000;0:08:29.692000;424.mp3;424.webp;なのに ホルダーとか 花婿とか...。;Ser Holder y la prometida...;I called myself the Holder, and the groom.;False;False;;suletta;Suletta
 426;426;428;427;0:08:31.661000;0:08:34.096000;426.mp3;426.webp;間違ってるって;Era un error.;It was all a mistake.;False;False;;suletta;Suletta
 429;429;431;430;0:08:34.096000;0:08:36.666000;429.mp3;429.webp;なんで 今まで気付かなかったんだろう...。;¿Cómo no me di cuenta antes?;Why didn't I realize it before now?;False;False;;suletta;Suletta
 432;432;434;433;0:08:39.602000;0:08:41.671000;432.mp3;432.webp;んなわけねぇだろ。;Eso no es cierto.;You know that's not true.;False;False;;chuchu;Chuchu
-435;435;436;437;0:08:41.671000;0:08:44.970000;435.mp3;435.webp;うぅ...。 チュチュせんぱ...。;¿Chuchu?;Ms. Chuchu, what are you-;False;False;;suletta;Suletta
+435;435;436;437;0:08:41.671000;0:08:44.970000;435.mp3;435.webp;うぅ...。チュチュせんぱ...。;¿Chuchu?;Ms. Chuchu, what are you-;False;False;;suletta;Suletta
 438;438;440;439,441;0:08:45.675000;0:08:49.180000;438.mp3;438.webp;行くぞ ミオリネんとこ。;Iremos a ver a Miorine.;Let's go... to see Miorine.;False;False;;chuchu;Chuchu
 444;444;442;443,445;0:08:51.700000;0:08:55.051000;444.mp3;444.webp;本社に行く!? ミオリネに会ってくる。;¿Irán a la empresa? -A ver a Miorine.;To the head office?! We're going to meet with Miorine.;False;False;;martin;Chuchu,Martin
-448;448;447,450;446,449;0:08:54.920000;0:08:58.370000;448.mp3;448.webp;マルタンは留守番な。 ティコたちのご飯は頼んだ。;Tú te quedas, Martin. Alimenta a Tico y compañía.;Martin, you hold the fort. Feed the animals too.;False;False;;aliya,chuchu;Aliya,Chuchu
-451;451;453;452;0:08:58.120000;0:09:00.923000;451.mp3;451.webp;ちょ... ちょっと待って。 えっ みんなも行くの?;¡Esperen! ¿Se marchan todos?;W-Wait a second! All of you are going too?;False;False;;martin;Martin
+448;448;447,450;446,449;0:08:54.920000;0:08:58.370000;448.mp3;448.webp;マルタンは留守番な。ティコたちのご飯は頼んだ。;Tú te quedas, Martin. Alimenta a Tico y compañía.;Martin, you hold the fort. Feed the animals too.;False;False;;aliya,chuchu;Aliya,Chuchu
+451;451;453;452;0:08:58.120000;0:09:00.923000;451.mp3;451.webp;ちょ... ちょっと待って。えっ みんなも行くの?;¡Esperen! ¿Se marchan todos?;W-Wait a second! All of you are going too?;False;False;;martin;Martin
 454;454;456;455;0:09:00.923000;0:09:02.930000;454.mp3;454.webp;操舵スタッフは必要。;Necesitan pilotos.;Someone has to helm the ship.;False;False;;till;Till
 457;457;459;458;0:09:02.925000;0:09:05.428000;457.mp3;457.webp;ケガ まだ治ってないんだろ?;Tú aún no te recuperaste.;You're still injured, right?;False;False;;nuno;Nuno
 461;461;462;460;0:09:05.410000;0:09:09.160000;461.mp3;461.webp;誰もいないと また いたずらされちゃうかもですし。;Y, si no hay nadie, harán travesuras de nuevo.;If no one stays behind, we might get vandalized again!;False;False;;lilique;Lilique
 463;463;464;465;0:09:08.998000;0:09:12.460000;463.mp3;463.webp;動いてる方が 気が紛れるっつの?;Yo necesito moverme para distraerme.;Staying active takes our minds off of things, right?;False;False;;ojelo;Ojelo
-466;466;467;468;0:09:12.001000;0:09:14.036000;466.mp3;466.webp;チュチュ先輩。 ん?;¡Chuchu!;Ms. Chuchu!;False;False;;suletta;Suletta
+466;466;467;468;0:09:12.001000;0:09:14.036000;466.mp3;466.webp;チュチュ先輩。ん?;¡Chuchu!;Ms. Chuchu!;False;False;;suletta;Suletta
 470;470;471;469;0:09:13.990000;0:09:16.172000;470.mp3;470.webp;私 大丈夫ですから。;Estoy bien, de verdad.;I'm fine, really.;False;False;;suletta;Suletta
 472;472;474;473;0:09:16.172000;0:09:19.010000;472.mp3;472.webp;ミオリネさんとのこと納得して...。;Ya acepté lo de Miorine.;I've already accepted that Ms. Miorine-;False;False;;suletta;Suletta
-475;475;477;476,478;0:09:18.574000;0:09:20.576000;475.mp3;475.webp;うっせぇ。 あたっ!;¡Cállate!;Shut up. Ow!;False;False;;chuchu;Chuchu,Suletta
-481;481,483;480;479,482;0:09:20.380000;0:09:25.314000;481.mp3;481.webp;いいか? お前が 受け入れてるふりしてんのが　悪ぃんだぞ。 えっ?;El problema es que finges aceptarlo, ¿sabes?;Listen! It's wrong that you're pretending you're okay with it!;False;False;;chuchu;Chuchu
+475;475;477;476,478;0:09:18.574000;0:09:20.576000;475.mp3;475.webp;うっせぇ。あたっ!;¡Cállate!;Shut up. Ow!;False;False;;chuchu;Chuchu,Suletta
+481;481,483;480;479,482;0:09:20.380000;0:09:25.314000;481.mp3;481.webp;いいか? お前が 受け入れてるふりしてんのが　悪ぃんだぞ。えっ?;El problema es que finges aceptarlo, ¿sabes?;Listen! It's wrong that you're pretending you're okay with it!;False;False;;chuchu;Chuchu
 486;486;484;485;0:09:25.100000;0:09:27.660000;486.mp3;486.webp;思ってること ちゃんと ミオリネに言え。;Dile lo que piensas realmente.;Tell Miorine straight out what's on your mind!;False;False;;chuchu;Chuchu
 488;488;487;489;0:09:27.640000;0:09:30.152000;488.mp3;488.webp;じゃねぇと許さねぇからな。;O te lo haré decir por la fuerza.;I won't accept anything less!;False;False;;chuchu;Chuchu
-492;492;490;491,493;0:09:30.120000;0:09:33.723000;492.mp3;492.webp;はい...。 おーし そうと決まれば!;Bien. -Muy bien. Está decidido.;Right... It's settled, then!;False;False;;suletta/ojelo;Ojelo,Suletta
-494;494;495;496;0:09:33.723000;0:09:36.692000;494.mp3;494.webp;行きましょ 先輩。 あっ ああっ...。;Vamos, Suletta.;Let's go, Ms. Suletta!;False;False;;lilique;Lilique
+492;492;490;491,493;0:09:30.120000;0:09:33.723000;492.mp3;492.webp;はい...。おーし そうと決まれば!;Bien. -Muy bien. Está decidido.;Right... It's settled, then!;False;False;;suletta/ojelo;Ojelo,Suletta
+494;494;495;496;0:09:33.723000;0:09:36.692000;494.mp3;494.webp;行きましょ 先輩。あっ ああっ...。;Vamos, Suletta.;Let's go, Ms. Suletta!;False;False;;lilique;Lilique
 497;497;498;499;0:09:36.692000;0:09:38.694000;497.mp3;497.webp;通話じゃダメなの?;¿No pueden llamarla?;Can't you just talk on the phone?;False;False;;martin;Martin
-501;501;502;500,503;0:09:38.610000;0:09:41.190000;501.mp3;501.webp;変わったね チュチュ。 えっ?;Cambiaste, Chuchu.;You've changed, Chuchu. Huh?;False;False;;till;Chuchu,Till
+501;501;502;500,503;0:09:38.610000;0:09:41.190000;501.mp3;501.webp;変わったね チュチュ。えっ?;Cambiaste, Chuchu.;You've changed, Chuchu. Huh?;False;False;;till;Chuchu,Till
 505;505;504;506;0:09:41.100000;0:09:44.066000;505.mp3;505.webp;話し合うより先に 手が出てた君が;Antes preferías dar golpes antes de hablar.;You've always chosen fists over talking things out...;False;False;;aliya;Aliya
 508;508;509;507;0:09:44.060000;0:09:46.569000;508.mp3;508.webp;一体 どうしたんだ? んっ...。;¿Qué te ocurre?;What happened, huh?;False;False;;aliya;Aliya
 511;511;510;512;0:09:46.520000;0:09:50.373000;511.mp3;511.webp;ニカねえなら どうすんのかなってさ。;Estuve pensando en lo que haría Nika.;I thought about what Nika would do.;False;False;;chuchu;Chuchu
@@ -137,7 +137,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 538;538;540;539;0:10:19.869000;0:10:22.540000;538.mp3;538.webp;こう見えて 結構 口 堅いんだよねー。;Sé guardar un secreto.;Despite how I look, I'm pretty tight-lipped.;False;False;;elan 5;Elan (Clone 5)
 541;541;543;542,544,545;0:10:22.538000;0:10:26.650000;541.mp3;541.webp;あの... エランさん... ですよね?;Oye, eres Elan, ¿verdad?;Excuse me! Huh? You are Mr. Elan, aren't you?;False;False;;nika;Elan (Clone 5),Nika
 546;546;548;547;0:10:26.542000;0:10:29.010000;546.mp3;546.webp;その... 前とは全然...。;No pareces el mismo.;You seem so different-;False;False;;nika;Nika
-549;549;551;550,552;0:10:28.611000;0:10:30.646000;549.mp3;549.webp;別人だよ。 えっ?;No lo soy.;I'm a different person. What?;False;False;;elan 5;Elan (Clone 5),Nika
+549;549;551;550,552;0:10:28.611000;0:10:30.646000;549.mp3;549.webp;別人だよ。えっ?;No lo soy.;I'm a different person. What?;False;False;;elan 5;Elan (Clone 5),Nika
 553;553;555;554;0:10:30.646000;0:10:34.050000;553.mp3;553.webp;君たちが知ってる エラン・ケレスとは。;No soy el Elan Ceres que conocían.;I'm not the Elan Ceres you all knew.;False;False;;elan 5;Elan (Clone 5)
 556;556;558;557;0:10:34.050000;0:10:37.987000;556.mp3;556.webp;総裁候補 俺を 指名してくれればよかったのに。;Podrían haberme designado candidato a la presidencia a mí.;You should have nominated me as a presidential candidate.;False;False;;elan 5;Elan (Original)
 559;559;561;560;0:10:37.987000;0:10:40.823000;559.mp3;559.webp;ペイルグレードの判断です。;Es decisión del Peil Grade.;The Peil Grade rendered its judgment.;False;False;;nugen;Nugen
@@ -150,15 +150,15 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 583;583;584;582;0:11:01.400000;0:11:05.400000;583.mp3;583.webp;モビルスーツに乗れる バックアップが必要になったわけ。;necesita cuerpos de reserva para montar en Mobile Suits.;he needed a backup who could pilot a mobile suit.;False;False;;elan 5;Elan (Clone 5)
 585;585;586;587;0:11:05.281000;0:11:08.410000;585.mp3;585.webp;決闘で勝つために... ですか?;¿Para ganar los duelos?;In order to win duels?;False;False;;nika;Nika
 588;588,593;589,592;590,591;0:11:08.217000;0:11:14.090000;588.mp3;588.webp;それもあるけど 僕らは本来　ガンダムを克服するための モルモットだから。;En parte. Esencialmente somos conejillos de Indias para someter a los Gundams.;There was that... but also, we were initially guinea pigs used to master Gundam technology.;False;False;;elan 5;Elan (Clone 5)
-594;594,597;595,598;596,599;0:11:14.090000;0:11:20.730000;594.mp3;594.webp;えっ? データストームの耐性を　植え付けられたパイロット。 それが 僕ら強化人士。;Pilotos con resistencia a la tormenta de datos implantada. Somos sujetos potenciados.;Pilots implanted with resistance to data storms. That's us, the Enhanced Persons.;False;False;;elan 5;Elan (Clone 5)
+594;594,597;595,598;596,599;0:11:14.090000;0:11:20.730000;594.mp3;594.webp;えっ? データストームの耐性を　植え付けられたパイロット。それが 僕ら強化人士。;Pilotos con resistencia a la tormenta de datos implantada. Somos sujetos potenciados.;Pilots implanted with resistance to data storms. That's us, the Enhanced Persons.;False;False;;elan 5;Elan (Clone 5)
 600;600;602;601;0:11:20.730000;0:11:23.699000;600.mp3;600.webp;まっ それでも死んじゃうんだけどね。;Aunque morimos igualmente.;We still can't help dying, though...;False;False;;elan 5;Elan (Clone 5)
-604;604,606;605;603,607;0:11:23.680000;0:11:27.837000;604.mp3;604.webp;じゃあ ファラクトに乗ったら...。　死ぬよ。 あっ...。;¿Y en el Pharact? -Moriría.;Then, if you pilot the Pharact... I'll die.;False;False;;nika/elan 5;Elan (Clone 5),Nika
+604;604,606;605;603,607;0:11:23.680000;0:11:27.837000;604.mp3;604.webp;じゃあ ファラクトに乗ったら...。死ぬよ。あっ...。;¿Y en el Pharact? -Moriría.;Then, if you pilot the Pharact... I'll die.;False;False;;nika/elan 5;Elan (Clone 5),Nika
 608;608;609;610;0:11:27.837000;0:11:30.706000;608.mp3;608.webp;ガンダムに乗れば 誰だってね。;Todos morimos en los Gundams.;Anyone who pilots a Gundam will.;False;False;;elan 5;Elan (Clone 5)
 611;611;612;613;0:11:30.706000;0:11:34.443000;611.mp3;611.webp;おかしいのは あの水星女とエアリアルの方さ。;La excepción son la mercuriana y el Aerial.;The odd ones here are that Mercurian girl and her Aerial.;False;False;;elan 5;Elan (Clone 5)
 616;616;614;615;0:11:34.360000;0:11:36.846000;616.mp3;616.webp;ねえ あいつら 一体 何者?;¿Qué son exactamente?;Tell me, what the hell are those two?;False;False;;elan 5;Elan (Clone 5)
 617;617;619;618;0:11:36.846000;0:11:39.215000;617.mp3;617.webp;よくも そこまでペラペラと。;¿Cómo puedes hablar tanto?;You sure know how to run your mouth.;False;False;;norea;Norea
-620;620,625,629;622,624,626,628,632;621,623,627,630,631;0:11:39.215000;0:11:49.325000;620.mp3;620.webp;もう 隠す必要ないだろう。 そういう君は?　教えてよ ガンダムに乗る理由。 ない。　ほんとに? ないって言ってます。;Ya no necesito ocultar nada. ¿Qué contigo? ¿Qué te lleva a subir en un Gundam? -Nada. -¿De verdad? Dije que nada.;There's no use hiding it now. What about you? Is there any reason for you to pilot a Gundam? None. Really? I said I have none.;False;False;;elan 5,norea,norea/elan 5;Elan (Clone 5),Norea
-633;633,637;634,638;635,636;0:11:51.193000;0:11:56.900000;633.mp3;633.webp;そっか。 空っぽだから　「アーシアンのため」なんて 理由 作っちゃってるわけだ。;Comprendo, como estás vacía, te inventas que luchas por los Earthians.;I see. You're hollow inside, so you tell yourself it's for the Earthians' sake.;False;False;;elan 5;Elan (Clone 5)
+620;620,625,629;622,624,626,628,632;621,623,627,630,631;0:11:39.215000;0:11:49.325000;620.mp3;620.webp;もう 隠す必要ないだろう。そういう君は?　教えてよ ガンダムに乗る理由。ない。ほんとに? ないって言ってます。;Ya no necesito ocultar nada. ¿Qué contigo? ¿Qué te lleva a subir en un Gundam? -Nada. -¿De verdad? Dije que nada.;There's no use hiding it now. What about you? Is there any reason for you to pilot a Gundam? None. Really? I said I have none.;False;False;;elan 5,norea,norea/elan 5;Elan (Clone 5),Norea
+633;633,637;634,638;635,636;0:11:51.193000;0:11:56.900000;633.mp3;633.webp;そっか。空っぽだから　「アーシアンのため」なんて 理由 作っちゃってるわけだ。;Comprendo, como estás vacía, te inventas que luchas por los Earthians.;I see. You're hollow inside, so you tell yourself it's for the Earthians' sake.;False;False;;elan 5;Elan (Clone 5)
 639;639;;640;0:11:56.866000;0:11:58.901000;639.mp3;639.webp;んっ! おっと。;;Whoopsie!;;False;;;Elan (Clone 5)
 642;642;644;643;0:12:02.238000;0:12:05.710000;642.mp3;642.webp;あなたたちスペーシアンは 全員 殺す。;Los mataré a todos, Spacians.;I want to kill every last one of you Spacians.;False;False;;norea;Norea
 645;645;646;647;0:12:05.374000;0:12:07.977000;645.mp3;645.webp;それ以外に理由が必要ですか?;¿Es que necesito más motivos?;What other reason do I need?;False;False;;norea;Norea
@@ -166,16 +166,16 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 651;651;652;653;0:12:10.479000;0:12:12.481000;651.mp3;651.webp;黙れ!;¡Cállate!;Shut your mouth!;False;False;;norea;Norea
 655;655;656,657;654;0:12:12.250000;0:12:16.952000;655.mp3;655.webp;素直になろうよ 命の安い者同士さ。;Sé honesta. Nuestras vidas valen poco.;Let's be honest with each other. Since both our lives are so cheap.;False;False;;elan 5;Elan (Clone 5)
 658;658;660;659;0:12:16.952000;0:12:19.522000;658.mp3;658.webp;全て... ですか?;¿Todo?;All of them?;False;False;;jefe grassley A;Grassley Exec A
-662;662;663;661,664;0:12:19.520000;0:12:23.940000;662.mp3;662.webp;ああ。 リストにある施設の デューデリジェンスを急いでくれ。;Sí. Urjan la diligencia debida de las instalaciones en la lista.;Yes. Hurry with due diligence on every facility on that list.;False;False;;shaddiq;Shaddiq
+662;662;663;661,664;0:12:19.520000;0:12:23.940000;662.mp3;662.webp;ああ。リストにある施設の デューデリジェンスを急いでくれ。;Sí. Urjan la diligencia debida de las instalaciones en la lista.;Yes. Hurry with due diligence on every facility on that list.;False;False;;shaddiq;Shaddiq
 665;665;667;666;0:12:23.859000;0:12:26.729000;665.mp3;665.webp;適正価格と かけ離れ過ぎでは?;¿No se aleja demasiado del precio justo?;Aren't we selling these off far too cheaply?;False;False;;jefe grassley B;Grassley Exec B
 668;668;669;670;0:12:26.729000;0:12:29.365000;668.mp3;668.webp;義父さんの命には代えられない。;No es equiparable a la vida de mi padre.;That's not as important as my father's life.;False;False;;shaddiq;Shaddiq
 672;672;673;671;0:12:29.360000;0:12:31.734000;672.mp3;672.webp;指定された地球企業が最優先だ。;Prioricen a las de la Tierra.;The Earth companies on the list are first priority.;False;False;;shaddiq;Shaddiq
 674;674;675;676;0:12:33.235000;0:12:36.706000;674.mp3;674.webp;グループの事業譲渡 順調ね。;La transferencia de negocios va bien.;The transfer of the Group's businesses seems to be going well.;False;False;;henao;Henao
 677;677;679;678;0:12:36.706000;0:12:40.343000;677.mp3;677.webp;社内に この状況を疑う人間はいないよ。;En la empresa nadie sospecha nada.;No one within the companies suspects a thing.;False;False;;shaddiq;Shaddiq
 680;680;682;681;0:12:40.343000;0:12:43.345000;680.mp3;680.webp;議会連合に報告しておくわ。;Informaré a la Unión del Congreso.;I'll file a report with the Space Assembly League.;False;False;;henao;Henao
-683;683,688;685,687;684,686;0:12:43.345000;0:12:49.351000;683.mp3;683.webp;先手を取られたな。 あちらは すでに　多数の支持を 集めているようですね。;Se nos adelantó. Parece que ya se ganó el apoyo de varios.;He's way ahead of us. It seems he's already gained considerable support.;False;False;;guel,prospera;Guel,Prospera
+683;683,688;685,687;684,686;0:12:43.345000;0:12:49.351000;683.mp3;683.webp;先手を取られたな。あちらは すでに　多数の支持を 集めているようですね。;Se nos adelantó. Parece que ya se ganó el apoyo de varios.;He's way ahead of us. It seems he's already gained considerable support.;False;False;;guel,prospera;Guel,Prospera
 690;690;691;689;0:12:49.300000;0:12:52.354000;690.mp3;690.webp;シャディクが動くことは 想定できた。;Imaginaba que Shaddiq movería ficha.;I expected Shaddiq would make a bold move,;False;False;;miorine;Miorine
-692;692,697;694,696;693,695;0:12:52.354000;0:12:58.260000;692.mp3;692.webp;でも 「ペイル」と組むなんて...。 ヒントになるか　分かりませんけど...。 ピッ;Pero aliarse con Peil... No sé si esto será de ayuda o no.;but not that he'd team up with Peil. I wonder if this will give you any hints, but...;False;False;;miorine,prospera;Miorine,Prospera
+692;692,697;694,696;693,695;0:12:52.354000;0:12:58.260000;692.mp3;692.webp;でも 「ペイル」と組むなんて...。ヒントになるか　分かりませんけど...。ピッ;Pero aliarse con Peil... No sé si esto será de ayuda o no.;but not that he'd team up with Peil. I wonder if this will give you any hints, but...;False;False;;miorine,prospera;Miorine,Prospera
 698;698;699;700;0:12:58.260000;0:13:01.760000;698.mp3;698.webp;[テレビ]当初は デモによる 抗議活動と見られていましたが;Anteriormente las manifestaciones se consideraban protestas,;Though these initially looked like protests by demonstrators,;False;False;;noticias;News Report
 701;701,704;;702;0:13:01.297000;0:13:06.300000;701.mp3;701.webp;アーシアン側の武装集団が　「ベネリット」関連施設を襲撃。;;armed Earthian groups have begun attacking Benerit Group facilities.;;False;;;News Report
 711;711,715;712,714;709,713,717;0:13:08.590000;0:13:14.110000;711.mp3;711.webp;暴動? 一連のテロに関する　企業統治の欠如を 責めるものです。;¿Una revuelta? Culpan a la falta de liderazgo relacionada con los atentados.;Riots? They're protesting the lack of corporate governance regarding this terrorism.;False;False;;miorine,prospera;Miorine,Prospera
@@ -191,7 +191,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 752;752;750;751;0:13:43.640000;0:13:46.242000;752.mp3;752.webp;対等な交渉は成立しませんよ。;no habrá igualdad de condiciones.;you can't negotiate on even terms.;False;False;;prospera;Prospera
 755;755;754;753,756;0:13:49.040000;0:13:52.148000;755.mp3;755.webp;なら エアリアルを使うわ。;En ese caso, usaremos el Aerial.;Then... We'll use Aerial.;False;False;;miorine;Miorine
 757;757;759;758;0:13:52.148000;0:13:54.150000;757.mp3;757.webp;エアリアルを?;¿El Aerial?;Aerial?;False;False;;prospera;Prospera
-760;760;761,763;762;0:13:54.150000;0:13:58.280000;760.mp3;760.webp;レギュレーションは 学園仕様のまま。 武器もなし。;Con las regulaciones de la escuela. No tendrá armas.;We'll follow school regulations and won't bring weapons.;False;False;;miorine;Miorine
+760;760;761,763;762;0:13:54.150000;0:13:58.280000;760.mp3;760.webp;レギュレーションは 学園仕様のまま。武器もなし。;Con las regulaciones de la escuela. No tendrá armas.;We'll follow school regulations and won't bring weapons.;False;False;;miorine;Miorine
 764;764;765;766;0:13:58.154000;0:14:01.190000;764.mp3;764.webp;プラント・クエタのようなことも 絶対させない。;No se repetirá lo de la Planta Quetta.;I won't let another Plant Quetta happen.;False;False;;miorine;Miorine
 767;767;768;769;0:14:01.190000;0:14:04.827000;767.mp3;767.webp;私たちの理念の コンセプトになってもらう。;Será el concepto de nuestros ideales.;It will provide a concept of our principles.;False;False;;miorine;Miorine
 770;770;772;771;0:14:04.827000;0:14:07.670000;770.mp3;770.webp;この交渉で示してみせるわ。;Estas negociaciones demostrarán;We'll demonstrate through this negotiation;False;False;;miorine;Miorine
@@ -204,13 +204,13 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 799;799;798;797;0:14:32.100000;0:14:34.710000;799.mp3;799.webp;最初っから あの人がいりゃよかったのにな。;Ojalá hubiera estado él desde el principio.;I wish he'd been the leader from the beginning.;False;False;;estudiante jeturk D;Jeturk Student D
 800;800;802;801;0:14:34.657000;0:14:36.720000;800.mp3;800.webp;持ってる人は違うっつぅの?;Él es diferente. Lo tiene todo.;When you've got it, you've got it.;False;False;;estudiante jeturk B;Jeturk Student B
 803;803;805;804;0:14:36.659000;0:14:38.661000;803.mp3;803.webp;お前 なんも持ってないもんな。;Tú no tienes nada.;And you've got nothing, right?;False;False;;estudiante jeturk C;Jeturk Student C
-807;807;808;806;0:14:38.630000;0:14:41.630000;807.mp3;807.webp;うっせぇ。 はははっ。;Cállate.;Shut up.;False;False;;estudiante jeturk B;Jeturk Student B
-809;809;810;811;0:14:43.666000;0:14:45.668000;809.mp3;809.webp;⚟すみません。 あっ。;Disculpa.;Excuse me!;False;False;;feng;Feng
-812;812;814,815;813,816;0:14:45.668000;0:14:50.039000;812.mp3;812.webp;搬入先に行きたくて。 教えてくださいます?;Busco el lugar de entrega. ¿Me podrías ayudar?;I'm trying to get to my drop-off point. Can you help me find my way?;False;False;;feng;Feng
+807;807;808;806;0:14:38.630000;0:14:41.630000;807.mp3;807.webp;うっせぇ。はははっ。;Cállate.;Shut up.;False;False;;estudiante jeturk B;Jeturk Student B
+809;809;810;811;0:14:43.666000;0:14:45.668000;809.mp3;809.webp;⚟すみません。あっ。;Disculpa.;Excuse me!;False;False;;feng;Feng
+812;812;814,815;813,816;0:14:45.668000;0:14:50.039000;812.mp3;812.webp;搬入先に行きたくて。教えてくださいます?;Busco el lugar de entrega. ¿Me podrías ayudar?;I'm trying to get to my drop-off point. Can you help me find my way?;False;False;;feng;Feng
 817;817;819,821;818,820;0:14:50.039000;0:14:53.209000;817.mp3;817.webp;どちらへ? 78番ハンガーです。;¿Adónde vas? Al hangar 78.;Where are you headed? Hangar 78.;False;False;;belmeria,feng;Belmeria,Feng
 822;822;823;824;0:14:53.209000;0:14:56.111000;822.mp3;822.webp;あっ そんな番号は...。;Ese número no...;That number is...;False;False;;belmeria;Belmeria
 825;825,828;826;827;0:14:56.111000;0:15:01.484000;825.mp3;825.webp;あなた方「シン・セー社」が プラント・クエタで　いつも 申請する場所ですよ。;Es el que pide Shin Sei siempre en la Planta Quetta.;It's the one you at Shin Sei always request at Plant Quetta.;False;False;;feng;Feng
-829;829,832;830;831;0:15:01.484000;0:15:06.922000;829.mp3;829.webp;はっ! あっ。 ちょっと お話　しませんか?;¿Por qué no charlamos un poco?;Do you mind if we have a word?;False;False;;feng;Feng
+829;829,832;830;831;0:15:01.484000;0:15:06.922000;829.mp3;829.webp;はっ! あっ。ちょっと お話　しませんか?;¿Por qué no charlamos un poco?;Do you mind if we have a word?;False;False;;feng;Feng
 835;835,836;833,837;834;0:15:08.120000;0:15:14.230000;835.mp3;835.webp;僕は 仲間が罪を犯してると知って　通報しました。;Me enteré de que uno de los nuestros estaba cometiendo un crimen y lo denuncié.;I learned my friend was... committing a crime and turned her in.;False;False;;martin;Martin
 838;838;840;839;0:15:14.230000;0:15:16.400000;838.mp3;838.webp;罪は罪です。;Un crimen es un crimen.;A crime is a crime.;False;False;;martin;Martin
 841;841;843;842;0:15:16.265000;0:15:19.990000;841.mp3;841.webp;僕は 寮長として 仲間を守りたかった。;Como líder de la residencia, quería protegernos.;As head of the House, I wanted to protect everyone!;False;False;;martin;Martin
@@ -220,13 +220,13 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 852;852;;853;0:15:27.676000;0:15:30.212000;852.mp3;852.webp;うわっ ぶおっ ほひぃー!;;Whoa!;;False;;;Martin
 854;854;856;855,857;0:15:30.212000;0:15:34.350000;854.mp3;854.webp;あんた とんだ裏切り野郎だねぇ。;Eres un auténtico traidor.;You... You're a double-crossing little rat, aren't you?;False;False;;secelia;Secelia
 858;858;859;860;0:15:35.651000;0:15:39.160000;858.mp3;858.webp;ご自身で判断なさいとは 進言しましたが...。;Le dije que tomara sus propias decisiones, pero...;I believe I advised you to use your own judgment.;False;False;;rajan;Rajan
-861;861;863;862;0:15:39.088000;0:15:41.870000;861.mp3;861.webp;もう決めたの。 文句ある?;Ya está decidido. ¿Algún problema?;And we've decided. Got a problem with that?;False;False;;miorine;Miorine
-864;864,867;865;866;0:15:41.790000;0:15:48.430000;864.mp3;864.webp;はぁ...。 私の配下の者を　お二人の警備に 加えていただきたい。;Desearía añadir a uno de mis hombres a su escolta.;I'd like to have some of my men join you for your own security.;False;False;;rajan;Rajan
+861;861;863;862;0:15:39.088000;0:15:41.870000;861.mp3;861.webp;もう決めたの。文句ある?;Ya está decidido. ¿Algún problema?;And we've decided. Got a problem with that?;False;False;;miorine;Miorine
+864;864,867;865;866;0:15:41.790000;0:15:48.430000;864.mp3;864.webp;はぁ...。私の配下の者を　お二人の警備に 加えていただきたい。;Desearía añadir a uno de mis hombres a su escolta.;I'd like to have some of my men join you for your own security.;False;False;;rajan;Rajan
 868;868;869;870;0:15:48.430000;0:15:51.720000;868.mp3;868.webp;ドミニコス隊 司令 ケナンジ・アベリーです。;Kenanji Avery, comandante de Dominicus.;Dominicus commander Kenanji Avery, at your service!;False;False;;kenanji;Kenanji
 871;871;873;872;0:15:51.433000;0:15:53.520000;871.mp3;871.webp;ケナンジ隊長!?;¿El capitán Kenanji?;Commander Kenanji?!;False;False;;guel;Guel
 874;874;876;875;0:15:53.469000;0:15:55.504000;874.mp3;874.webp;はい 何か?;Sí, ¿por qué?;Yes. Something wrong?;False;False;;kenanji;Kenanji
-878;878;879;877;0:15:55.480000;0:15:57.830000;878.mp3;878.webp;いえ なんでも...。 あっ。;Por nada.;Oh, uh... nothing.;False;False;;guel;Guel
-880;880;881,883;882,884;0:15:57.606000;0:16:00.480000;880.mp3;880.webp;よろしくお願いします。 こちらこそ。;Mucho gusto. Igualmente.;Thank you for your assistance. The pleasure is mine.;False;False;;kenanji,miorine;Kenanji,Miorine
+878;878;879;877;0:15:55.480000;0:15:57.830000;878.mp3;878.webp;いえ なんでも...。あっ。;Por nada.;Oh, uh... nothing.;False;False;;guel;Guel
+880;880;881,883;882,884;0:15:57.606000;0:16:00.480000;880.mp3;880.webp;よろしくお願いします。こちらこそ。;Mucho gusto. Igualmente.;Thank you for your assistance. The pleasure is mine.;False;False;;kenanji,miorine;Kenanji,Miorine
 885;885;887;886;0:16:00.409000;0:16:04.110000;885.mp3;885.webp;いやー 鬼の父上とは大違いだ。;No luces en absoluto como el ogro de tu padre.;Well, well... you're not like your no-nonsense father.;False;False;;kenanji;Kenanji
 890;890;891;889;0:16:06.310000;0:16:09.485000;890.mp3;890.webp;だから ミオリネに会いたいんだって。;Queremos ver a Miorine.;We told you, we want to see Miorine.;False;False;;ojelo;Ojelo
 892;892;894;893;0:16:09.485000;0:16:11.787000;892.mp3;892.webp;アポイントメントは お済みでしょうか?;¿Solicitaron una cita?;Do you have an appointment?;False;False;;haro;Haro
@@ -245,7 +245,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 932;932;934;933;0:17:07.509000;0:17:09.478000;932.mp3;932.webp;みんな。;¡Chicos!;Everyone!;False;False;;suletta;Suletta
 937;937;936;935;0:17:11.170000;0:17:15.985000;937.mp3;937.webp;もう会えないのかなって思ってた。;Pensé que no nos veríamos de nuevo.;I thought I'd never see you again...;False;False;;suletta;Suletta
 938;938;940;939;0:17:15.985000;0:17:20.689000;938.mp3;938.webp;私 ミオリネさんに いらないって言われて...。;Miorine dijo que ya no me necesitaba.;Ms. Miorine said she didn't need me anymore.;False;False;;suletta;Suletta
-941;941,944;943,945;942;0:17:20.689000;0:17:25.594000;941.mp3;941.webp;ううん しかたないの。　約束 私が破ったから。;Y lo entiendo. Incumplí nuestra promesa.;No, it can't be helped. I'm the one who broke our promise.;False;False;;suletta;Suletta
+941;941,944;943,945;942;0:17:20.689000;0:17:25.594000;941.mp3;941.webp;ううん しかたないの。約束 私が破ったから。;Y lo entiendo. Incumplí nuestra promesa.;No, it can't be helped. I'm the one who broke our promise.;False;False;;suletta;Suletta
 946;946;947;948;0:17:27.029000;0:17:31.734000;946.mp3;946.webp;進んだんだよ お母さんの言うとおり。;Avancé, como decía mamá.;I've moved forward. Like Mom says...;False;False;;suletta;Suletta
 950;950;951;949,952;0:17:31.700000;0:17:35.471000;950.mp3;950.webp;でも 分かんないの。;Pero no lo entiendo.;But... I don't know what to do...;False;False;;suletta;Suletta
 953;953;954;955,956;0:17:35.471000;0:17:39.590000;953.mp3;953.webp;ホルダーじゃなくなって 決闘しなくてよくなって;Ya no soy Holder y no he de batirme en duelo.;I'm not the Holder anymore, and I don't have to duel.;False;False;;suletta;Suletta
@@ -273,15 +273,15 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 1031;1031,1032;1030,1033;1029;0:19:16.960000;0:19:22.811000;1031.mp3;1031.webp;エリィの体 エリィの手足　エリィの拡張意識。;El cuerpo de Eri. Sus brazos y piernas. Su consciencia expandida.;Eri's body, her arms and legs, her extended consciousness...;False;False;;gundbit 6;GUND-Bit 6
 1035;1035;1036;1034;0:19:22.640000;0:19:26.281000;1035.mp3;1035.webp;それが私たち カヴンの子。;Esas somos las Hijas del Aquelarre.;That's us, the Children of the Coven.;False;False;;gundbit 7;GUND-Bit 7
 1037;1037;1039;1038,1040;0:19:26.281000;0:19:29.010000;1037.mp3;1037.webp;どういうこと? 代わりって...。;¿Sustitutas? ¿Qué quieren decir?;What do you mean? Filled in for her?;False;False;;suletta;Suletta
-1041;1041,1044;1042;1043;0:19:28.917000;0:19:35.290000;1041.mp3;1041.webp;君たちは 僕の遺伝子からつくられた　リプリチャイルドってことだよ。 あっ...。;Que son réplicas creadas a partir de mis genes.;You're all repli-children created from my genes.;False;False;;ericht;Ericht
+1041;1041,1044;1042;1043;0:19:28.917000;0:19:35.290000;1041.mp3;1041.webp;君たちは 僕の遺伝子からつくられた　リプリチャイルドってことだよ。あっ...。;Que son réplicas creadas a partir de mis genes.;You're all repli-children created from my genes.;False;False;;ericht;Ericht
 1046;1046;1047;1045;0:19:35.290000;0:19:37.830000;1046.mp3;1046.webp;17年前に お母さんが。;Lo hizo mamá hace 17 años.;17 years ago, when Mom...;False;False;;gundbit 8;GUND-Bit 8
 1049;1049;1048,1052;1050,1051;0:19:37.820000;0:19:40.900000;1049.mp3;1049.webp;覚えてないの? でも もう大丈夫。;¿No lo recuerdas? Pero ya no es necesario.;Don't you remember? But it's fine now.;False;False;;gundbit 10,gundbit 9;GUND-Bit 10,GUND-Bit 9
 1053;1053;1055;1054;0:19:40.829000;0:19:45.200000;1053.mp3;1053.webp;クワイエット・ゼロが エリィの居場所 つくってくれる。;Quiet Zero creará un lugar para Eri.;Quiet Zero will create a world where Eri can live!;False;False;;gundbit 10;GUND-Bit 10
-1057;1057,1059;1058,1060;1056,1061,1062;0:19:45.120000;0:19:52.240000;1057.mp3;1057.webp;だから スレッタは もういらないの。　はっ... ううん! ううん 違うよ。 だって 私...。;Ya no te necesitamos, Suletta. No. ¡No! Yo...;So we don't need you anymore, Suletta! No... You're wrong... After all, I...;False;False;;gundbit 11,suletta;GUND-Bit 11,Suletta
+1057;1057,1059;1058,1060;1056,1061,1062;0:19:45.120000;0:19:52.240000;1057.mp3;1057.webp;だから スレッタは もういらないの。はっ... ううん! ううん 違うよ。だって 私...。;Ya no te necesitamos, Suletta. No. ¡No! Yo...;So we don't need you anymore, Suletta! No... You're wrong... After all, I...;False;False;;gundbit 11,suletta;GUND-Bit 11,Suletta
 1070;1070;1071;1072;0:20:31.146000;0:20:33.148000;1070.mp3;1070.webp;分かった?;¿Lo entiendes?;Do you understand?;False;False;;ericht;Ericht
 1075;1075;1073;1074;0:20:33.060000;0:20:37.085000;1075.mp3;1075.webp;スコア8なら 僕は 自分の意思で動ける。;Con una puntuación de ocho puedo moverme yo sola.;At score eight, I can move of my own free will.;False;False;;ericht;Ericht
 1076;1076;1077;1078;0:20:37.085000;0:20:39.660000;1076.mp3;1076.webp;パイロットは もう必要ないんだ。;Ya no necesito piloto.;I'll no longer need a pilot.;False;False;;ericht;Ericht
-1080;1080,1084;1079,1083;1081,1082,1085;0:20:40.930000;0:20:45.990000;1080.mp3;1080.webp;やだ...。 だから　君は これ以上 すがっちゃいけない。;No... Así que no te aferres más a mí.;No... And that's why you can't cling to me anymore-;False;False;;ericht,suletta;Ericht,Suletta
+1080;1080,1084;1079,1083;1081,1082,1085;0:20:40.930000;0:20:45.990000;1080.mp3;1080.webp;やだ...。だから　君は これ以上 すがっちゃいけない。;No... Así que no te aferres más a mí.;No... And that's why you can't cling to me anymore-;False;False;;ericht,suletta;Ericht,Suletta
 1086;1086;1088;1087;0:20:45.861000;0:20:48.230000;1086.mp3;1086.webp;やだ! やだ 待ってよ!;¡No! ¡Espera!;No! Stop! Wait a minute!;False;False;;suletta;Suletta
 1089;1089;1090;1091;0:20:48.096000;0:20:50.520000;1089.mp3;1089.webp;僕にも お母さんにも。;Tanto a mí como a mamá.;Not to me, or to Mom.;False;False;;ericht;Ericht
 1092;1092;1094;1093;0:20:50.265000;0:20:52.234000;1092.mp3;1092.webp;エアリアル!;¡Aerial!;Aerial!;False;False;;suletta;Suletta
@@ -289,7 +289,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 1099;1099;1101;1100;0:21:11.820000;0:21:14.890000;1099.mp3;1099.webp;お母... さん。;Mamá.;Mom?;False;False;;suletta;Suletta
 1102;1102;1103;1104;0:21:14.890000;0:21:17.020000;1102.mp3;1102.webp;うそ... だよね?;Es mentira, ¿verdad?;It's not true, is it?;False;False;;suletta;Suletta
 1105;1105;1107;1106;0:21:16.925000;0:21:20.395000;1105.mp3;1105.webp;エアリアルが おかしくなったんだよね?;Al Aerial le ocurre algo extraño.;Is something wrong with Aerial?;False;False;;suletta;Suletta
-1108;1108;1109;1110;0:21:20.395000;0:21:23.031000;1108.mp3;1108.webp;いいえ。 カチャ;No.;No...;False;False;;prospera;Prospera
+1108;1108;1109;1110;0:21:20.395000;0:21:23.031000;1108.mp3;1108.webp;いいえ。カチャ;No.;No...;False;False;;prospera;Prospera
 1112;1112;1111;1113;0:21:22.980000;0:21:25;1112.mp3;1112.webp;エリクトの言うとおりよ。;Ericht tiene razón.;It's just as Ericht said.;False;False;;prospera;Prospera
 1114;1114;1115;1116;0:21:26.935000;0:21:30.472000;1114.mp3;1114.webp;学園に戻りなさい スレッタ。;Regresa a la escuela.;Go back to the school, Suletta.;False;False;;prospera;Prospera
 1117;1117;1118;1119;0:21:30.472000;0:21:33.942000;1117.mp3;1117.webp;あそこなら あなたの胸を埋めてくれる。;Allí llenarás el vacío de tu pecho.;It has all you need to fill your heart.;False;False;;prospera;Prospera

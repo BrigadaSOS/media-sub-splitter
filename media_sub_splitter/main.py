@@ -744,6 +744,7 @@ def join_sentences_to_segment(sentences, ln):
         r"(?<=,)-",
         r"(?<=ー)-",
         r"(?<=-)-",
+        r"(?<=。)\s",
         r"^-",
         r"(?<=\s)+\s",
     ]
