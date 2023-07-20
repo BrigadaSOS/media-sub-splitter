@@ -82,12 +82,12 @@ def main():
     input_folder = args.input
     output_folder = args.output
 
-    episode_filepaths = [
+    episode_filepaths = sorted([
         os.path.join(root, name)
         for root, dirs, files in os.walk(input_folder)
         for name in files
         if name.endswith(".mkv")
-    ]
+    ])
 
     if not episode_filepaths:
         logger.error(f"No .mkv files found in {input_folder}! Nothing else to do.")
@@ -98,7 +98,7 @@ def main():
     anilist = CachedAnilist()
     subtitles_dict_remembered = {}
 
-    pool = Pool(4)
+    pool = Pool(12)
 
     for episode_filepath in episode_filepaths:
         pool, subtitles_dict_remembered = extract_segments_from_episode(
@@ -216,12 +216,19 @@ def extract_segments_from_episode(
         logger.debug(f"Subtitle filepaths: {subtitle_filepaths}")
 
         for subtitle_filepath in subtitle_filepaths:
-            guessed_subtitle_info = guessit(re.sub(r"\[.*?\]", "", subtitle_filepath))
-            if (
-                "episode" in guessed_subtitle_info
-                and guessed_subtitle_info["episode"] == episode_info["episode"]
-            ):
-                logger.info(f"> Found external subtitle {subtitle_filepath}")
+            subtitle_filename = re.sub(r"\[.*?\]|\(.*?\)", "", os.path.basename(subtitle_filepath))
+            guessed_subtitle_info = guessit(subtitle_filename)
+            if "episode" in guessed_subtitle_info:
+                subtitle_episode = guessed_subtitle_info["episode"]
+            else:
+                episode_matches = re.search(r"(?!S)(\D\d\d|\D\d)\D", subtitle_filename)
+                if episode_matches:
+                    subtitle_episode = episode_matches.group(1)
+                else:
+                    logger.info("> Could not guess Episode number for subtitle: {subtitle_filepath}")
+
+            if int(subtitle_episode) == int(episode_info["episode"]):
+                logger.info(f"> (E{subtitle_episode}) Found external subtitle: {subtitle_filepath}")
 
                 subtitle_language = None
                 if "subtitle_language" in guessed_subtitle_info:
@@ -784,7 +791,7 @@ def process_subtitle_line(line):
 
     processed_sentence = remove_nested_parenthesis(processed_sentence)
 
-    special_chars = r"●|→|ー?♪ー?|\u202a|\u202c"
+    special_chars = r"●|→|ー?♪ー?|\u202a|\u202c|➡"
 
     nb_rep = 1
     while nb_rep:
@@ -796,7 +803,7 @@ def process_subtitle_line(line):
 def remove_nested_parenthesis(sentence):
     nb_rep = 1
     while nb_rep:
-        (sentence, nb_rep) = re.subn(r"\([^()（）\[\]\{\}《》【】]*\)", "", sentence)
+        (sentence, nb_rep) = re.subn(r"\([^\(\)（）\[\]\{\}《》【】]*\)", "", sentence)
 
     return sentence
 
