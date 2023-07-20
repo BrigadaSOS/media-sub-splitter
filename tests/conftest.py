@@ -2,11 +2,13 @@ import os
 
 import pysubs2
 from guessit import guessit
+from fnmatch import fnmatch
 
 from media_sub_splitter.main import MatchingSubtitle
 
 
 def read_input_subtitles(anime_folder_path):
+    print(anime_folder_path)
     subtitles_filepaths = sorted(
         [
             os.path.join(anime_folder_path, filename)
@@ -49,6 +51,11 @@ def read_input_subtitles(anime_folder_path):
         yield matching_subtitles
 
 
-def read_subtitles_from_folders(anime_folder_paths):
-    for path in anime_folder_paths:
-        return read_input_subtitles(path)
+def read_subtitles_from_folders(input_folder):
+    subtitles = []
+    for name in os.listdir(input_folder):
+        dirpath = os.path.join(input_folder, name)
+        if os.path.isdir(dirpath):
+            subtitles += list(read_input_subtitles(dirpath))
+
+    return subtitles

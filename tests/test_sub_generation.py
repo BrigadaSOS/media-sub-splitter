@@ -1,17 +1,15 @@
 import os
 
+
 import pytest
 
 from media_sub_splitter.main import split_video_by_subtitles
 
 from .conftest import read_subtitles_from_folders
 
-anime_folder_paths = [("tests/input/bocchi-the-rock")]
 
-
-# @pytest.mark.parametrize("matching_subtitles", )
 @pytest.mark.parametrize(
-    "matching_subtitles", read_subtitles_from_folders(anime_folder_paths)
+    "matching_subtitles", read_subtitles_from_folders("tests/input/")
 )
 def test_subtitles_snapshots(snapshot, matching_subtitles):
     sample_subtitles_filepath = getattr(matching_subtitles["ja"], "filepath")
