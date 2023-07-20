@@ -1,0 +1,1151 @@
+1
+00:00:28,310 --> 00:00:31,760
+<font size="20"><b>Ericht! Please! Don't do this!</b></font>
+
+2
+00:00:32,280 --> 00:00:34,430
+<font size="20"><b>Then don't get in Mom's way.</b></font>
+
+3
+00:00:35,950 --> 00:00:39,100
+<font size="20"><b>This is all for Ericht's sake...</b></font>
+
+4
+00:00:39,100 --> 00:00:41,220
+<font size="20"><b>so why did you come here?</b></font>
+
+5
+00:00:41,920 --> 00:00:43,890
+<font size="20"><b>Go back to the school with your friends.</b></font>
+
+6
+00:00:44,630 --> 00:00:49,690
+<font size="20"><b>This is a matter for those of us
+who can only live inside the data storm.</b></font>
+
+7
+00:00:49,690 --> 00:00:51,440
+<font size="20"><b>So, Suletta...</b></font>
+
+8
+00:00:51,440 --> 00:00:53,580
+<font size="20"><b>You must give up.</b></font>
+
+9
+00:00:54,010 --> 00:00:55,500
+<font size="20"><b>No!</b></font>
+
+10
+00:00:55,500 --> 00:00:59,670
+<font size="20"><b>I can't turn a blind eye to you guys!</b></font>
+
+11
+00:01:00,430 --> 00:01:03,670
+<font size="20"><b>You're so stubborn, Suletta.</b></font>
+
+12
+00:01:10,840 --> 00:01:12,050
+<font size="20"><b>Stop it, Lauda!</b></font>
+
+13
+00:01:12,050 --> 00:01:14,890
+<font size="20"><b><i>Why are you trying to attack that ship?!</i></b></font>
+
+14
+00:01:15,240 --> 00:01:16,470
+<font size="20"><b><i>What about you, Brother...</i></b></font>
+
+15
+00:01:16,950 --> 00:01:19,970
+<font size="20"><b>Why are you by that woman's side?</b></font>
+
+16
+00:01:19,970 --> 00:01:21,560
+<font size="20"><b>Lauda?</b></font>
+
+17
+00:01:22,290 --> 00:01:25,530
+<font size="20"><b><i>If Miorine hadn't brought Gundams
+back into the world,</i></b></font>
+
+18
+00:01:25,960 --> 00:01:27,390
+<font size="20"><b><i>Petra wouldn't have...!</i></b></font>
+
+19
+00:01:34,010 --> 00:01:36,720
+<font size="20"><b>Why the heck is Lauda attacking us?!</b></font>
+
+20
+00:01:36,720 --> 00:01:38,120
+<font size="20"><b>How should I know?!</b></font>
+
+21
+00:01:39,330 --> 00:01:40,920
+<font size="20"><b>Ms. Felsi!</b></font>
+
+22
+00:01:41,490 --> 00:01:43,080
+<font size="20"><b>We'll be caught up in the mess.</b></font>
+
+23
+00:01:43,080 --> 00:01:44,330
+<font size="20"><b>Nika! Chuchu!</b></font>
+
+24
+00:01:44,330 --> 00:01:44,910
+<font size="20"><b>Roger!</b></font>
+
+25
+00:01:44,910 --> 00:01:47,460
+<font size="20"><b>Let's go, Demi Barding!</b></font>
+
+26
+00:01:54,400 --> 00:01:58,980
+<font size="20"><b>Permet communications will be useless
+within data storm space.</b></font>
+
+27
+00:01:58,980 --> 00:02:01,010
+<font size="20"><b>Change to optical wireless communications.</b></font>
+
+28
+00:02:01,010 --> 00:02:04,860
+<font size="20"><b>Right... Demi Barding,
+now terminating Permet link.</b></font>
+
+29
+00:02:15,650 --> 00:02:17,240
+<font size="20"><b>We're gonna die!</b></font>
+
+30
+00:02:17,240 --> 00:02:19,080
+<font size="20"><b>We're all gonna die!</b></font>
+
+31
+00:02:19,080 --> 00:02:21,250
+<font size="20"><b>Mommy!</b></font>
+
+32
+00:02:24,100 --> 00:02:26,190
+<font size="20"><b>S-Sorry, everybody!</b></font>
+
+33
+00:02:26,190 --> 00:02:31,130
+<font size="20"><b>Is piloting without Permet
+really this hard?!</b></font>
+
+34
+00:02:34,860 --> 00:02:38,180
+<font size="20"><b>Is this... the data storm?</b></font>
+
+35
+00:02:38,700 --> 00:02:41,640
+<font size="20"><b>This sensation is so unpleasant.</b></font>
+
+36
+00:02:41,640 --> 00:02:44,230
+<font size="20"><b>Hurry up and get us to Quiet Zero!</b></font>
+
+37
+00:02:44,230 --> 00:02:46,560
+<font size="20"><b><i>Who put you in charge, loudmouth!</i></b></font>
+
+38
+00:02:48,750 --> 00:02:52,020
+<font face="Times New Roman" size="18"><b>{\an8}<font size="24">Episode 23</font></b></font>
+
+39
+00:04:30,160 --> 00:04:31,120
+<font size="20"><b>Don't!</b></font>
+
+40
+00:04:31,120 --> 00:04:34,750
+<font size="20"><b><i>The Schwarzette...
+the Gundam will take your life!</i></b></font>
+
+41
+00:04:34,750 --> 00:04:38,090
+<font size="20"><b><i>Then why don't you stop me by killing me?</i></b></font>
+
+42
+00:04:38,090 --> 00:04:39,550
+<font size="20"><b><i>Just like Dad?!</i></b></font>
+
+43
+00:04:41,570 --> 00:04:42,840
+<font size="20"><b>Answer me, Brother!</b></font>
+
+44
+00:04:43,670 --> 00:04:46,680
+<font size="20"><b>Why didn't you tell me about Dad?</b></font>
+
+45
+00:04:46,680 --> 00:04:48,720
+<font size="20"><b>Was it out of guilt?</b></font>
+
+46
+00:04:49,210 --> 00:04:52,430
+<font size="20"><b><i>Or did you think
+I couldn't bear the burden?</i></b></font>
+
+47
+00:04:56,460 --> 00:04:59,690
+<font size="20"><b><i>Am I really that undependable?</i></b></font>
+
+48
+00:04:59,690 --> 00:05:01,280
+<font size="20"><b><i>That's not it.</i></b></font>
+
+49
+00:05:01,280 --> 00:05:03,400
+<font size="20"><b><i>What happened to Dad was my sin alone.</i></b></font>
+
+50
+00:05:03,400 --> 00:05:06,410
+<font size="20"><b>I'm the one who should bear it all!</b></font>
+
+51
+00:05:07,240 --> 00:05:09,910
+<font size="20"><b><i>That's what's wrong with you, Brother...</i></b></font>
+
+52
+00:05:12,350 --> 00:05:17,170
+<font size="20"><b><i>That's how Miorine takes advantage
+of you, and why you cling to her!</i></b></font>
+
+53
+00:05:20,740 --> 00:05:24,090
+<font size="20"><b>That righteousness... That arrogance...</b></font>
+
+54
+00:05:24,570 --> 00:05:26,770
+<font size="20"><b><i>That's your sin!</i></b></font>
+
+55
+00:05:35,210 --> 00:05:37,310
+<font size="20"><b>A small craft is approaching.</b></font>
+
+56
+00:05:37,310 --> 00:05:39,900
+<font size="20"><b>It has a Benerit Group registration code.</b></font>
+
+57
+00:05:39,900 --> 00:05:41,910
+<font size="20"><b>It's emitting a communication signal.</b></font>
+
+58
+00:05:41,910 --> 00:05:43,690
+<font size="20"><b>It's alone?</b></font>
+
+59
+00:05:43,690 --> 00:05:45,030
+<font size="20"><b>I'll talk to them.</b></font>
+
+60
+00:05:46,260 --> 00:05:49,750
+<font size="20"><b><i>This is Guston Parche,
+a Space Assembly League inspector.</i></b></font>
+
+61
+00:05:49,750 --> 00:05:51,370
+<font size="20"><b><i>I'd like to speak to operation HQ.</i></b></font>
+
+62
+00:05:51,850 --> 00:05:54,630
+<font size="20"><b>What can an inspector do
+in this situation?</b></font>
+
+63
+00:05:55,190 --> 00:05:59,010
+<font size="20"><b><i>The corporate governance
+is still intact with our group.</i></b></font>
+
+64
+00:06:01,690 --> 00:06:03,500
+<font size="20"><b>Delling Rembran?</b></font>
+
+65
+00:06:04,200 --> 00:06:07,520
+<font size="20"><b>In accordance with the League Charter,</b></font>
+
+66
+00:06:07,520 --> 00:06:11,770
+<font size="20"><b>we request the convening
+of an emergency special session.</b></font>
+
+67
+00:06:11,770 --> 00:06:13,720
+<font size="20"><b><i>A special session?</i></b></font>
+
+68
+00:06:14,250 --> 00:06:17,030
+<font size="20"><b>Have all members
+send their representatives</b></font>
+
+69
+00:06:17,030 --> 00:06:21,780
+<font size="20"><b>and reconsider if it was justifiable
+to intervene in our group's affairs.</b></font>
+
+70
+00:06:26,130 --> 00:06:27,190
+<font size="20"><b>Mr. President...</b></font>
+
+71
+00:06:27,190 --> 00:06:29,900
+<font size="20"><b>I'm grateful... for your cooperation.</b></font>
+
+72
+00:06:39,610 --> 00:06:41,330
+<font size="20"><b>Stand down, Suletta.</b></font>
+
+73
+00:06:41,820 --> 00:06:44,680
+<font size="20"><b>I don't want to hurt you.</b></font>
+
+74
+00:06:47,530 --> 00:06:50,550
+<font size="20"><b>Neither... do I!</b></font>
+
+75
+00:06:50,550 --> 00:06:52,680
+<font size="20"><b>Then don't stop us.</b></font>
+
+76
+00:06:52,680 --> 00:06:57,570
+<font size="20"><b>Mom wants Eri to...
+have a place in the world.</b></font>
+
+77
+00:06:58,580 --> 00:07:01,650
+<font size="20"><b>Is it okay to gobble up
+all these fronts for that goal?</b></font>
+
+78
+00:07:02,670 --> 00:07:04,190
+<font size="20"><b><i>To take lives?!</i></b></font>
+
+79
+00:07:04,190 --> 00:07:06,910
+<font size="20"><b>Eri wouldn't do that.</b></font>
+
+80
+00:07:07,340 --> 00:07:12,180
+<font size="20"><b>But if they get in our way,
+Mom won't hesitate!</b></font>
+
+81
+00:07:12,180 --> 00:07:14,920
+<font size="20"><b><i>That's why I want to stop her!</i></b></font>
+
+82
+00:07:14,920 --> 00:07:19,170
+<font size="20"><b><i>I don't want Mom...
+to become some evil magician!</i></b></font>
+
+83
+00:07:27,530 --> 00:07:28,880
+<font size="20"><b>Please, Suletta...</b></font>
+
+84
+00:07:28,880 --> 00:07:30,760
+<font size="20"><b>Forget about us.</b></font>
+
+85
+00:07:33,700 --> 00:07:34,680
+<font size="20"><b>No!</b></font>
+
+86
+00:07:36,870 --> 00:07:37,850
+<font size="20"><b><i>I...</i></b></font>
+
+87
+00:07:38,670 --> 00:07:40,520
+<font size="20"><b><i>I care about you!</i></b></font>
+
+88
+00:07:40,520 --> 00:07:42,900
+<font size="20"><b>And Mom, too!</b></font>
+
+89
+00:07:44,050 --> 00:07:46,010
+<font size="20"><b><i>When Mom cries,</i></b></font>
+
+90
+00:07:47,090 --> 00:07:48,940
+<font size="20"><b><i>I want to be there to hug her!</i></b></font>
+
+91
+00:07:49,590 --> 00:07:50,990
+<font size="20"><b><i>I want to be by her side!</i></b></font>
+
+92
+00:07:51,890 --> 00:07:53,160
+<font size="20"><b>There's no way...</b></font>
+
+93
+00:07:54,140 --> 00:07:55,870
+<font size="20"><b><i>I could ever forget!</i></b></font>
+
+94
+00:07:59,810 --> 00:08:01,630
+<font size="20"><b>What a pity.</b></font>
+
+95
+00:08:10,160 --> 00:08:11,340
+<font size="20"><b>We're surrounded.</b></font>
+
+96
+00:08:11,830 --> 00:08:13,880
+<font size="20"><b>Ms. Miorine! Everyone!</b></font>
+
+97
+00:08:14,370 --> 00:08:16,930
+<font size="20"><b>If you don't understand, Suletta...</b></font>
+
+98
+00:08:17,580 --> 00:08:19,140
+<font size="20"><b>than I won't hesitate, either.</b></font>
+
+99
+00:08:20,330 --> 00:08:21,350
+<font size="20"><b>Ericht!</b></font>
+
+100
+00:08:27,670 --> 00:08:29,400
+<font size="20"><b>Please!</b></font>
+
+101
+00:08:29,400 --> 00:08:31,240
+<font size="20"><b><i>Stop it, Ericht!</i></b></font>
+
+102
+00:08:49,750 --> 00:08:51,550
+<font size="20"><b>The mobile suits...</b></font>
+
+103
+00:08:52,030 --> 00:08:54,130
+<font size="20"><b>...stopped?</b></font>
+
+104
+00:08:54,130 --> 00:08:55,890
+<font size="20"><b>What just happened?</b></font>
+
+105
+00:08:55,890 --> 00:08:57,390
+<font size="20"><b>Chuchu! Nika!</b></font>
+
+106
+00:08:57,390 --> 00:08:58,980
+<font size="20"><b><i>Okay!</i></b></font>
+
+107
+00:09:01,620 --> 00:09:02,940
+<font size="20"><b>Why?</b></font>
+
+108
+00:09:02,940 --> 00:09:04,180
+<font size="20"><b>Why do you interfere?</b></font>
+
+109
+00:09:04,670 --> 00:09:07,100
+<font size="20"><b>The data storm can make
+our wishes come true!</b></font>
+
+110
+00:09:08,380 --> 00:09:09,270
+<font size="20"><b>Huh?</b></font>
+
+111
+00:09:10,720 --> 00:09:11,780
+<font size="20"><b><i>What caused it?</i></b></font>
+
+112
+00:09:11,780 --> 00:09:14,610
+<font size="20"><b><i>Data interference is occurring.</i></b></font>
+
+113
+00:09:14,610 --> 00:09:17,410
+<font size="20"><b><i>The data storm's information density
+is degrading.</i></b></font>
+
+114
+00:09:18,220 --> 00:09:19,200
+<font size="20"><b>Where are you going?</b></font>
+
+115
+00:09:22,880 --> 00:09:24,710
+<font size="20"><b>To do pest control.</b></font>
+
+116
+00:09:25,690 --> 00:09:30,540
+<font size="20"><b>Captain, Assembly League HQ
+is calling on a secure line.</b></font>
+
+117
+00:09:32,240 --> 00:09:37,730
+<font size="20"><b>Lagrange 1 has an interplanetary
+laser power transmission system.</b></font>
+
+118
+00:09:37,730 --> 00:09:39,970
+<font size="20"><b>We'd like you to use it.</b></font>
+
+119
+00:09:40,460 --> 00:09:43,690
+<font size="20"><b><i>What about the special session
+that Delling requested?</i></b></font>
+
+120
+00:09:43,690 --> 00:09:47,690
+<font size="20"><b><i>We've received no such request.</i></b></font>
+
+121
+00:09:48,210 --> 00:09:49,750
+<font size="20"><b>An interplanetary weapon</b></font>
+
+122
+00:09:49,750 --> 00:09:54,070
+<font size="20"><b>developed under the guise
+of a power transmission system...</b></font>
+
+123
+00:09:54,590 --> 00:09:59,490
+<font face="Times New Roman" size="18"><b>L1 Interplanetary Laser Transmission System 
+"ILTS"</b></font>
+
+124
+00:09:54,890 --> 00:09:59,490
+<font size="20"><b>{\an8}I wonder, what if it were
+to be mistakenly activated?</b></font>
+
+125
+00:09:59,490 --> 00:10:01,290
+<font size="20"><b>If we use that thing,</b></font>
+
+126
+00:10:01,290 --> 00:10:05,380
+<font size="20"><b>it'll devastate not just Benerit
+but all of Lagrange 4.</b></font>
+
+127
+00:10:05,380 --> 00:10:07,540
+<font size="20"><b>Who'll take responsibility?</b></font>
+
+128
+00:10:07,540 --> 00:10:10,130
+<font size="20"><b><i>We will, of course.</i></b></font>
+
+129
+00:10:11,190 --> 00:10:13,850
+<font size="20"><b>To make up for
+the Assembly League's blunder,</b></font>
+
+130
+00:10:13,850 --> 00:10:18,510
+<font size="20"><b>I imagine Lagrange 1's sovereign
+government and corporate volunteers</b></font>
+
+131
+00:10:18,510 --> 00:10:21,770
+<font size="20"><b>will lead the rebuilding efforts.</b></font>
+
+132
+00:10:21,770 --> 00:10:25,020
+<font size="20"><b>And when the arbitration is over,</b></font>
+
+133
+00:10:25,020 --> 00:10:30,190
+<font size="20"><b>you promise that our company
+will be in control of the Group.</b></font>
+
+134
+00:10:43,780 --> 00:10:46,430
+<font size="20"><b>Let's go. Follow me.</b></font>
+
+135
+00:10:48,370 --> 00:10:51,690
+<font size="20"><b>The data storm seems calmer in here.</b></font>
+
+136
+00:10:51,690 --> 00:10:53,460
+<font size="20"><b>Thank goodness!</b></font>
+
+137
+00:10:57,830 --> 00:10:59,320
+<font size="20"><b>Take this.</b></font>
+
+138
+00:10:59,920 --> 00:11:02,070
+<font size="20"><b>You've had training, haven't you?</b></font>
+
+139
+00:11:02,070 --> 00:11:03,920
+<font size="20"><b>I could never--</b></font>
+
+140
+00:11:03,920 --> 00:11:06,780
+<font size="20"><b>I can't very well hand it to a student.</b></font>
+
+141
+00:11:09,220 --> 00:11:12,520
+<font size="20"><b>Okay! Let's go punch in
+that shutdown code.</b></font>
+
+142
+00:11:12,520 --> 00:11:15,000
+<font size="20"><b>W-Wait, Chuchu!</b></font>
+
+143
+00:11:18,560 --> 00:11:19,880
+<font size="20"><b>A Haro?</b></font>
+
+144
+00:11:19,880 --> 00:11:21,800
+<font size="20"><b>Intruders will be eliminated.</b></font>
+
+145
+00:11:29,610 --> 00:11:30,790
+<font size="20"><b>So this is...</b></font>
+
+146
+00:11:31,530 --> 00:11:33,270
+<font size="20"><b><i>a Gundam?</i></b></font>
+
+147
+00:11:34,450 --> 00:11:36,750
+<font size="20"><b>With this, I'm a match for my brother!</b></font>
+
+148
+00:11:38,170 --> 00:11:40,400
+<font size="20"><b>I can stop him!</b></font>
+
+149
+00:11:40,880 --> 00:11:42,880
+<font size="20"><b><i>I can stop the witches...</i></b></font>
+
+150
+00:11:42,880 --> 00:11:44,850
+<font size="20"><b>and Miorine!</b></font>
+
+151
+00:11:44,850 --> 00:11:47,560
+<font size="20"><b><i>Lauda! Why don't you quit this?!</i></b></font>
+
+152
+00:11:47,560 --> 00:11:48,720
+<font size="20"><b>Any further, and--</b></font>
+
+153
+00:11:48,720 --> 00:11:51,550
+<font size="20"><b>It's you who should wake up, Brother!</b></font>
+
+154
+00:11:58,400 --> 00:12:00,900
+<font size="20"><b><i>The crime of killing our father,</i></b></font>
+
+155
+00:12:00,900 --> 00:12:03,740
+<font size="20"><b><i>the crime of wounding Petra...</i></b></font>
+
+156
+00:12:03,740 --> 00:12:07,410
+<font size="20"><b>If you won't make that woman pay for it...</b></font>
+
+157
+00:12:07,410 --> 00:12:09,350
+<font size="20"><b>You're wrong! Listen to me, Lauda!</b></font>
+
+158
+00:12:09,350 --> 00:12:13,080
+<font size="20"><b><i>I will defend the honor
+of the Jeturk name!</i></b></font>
+
+159
+00:12:14,620 --> 00:12:18,190
+<font size="20"><b><i>In place of my brother,
+who is in thrall to a witch,</i></b></font>
+
+160
+00:12:18,190 --> 00:12:21,380
+<font size="20"><b><i>I will shoulder all of their sins!</i></b></font>
+
+161
+00:12:21,380 --> 00:12:25,260
+<font size="20"><b>I will... Lauda Jeturk will...!</b></font>
+
+162
+00:12:37,680 --> 00:12:39,670
+<font size="20"><b>You're Lauda?</b></font>
+
+163
+00:12:49,820 --> 00:12:51,390
+<font size="20"><b>I'm Guel.</b></font>
+
+164
+00:12:51,390 --> 00:12:53,460
+<font size="20"><b>Now I have a little brother!</b></font>
+
+165
+00:12:53,460 --> 00:12:55,430
+<font size="20"><b>I'm super happy.</b></font>
+
+166
+00:13:06,170 --> 00:13:07,650
+<font size="20"><b><i>Brother...?</i></b></font>
+
+167
+00:13:09,010 --> 00:13:11,160
+<font size="20"><b><i>You're right.</i></b></font>
+
+168
+00:13:11,760 --> 00:13:13,060
+<font size="20"><b><i>About Dad...</i></b></font>
+
+169
+00:13:14,760 --> 00:13:16,770
+<font size="20"><b>If everyone...</b></font>
+
+170
+00:13:16,770 --> 00:13:18,370
+<font size="20"><b>If you...</b></font>
+
+171
+00:13:18,720 --> 00:13:21,630
+<font size="20"><b>can't forgive me, I...</b></font>
+
+172
+00:13:24,600 --> 00:13:27,170
+<font size="20"><b><i>Brother! Run!</i></b></font>
+
+173
+00:13:27,170 --> 00:13:30,240
+<font size="20"><b><i>I'll... never run again.</i></b></font>
+
+174
+00:13:30,700 --> 00:13:33,510
+<font size="20"><b><i>From Dad or from you.</i></b></font>
+
+175
+00:13:34,610 --> 00:13:35,850
+<font size="20"><b><i>So at least...</i></b></font>
+
+176
+00:13:38,240 --> 00:13:41,900
+<font size="20"><b>Don't go piloting a Gundam anymore.</b></font>
+
+177
+00:13:44,710 --> 00:13:47,290
+<font size="20"><b>I'm sorry, Brother...</b></font>
+
+178
+00:13:49,510 --> 00:13:51,140
+<font size="20"><b>I'm sorry!</b></font>
+
+179
+00:13:56,510 --> 00:13:58,830
+<font size="20"><b><i>Just how stupid are you two?!</i></b></font>
+
+180
+00:13:58,830 --> 00:13:59,830
+<font size="20"><b><i>Felsi?!</i></b></font>
+
+181
+00:13:59,830 --> 00:14:01,440
+<font size="20"><b><i>Dying in a sibling spat?!</i></b></font>
+
+182
+00:14:01,440 --> 00:14:04,280
+<font size="20"><b>If that's a joke, it's not funny!</b></font>
+
+183
+00:14:08,690 --> 00:14:10,200
+<font size="20"><b>You said it...</b></font>
+
+184
+00:14:11,610 --> 00:14:15,260
+<font size="20"><b><i>It really wouldn't... be that funny.</i></b></font>
+
+185
+00:14:19,490 --> 00:14:21,290
+<font size="20"><b>Idiot! Lower your head!</b></font>
+
+186
+00:14:21,290 --> 00:14:23,270
+<font size="20"><b>Where the hell did you get that?</b></font>
+
+187
+00:14:23,270 --> 00:14:24,630
+<font size="20"><b>Hell, who cares?</b></font>
+
+188
+00:14:25,790 --> 00:14:28,650
+<font size="20"><b>Ms. Winston, take President Miorine
+to the core block!</b></font>
+
+189
+00:14:28,650 --> 00:14:29,510
+<font size="20"><b>But...</b></font>
+
+190
+00:14:29,510 --> 00:14:30,950
+<font size="20"><b>Go, Miorine!</b></font>
+
+191
+00:14:30,950 --> 00:14:32,600
+<font size="20"><b>Go and finish the job!</b></font>
+
+192
+00:14:32,600 --> 00:14:34,850
+<font size="20"><b>As quickly as possible, please!</b></font>
+
+193
+00:14:42,970 --> 00:14:44,380
+<font size="20"><b>Let's go.</b></font>
+
+194
+00:14:44,940 --> 00:14:48,450
+<font size="20"><b>Let me take care of them.
+Nobody will get killed this time.</b></font>
+
+195
+00:14:49,730 --> 00:14:52,620
+<font size="20"><b>Always rubbing it in...</b></font>
+
+196
+00:15:00,120 --> 00:15:01,120
+<font size="20"><b>In here.</b></font>
+
+197
+00:15:07,710 --> 00:15:09,610
+<font size="20"><b>Hurry up and shut it down.</b></font>
+
+198
+00:15:09,610 --> 00:15:10,470
+<font size="20"><b>I know, okay?</b></font>
+
+199
+00:15:13,960 --> 00:15:15,060
+<font size="20"><b>Let me try.</b></font>
+
+200
+00:15:17,180 --> 00:15:18,830
+<font size="20"><b>Why?</b></font>
+
+201
+00:15:19,180 --> 00:15:21,330
+<font size="20"><b>If that's the emergency shutdown code,</b></font>
+
+202
+00:15:21,330 --> 00:15:23,400
+<font size="20"><b>I took the liberty of changing it.</b></font>
+
+203
+00:15:24,020 --> 00:15:26,580
+<font size="20"><b>Did you think I was so careless?</b></font>
+
+204
+00:15:30,860 --> 00:15:33,960
+<font size="20"><b>Miorine is with Mom now.</b></font>
+
+205
+00:15:34,780 --> 00:15:38,850
+<font size="20"><b>If it's to gain one, Mom will...</b></font>
+
+206
+00:15:38,850 --> 00:15:40,220
+<font size="20"><b><i>No!</i></b></font>
+
+207
+00:15:40,680 --> 00:15:45,000
+<font size="20"><b>Then don't take away the place
+where Mom and I can live freely.</b></font>
+
+208
+00:15:48,040 --> 00:15:50,470
+<font size="20"><b>Ma'am! Please stop this now!</b></font>
+
+209
+00:15:50,470 --> 00:15:52,110
+<font size="20"><b>Why?</b></font>
+
+210
+00:15:52,110 --> 00:15:55,760
+<font size="20"><b>Eri is the child blessed
+by Vanadis's ideals.</b></font>
+
+211
+00:15:56,510 --> 00:15:59,810
+<font size="20"><b>Yet there's no place for her
+in this world.</b></font>
+
+212
+00:16:00,430 --> 00:16:02,270
+<font size="20"><b>So I'll have to make one.</b></font>
+
+213
+00:16:03,010 --> 00:16:06,400
+<font size="20"><b>A place where Eri can be happy.</b></font>
+
+214
+00:16:07,140 --> 00:16:09,210
+<font size="20"><b>Eri, Eri...</b></font>
+
+215
+00:16:09,210 --> 00:16:11,150
+<font size="20"><b>Don't you care about Suletta at all?</b></font>
+
+216
+00:16:11,150 --> 00:16:12,960
+<font size="20"><b>I do love her.</b></font>
+
+217
+00:16:12,960 --> 00:16:15,570
+<font size="20"><b>But now she has friends like you.</b></font>
+
+218
+00:16:17,030 --> 00:16:20,670
+<font size="20"><b>Can you imagine how Suletta feels
+aboard the Calibarn?</b></font>
+
+219
+00:16:21,910 --> 00:16:24,440
+<font size="20"><b>She was trembling with fear
+that she might die.</b></font>
+
+220
+00:16:24,870 --> 00:16:28,480
+<font size="20"><b>But even so,
+because she cares for you both...</b></font>
+
+221
+00:16:29,170 --> 00:16:31,090
+<font size="20"><b>because she loves you...</b></font>
+
+222
+00:16:32,040 --> 00:16:35,590
+<font size="20"><b>If you're a mother,
+then love your daughters equally!</b></font>
+
+223
+00:16:37,460 --> 00:16:38,840
+<font size="20"><b>That's none of your business...</b></font>
+
+224
+00:16:43,180 --> 00:16:45,710
+<font size="20"><b>Hey! Are you trying to
+reprogram it or something?</b></font>
+
+225
+00:16:45,710 --> 00:16:47,650
+<font size="20"><b>If I can get around the admin rights...</b></font>
+
+226
+00:16:54,520 --> 00:16:57,840
+<font size="20"><b>Now, be a good girl
+and hand over those units--</b></font>
+
+227
+00:16:59,990 --> 00:17:04,140
+<font size="20"><b>I can't... keep running any longer...</b></font>
+
+228
+00:17:04,140 --> 00:17:05,000
+<font size="20"><b>I...</b></font>
+
+229
+00:17:17,000 --> 00:17:18,640
+<font size="20"><b>Hurry! Quick!</b></font>
+
+230
+00:17:18,640 --> 00:17:20,990
+<font size="20"><b>Shut up! I know, already!</b></font>
+
+231
+00:17:29,100 --> 00:17:33,840
+<font size="20"><b><i>There was an unknown message
+in the genetic code.</i></b></font>
+
+232
+00:17:33,840 --> 00:17:36,910
+<font size="20"><b><i>When we converted it to text,
+it turned out to be words.</i></b></font>
+
+233
+00:17:41,210 --> 00:17:42,470
+<font size="20"><b>I'll always...</b></font>
+
+234
+00:17:44,050 --> 00:17:45,620
+<font size="20"><b>love you too.</b></font>
+
+235
+00:17:50,660 --> 00:17:53,340
+<font size="20"><b>All for the love of my precious child.</b></font>
+
+236
+00:17:54,830 --> 00:17:57,900
+<font size="20"><b>A mother can be very strong, young lady.</b></font>
+
+237
+00:18:04,130 --> 00:18:05,520
+<font size="20"><b>Mom!</b></font>
+
+238
+00:18:21,650 --> 00:18:23,160
+<font size="20"><b>We have a signal!</b></font>
+
+239
+00:18:23,160 --> 00:18:25,330
+<font size="20"><b>Permet link established.</b></font>
+
+240
+00:18:25,830 --> 00:18:27,640
+<font size="20"><b><i>Commence calling.</i></b></font>
+
+241
+00:18:27,640 --> 00:18:28,500
+<font size="20"><b><i>Roger.</i></b></font>
+
+242
+00:18:28,850 --> 00:18:31,730
+<font size="20"><b>Now infiltrating
+Quiet Zero's internal systems.</b></font>
+
+243
+00:18:40,760 --> 00:18:41,930
+<font size="20"><b>Mom!</b></font>
+
+244
+00:18:41,930 --> 00:18:43,930
+<font size="20"><b>Route everything to security!</b></font>
+
+245
+00:18:43,930 --> 00:18:45,820
+<font size="20"><b>It's no use. There's too much.</b></font>
+
+246
+00:19:09,530 --> 00:19:10,790
+<font size="20"><b>It stopped?</b></font>
+
+247
+00:19:11,330 --> 00:19:13,630
+<font size="20"><b><i>The data storm has dissipated.</i></b></font>
+
+248
+00:19:13,980 --> 00:19:16,030
+<font size="20"><b>Everyone is okay!</b></font>
+
+249
+00:19:16,870 --> 00:19:18,970
+<font size="20"><b>Yes!</b></font>
+
+250
+00:19:18,970 --> 00:19:21,280
+<font size="20"><b><i>Mission accomplished!</i></b></font>
+
+251
+00:19:25,170 --> 00:19:27,100
+<font size="20"><b>You're not so good at killing people.</b></font>
+
+252
+00:19:27,630 --> 00:19:29,980
+<font size="20"><b>Next time, try helping them instead.</b></font>
+
+253
+00:19:32,540 --> 00:19:34,610
+<font size="20"><b>"Move forward, gain two."</b></font>
+
+254
+00:19:35,100 --> 00:19:37,210
+<font size="20"><b>Those were your words, right?</b></font>
+
+255
+00:19:37,210 --> 00:19:39,880
+<font size="20"><b>Then do as you say and move forward.</b></font>
+
+256
+00:19:40,480 --> 00:19:43,780
+<font size="20"><b>You, Suletta, Ericht...</b></font>
+
+257
+00:19:44,160 --> 00:19:47,750
+<font size="20"><b>All of us... will be family, after all.</b></font>
+
+258
+00:19:49,700 --> 00:19:53,000
+<font size="20"><b><i>Quiet Zero has shut down.</i></b></font>
+
+259
+00:19:53,700 --> 00:19:56,380
+<font size="20"><b><i>Now if you could please leave us...</i></b></font>
+
+260
+00:19:56,870 --> 00:19:58,420
+<font size="20"><b><i>I'm afraid not.</i></b></font>
+
+261
+00:19:58,420 --> 00:20:04,490
+<font size="20"><b>You and your companies
+have grown far too big.</b></font>
+
+262
+00:20:06,680 --> 00:20:09,430
+<font size="20"><b><i>Moving power transmission
+preparation to Phase 5.</i></b></font>
+
+263
+00:20:09,430 --> 00:20:12,270
+<font size="20"><b><i>Array setup within error range.</i></b></font>
+
+264
+00:20:12,270 --> 00:20:15,250
+<font size="20"><b><i>Phase control systems, all green.</i></b></font>
+
+265
+00:20:16,390 --> 00:20:19,540
+<font size="20"><b><i>Targeting data,
+trajectory prediction complete.</i></b></font>
+
+266
+00:20:24,730 --> 00:20:27,340
+<font size="20"><b><i>Interplanetary laser transmission system,</i></b></font>
+
+267
+00:20:27,340 --> 00:20:30,850
+<font size="20"><b><i>commencing test firing at high output.</i></b></font>
+
+268
+00:20:39,670 --> 00:20:40,800
+<font size="20"><b>No!</b></font>
+
+269
+00:20:50,150 --> 00:20:52,430
+<font size="20"><b>Eri! Stop that!</b></font>
+
+270
+00:21:52,780 --> 00:21:54,260
+<font size="20"><b>Everyone...?</b></font>
+
+271
+00:22:07,960 --> 00:22:09,610
+<font size="20"><b>Eri!</b></font>
+
+272
+00:23:43,510 --> 00:23:46,360
+<font size="20"><b><i>Next time on</i>
+Mobile Suit Gundam the Witch from Mercury,</b></font>
+
+273
+00:23:44,710 --> 00:23:49,030
+<font face="Times New Roman" size="18"><b>{\an8}<font size="24">Mobile Suit Gundam the Witch from Mercury</font></b></font>
+
+274
+00:23:46,360 --> 00:23:47,600
+<font size="20"><b><i>the final episode.</i></b></font>
+
+275
+00:23:49,030 --> 00:23:52,250
+<font size="18"><b>{\an8}Illustration: Yana Toboso</b></font>
+

@@ -741,6 +741,10 @@ def join_sentences_to_segment(sentences, ln):
     join_symbol = "　" if ln == "ja" else " "
     joined_sentence = join_symbol.join(map(lambda x: x["sentence"].strip(), sentences))
 
+    # Sometimes japanese subs don't use the appropriate " symbol for quotes
+    invalid_quotes = r"``|''"
+    joined_sentence = re.sub(invalid_quotes, '"', joined_sentence)
+
     # On certain cases it makes sense to not add a - since there is another symbol
     # Already indicating the end of the sentence
     remove_redundant_symbols = [
@@ -756,10 +760,6 @@ def join_sentences_to_segment(sentences, ln):
         r"(?<=\s)+\s",
         r"(?<=\.\.\.)。",
     ]
-
-    # Sometimes japanese subs don't use the appropriate " symbol for quotes
-    invalid_quotes = r"``|''"
-    joined_sentence = re.sub(invalid_quotes, '"', joined_sentence)
 
     actor_sentence = ",".join(sorted(set(map(lambda x: x["actor"], sentences))))
 

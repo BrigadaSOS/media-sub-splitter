@@ -1,0 +1,1081 @@
+1
+00:00:28,380 --> 00:00:31,760
+<font face="Trebuchet MS" size="24">¡Detente, por favor, Ericht!</font>
+
+2
+00:00:32,390 --> 00:00:34,450
+<font face="Trebuchet MS" size="24">Entonces no molestes a mamá.</font>
+
+3
+00:00:36,020 --> 00:00:38,630
+<font face="Trebuchet MS" size="24">Lo hace todo por mí.</font>
+
+4
+00:00:39,310 --> 00:00:41,230
+<font face="Trebuchet MS" size="24">¿Por qué viniste?</font>
+
+5
+00:00:41,850 --> 00:00:43,900
+<font face="Trebuchet MS" size="24">Regresa a la escuela con tus amigos.</font>
+
+6
+00:00:44,900 --> 00:00:49,700
+<font face="Trebuchet MS" size="24">Es problema nuestro porque
+solo podemos vivir en la tormenta.</font>
+
+7
+00:00:50,200 --> 00:00:53,290
+<font face="Trebuchet MS" size="24">Tú olvídate de ello, Suletta.</font>
+
+8
+00:00:54,120 --> 00:00:55,170
+<font face="Trebuchet MS" size="24">¡No!</font>
+
+9
+00:00:55,530 --> 00:00:59,270
+<font face="Trebuchet MS" size="24">¡No puedo fingir que no sé nada!</font>
+
+10
+00:01:00,500 --> 00:01:03,630
+<font face="Trebuchet MS" size="24">Eres muy terca, Suletta.</font>
+
+11
+00:01:11,010 --> 00:01:12,070
+<font face="Trebuchet MS" size="24">¡Detente, Lauda!</font>
+
+12
+00:01:12,550 --> 00:01:14,650
+<font face="Trebuchet MS" size="24">¿Por qué atacas a la nave?</font>
+
+13
+00:01:15,300 --> 00:01:16,490
+<font face="Trebuchet MS" size="24">¿Y tú qué?</font>
+
+14
+00:01:17,310 --> 00:01:19,980
+<font face="Trebuchet MS" size="24">¿Por qué estás con esa chica?</font>
+
+15
+00:01:20,390 --> 00:01:21,330
+<font face="Trebuchet MS" size="24">¿Lauda?</font>
+
+16
+00:01:22,350 --> 00:01:25,170
+<font face="Trebuchet MS" size="24">Si Miorine no hubiera
+involucrado a los Gundams,</font>
+
+17
+00:01:26,110 --> 00:01:27,150
+<font face="Trebuchet MS" size="24">ahora Petra…</font>
+
+18
+00:01:34,070 --> 00:01:36,370
+<font face="Trebuchet MS" size="24">¿Por qué nos ataca Lauda?</font>
+
+19
+00:01:36,530 --> 00:01:37,730
+<font face="Trebuchet MS" size="24">¡Ni idea!</font>
+
+20
+00:01:39,540 --> 00:01:40,910
+<font face="Trebuchet MS" size="24">¡Felsi!</font>
+
+21
+00:01:41,660 --> 00:01:43,080
+<font face="Trebuchet MS" size="24">Nos alcanzará.</font>
+
+22
+00:01:43,250 --> 00:01:44,920
+<font face="Trebuchet MS" size="24">-Nika. Chuchu.
+<i>-Recibido.</i></font>
+
+23
+00:01:45,380 --> 00:01:47,480
+<font face="Trebuchet MS" size="24">¡Vamos, Demi Barding!</font>
+
+24
+00:01:54,550 --> 00:01:56,470
+<font face="Trebuchet MS" size="24">La zona de la tormenta</font>
+
+25
+00:01:56,640 --> 00:01:58,820
+<font face="Trebuchet MS" size="24">anulará las comunicaciones Permet.</font>
+
+26
+00:01:58,970 --> 00:02:01,020
+<font face="Trebuchet MS" size="24">Cambien a las ópticas inalámbricas.</font>
+
+27
+00:02:01,180 --> 00:02:04,550
+<font face="Trebuchet MS" size="24">Bien. Cortando enlace Permet
+del Demi Barding.</font>
+
+28
+00:02:15,820 --> 00:02:19,190
+<font face="Trebuchet MS" size="24">¡Moriremos!</font>
+
+29
+00:02:19,410 --> 00:02:20,970
+<font face="Trebuchet MS" size="24">¡Mamá!</font>
+
+30
+00:02:24,460 --> 00:02:25,870
+<font face="Trebuchet MS" size="24">Lo siento, chicos.</font>
+
+31
+00:02:26,330 --> 00:02:30,690
+<font face="Trebuchet MS" size="24">No sabía que era tan difícil
+pilotear sin Permet.</font>
+
+32
+00:02:35,010 --> 00:02:37,850
+<font face="Trebuchet MS" size="24">¿Esto es la tormenta de datos?</font>
+
+33
+00:02:38,890 --> 00:02:41,660
+<font face="Trebuchet MS" size="24">Es una sensación desagradable, ¿verdad?</font>
+
+34
+00:02:41,810 --> 00:02:44,130
+<font face="Trebuchet MS" size="24">Vayan a Quiet Zero cuanto antes.</font>
+
+35
+00:02:44,350 --> 00:02:46,450
+<font face="Trebuchet MS" size="24">¡A mí no me des órdenes!</font>
+
+36
+00:02:48,900 --> 00:02:52,030
+<font face="Trebuchet MS" size="20"><b>{\an8}<font face="Times New Roman"><font size="24"><font size="18">Episodio 23
+
+
+
+
+
+
+
+
+
+
+
+
+
+<font size="30">Bondad innegociable</font></font></font></font></b></font>
+
+37
+00:04:30,330 --> 00:04:31,130
+<font face="Trebuchet MS" size="24">¡Detente!</font>
+
+38
+00:04:31,290 --> 00:04:34,770
+<font face="Trebuchet MS" size="24">El Schwarzette…
+¡El Gundam te absorbe la vida!</font>
+
+39
+00:04:34,920 --> 00:04:38,010
+<font face="Trebuchet MS" size="24">En ese caso, mátame para detenerme.</font>
+
+40
+00:04:38,170 --> 00:04:39,570
+<font face="Trebuchet MS" size="24">Como a papá.</font>
+
+41
+00:04:41,590 --> 00:04:42,850
+<font face="Trebuchet MS" size="24">¡Contéstame!</font>
+
+42
+00:04:43,850 --> 00:04:46,030
+<font face="Trebuchet MS" size="24">¿Por qué no me dijiste lo de papá?</font>
+
+43
+00:04:46,850 --> 00:04:48,730
+<font face="Trebuchet MS" size="24">¿Te sentías culpable?</font>
+
+44
+00:04:49,310 --> 00:04:51,950
+<font face="Trebuchet MS" size="24">¿O es que creíste
+que no podría con ello?</font>
+
+45
+00:04:56,820 --> 00:04:59,700
+<font face="Trebuchet MS" size="24">¿Tan poco me valoras?</font>
+
+46
+00:04:59,860 --> 00:05:00,970
+<font face="Trebuchet MS" size="24">¡No!</font>
+
+47
+00:05:01,450 --> 00:05:03,150
+<font face="Trebuchet MS" size="24">Lo de papá es mi pecado.</font>
+
+48
+00:05:03,570 --> 00:05:06,010
+<font face="Trebuchet MS" size="24">¡Debo cargar con ello yo!</font>
+
+49
+00:05:07,160 --> 00:05:09,910
+<font face="Trebuchet MS" size="24">Eso es lo malo, hermano.</font>
+
+50
+00:05:12,620 --> 00:05:16,950
+<font face="Trebuchet MS" size="24">¡Por eso Miorine se aprovecha de ti
+y tú te aferras a ella!</font>
+
+51
+00:05:20,720 --> 00:05:24,090
+<font face="Trebuchet MS" size="24">Tu nobleza y tu arrogancia.</font>
+
+52
+00:05:24,720 --> 00:05:26,630
+<font face="Trebuchet MS" size="24">¡Esos son tus pecados!</font>
+
+53
+00:05:35,270 --> 00:05:37,030
+<font face="Trebuchet MS" size="24">Se acerca una nave pequeña.</font>
+
+54
+00:05:37,400 --> 00:05:39,920
+<font face="Trebuchet MS" size="24">Código de identificación
+de Benerit Group.</font>
+
+55
+00:05:40,320 --> 00:05:42,010
+<font face="Trebuchet MS" size="24">Nos envía una transmisión.</font>
+
+56
+00:05:42,240 --> 00:05:43,450
+<font face="Trebuchet MS" size="24">¿Una sola?</font>
+
+57
+00:05:43,740 --> 00:05:44,750
+<font face="Trebuchet MS" size="24">Conéctala.</font>
+
+58
+00:05:46,370 --> 00:05:49,430
+<font face="Trebuchet MS" size="24"><i>Guston Parche, inspector de la Unión.</i></font>
+
+59
+00:05:49,700 --> 00:05:51,390
+<font face="Trebuchet MS" size="24"><i>Quiero hablar con la central.</i></font>
+
+60
+00:05:52,040 --> 00:05:54,290
+<font face="Trebuchet MS" size="24">Esto no es asunto suyo, inspector.</font>
+
+61
+00:05:55,420 --> 00:05:58,710
+<font face="Trebuchet MS" size="24"><i>Se respeta el sistema
+de control empresarial.</i></font>
+
+62
+00:06:01,800 --> 00:06:03,510
+<font face="Trebuchet MS" size="24">¿Delling Rembran?</font>
+
+63
+00:06:04,300 --> 00:06:07,390
+<font face="Trebuchet MS" size="24">Mi empresa solicita
+una reunión de emergencia</font>
+
+64
+00:06:07,720 --> 00:06:11,470
+<font face="Trebuchet MS" size="24">en base al Acta de la Unión.</font>
+
+65
+00:06:11,930 --> 00:06:13,520
+<font face="Trebuchet MS" size="24"><i>¿Una reunión de emergencia?</i></font>
+
+66
+00:06:14,310 --> 00:06:16,870
+<font face="Trebuchet MS" size="24">Una con los representantes afiliados</font>
+
+67
+00:06:17,190 --> 00:06:21,490
+<font face="Trebuchet MS" size="24"><i>para deliberar de nuevo
+sobre la intervención actual.</i></font>
+
+68
+00:06:26,030 --> 00:06:27,220
+<font face="Trebuchet MS" size="24">Presidente.</font>
+
+69
+00:06:27,370 --> 00:06:29,690
+<font face="Trebuchet MS" size="24">Gracias por su colaboración.</font>
+
+70
+00:06:39,670 --> 00:06:41,340
+<font face="Trebuchet MS" size="24">Vete, Suletta.</font>
+
+71
+00:06:41,840 --> 00:06:44,530
+<font face="Trebuchet MS" size="24">No quiero lastimarte.</font>
+
+72
+00:06:47,760 --> 00:06:50,230
+<font face="Trebuchet MS" size="24">¡Yo tampoco!</font>
+
+73
+00:06:50,970 --> 00:06:52,700
+<font face="Trebuchet MS" size="24">Pues no nos detengas.</font>
+
+74
+00:06:52,850 --> 00:06:54,930
+<font face="Trebuchet MS" size="24">Es lo que desea mamá.</font>
+
+75
+00:06:55,560 --> 00:06:57,390
+<font face="Trebuchet MS" size="24">Crear un lugar para Eri.</font>
+
+76
+00:06:58,770 --> 00:07:01,670
+<font face="Trebuchet MS" size="24">¿Y para ello engullirán varios frentes?</font>
+
+77
+00:07:02,940 --> 00:07:04,190
+<font face="Trebuchet MS" size="24">¿Arrebatarán vidas?</font>
+
+78
+00:07:04,610 --> 00:07:06,810
+<font face="Trebuchet MS" size="24">Eri nunca haría eso.</font>
+
+79
+00:07:07,700 --> 00:07:09,740
+<font face="Trebuchet MS" size="24">Pero si te interpones,</font>
+
+80
+00:07:10,120 --> 00:07:12,070
+<font face="Trebuchet MS" size="24">mamá no dudará.</font>
+
+81
+00:07:12,450 --> 00:07:14,460
+<font face="Trebuchet MS" size="24">Por eso quiero detenerlas.</font>
+
+82
+00:07:15,000 --> 00:07:18,910
+<font face="Trebuchet MS" size="24">No dejaré que mamá
+se vuelva una bruja malvada.</font>
+
+83
+00:07:27,720 --> 00:07:30,780
+<font face="Trebuchet MS" size="24">Por favor, Suletta,
+olvídate de nosotras.</font>
+
+84
+00:07:33,680 --> 00:07:34,680
+<font face="Trebuchet MS" size="24">¡No!</font>
+
+85
+00:07:37,190 --> 00:07:39,810
+<font face="Trebuchet MS" size="24">¡Te quiero, Ericht!</font>
+
+86
+00:07:41,020 --> 00:07:42,650
+<font face="Trebuchet MS" size="24">¡Quiero a mamá!</font>
+
+87
+00:07:44,280 --> 00:07:48,950
+<font face="Trebuchet MS" size="24"><i>Si mamá llora, quiero abrazarla.</i></font>
+
+88
+00:07:49,660 --> 00:07:50,990
+<font face="Trebuchet MS" size="24">Estar a su lado.</font>
+
+89
+00:07:52,030 --> 00:07:55,610
+<font face="Trebuchet MS" size="24">¡No puedo olvidarlas!</font>
+
+90
+00:08:00,170 --> 00:08:01,370
+<font face="Trebuchet MS" size="24">Qué triste.</font>
+
+91
+00:08:10,260 --> 00:08:11,350
+<font face="Trebuchet MS" size="24">Estamos rodeados.</font>
+
+92
+00:08:11,930 --> 00:08:13,910
+<font face="Trebuchet MS" size="24">¡Miorine! ¡Chicos!</font>
+
+93
+00:08:14,390 --> 00:08:16,670
+<font face="Trebuchet MS" size="24">Si no entras en razón,</font>
+
+94
+00:08:17,810 --> 00:08:19,140
+<font face="Trebuchet MS" size="24">yo tampoco dudaré.</font>
+
+95
+00:08:20,400 --> 00:08:21,370
+<font face="Trebuchet MS" size="24">¡Ericht!</font>
+
+96
+00:08:28,110 --> 00:08:30,870
+<font face="Trebuchet MS" size="24">¡Por favor, detente, Ericht!</font>
+
+97
+00:08:50,300 --> 00:08:51,570
+<font face="Trebuchet MS" size="24">Los Mobile Suits…</font>
+
+98
+00:08:52,140 --> 00:08:53,630
+<font face="Trebuchet MS" size="24">¿Se detuvieron?</font>
+
+99
+00:08:54,300 --> 00:08:55,690
+<font face="Trebuchet MS" size="24">¿Qué ocurrió?</font>
+
+100
+00:08:56,060 --> 00:08:57,390
+<font face="Trebuchet MS" size="24">¡Chuchu! ¡Nika!</font>
+
+101
+00:08:57,600 --> 00:08:58,730
+<font face="Trebuchet MS" size="24">¡Sí!</font>
+
+102
+00:09:01,520 --> 00:09:04,210
+<font face="Trebuchet MS" size="24">¿Por qué sigues molestando?</font>
+
+103
+00:09:04,730 --> 00:09:07,110
+<font face="Trebuchet MS" size="24">¡La tormenta cumplirá nuestro deseo!</font>
+
+104
+00:09:10,620 --> 00:09:11,800
+<font face="Trebuchet MS" size="24">¿Cuál es la causa?</font>
+
+105
+00:09:12,240 --> 00:09:14,150
+<font face="Trebuchet MS" size="24"><i>Hay una intervención de datos.</i></font>
+
+106
+00:09:14,780 --> 00:09:17,190
+<font face="Trebuchet MS" size="24"><i>Disminuye a densidad de información.</i></font>
+
+107
+00:09:18,120 --> 00:09:19,200
+<font face="Trebuchet MS" size="24">¿Adónde va?</font>
+
+108
+00:09:22,960 --> 00:09:24,730
+<font face="Trebuchet MS" size="24">A eliminar una plaga.</font>
+
+109
+00:09:25,880 --> 00:09:30,570
+<font face="Trebuchet MS" size="24">Capitana, tenemos una llamada oculta
+de la sede de la Unión.</font>
+
+110
+00:09:32,340 --> 00:09:37,490
+<font face="Trebuchet MS" size="24">Lagrange 1 tiene un sistema
+de transmisión láser interplanetaria.</font>
+
+111
+00:09:37,930 --> 00:09:39,980
+<font face="Trebuchet MS" size="24">Me gustaría usarlo.</font>
+
+112
+00:09:40,640 --> 00:09:43,370
+<font face="Trebuchet MS" size="24"><i>¿Y la reunión que solicitó Delling?</i></font>
+
+113
+00:09:44,060 --> 00:09:46,930
+<font face="Trebuchet MS" size="24"><i>No aceptamos sus condiciones.</i></font>
+
+114
+00:09:48,230 --> 00:09:54,090
+<font face="Trebuchet MS" size="24">El sistema láser es una tapadera para
+desarrollar un arma interplanetaria.</font>
+
+115
+00:09:55,030 --> 00:09:59,510
+<font face="Trebuchet MS" size="24">Y así parece que esta vez
+se activó por error.</font>
+
+116
+00:09:59,870 --> 00:10:01,150
+<font face="Trebuchet MS" size="24">Si se usa,</font>
+
+117
+00:10:01,410 --> 00:10:05,310
+<font face="Trebuchet MS" size="24">toda la zona de Lagrange 4
+recibirá daños, no solo Benerit.</font>
+
+118
+00:10:05,710 --> 00:10:09,990
+<font face="Trebuchet MS" size="24">-¿Quién asumirá la responsabilidad?
+<i>-Nosotros, obviamente.</i></font>
+
+119
+00:10:11,340 --> 00:10:13,790
+<font face="Trebuchet MS" size="24">Tras el error de la Unión,</font>
+
+120
+00:10:14,050 --> 00:10:18,510
+<font face="Trebuchet MS" size="24">los gobiernos y empresas
+autónomos de Lagrange 1</font>
+
+121
+00:10:18,680 --> 00:10:21,610
+<font face="Trebuchet MS" size="24">encabezarán la reconstrucción.</font>
+
+122
+00:10:22,020 --> 00:10:26,710
+<font face="Trebuchet MS" size="24">Nuestra empresa supervisará
+el grupo tras la mediación.</font>
+
+123
+00:10:27,190 --> 00:10:29,870
+<font face="Trebuchet MS" size="24">Se nos prometió.</font>
+
+124
+00:10:43,960 --> 00:10:46,190
+<font face="Trebuchet MS" size="24">Vamos. Síganme.</font>
+
+125
+00:10:48,750 --> 00:10:51,550
+<font face="Trebuchet MS" size="24">Aquí dentro, la tormenta se sobrelleva.</font>
+
+126
+00:10:51,800 --> 00:10:53,470
+<font face="Trebuchet MS" size="24">Qué alivio.</font>
+
+127
+00:10:58,220 --> 00:10:59,230
+<font face="Trebuchet MS" size="24">Toma.</font>
+
+128
+00:11:00,100 --> 00:11:02,090
+<font face="Trebuchet MS" size="24">Estás entrenada, ¿no?</font>
+
+129
+00:11:02,390 --> 00:11:03,930
+<font face="Trebuchet MS" size="24">No puedo…</font>
+
+130
+00:11:04,310 --> 00:11:06,630
+<font face="Trebuchet MS" size="24">No se la daré a un estudiante.</font>
+
+131
+00:11:09,400 --> 00:11:12,550
+<font face="Trebuchet MS" size="24">Usemos los códigos de detención
+de una vez.</font>
+
+132
+00:11:12,780 --> 00:11:14,850
+<font face="Trebuchet MS" size="24">¡Espera, Chuchu!</font>
+
+133
+00:11:18,660 --> 00:11:21,530
+<font face="Trebuchet MS" size="24">-¿Un Haro?
+-Los intrusos serán eliminados.</font>
+
+134
+00:11:29,840 --> 00:11:33,030
+<font face="Trebuchet MS" size="24">¿Así son los Gundams?</font>
+
+135
+00:11:34,300 --> 00:11:37,130
+<font face="Trebuchet MS" size="24">Con esto puedo estar
+a la altura de Guel.</font>
+
+136
+00:11:38,470 --> 00:11:40,430
+<font face="Trebuchet MS" size="24">¡Podré detenerlo!</font>
+
+137
+00:11:41,050 --> 00:11:44,590
+<font face="Trebuchet MS" size="24">Y eliminar a la bruja. A Miorine.</font>
+
+138
+00:11:45,020 --> 00:11:48,730
+<font face="Trebuchet MS" size="24">¡Suficiente, Lauda! ¡No sigas!</font>
+
+139
+00:11:49,060 --> 00:11:50,690
+<font face="Trebuchet MS" size="24">¡Abre los ojos, hermano!</font>
+
+140
+00:11:58,490 --> 00:12:00,610
+<font face="Trebuchet MS" size="24">La muerte de papá.</font>
+
+141
+00:12:01,320 --> 00:12:03,390
+<font face="Trebuchet MS" size="24">El daño que sufrió Petra.</font>
+
+142
+00:12:03,910 --> 00:12:07,280
+<font face="Trebuchet MS" size="24">Si no la harás pagar por ello…</font>
+
+143
+00:12:07,500 --> 00:12:09,370
+<font face="Trebuchet MS" size="24">¡No! ¡Escúchame, Lauda!</font>
+
+144
+00:12:09,620 --> 00:12:12,690
+<font face="Trebuchet MS" size="24"><i>¡Yo defenderé el orgullo de los Jeturk!</i></font>
+
+145
+00:12:14,800 --> 00:12:17,970
+<font face="Trebuchet MS" size="24">A ti te confundió esa bruja,</font>
+
+146
+00:12:18,340 --> 00:12:21,390
+<font face="Trebuchet MS" size="24">así que cargaré con tus pecados.</font>
+
+147
+00:12:21,800 --> 00:12:25,270
+<font face="Trebuchet MS" size="24">¡Yo, Lauda Jeturk!</font>
+
+148
+00:12:37,690 --> 00:12:39,390
+<font face="Trebuchet MS" size="24">¿Tú eres Lauda?</font>
+
+149
+00:12:50,290 --> 00:12:51,430
+<font face="Trebuchet MS" size="24">Soy Guel.</font>
+
+150
+00:12:51,710 --> 00:12:55,250
+<font face="Trebuchet MS" size="24">Me alegra mucho tener
+un hermano pequeño.</font>
+
+151
+00:13:06,310 --> 00:13:07,390
+<font face="Trebuchet MS" size="24">Gu…</font>
+
+152
+00:13:09,230 --> 00:13:11,010
+<font face="Trebuchet MS" size="24">Tienes razón.</font>
+
+153
+00:13:11,940 --> 00:13:13,060
+<font face="Trebuchet MS" size="24">Lo de papá…</font>
+
+154
+00:13:14,980 --> 00:13:16,290
+<font face="Trebuchet MS" size="24">Y todo lo demás.</font>
+
+155
+00:13:17,110 --> 00:13:21,550
+<font face="Trebuchet MS" size="24">Si tú no me lo perdonas…</font>
+
+156
+00:13:24,830 --> 00:13:27,070
+<font face="Trebuchet MS" size="24">Corre, Guel.</font>
+
+157
+00:13:27,490 --> 00:13:30,250
+<font face="Trebuchet MS" size="24">No huiré más.</font>
+
+158
+00:13:30,960 --> 00:13:33,630
+<font face="Trebuchet MS" size="24"><i>Ni de papá ni de ti.</i></font>
+
+159
+00:13:35,000 --> 00:13:36,010
+<font face="Trebuchet MS" size="24">Así que…</font>
+
+160
+00:13:38,550 --> 00:13:41,610
+<font face="Trebuchet MS" size="24">no pilotees de nuevo un Gundam.</font>
+
+161
+00:13:44,930 --> 00:13:47,370
+<font face="Trebuchet MS" size="24">Lo siento, Guel.</font>
+
+162
+00:13:50,020 --> 00:13:51,170
+<font face="Trebuchet MS" size="24">Lo siento.</font>
+
+163
+00:13:56,820 --> 00:13:58,720
+<font face="Trebuchet MS" size="24">¿Son idiotas o qué les pasa?</font>
+
+164
+00:13:58,980 --> 00:13:59,950
+<font face="Trebuchet MS" size="24">¿Felsi?</font>
+
+165
+00:14:00,150 --> 00:14:04,280
+<font face="Trebuchet MS" size="24">¡Morir en una pelea entre hermanos
+es estúpido!</font>
+
+166
+00:14:08,910 --> 00:14:10,200
+<font face="Trebuchet MS" size="24">Tienes razón.</font>
+
+167
+00:14:11,790 --> 00:14:14,850
+<font face="Trebuchet MS" size="24">Es completamente estúpido.</font>
+
+168
+00:14:19,710 --> 00:14:21,300
+<font face="Trebuchet MS" size="24">¡Agáchate, idiota!</font>
+
+169
+00:14:21,760 --> 00:14:23,250
+<font face="Trebuchet MS" size="24">¿De dónde la sacaste?</font>
+
+170
+00:14:23,550 --> 00:14:24,930
+<font face="Trebuchet MS" size="24">¿Qué importa eso?</font>
+
+171
+00:14:26,010 --> 00:14:28,540
+<font face="Trebuchet MS" size="24">Winston, ve al bloque central
+con Miorine.</font>
+
+172
+00:14:28,760 --> 00:14:29,510
+<font face="Trebuchet MS" size="24">Pero…</font>
+
+173
+00:14:29,930 --> 00:14:30,870
+<font face="Trebuchet MS" size="24">¡Ve, Miorine!</font>
+
+174
+00:14:31,100 --> 00:14:32,590
+<font face="Trebuchet MS" size="24">¡Acaba con esto!</font>
+
+175
+00:14:32,770 --> 00:14:34,570
+<font face="Trebuchet MS" size="24">Háganlo lo más rápido posible.</font>
+
+176
+00:14:43,070 --> 00:14:44,110
+<font face="Trebuchet MS" size="24">En marcha.</font>
+
+177
+00:14:45,110 --> 00:14:46,450
+<font face="Trebuchet MS" size="24">Yo me encargo.</font>
+
+178
+00:14:46,700 --> 00:14:48,450
+<font face="Trebuchet MS" size="24">Esta vez no matarán a nadie.</font>
+
+179
+00:14:49,910 --> 00:14:52,150
+<font face="Trebuchet MS" size="24">Hablas mucho.</font>
+
+180
+00:15:00,170 --> 00:15:01,130
+<font face="Trebuchet MS" size="24">Es aquí.</font>
+
+181
+00:15:07,890 --> 00:15:09,730
+<font face="Trebuchet MS" size="24">Detenlo de una buena vez.</font>
+
+182
+00:15:10,010 --> 00:15:10,990
+<font face="Trebuchet MS" size="24">¡Ya lo sé!</font>
+
+183
+00:15:14,140 --> 00:15:15,060
+<font face="Trebuchet MS" size="24">Déjame.</font>
+
+184
+00:15:17,560 --> 00:15:18,690
+<font face="Trebuchet MS" size="24">¿Por qué…?</font>
+
+185
+00:15:19,270 --> 00:15:23,400
+<font face="Trebuchet MS" size="24">Cambié los códigos
+de detención de emergencia.</font>
+
+186
+00:15:24,150 --> 00:15:26,310
+<font face="Trebuchet MS" size="24">¿Creíste que no lo sabía?</font>
+
+187
+00:15:31,030 --> 00:15:33,370
+<font face="Trebuchet MS" size="24">Miorine está con mamá.</font>
+
+188
+00:15:35,290 --> 00:15:38,810
+<font face="Trebuchet MS" size="24">Si es para ganar una cosa, mamá…</font>
+
+189
+00:15:39,250 --> 00:15:40,390
+<font face="Trebuchet MS" size="24">¡No!</font>
+
+190
+00:15:40,790 --> 00:15:45,010
+<font face="Trebuchet MS" size="24">Pues no nos robes el hogar
+a mamá y a mí.</font>
+
+191
+00:15:48,090 --> 00:15:50,470
+<font face="Trebuchet MS" size="24">¡Detén esto!</font>
+
+192
+00:15:50,930 --> 00:15:51,930
+<font face="Trebuchet MS" size="24">¿Por qué?</font>
+
+193
+00:15:52,390 --> 00:15:55,770
+<font face="Trebuchet MS" size="24">Eri fue bendecida
+por los ideales de Vanadis.</font>
+
+194
+00:15:56,730 --> 00:15:59,810
+<font face="Trebuchet MS" size="24">Pero no hay lugar para ella
+en este mundo.</font>
+
+195
+00:16:00,610 --> 00:16:02,270
+<font face="Trebuchet MS" size="24">Por eso debemos creárselo.</font>
+
+196
+00:16:03,270 --> 00:16:05,850
+<font face="Trebuchet MS" size="24">Un lugar en el que pueda ser feliz.</font>
+
+197
+00:16:07,320 --> 00:16:11,160
+<font face="Trebuchet MS" size="24">Siempre hablas de Eri…
+¿Y no importa qué le suceda a Suletta?</font>
+
+198
+00:16:11,320 --> 00:16:12,670
+<font face="Trebuchet MS" size="24">La amo.</font>
+
+199
+00:16:13,240 --> 00:16:15,580
+<font face="Trebuchet MS" size="24">Pero ella los tiene a ustedes, ¿no?</font>
+
+200
+00:16:17,160 --> 00:16:20,290
+<font face="Trebuchet MS" size="24">¿Sabes por qué subió al Calibarn?</font>
+
+201
+00:16:22,290 --> 00:16:24,450
+<font face="Trebuchet MS" size="24">Temblaba porque podría morir.</font>
+
+202
+00:16:25,050 --> 00:16:28,670
+<font face="Trebuchet MS" size="24">Pero lo ignoró porque las quiere.</font>
+
+203
+00:16:29,340 --> 00:16:30,870
+<font face="Trebuchet MS" size="24">¡Porque las ama!</font>
+
+204
+00:16:32,220 --> 00:16:35,600
+<font face="Trebuchet MS" size="24">Si eres su madre, ¡ámala igual!</font>
+
+205
+00:16:37,640 --> 00:16:39,050
+<font face="Trebuchet MS" size="24">Eres muy crítica.</font>
+
+206
+00:16:43,360 --> 00:16:45,570
+<font face="Trebuchet MS" size="24">¿Acaso revisarás el programa?</font>
+
+207
+00:16:45,710 --> 00:16:48,100
+<font face="Trebuchet MS" size="24">Si evito
+los privilegios de administrador…</font>
+
+208
+00:16:54,660 --> 00:16:57,250
+<font face="Trebuchet MS" size="24">Entréguenme la uni…</font>
+
+209
+00:17:00,250 --> 00:17:05,000
+<font face="Trebuchet MS" size="24">Ya no puedo seguir huyendo.</font>
+
+210
+00:17:17,310 --> 00:17:18,640
+<font face="Trebuchet MS" size="24">¡Date prisa!</font>
+
+211
+00:17:18,810 --> 00:17:20,830
+<font face="Trebuchet MS" size="24">¡Cállate! ¡Ya lo sé!</font>
+
+212
+00:17:29,570 --> 00:17:33,770
+<font face="Trebuchet MS" size="24">En el código genético
+había una especie de mensaje.</font>
+
+213
+00:17:33,980 --> 00:17:36,910
+<font face="Trebuchet MS" size="24">Al transformarlo en letras,
+aparecieron palabras.</font>
+
+214
+00:17:41,290 --> 00:17:42,450
+<font face="Trebuchet MS" size="24">"Yo también…</font>
+
+215
+00:17:44,170 --> 00:17:45,170
+<font face="Trebuchet MS" size="24">te amo".</font>
+
+216
+00:17:50,840 --> 00:17:53,340
+<font face="Trebuchet MS" size="24">Todo sea por mi amada hija.</font>
+
+217
+00:17:54,890 --> 00:17:57,650
+<font face="Trebuchet MS" size="24">Las madres somos muy fuertes, señorita.</font>
+
+218
+00:18:04,310 --> 00:18:05,310
+<font face="Trebuchet MS" size="24">¡Mamá!</font>
+
+219
+00:18:21,870 --> 00:18:23,160
+<font face="Trebuchet MS" size="24">Tenemos conexión.</font>
+
+220
+00:18:23,330 --> 00:18:25,330
+<font face="Trebuchet MS" size="24">Enlace Permet confirmado.</font>
+
+221
+00:18:25,920 --> 00:18:27,730
+<font face="Trebuchet MS" size="24">Inicien el llamamiento.</font>
+
+222
+00:18:28,040 --> 00:18:31,490
+<font face="Trebuchet MS" size="24">Recibido.
+Entrando en el sistema de Quiet Zero.</font>
+
+223
+00:18:40,930 --> 00:18:41,930
+<font face="Trebuchet MS" size="24">¡Mamá!</font>
+
+224
+00:18:42,100 --> 00:18:43,990
+<font face="Trebuchet MS" size="24">Úsenlo todo en seguridad.</font>
+
+225
+00:18:44,140 --> 00:18:45,820
+<font face="Trebuchet MS" size="24">No podemos seguir el ritmo.</font>
+
+226
+00:19:09,670 --> 00:19:10,800
+<font face="Trebuchet MS" size="24">¿Se detuvo?</font>
+
+227
+00:19:11,380 --> 00:19:13,630
+<font face="Trebuchet MS" size="24">La tormenta desapareció.</font>
+
+228
+00:19:14,130 --> 00:19:15,950
+<font face="Trebuchet MS" size="24">¡Estamos bien!</font>
+
+229
+00:19:16,970 --> 00:19:18,970
+<font face="Trebuchet MS" size="24">¡Genial!</font>
+
+230
+00:19:19,350 --> 00:19:21,150
+<font face="Trebuchet MS" size="24">¡Misión cumplida!</font>
+
+231
+00:19:25,270 --> 00:19:27,100
+<font face="Trebuchet MS" size="24">No eres una buena asesina.</font>
+
+232
+00:19:27,730 --> 00:19:29,980
+<font face="Trebuchet MS" size="24">Mejor dedícate a salvar a alguien.</font>
+
+233
+00:19:32,730 --> 00:19:34,610
+<font face="Trebuchet MS" size="24">Si avanzas, ganas dos.</font>
+
+234
+00:19:35,240 --> 00:19:36,830
+<font face="Trebuchet MS" size="24">Lo decías tú, ¿no?</font>
+
+235
+00:19:37,450 --> 00:19:39,630
+<font face="Trebuchet MS" size="24">Pues aprende de ello y avanza.</font>
+
+236
+00:19:40,700 --> 00:19:43,790
+<font face="Trebuchet MS" size="24">Suletta, Ericht y tú.</font>
+
+237
+00:19:44,290 --> 00:19:47,670
+<font face="Trebuchet MS" size="24">Porque seremos familia.</font>
+
+238
+00:19:49,920 --> 00:19:53,000
+<font face="Trebuchet MS" size="24"><i>Quiet Zero se detuvo.</i></font>
+
+239
+00:19:53,880 --> 00:19:56,030
+<font face="Trebuchet MS" size="24"><i>Retírense, por favor.</i></font>
+
+240
+00:19:56,880 --> 00:19:58,010
+<font face="Trebuchet MS" size="24"><i>No.</i></font>
+
+241
+00:19:58,840 --> 00:20:04,190
+<font face="Trebuchet MS" size="24">Sus empresas
+se volvieron demasiado grandes.</font>
+
+242
+00:20:06,810 --> 00:20:09,440
+<font face="Trebuchet MS" size="24">Preparativos de transmisión en fase 5.</font>
+
+243
+00:20:09,760 --> 00:20:12,270
+<font face="Trebuchet MS" size="24">Matriz establecida
+en parámetros aceptables.</font>
+
+244
+00:20:12,650 --> 00:20:15,110
+<font face="Trebuchet MS" size="24">Sistema de control de fase correcto.</font>
+
+245
+00:20:16,610 --> 00:20:19,510
+<font face="Trebuchet MS" size="24">Previsión de trayectoria finalizada.</font>
+
+246
+00:20:24,830 --> 00:20:27,310
+<font face="Trebuchet MS" size="24">Iniciando
+prueba de rayo de alta potencia</font>
+
+247
+00:20:27,500 --> 00:20:30,530
+<font face="Trebuchet MS" size="24">del sistema de transmisión láser
+interplanetaria.</font>
+
+248
+00:20:39,840 --> 00:20:40,830
+<font face="Trebuchet MS" size="24">¡No!</font>
+
+249
+00:20:50,480 --> 00:20:52,450
+<font face="Trebuchet MS" size="24">¡No, Eri!</font>
+
+250
+00:21:53,000 --> 00:21:54,170
+<font face="Trebuchet MS" size="24">¿Hola?</font>
+
+251
+00:22:08,010 --> 00:22:09,330
+<font face="Trebuchet MS" size="24">¡Eri!</font>
+
+252
+00:23:38,730 --> 00:23:42,020
+<font face="Times New Roman" size="20" color="#000000"><b>{\an8}<b><font size="14"><font color="#304457">Traducción: Iris de la Fuente y M.R.G.
+Edición: Abraham Gayuvas
+Control de calidad: M.R.G.</font></font></b></b></font>
+
+253
+00:23:43,650 --> 00:23:47,610
+<font face="Trebuchet MS" size="24">Próximo episodio: episodio final.</font>
+
+254
+00:23:44,400 --> 00:23:49,030
+<font face="Trebuchet MS" size="20"><b>{\an8}<font face="Verdana"><font size="37">Final</font></font></b></font>
+
+255
+00:23:44,610 --> 00:23:49,030
+<font face="Trebuchet MS" size="20"><b>{\an8}<font face="Times New Roman"><font size="24"><font size="18">Mobile Suit Gundam: The Witch from Mercury</font></font></font></b></font>
+
+256
+00:23:49,150 --> 00:23:52,030
+<font face="Times New Roman" size="20" color="#000000"><b>{\an8}<font size="16">Ilustración: Yana</font></b></font>
+
