@@ -784,13 +784,13 @@ def process_subtitle_line(line):
 
     processed_sentence = remove_nested_parenthesis(processed_sentence)
 
-    special_chars = [
-        "●",
-        "→",
-        "ー?♪ー?",
-    ]
+    special_chars = r"●|→|ー?♪ー?|\u202a|\u202c"
 
-    return re.sub(rf"{'|'.join(special_chars)}", "", processed_sentence).strip()
+    nb_rep = 1
+    while nb_rep:
+        (processed_sentence, nb_rep) = re.subn(special_chars, "", processed_sentence)
+
+    return processed_sentence.strip()
 
 
 def remove_nested_parenthesis(sentence):
