@@ -7,7 +7,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 27;27;28;26;0:00:22.110000;0:00:23.540000;27.mp3;27.webp;うーんとねえ;Pues...;Dunno...;False;False;;extra M;Shuka Mob M
 30;30;31;29;0:00:23.540000;0:00:25.960000;30.mp3;30.webp;2組のお化け屋敷 行ってみたい;Quiero ir a la casa embrujada.;I'd love to try Class 2's haunted house!;False;False;;extra C;Shuka Mob B
 34;34;36;35;0:00:25.871000;0:00:27.970000;34.mp3;34.webp;いいね! 行こ行こ;¡Sí, vayamos!;Awesome! Let's do it!;False;False;;extra M;Shuka Mob M
-37;37;38;40;0:00:27.956000;0:00:31.320000;37.mp3;37.webp;"おおー 郁代&lrm;みたいなのがウジャウジャいる";Hay un montón de chicas como Ikuyo.;It's like an entire school of Ikuyos.;False;False;;ryo;Ryo
+37;37;38;40;0:00:27.956000;0:00:31.320000;37.mp3;37.webp;おおー 郁代みたいなのがウジャウジャいる;Hay un montón de chicas como Ikuyo.;It's like an entire school of Ikuyos.;False;False;;ryo;Ryo
 42;42,45;43;41,44;0:00:31.320000;0:00:35.550000;42.mp3;42.webp;とりあえず ぼっちちゃんのクラス　近そうだし 見に行こうよ;La clase de Bocchi está cerca. Vamos a verla.;Well, anyway... I think Bocchi-chan's class is nearby, so let's check that out!;False;False;;nijika;Nijika
 46;46;48;47;0:00:36.965000;0:00:38.860000;46.mp3;46.webp;おっ ここっぽい;Creo que es ahí.;Hey, bet this's it!;False;False;;nijika;Nijika
 49;49;51;50;0:00:38.884000;0:00:41.910000;49.mp3;49.webp;やっほー! ぼっちちゃん いる?;¡Hola! ¿Estás aquí, Bocchi?;Hi-ho! Is Bocchi-chan in?;False;False;;nijika;Nijika
@@ -27,7 +27,7 @@ ID;SUBS_JP_IDS;SUBS_ES_IDS;SUBS_EN_IDS;START_TIME;END_TIME;NAME_AUDIO;NAME_SCREE
 102;102;103;101;0:01:25.140000;0:01:27.200000;102.mp3;102.webp;どこ行ったんだろう;¿Dónde se habrá metido?;Where could she have gone?;False;False;;nijika;Nijika
 104;104;106;105;0:01:27.182000;0:01:30.280000;104.mp3;104.webp;とりあえず 女子トイレ 片っ端から捜すか;¿Buscamos en todos los baños de chicas?;Maybe we should check all the women's bathrooms?;False;False;;nijika;Nijika
 107;107;108;109;0:01:30.268000;0:01:31.870000;107.mp3;107.webp;えっ 全部?;¿En todos?;All of them?;False;False;;ryo;Ryo
-111;111,117;112;110,118;0:01:31.870000;0:01:37.050000;111.mp3;111.webp;"いや...　後藤&lrm;さんは そんな四六時中 人のいる所には行きませんよ";No. Goto no iría a un sitio por el que pasa gente todo el día.;No... Gotoh-san won't be found in such a constantly inhabited location!;False;False;;kita;Kita
+111;111,117;112;110,118;0:01:31.870000;0:01:37.050000;111.mp3;111.webp;いや...　後藤さんは そんな四六時中 人のいる所には行きませんよ;No. Goto no iría a un sitio por el que pasa gente todo el día.;No... Gotoh-san won't be found in such a constantly inhabited location!;False;False;;kita;Kita
 120;120,124;122;119,121,123;0:01:37.050000;0:01:41.160000;120.mp3;120.webp;ふむ じゃあ どこを捜せば?　教えて 喜多博士;¿Y dónde buscamos? Dínoslo, profesora Kita.;Aha! Where should we look, then? Teach us, Professor Kita!;False;False;;nijika;Nijika
 125;125;127;126;0:01:41.029000;0:01:44.080000;125.mp3;125.webp;では 解説していこうと思うわ;Permítanme explicarlo.;Allow me to elucidate!;False;False;;kita;Kita
 129;129;130;128;0:01:44.080000;0:01:46.660000;129.mp3;129.webp;まず 人がいなくて;Ha de ser un sitio con poca gente;It must be uninhabited!;False;False;;kita;Kita

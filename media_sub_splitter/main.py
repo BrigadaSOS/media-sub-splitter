@@ -800,7 +800,7 @@ def process_subtitle_line(line):
 
     processed_sentence = remove_nested_parenthesis(processed_sentence)
 
-    special_chars = r"●|→|ー?♪ー?|\u202a|\u202c|➡"
+    special_chars = r"●|→|ー?♪ー?|\u202a|\u202c|➡|&lrm;"
     processed_sentence = re.sub(special_chars, "", processed_sentence)
 
     processed_sentence = emoji.sub("", processed_sentence)
