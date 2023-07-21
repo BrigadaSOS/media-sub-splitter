@@ -38,16 +38,19 @@ if not logger.handlers:
     handler.setFormatter(formatter)
     logger.addHandler(handler)
 
-emoji = re.compile("["
-        u"\U0001F600-\U0001F64F"  # emoticons
-        u"\U0001F300-\U0001F5FF"  # symbols & pictographs
-        u"\U0001F680-\U0001F6FF"  # transport & map symbols
-        u"\U0001F1E0-\U0001F1FF"  # flags (iOS)
-                   "]+", re.UNICODE)
+emoji = re.compile(
+    "["
+    "\U0001F600-\U0001F64F"  # emoticons
+    "\U0001F300-\U0001F5FF"  # symbols & pictographs
+    "\U0001F680-\U0001F6FF"  # transport & map symbols
+    "\U0001F1E0-\U0001F1FF"  # flags (iOS)
+    "]+",
+    re.UNICODE,
+)
 
 SUPPORTED_LANGUAGES = ["en", "ja", "es"]
 
-EpisodeCsvRow = namedtuple(
+EpisodeTsvRow = namedtuple(
     "Row",
     [
         "ID",
@@ -89,12 +92,14 @@ def main():
     input_folder = args.input
     output_folder = args.output
 
-    episode_filepaths = sorted([
-        os.path.join(root, name)
-        for root, dirs, files in os.walk(input_folder)
-        for name in files
-        if name.endswith(".mkv")
-    ])
+    episode_filepaths = sorted(
+        [
+            os.path.join(root, name)
+            for root, dirs, files in os.walk(input_folder)
+            for name in files
+            if name.endswith(".mkv")
+        ]
+    )
 
     if not episode_filepaths:
         logger.error(f"No .mkv files found in {input_folder}! Nothing else to do.")
@@ -223,7 +228,9 @@ def extract_segments_from_episode(
         logger.debug(f"Subtitle filepaths: {subtitle_filepaths}")
 
         for subtitle_filepath in subtitle_filepaths:
-            subtitle_filename = re.sub(r"\[.*?\]|\(.*?\)", "", os.path.basename(subtitle_filepath))
+            subtitle_filename = re.sub(
+                r"\[.*?\]|\(.*?\)", "", os.path.basename(subtitle_filepath)
+            )
             guessed_subtitle_info = guessit(subtitle_filename)
             if "episode" in guessed_subtitle_info:
                 subtitle_episode = guessed_subtitle_info["episode"]
@@ -232,10 +239,14 @@ def extract_segments_from_episode(
                 if episode_matches:
                     subtitle_episode = episode_matches.group(1)
                 else:
-                    logger.info("> Could not guess Episode number for subtitle: {subtitle_filepath}")
+                    logger.info(
+                        "> Could not guess Episode number for subtitle: {subtitle_filepath}"
+                    )
 
             if int(subtitle_episode) == int(episode_info["episode"]):
-                logger.info(f"> (E{subtitle_episode}) Found external subtitle: {subtitle_filepath}")
+                logger.info(
+                    f"> (E{subtitle_episode}) Found external subtitle: {subtitle_filepath}"
+                )
 
                 subtitle_language = None
                 if "subtitle_language" in guessed_subtitle_info:
@@ -505,7 +516,7 @@ def split_video_by_subtitles(
     subtitles,
     episode_folder_output_path,
     args,
-    output_csv_name="data.csv",
+    output_tsv_name="data.tsv",
 ):
     video = mp.VideoFileClip(video_file) if video_file else None
 
@@ -552,9 +563,15 @@ def split_video_by_subtitles(
         else:
             sorted_lines.remove(line)
 
-    csv_filepath = os.path.join(episode_folder_output_path, output_csv_name)
-    with open(csv_filepath, "w+", newline="", encoding="utf-8") as csvfile:
-        writer = csv.DictWriter( csvfile, fieldnames=EpisodeCsvRow._fields, delimiter=";", quoting=csv.QUOTE_NONE, escapechar='\\')
+    tsv_filepath = os.path.join(episode_folder_output_path, output_tsv_name)
+    with open(tsv_filepath, "w+", newline="", encoding="utf-8") as tsvfile:
+        writer = csv.DictWriter(
+            tsvfile,
+            fieldnames=EpisodeTsvRow._fields,
+            delimiter="\t",
+            quoting=csv.QUOTE_NONE,
+            escapechar="\\",
+        )
         writer.writeheader()
 
         segment_start = sorted_lines[0]["start"] - 1
@@ -712,7 +729,7 @@ def generate_segment(
             return
 
     writer.writerow(
-        EpisodeCsvRow(
+        EpisodeTsvRow(
             ID=segment_id,
             SUBS_JP_IDS=subs_jp_ids_str,
             SUBS_ES_IDS=subs_es_ids_str,
@@ -759,7 +776,9 @@ def join_sentences_to_segment(sentences, ln):
         r"(?<=\.\.\.)。",
     ]
 
-    actor_sentence = ",".join(sorted(set(map(lambda x: x["actor"], sentences))))
+    actor_sentence = ",".join(
+        sorted(set(map(lambda x: x["actor"].replace("\t", "").strip(), sentences)))
+    )
 
     # Get all the ids that form the segment
     subs_ids = list(map(lambda s: s["sub_id"], sentences))
@@ -792,9 +811,10 @@ def process_subtitle_line(line):
         return ""
 
     # Normaliza half-width (Hankaku) a full-width (Zenkaku) caracteres
-    processed_sentence = (
-        jaconvV2.normalize(line.plaintext, "NFKC").replace("\n", " ").replace("\r", "")
-    )
+    processed_sentence = jaconvV2.normalize(line.plaintext, "NFKC")
+
+    # Replace all new lines / tabs with just one space
+    processed_sentence = re.sub("\r?\n|\t", " ", processed_sentence)
 
     processed_sentence = remove_nested_parenthesis(processed_sentence)
 

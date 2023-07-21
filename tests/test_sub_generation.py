@@ -17,7 +17,7 @@ def test_subtitles_snapshots(snapshot, matching_subtitles):
     snapshot.snapshot_dir = "tests/snapshots"
     tmp_output_folder = "tests/snapshots/tmp"
     filename = os.path.basename(sample_subtitles_filepath).split(".")[0]
-    tmp_csv_filename = f"{filename}.input.csv"
+    tmp_tsv_filename = f"{filename}.input.tsv"
 
     split_video_by_subtitles(
         translator=None,
@@ -25,11 +25,11 @@ def test_subtitles_snapshots(snapshot, matching_subtitles):
         subtitles=matching_subtitles,
         episode_folder_output_path=tmp_output_folder,
         args={},
-        output_csv_name=tmp_csv_filename,
+        output_tsv_name=tmp_tsv_filename,
     )
 
-    with open(os.path.join(tmp_output_folder, tmp_csv_filename)) as csvfile:
-        text = "".join(csvfile.readlines())
+    with open(os.path.join(tmp_output_folder, tmp_tsv_filename)) as tsvfile:
+        text = "".join(tsvfile.readlines())
 
-        snapshot_filename = f"{filename}.snapshot.csv"
+        snapshot_filename = f"{filename}.snapshot.tsv"
         snapshot.assert_match(text, snapshot_filename)
