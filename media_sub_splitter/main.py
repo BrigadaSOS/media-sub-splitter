@@ -829,7 +829,9 @@ def process_subtitle_line(line):
 def remove_nested_parenthesis(sentence):
     nb_rep = 1
     while nb_rep:
-        (sentence, nb_rep) = re.subn(r"\([^\(\)（）\[\]\{\}《》【】]*\)", "", sentence)
+        (sentence, nb_rep) = re.subn(
+            r"\([^\(\)（）\[\]\{\}《》【】]*\)|\[[^\(\)（）\[\]\{\}《》【】]*\]", "", sentence
+        )
 
     return sentence
 

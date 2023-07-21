@@ -155,7 +155,7 @@ ID	SUBS_JP_IDS	SUBS_ES_IDS	SUBS_EN_IDS	START_TIME	END_TIME	NAME_AUDIO	NAME_SCREE
 601	601	602	600	0:15:08.780000	0:15:11.030000	601.mp3	601.webp	あなた方は学生なんです。	Ustedes son estudiantes.	You're all students.	False	False		kenanji	Kenanji
 603	603	605	604	0:15:10.970000	0:15:13.806000	603.mp3	603.webp	責任は 大人に取らせなさい。	Los adultos asumiremos la responsabilidad.	Let the adults take responsibility.	False	False		kenanji	Kenanji
 606	606	608	607	0:15:13.806000	0:15:16.020000	606.mp3	606.webp	あっ。ありがとう。	Gracias.	Thanks!	False	False		miorine	Miorine
-611	611	609	610	0:15:17.030000	0:15:21.290000	611.mp3	611.webp	[スピーカ]現在 「ベネリット」グループ 全従業員に対し	Desde Lagrange 4 recomiendan la evacuación	Emergency evacuation orders from Lagrange 4	False	False		anuncio	Announcement
+611	611	609	610	0:15:17.030000	0:15:21.290000	611.mp3	611.webp	現在 「ベネリット」グループ 全従業員に対し	Desde Lagrange 4 recomiendan la evacuación	Emergency evacuation orders from Lagrange 4	False	False		anuncio	Announcement
 613	613	612	614	0:15:21.240000	0:15:25.880000	613.mp3	613.webp	ラグランジュ4より 緊急避難勧告が出されています。	de todo el personal de Benerit Group.	are now in effect for all Benerit Group employees.	False	False		anuncio	Announcement
 615	615	617	616	0:15:26.986000	0:15:28.988000	615.mp3	615.webp	見違えたな。	Pareces otra.	I barely recognize you.	False	False		shaddiq	Shaddiq
 618	618	620	619	0:15:28.988000	0:15:31.357000	618.mp3	618.webp	水星ちゃんのおかげかい?	¿Es gracias a la mercuriana?	Is that thanks to the Mercurian Miss?	False	False		shaddiq	Shaddiq
@@ -196,13 +196,13 @@ ID	SUBS_JP_IDS	SUBS_ES_IDS	SUBS_EN_IDS	START_TIME	END_TIME	NAME_AUDIO	NAME_SCREE
 741	741,744	743	742	0:18:03.676000	0:18:08.347000	741.mp3	741.webp	けれど あの子のように　データストームと 共存はできない。	Pero no puedes coexistir con la tormenta, como ella.	But unlike her, you can't coexist with the data storm.	False	False		belmeria	Belmeria
 747	747	746	745	0:18:08.220000	0:18:10.560000	747.mp3	747.webp	絶対に無理はしないで。	No te excedas.	Promise not to push it too far.	False	False		belmeria	Belmeria
 748	748	750	749	0:18:10.382000	0:18:14.353000	748.mp3	748.webp	ありがとうございます ベルメリアさん	Muchas gracias, Belmeria.	Thank you very much, Ms. Belmeria...	False	False		suletta	Suletta
-752	752	753	751	0:18:14.230000	0:18:18.057000	752.mp3	752.webp	[スピーカ] 私のわがまま 聞いてくれて。んっ...	Por ceder ante mis caprichos.	for letting me do as I please.	False	False		suletta	Suletta
-754	754	756,758	755,757	0:18:18.057000	0:18:21.594000	754.mp3	754.webp	[スピーカ] 始めてください。コール開始。	Comiencen. Inicia el llamamiento.	Please begin. Commence calling.	False	False		miorine,suletta	Miorine,Suletta
+752	752	753	751	0:18:14.230000	0:18:18.057000	752.mp3	752.webp	私のわがまま 聞いてくれて。んっ...	Por ceder ante mis caprichos.	for letting me do as I please.	False	False		suletta	Suletta
+754	754	756,758	755,757	0:18:18.057000	0:18:21.594000	754.mp3	754.webp	始めてください。コール開始。	Comiencen. Inicia el llamamiento.	Please begin. Commence calling.	False	False		miorine,suletta	Miorine,Suletta
 759	759	761	760	0:18:21.594000	0:18:24.463000	759.mp3	759.webp	了解。コール開始します。	Recibido. Iniciando llamamiento.	Roger. Commencing call.	False	False		suletta	Suletta
 763	763,765	764	762	0:18:26.410000	0:18:31.600000	763.mp3	763.webp	スコアアップ。パーメット　体内流入値を プラス5ポイント。	Aumentando puntuación. Más cinco puntos Permet.	Raising score. Internal Permet influx values, plus five points.	False	False		belmeria	Belmeria
 766	766	768	767	0:18:31.103000	0:18:34.106000	766.mp3	766.webp	ぐっ...コール!	¡Llamamiento!	Calling!	False	False		suletta	Suletta
 770	770	772	771	0:18:36.108000	0:18:39.912000	770.mp3	770.webp	はぁはぁ はぁはぁ...スレッタ!	¡Suletta!	Suletta!	False	False		belmeria	Belmeria
-773	773	775	774	0:18:39.912000	0:18:44.083000	773.mp3	773.webp	[スピーカ] はぁはぁ はぁはぁ... 続けてください。はぁはぁ...	¡No se detengan!	Keep going, please!	False	False		suletta	Suletta
+773	773	775	774	0:18:39.912000	0:18:44.083000	773.mp3	773.webp	はぁはぁ はぁはぁ... 続けてください。はぁはぁ...	¡No se detengan!	Keep going, please!	False	False		suletta	Suletta
 776	776	778	777	0:18:44.083000	0:18:46.352000	776.mp3	776.webp	スコアアップ。プラス5ポイント。	Aumentando puntuación. Más cinco.	Raising score, plus five points.	False	False		miorine	Miorine
 779	779	781	780	0:18:46.352000	0:18:49.940000	779.mp3	779.webp	はぁはぁ... ぐっ... コール!	¡Llamamiento!	Calling!	False	False		suletta	Suletta
 787	787,790	788	786,789	0:19:06.070000	0:19:10.176000	787.mp3	787.webp	スコア5　クリア...	Puntuación cinco superada.	Score 5... cleared.	False	False		mecánico	Tuning Room Mechanic

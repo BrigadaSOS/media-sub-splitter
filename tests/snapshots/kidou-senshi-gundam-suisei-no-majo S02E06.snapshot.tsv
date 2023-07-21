@@ -176,7 +176,7 @@ ID	SUBS_JP_IDS	SUBS_ES_IDS	SUBS_EN_IDS	START_TIME	END_TIME	NAME_AUDIO	NAME_SCREE
 683	683,688	685,687	684,686	0:12:43.345000	0:12:49.351000	683.mp3	683.webp	先手を取られたな。あちらは すでに　多数の支持を 集めているようですね。	Se nos adelantó. Parece que ya se ganó el apoyo de varios.	He's way ahead of us. It seems he's already gained considerable support.	False	False		guel,prospera	Guel,Prospera
 690	690	691	689	0:12:49.300000	0:12:52.354000	690.mp3	690.webp	シャディクが動くことは 想定できた。	Imaginaba que Shaddiq movería ficha.	I expected Shaddiq would make a bold move,	False	False		miorine	Miorine
 692	692,697	694,696	693,695	0:12:52.354000	0:12:58.260000	692.mp3	692.webp	でも 「ペイル」と組むなんて...ヒントになるか　分かりませんけど...ピッ	Pero aliarse con Peil... No sé si esto será de ayuda o no.	but not that he'd team up with Peil. I wonder if this will give you any hints, but...	False	False		miorine,prospera	Miorine,Prospera
-698	698	699	700	0:12:58.260000	0:13:01.760000	698.mp3	698.webp	[テレビ]当初は デモによる 抗議活動と見られていましたが	Anteriormente las manifestaciones se consideraban protestas,	Though these initially looked like protests by demonstrators,	False	False		noticias	News Report
+698	698	699	700	0:12:58.260000	0:13:01.760000	698.mp3	698.webp	当初は デモによる 抗議活動と見られていましたが	Anteriormente las manifestaciones se consideraban protestas,	Though these initially looked like protests by demonstrators,	False	False		noticias	News Report
 701	701,704		702	0:13:01.297000	0:13:06.300000	701.mp3	701.webp	アーシアン側の武装集団が　「ベネリット」関連施設を襲撃。		armed Earthian groups have begun attacking Benerit Group facilities.		False			News Report
 711	711,715	712,714	709,713,717	0:13:08.590000	0:13:14.110000	711.mp3	711.webp	暴動? 一連のテロに関する　企業統治の欠如を 責めるものです。	¿Una revuelta? Culpan a la falta de liderazgo relacionada con los atentados.	Riots? They're protesting the lack of corporate governance regarding this terrorism.	False	False		miorine,prospera	Miorine,Prospera
 719	719	722	720	0:13:14.110000	0:13:16.612000	719.mp3	719.webp	犯人捜索の名目で	Las autoridades actuaron injustamente	It was enforcing unfair security measures	False	False		prospera	Prospera
@@ -216,7 +216,7 @@ ID	SUBS_JP_IDS	SUBS_ES_IDS	SUBS_EN_IDS	START_TIME	END_TIME	NAME_AUDIO	NAME_SCREE
 841	841	843	842	0:15:16.265000	0:15:19.990000	841.mp3	841.webp	僕は 寮長として 仲間を守りたかった。	Como líder de la residencia, quería protegernos.	As head of the House, I wanted to protect everyone!	False	False		martin	Martin
 844	844	845	846	0:15:19.668000	0:15:21.670000	844.mp3	844.webp	何も おかしくない。	¡Es lo normal!	I've done nothing wrong!	False	False		martin	Martin
 849	849	847	848	0:15:21.640000	0:15:24.130000	849.mp3	849.webp	僕のしたこと 正しいですよね?	Hice lo correcto, ¿verdad?	I did the right thing, didn't I?	False	False		martin	Martin
-850	850		851	0:15:23.672000	0:15:25.641000	850.mp3	850.webp	[スピーカ] ブッブー! えっ?		Huh?		False			Martin
+850	850		851	0:15:23.672000	0:15:25.641000	850.mp3	850.webp	ブッブー! えっ?		Huh?		False			Martin
 852	852		853	0:15:27.676000	0:15:30.212000	852.mp3	852.webp	うわっ ぶおっ ほひぃー!		Whoa!		False			Martin
 854	854	856	855,857	0:15:30.212000	0:15:34.350000	854.mp3	854.webp	あんた とんだ裏切り野郎だねぇ。	Eres un auténtico traidor.	You... You're a double-crossing little rat, aren't you?	False	False		secelia	Secelia
 858	858	859	860	0:15:35.651000	0:15:39.160000	858.mp3	858.webp	ご自身で判断なさいとは 進言しましたが...	Le dije que tomara sus propias decisiones, pero...	I believe I advised you to use your own judgment.	False	False		rajan	Rajan

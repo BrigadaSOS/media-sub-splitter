@@ -1,5 +1,5 @@
 ID	SUBS_JP_IDS	SUBS_ES_IDS	SUBS_EN_IDS	START_TIME	END_TIME	NAME_AUDIO	NAME_SCREENSHOT	CONTENT	CONTENT_TRANSLATION_SPANISH	CONTENT_TRANSLATION_ENGLISH	CONTENT_SPANISH_MT	CONTENT_ENGLISH_MT	ACTOR_JA	ACTOR_ES	ACTOR_EN
-0	0,3	2	1	0:00:02.151000	0:00:06.256000	0.mp3	0.webp	[スピーカ] トランスアースラインのご利用　ありがとうございます。	Gracias por confiar en Trans Earth Line.	Thank you for using Trans-Earth Lines.	False	False		anuncio	Announcement
+0	0,3	2	1	0:00:02.151000	0:00:06.256000	0.mp3	0.webp	トランスアースラインのご利用　ありがとうございます。	Gracias por confiar en Trans Earth Line.	Thank you for using Trans-Earth Lines.	False	False		anuncio	Announcement
 4	4	6	5	0:00:06.256000	0:00:09.626000	4.mp3	4.webp	本機は 低地球軌道からの 出発となりますが	Saldremos de la órbita terrestre baja,	This flight will depart from a low earth orbit,	False	False		anuncio	Announcement
 9	9	8	10	0:00:09.600000	0:00:14.200000	9.mp3	9.webp	大気の影響で 激しく 機体が 揺れる可能性もございます。	por lo que es posible que noten sacudidas.	Orbital Permet Lift Relay Station	False	False		anuncio	Caption
 11	11,14	13	12,15	0:00:14.197000	0:00:20.170000	11.mp3	11.webp	その際は 乗務員の指示に従い　落ち着いて行動してください。	En ese caso, sigan las instrucciones del personal con calma.	In such an event, please follow the instructions of the crew and remain calm.	False	False		anuncio	Announcement
@@ -43,7 +43,7 @@ ID	SUBS_JP_IDS	SUBS_ES_IDS	SUBS_EN_IDS	START_TIME	END_TIME	NAME_AUDIO	NAME_SCREE
 190	190	188	189	0:04:17.560000	0:04:19.942000	190.mp3	190.webp	だったら そう言えばいいじゃん。	Pues díselo.	Just say that, then.	False	False		secelia	Secelia
 192	192,194	193	191	0:04:19.650000	0:04:24.681000	192.mp3	192.webp	弱者が いっちょ前に 意地 張ってんの　うざいんですけど。	No seas terco, debilucho. Me das dolor de cabeza.	It's annoying to see an underdog being so stubborn.	False	False		secelia	Secelia
 196	196		197	0:04:28.718000	0:04:33.040000	196.mp3	196.webp	ううっ... うぅー うっ...		Episode 19		False			Caption
-200	200,203,207,209	202,204,208	199,201,205,206	0:04:33.600000	0:04:44.334000	200.mp3	200.webp	[スピーカ] 地球圏外からお越しのお客様は　地球圏生物保護条約による　バイオセキュリティーチェックを 行うため　セクションにお進みください。	Los visitantes de fuera de la Tierra han de pasar un control de bioseguridad según los acuerdos. Procedan a la sección adecuada.	Quinharbor To all passengers from outside the Earth Sphere... As per the Earth Sphere Biological Protection Act, please proceed to the section for a bio-security check.	False	False		anuncio 2	Caption,Lobby Announcement A
+200	200,203,207,209	202,204,208	199,201,205,206	0:04:33.600000	0:04:44.334000	200.mp3	200.webp	地球圏外からお越しのお客様は　地球圏生物保護条約による　バイオセキュリティーチェックを 行うため　セクションにお進みください。	Los visitantes de fuera de la Tierra han de pasar un control de bioseguridad según los acuerdos. Procedan a la sección adecuada.	Quinharbor To all passengers from outside the Earth Sphere... As per the Earth Sphere Biological Protection Act, please proceed to the section for a bio-security check.	False	False		anuncio 2	Caption,Lobby Announcement A
 210	210	212	211	0:04:44.334000	0:04:48.037000	210.mp3	210.webp	生物保護リストに該当するものを 持ち込む場合は	En caso de que porten algo protegido,	If you are carrying anything on the biological protection list,	False	False		anuncio 2	Lobby Announcement A
 215	215	214	213	0:04:47.640000	0:04:51.180000	215.mp3	215.webp	係員に その旨を申請してください。	avisen al personal y rellenen la petición.	please notify the relevant staff.	False	False		anuncio 2	Lobby Announcement A
 219	219	218	217	0:04:58.800000	0:05:02.452000	219.mp3	219.webp	なんで うちのモビルスーツが 護衛してるのよ?	¿Por qué nos escoltan nuestros Mobile Suits?	Why are our mobile suits escorting us?	False	False		miorine	Miorine
@@ -197,18 +197,18 @@ ID	SUBS_JP_IDS	SUBS_ES_IDS	SUBS_EN_IDS	START_TIME	END_TIME	NAME_AUDIO	NAME_SCREE
 834	834	833	832	0:16:26.420000	0:16:29.810000	834.mp3	834.webp	そんな報告は 一度も出てこなかったよ。	Pero nadie reportó eso.	And yet not one person has ever given us such a report.	False	False		kenanji	Kenanji
 835	835,838	837	836	0:16:29.705000	0:16:35.144000	835.mp3	835.webp	「フォルドの夜明け」と 一緒にいた　お前以外のアーシアンからは。はっ!	No en el círculo de Earthians de Alba de Fold.	No one except you, an Earthian who lived with the Dawn of Fold.	False	False		kenanji	Kenanji
 840	840	842	841	0:16:39.081000	0:16:41.083000	840.mp3	840.webp	失礼します。ピピッ	Discúlpenme.	Excuse me...	False	False		miorine	Miorine
-845	845	844,846	843,847	0:16:41	0:16:44.086000	845.mp3	845.webp	グエル? あんた どこに...[TEL]シャディクだ!	Guel, ¿dónde estás...? ¡Es Shaddiq!	Guel, where are- It's Shaddiq!	False	False		guel,miorine	Guel,Miorine
+845	845	844,846	843,847	0:16:41	0:16:44.086000	845.mp3	845.webp	グエル? あんた どこに...シャディクだ!	Guel, ¿dónde estás...? ¡Es Shaddiq!	Guel, where are- It's Shaddiq!	False	False		guel,miorine	Guel,Miorine
 849	849,851	850	848,852	0:16:44.060000	0:16:48.791000	849.mp3	849.webp	オープンキャンパスも プラント・クエタも　全部 あいつが仕組んだ狂言だ。	Las puertas abiertas, la planta Quetta... Todo lo planeó él.	The Open Campus, and Plant Quetta... They're all farces that he staged!	False	False		guel	Guel
 853	853	855	854	0:16:48.791000	0:16:50.826000	853.mp3	853.webp	今すぐ捕らえて締め上げる!	¡Voy por él!	Arrest him and grill him right now!	False	False		guel	Guel
 857	857	858	856	0:16:50.650000	0:16:53.695000	857.mp3	857.webp	落ち着いて。証拠は? あっ...	Cálmate. ¿Tienes evidencia?	Calm down. Do you have evidence?	False	False		miorine	Miorine
-859	859	860	861	0:16:53.695000	0:16:55.790000	859.mp3	859.webp	[TEL] なければ とぼけられて終わりよ。	Si no, fingirá no saber nada.	Without it, he'll just shrug it off.	False	False		miorine	Miorine
+859	859	860	861	0:16:53.695000	0:16:55.790000	859.mp3	859.webp	なければ とぼけられて終わりよ。	Si no, fingirá no saber nada.	Without it, he'll just shrug it off.	False	False		miorine	Miorine
 864	864	862,866	863,865	0:16:56.980000	0:17:00.720000	864.mp3	864.webp	グエル アスティカシアに戻って。学園に?	Regresa a Asticassia, Guel. ¿A la escuela?	Guel, go back to Asticassia. To the school?	False	False		guel,miorine	Guel,Miorine
-867	867	869	868	0:17:00.703000	0:17:03.639000	867.mp3	867.webp	[TEL] サリウス代表を押さえれば 証拠になる。	El presidente Sarius será nuestra evidencia.	If you can find President Sarius, that'll be your evidence.	False	False		miorine	Miorine
+867	867	869	868	0:17:00.703000	0:17:03.639000	867.mp3	867.webp	サリウス代表を押さえれば 証拠になる。	El presidente Sarius será nuestra evidencia.	If you can find President Sarius, that'll be your evidence.	False	False		miorine	Miorine
 870	870,873	872	871	0:17:03.639000	0:17:08.811000	870.mp3	870.webp	シャディクなら いちばん身近で 安心できる場所に　置いておきたいはず。	Shaddiq querrá tenerlo cerca para estar tranquilo.	Shaddiq must be keeping him close by, in the place he feels is safest.	False	False		miorine	Miorine
 876	876	875	874	0:17:08.500000	0:17:11.547000	876.mp3	876.webp	グラスレー寮。	La residencia Grassley.	Grassley House!	False	False		guel	Guel
-877	877	878	879	0:17:11.547000	0:17:13.549000	877.mp3	877.webp	[TEL]あら お帰りですか?	¿Se marchan?	Oh, going home already?	False	False		prospera	Prospera
+877	877	878	879	0:17:11.547000	0:17:13.549000	877.mp3	877.webp	あら お帰りですか?	¿Se marchan?	Oh, going home already?	False	False		prospera	Prospera
 881	881	882	880	0:17:13.510000	0:17:16.418000	881.mp3	881.webp	急きょ そういうことになりまして	Surgió algo urgente.	There's been a sudden change of plans.	False	False		kenanji	Kenanji
-885	885,888	884,887	883,886,889	0:17:16.360000	0:17:22.257000	885.mp3	885.webp	お先に失礼しますよ。[TEL]承知しました。では。	Nos marchamos primero. Entendido. Adiós.	We'll be taking our leave. Understood. Goodbye.	False	False		kenanji,prospera	Kenanji,Prospera
+885	885,888	884,887	883,886,889	0:17:16.360000	0:17:22.257000	885.mp3	885.webp	お先に失礼しますよ。承知しました。では。	Nos marchamos primero. Entendido. Adiós.	We'll be taking our leave. Understood. Goodbye.	False	False		kenanji,prospera	Kenanji,Prospera
 890	890	892	891,893	0:17:22.257000	0:17:24.726000	890.mp3	890.webp	始めましょう エリィ。	Empecemos, Eri.	Let us begin... Eri...	False	False		prospera	Prospera
 895	895		896	0:17:37.639000	0:17:39.708000	895.mp3	895.webp	ん?		Huh?		False			Mobile Craft Pilot A
 897	897	898	899	0:17:39.708000	0:17:42.478000	897.mp3	897.webp	おい ちょっと待ってくれ!	¡Momento!	Hey, wait a minute!	False	False		piloto A	Mobile Craft Pilot A
