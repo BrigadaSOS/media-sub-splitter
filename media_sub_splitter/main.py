@@ -110,7 +110,7 @@ def main():
     anilist = CachedAnilist()
     subtitles_dict_remembered = {}
 
-    pool = Pool(12)
+    pool = Pool(6)
 
     for episode_filepath in episode_filepaths:
         pool, subtitles_dict_remembered = extract_segments_from_episode(
@@ -316,6 +316,7 @@ def extract_segments_from_episode(
                 index = stream["index"]
                 title = stream.get("tags", {}).get("title")
                 language = stream.get("tags", {}).get("language")
+                title = title if title else language
                 if title and language:
                     subtitles_dict[index] = {"title": title, "language": language}
 
