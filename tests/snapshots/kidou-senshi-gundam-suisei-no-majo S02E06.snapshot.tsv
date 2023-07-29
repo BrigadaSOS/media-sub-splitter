@@ -8,7 +8,7 @@ ID	SUBS_JP_IDS	SUBS_ES_IDS	SUBS_EN_IDS	START_TIME	END_TIME	NAME_AUDIO	NAME_SCREE
 29	29,31,35,38	28,34,37	30,32,33,36	0:00:33.580000	0:00:45.261000	29.mp3	29.webp	LP041 スレッタ・マーキュリー　合格。スレッタ　思ったより明るくね? グエルに負けて　ホルダーじゃなくなった ってのにな。	LP-041, Suletta Mercury, aprobaste. Suletta se ve más feliz de lo que creí. Pese a perder contra Guel y que dejó de ser Holder.	LP041, Suletta Mercury... Passed. Suletta seems surprisingly cheerful. I was worried when she lost the title of Holder to Guel...	False	False		instructor,nuno,ojelo	Nuno,Ojelo,Professor
 40	40	41,43	39,42	0:00:45.140000	0:00:49.250000	40.mp3	40.webp	平気なわけないだろ。エアリアルだって取られたんだ。	No está bien. Le quitaron el Aerial.	There's no way she's okay. They took Aerial too, after all.	False	False		aliya	Aliya
 44	44	46	45	0:00:49.165000	0:00:51.601000	44.mp3	44.webp	絶対 傷ついてますよ。	De seguro está dolida.	She must be hurting...	False	False		lilique	Lilique
-49	49,51	48	47,50	0:00:51.500000	0:00:57.607000	49.mp3	49.webp	ミオリネ先輩のことだって あんな終わり方...⚞コツコツコツ... んん...あっ。	También por cómo terminó las cosas con Miorine.	Then there's Ms. Miorine... For things to end like that...	False	False		lilique	Lilique
+49	49,51	48	47,50	0:00:51.500000	0:00:57.607000	49.mp3	49.webp	ミオリネ先輩のことだって あんな終わり方...コツコツコツ... んん...あっ。	También por cómo terminó las cosas con Miorine.	Then there's Ms. Miorine... For things to end like that...	False	False		lilique	Lilique
 53	53,55	54	52	0:00:57.410000	0:01:02.345000	53.mp3	53.webp	今日のランチは ラーヌードルの　トッピングマシマシに してみました。	Hoy pedí lanoodles con guarnición extra.	For today's lunch, I tried making ramoodles with lots of toppings!	False	False		suletta	Suletta
 57	57	56	58	0:01:02.340000	0:01:04.948000	57.mp3	57.webp	いただきます! あぁ...	Buen provecho.	Let's eat!	False	False		suletta	Suletta
 59	59	61	60	0:01:04.948000	0:01:08.010000	59.mp3	59.webp	なあ スレッタ 今日の授業中さ...	Suletta, en la clase de hoy...	Suletta, during today's class, you-	False	False		ojelo	Ojelo
@@ -89,7 +89,7 @@ ID	SUBS_JP_IDS	SUBS_ES_IDS	SUBS_EN_IDS	START_TIME	END_TIME	NAME_AUDIO	NAME_SCREE
 368	368	370	369	0:07:33.936000	0:07:37.106000	368.mp3	368.webp	んっ... はあ!? なんでだよ!	¿Por qué no?	What?! But why?!	False	False		chuchu	Chuchu
 371	371,376	372,374	373,375	0:07:37.106000	0:07:43.279000	371.mp3	371.webp	私が悪いんです。ミオリネさんとの約束　破ったから。んっ...	Es mi culpa. No cumplí la promesa que le hice.	I'm the one at fault. I broke my promise to Ms. Miorine.	False	False		suletta	Suletta
 377	377,380	378	379	0:07:43.279000	0:07:48.351000	377.mp3	377.webp	ミオリネさんに釣り合うって　勘違いしてた私が バカだったんです。	Fui una idiota al pensar que estaba a su altura.	It was foolish of me to think I was ever a match for her.	False	False		suletta	Suletta
-381	381	383	382	0:07:48.351000	0:07:50.630000	381.mp3	381.webp	⚞ いつまで ここにいるつもりだ?	¿Hasta cuándo piensan quedarse?	How long are you going to hang around here?	False	False		lauda	Lauda
+381	381	383	382	0:07:48.351000	0:07:50.630000	381.mp3	381.webp	いつまで ここにいるつもりだ?	¿Hasta cuándo piensan quedarse?	How long are you going to hang around here?	False	False		lauda	Lauda
 384	384,389	385,388	386,387	0:07:50.386000	0:07:56.192000	384.mp3	384.webp	てめぇら...ミオリネもホルダーも　今は 全て 兄さんのものだ。	Malnacido... Miorine y el título de Holder ahora son de mi hermano.	You creeps... Both Miorine and the title of Holder belong to my brother now.	False	False		chuchu,lauda	Chuchu,Lauda
 390	390,394	391	392,393	0:07:56.192000	0:08:01.397000	390.mp3	390.webp	お前は もういらないんだよ　空っぽの水星女。	A ti ya no te necesitamos, cascarón vacío de Mercurio.	Nobody needs you any more. You empty Mercurian wench.	False	False		lauda	Lauda
 396	396	395	397	0:08:01.370000	0:08:03.430000	396.mp3	396.webp	好き放題 言いやがって!	¡Te cerraré esa bocota!	Watch your mouth!	False	False		chuchu	Chuchu
@@ -205,7 +205,7 @@ ID	SUBS_JP_IDS	SUBS_ES_IDS	SUBS_EN_IDS	START_TIME	END_TIME	NAME_AUDIO	NAME_SCREE
 800	800	802	801	0:14:34.657000	0:14:36.720000	800.mp3	800.webp	持ってる人は違うっつぅの?	Él es diferente. Lo tiene todo.	When you've got it, you've got it.	False	False		estudiante jeturk B	Jeturk Student B
 803	803	805	804	0:14:36.659000	0:14:38.661000	803.mp3	803.webp	お前 なんも持ってないもんな。	Tú no tienes nada.	And you've got nothing, right?	False	False		estudiante jeturk C	Jeturk Student C
 807	807	808	806	0:14:38.630000	0:14:41.630000	807.mp3	807.webp	うっせぇ。はははっ。	Cállate.	Shut up.	False	False		estudiante jeturk B	Jeturk Student B
-809	809	810	811	0:14:43.666000	0:14:45.668000	809.mp3	809.webp	⚟すみません。あっ。	Disculpa.	Excuse me!	False	False		feng	Feng
+809	809	810	811	0:14:43.666000	0:14:45.668000	809.mp3	809.webp	すみません。あっ。	Disculpa.	Excuse me!	False	False		feng	Feng
 812	812	814,815	813,816	0:14:45.668000	0:14:50.039000	812.mp3	812.webp	搬入先に行きたくて。教えてくださいます?	Busco el lugar de entrega. ¿Me podrías ayudar?	I'm trying to get to my drop-off point. Can you help me find my way?	False	False		feng	Feng
 817	817	819,821	818,820	0:14:50.039000	0:14:53.209000	817.mp3	817.webp	どちらへ? 78番ハンガーです。	¿Adónde vas? Al hangar 78.	Where are you headed? Hangar 78.	False	False		belmeria,feng	Belmeria,Feng
 822	822	823	824	0:14:53.209000	0:14:56.111000	822.mp3	822.webp	あっ そんな番号は...	Ese número no...	That number is...	False	False		belmeria	Belmeria
@@ -264,7 +264,7 @@ ID	SUBS_JP_IDS	SUBS_ES_IDS	SUBS_EN_IDS	START_TIME	END_TIME	NAME_AUDIO	NAME_SCREE
 1001	1001	1002	1003	0:18:48.777000	0:18:53.330000	1001.mp3	1001.webp	飲みかけのマグカップ 君は コクピットに当てて	Tú colocaste la taza junto a la cabina	so you took your half-empty mug and held it to my cockpit.	False	False		ericht	Ericht
 1004	1004	1005	1006	0:18:53.148000	0:18:55.617000	1004.mp3	1004.webp	こうすれば あったかいよって。	diciendo que daba calor.	You said it would warm me.	False	False		ericht	Ericht
 1009	1009	1008	1007,1010	0:18:55.580000	0:18:58.320000	1009.mp3	1009.webp	エアリアルだよね? どうして 私と同じ...	Eres el Aerial, ¿no? ¿Por qué eres como yo?	You're Aerial, aren't you? Why do you look like me...?	False	False		suletta	Suletta
-1013	1013	1011	1012	0:18:58.240000	0:19:00.289000	1013.mp3	1013.webp	⚞扉は開いたよ。	La puerta se abrió.	The door has opened.	False	False		gundbit 1	GUND-Bit 1
+1013	1013	1011	1012	0:18:58.240000	0:19:00.289000	1013.mp3	1013.webp	扉は開いたよ。	La puerta se abrió.	The door has opened.	False	False		gundbit 1	GUND-Bit 1
 1015	1015	1014	1016	0:19:01.900000	0:19:04.560000	1015.mp3	1015.webp	鍵の役目は もうおしまい。	La llave ya cumplió su papel.	We don't need the key anymore.	False	False		gundbit 2	GUND-Bit 2
 1017	1017	1018	1019	0:19:04.560000	0:19:06.880000	1017.mp3	1017.webp	みんな? 鍵?	¿Qué llave?	Everyone? \"Key\"?	False	False		suletta	Suletta
 1020	1020	1021	1022	0:19:06.628000	0:19:09.398000	1020.mp3	1020.webp	鍵は あなたでしょ? スレッタ。	Tú eres la llave, Suletta.	The key is you, Suletta.	False	False		gundbit 3	GUND-Bit 3
@@ -296,4 +296,4 @@ ID	SUBS_JP_IDS	SUBS_ES_IDS	SUBS_EN_IDS	START_TIME	END_TIME	NAME_AUDIO	NAME_SCREE
 1122	1122	1123	1121	0:21:51.990000	0:21:54.529000	1122.mp3	1122.webp	いいの? エリィ。	¿Estás segura, Eri?	Are you sure about this, Eri?	False	False		prospera	Prospera
 1124	1124	1125	1126	0:21:54.529000	0:21:56.900000	1124.mp3	1124.webp	あの子も一緒に行くことだって...	Podría venir con nosotras.	What if she came with us...?	False	False		prospera	Prospera
 1128	1128	1129	1130,1131	0:22:00.569000	0:22:05.240000	1128.mp3	1128.webp	そうね スレッタは 自由に生きていいのよね。	Tienes razón. Suletta puede ser libre.	You're right. Suletta deserves to live freely, doesn't she?	False	False		prospera	Prospera
-1157	1157	1159	1156,1158,1160	0:23:53.920000	0:24:01.960000	1157.mp3	1157.webp	<次回 「機動戦士ガンダム 水星の魔女」>	Próximamente: \"El método que no es el mejor\".	Episode 19 Next time on Mobile Suit Gundam the Witch from Mercury, \"Not the Best Way.\"	False	False		shaddiq	Caption,Shaddiq
+1157	1157	1159	1156,1158,1160	0:23:53.920000	0:24:01.960000	1157.mp3	1157.webp	次回 「機動戦士ガンダム 水星の魔女」	Próximamente: \"El método que no es el mejor\".	Episode 19 Next time on Mobile Suit Gundam the Witch from Mercury, \"Not the Best Way.\"	False	False		shaddiq	Caption,Shaddiq

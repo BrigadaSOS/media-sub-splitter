@@ -6,9 +6,9 @@ ID	SUBS_JP_IDS	SUBS_ES_IDS	SUBS_EN_IDS	START_TIME	END_TIME	NAME_AUDIO	NAME_SCREE
 17	17	19	18	0:00:38.311000	0:00:40.780000	17.mp3	17.webp	移動許可が出るまでじゃね?	Hasta tener permiso para movernos.	Until they let us relocate...	False	False		chico F	Student F
 22	22	21	20	0:00:40.470000	0:00:43.216000	22.mp3	22.webp	私らが悪いことしたみたいじゃん。	Parece que hiciéramos algo malo.	It's not like we did anything wrong...	False	False		chica G	Student G
 24	24	25	23	0:00:43.150000	0:00:45.351000	24.mp3	24.webp	もうやだ。	Qué asco.	I'm so sick of this.	False	False		chica H	Student H
-26	26	28	27	0:00:45.351000	0:00:48.054000	26.mp3	26.webp	⚟ ブランケット 足りてますか?	¿Tienen mantas suficientes?	Does everyone have enough blankets?	False	False		suletta	Suletta
+26	26	28	27	0:00:45.351000	0:00:48.054000	26.mp3	26.webp	ブランケット 足りてますか?	¿Tienen mantas suficientes?	Does everyone have enough blankets?	False	False		suletta	Suletta
 31	31	30	29	0:00:48.010000	0:00:50.557000	31.mp3	31.webp	欲しい人は言ってくださーい!	Si quieren una, avísenme.	If you need one, speak up!	False	False		suletta	Suletta
-33	33	34	32,35	0:00:50.510000	0:00:53.126000	33.mp3	33.webp	⚞1つ ちょうだい。はい。	Dame una. -¡Bien!	I'll take one. Sure!	False	False		secelia/suletta	Secelia,Suletta
+33	33	34	32,35	0:00:50.510000	0:00:53.126000	33.mp3	33.webp	1つ ちょうだい。はい。	Dame una. -¡Bien!	I'll take one. Sure!	False	False		secelia/suletta	Secelia,Suletta
 36	36,39	38	37	0:00:53.126000	0:00:57.964000	36.mp3	36.webp	ああっ...なーんで あんたが　こんなことやってんの?	¿Qué haces tú repartiendo mantas?	Why are you doing all this, huh?	False	False		secelia	Secelia
 42	42	40	41	0:00:57.920000	0:01:00.466000	42.mp3	42.webp	私は動けますから。	Yo puedo moverme.	Because I can move around!	False	False		suletta	Suletta
 43	43,47	45	44,46	0:01:00.466000	0:01:04.904000	43.mp3	43.webp	ねえ こっちにも ちょうだい。あっ はい。はぁ はぁ はぁ...	Dame a mí también. -¡Voy!	Hey! Could we have some, too? Oh, right!	False	False		chica G/suletta	Student G,Suletta
@@ -24,7 +24,7 @@ ID	SUBS_JP_IDS	SUBS_ES_IDS	SUBS_EN_IDS	START_TIME	END_TIME	NAME_AUDIO	NAME_SCREE
 105	105	104	103	0:03:11.210000	0:03:14.967000	105.mp3	105.webp	例のガンダムと同一で 間違いありません。	Es igual que el Gundam en cuestión.	There's no doubt it's the same Gundam as before.	False	False		kenanji	Kenanji
 108	108	107	106	0:03:14.760000	0:03:18.972000	108.mp3	108.webp	パイロットの方は 確認できるものが 見つかりませんでした。	No encontramos nada que identificara al piloto.	I couldn't find anything that would let us identify the pilot.	False	False		kenanji	Kenanji
 111	111,114,118,120	109,113,116,123	110,112,115,119,121	0:03:18.900000	0:03:31.984000	111.mp3	111.webp	シャディク・ゼネリが 囲っていたことに気付けなかった。我々の失態だ。宇宙議会連合　動くでしょうね。はぁ... こんなときに...	No nos percatamos de lo que ocurría con Shaddiq Zenelli. Ha sido un error nuestro. La Unión del Congreso Espacial hará algo. Justo ahora...	That we didn't notice Shaddiq Zenelli was harboring them... was a failure on our part. I guess the Space Assembly League will make its move now. Having learned that Miorine Rembran has been chosen to be ... At a time like this...	False	False		kenanji,rajan	Kenanji,News,Rajan
-124	124	126	125	0:03:31.984000	0:03:35.722000	124.mp3	124.webp	⚞シューン ミオリネは? 帰って来たのか?	¿Miorine regresó ya?	Where's Miorine? Is she back?	False	False		guel	Guel
+124	124	126	125	0:03:31.984000	0:03:35.722000	124.mp3	124.webp	シューン ミオリネは? 帰って来たのか?	¿Miorine regresó ya?	Where's Miorine? Is she back?	False	False		guel	Guel
 128	128	129	127,130	0:03:35.480000	0:03:39.225000	128.mp3	128.webp	はい。ですが まだ こちらには...	Sí. Pero aún no vino.	Yes. But she has yet to...	False	False		rajan	Rajan
 134	134	136	135	0:03:50.236000	0:03:52.505000	134.mp3	134.webp	クイン・ハーバーのことは聞いた。	Supe de lo de Quinharbor.	I heard what happened at Quinharbor.	False	False		guel	Guel
 139	139	137	138	0:03:54.220000	0:03:57.143000	139.mp3	139.webp	どこで間違ったんだろう...	¿En qué me equivoqué?	Where did I go wrong?	False	False		miorine	Miorine
@@ -64,7 +64,7 @@ ID	SUBS_JP_IDS	SUBS_ES_IDS	SUBS_EN_IDS	START_TIME	END_TIME	NAME_AUDIO	NAME_SCREE
 265	265	264	263	0:05:52.280000	0:05:56.562000	265.mp3	265.webp	ママの言うとおり 早く帰ればよかった。	Debería haberme ido antes, como decía mamá.	I should've listened to my mom... and gone home sooner.	False	False		chica C	Girl Student 1
 268	268	266	267	0:05:56.460000	0:05:58.698000	268.mp3	268.webp	おらっ。あっ。	Tomen.	Here.	False	False		chuchu	Chuchu
 270	270,275	269,273	271,272,274	0:05:58.680000	0:06:05.138000	270.mp3	270.webp	ありがとう。礼なら　スレッタに言えよな。ふふっ。	Gracias. Dénselas a Suletta.	Thanks. Don't thank me... Thank Suletta.	False	False		chica D,chuchu	Chuchu,Student 2
-278	278	277	276,279	0:06:05.030000	0:06:07.406000	278.mp3	278.webp	⚞なあ スレッタ。はい。	Suletta. -¿Sí?	Hey, Suletta... Yes?	False	False		nuno/suletta	Nuno,Suletta
+278	278	277	276,279	0:06:05.030000	0:06:07.406000	278.mp3	278.webp	なあ スレッタ。はい。	Suletta. -¿Sí?	Hey, Suletta... Yes?	False	False		nuno/suletta	Nuno,Suletta
 282	282	281	280	0:06:07.050000	0:06:10.176000	282.mp3	282.webp	温室 潰れたんじゃねぇの?	¿No se suponía que el invernadero ya no servía?	Wasn't the greenhouse crushed too?	False	False		nuno	Nuno
 285	285	283	284	0:06:10.080000	0:06:12.145000	285.mp3	285.webp	実はですね...	La verdad es que...	Well, the truth is...	False	False		suletta	Suletta
 288	288	287	286	0:06:13.510000	0:06:16.820000	288.mp3	288.webp	食べきれなかった分 冷凍しておいたんです。	congelé los que no podía comerme.	I was refrigerating the ones we hadn't eaten.	False	False		suletta	Suletta
@@ -95,7 +95,7 @@ ID	SUBS_JP_IDS	SUBS_ES_IDS	SUBS_EN_IDS	START_TIME	END_TIME	NAME_AUDIO	NAME_SCREE
 382	382,386	380,384	381,383,385	0:07:55.450000	0:08:01.500000	382.mp3	382.webp	どうぞ! ありがとうございます　LP041 スレッタ・マーキュリー。	Toma. Muchas gracias, LP-041, Suletta Mercury.	Have some! Thank you very much. LP041, Suletta Mercury...	False	False		haro,suletta	Rouji's Haro,Suletta
 387	387	389	388	0:08:01.253000	0:08:03.720000	387.mp3	387.webp	もう だいたい配ったんじゃねぇの?	Los repartimos casi todos.	I guess that's about everyone.	False	False		chuchu	Chuchu
 390	390	392	391	0:08:03.322000	0:08:05.358000	390.mp3	390.webp	そうですね。	Sí.	Right...	False	False		suletta	Suletta
-395	395	394	393	0:08:05.220000	0:08:07.860000	395.mp3	395.webp	⚞スレッタ。ん?	Suletta.	Suletta!	False	False		belmeria	Belmeria
+395	395	394	393	0:08:05.220000	0:08:07.860000	395.mp3	395.webp	スレッタ。ん?	Suletta.	Suletta!	False	False		belmeria	Belmeria
 398	398	397	396	0:08:07.690000	0:08:10.863000	398.mp3	398.webp	ベルメリアさんと...	¿Belmeria y...?	Ms. Belmeria and...	False	False		suletta	Suletta
 400	400	401	399,402	0:08:10.860000	0:08:14.333000	400.mp3	400.webp	プロスペラ・マーキュリーの娘は君か? はい。	¿Eres la hija de Prospera Mercury? -Sí.	Are you Prospera Mercury's daughter? Yes.	False	False		guston	Guston,Suletta
 404	404	405	403	0:08:14.130000	0:08:18.237000	404.mp3	404.webp	宇宙議会連合 査察官のグストン・パーチェだ。	Inspector Guston Parche, de la Unión del Congreso Espacial.	I'm Guston Parche, an inspector of the Space Assembly League.	False	False		guston	Guston
@@ -144,7 +144,7 @@ ID	SUBS_JP_IDS	SUBS_ES_IDS	SUBS_EN_IDS	START_TIME	END_TIME	NAME_AUDIO	NAME_SCREE
 570	570	569	568	0:11:31.790000	0:11:35.267000	570.mp3	570.webp	プロスペラ・マーキュリーは クワイエット・ゼロで	Prospera Mercury quiere crear	Prospera Mercury plans to use Quiet Zero	False	False		guston	Guston
 573	573	572	571	0:11:35.060000	0:11:39.672000	573.mp3	573.webp	地球圏に 巨大なデータストームネットワークを 作ろうとしている。	una gran tormenta de datos en la Tierra.	to create a gigantic data storm network within the Earth Sphere.	False	False		guston	Guston
 576	576	575	574	0:11:39.300000	0:11:42.675000	576.mp3	576.webp	もし フロントが制御を奪われれば	Si le roba el control al frente,	If control of the fronts is lost,	False	False		guston	Guston
-579	579	578	577	0:11:42.380000	0:11:46.679000	579.mp3	579.webp	⚞最悪 大勢の人の命を...ん?	en el peor de los casos morirá mucha gente.	at worst, there could be massive loss of life.	False	False		guston	Guston
+579	579	578	577	0:11:42.380000	0:11:46.679000	579.mp3	579.webp	最悪 大勢の人の命を...ん?	en el peor de los casos morirá mucha gente.	at worst, there could be massive loss of life.	False	False		guston	Guston
 580	580,583	582,585	581,584	0:11:46.679000	0:11:52.870000	580.mp3	580.webp	「ベネリット」と議会連合が ぶつかる前に　なんとしても止めたい。君にも協力してほしい。	Hay que detener a Benerit y la Unión antes de que choquen. Ayúdanos, por favor.	We must stop her before Benerit and the League come into conflict. I ask for your cooperation, too.	False	False		guston	Guston
 586	586,590	588	587,589	0:11:55.287000	0:12:01.560000	586.mp3	586.webp	お母さんを説得するのは　たぶん 無理だと思います。	No creo que yo pueda convencer a mamá.	Reasoning with Mom... is probably impossible.	False	False		suletta	Suletta
 593	593	592	591	0:12:01.530000	0:12:05.431000	593.mp3	593.webp	そんなことはない 娘の君なら。	No digas eso. Eres su hija.	That can't be true. Surely you, her daughter...	False	False		guston	Guston
@@ -192,7 +192,7 @@ ID	SUBS_JP_IDS	SUBS_ES_IDS	SUBS_EN_IDS	START_TIME	END_TIME	NAME_AUDIO	NAME_SCREE
 754	754	755	753	0:15:14.760000	0:15:18.323000	754.mp3	754.webp	何度も何度も...	Lo pensé mil veces.	I've had that thought again and again...	False	False		belmeria	Belmeria
 756	756	757	758	0:15:18.323000	0:15:23.328000	756.mp3	756.webp	それでも... うっ ううっ...	Pero yo...	But still, I...	False	False		belmeria	Belmeria
 761	761	760	759	0:15:23.180000	0:15:25.664000	761.mp3	761.webp	ごめんなさい...	Lo siento.	Forgive me.	False	False		belmeria	Belmeria
-762	762	764	763	0:15:25.664000	0:15:29.535000	762.mp3	762.webp	⚞うっ... ごめんなさい うぅ...	Lo siento.	I'm so sorry!	False	False		belmeria	Belmeria
+762	762	764	763	0:15:25.664000	0:15:29.535000	762.mp3	762.webp	うっ... ごめんなさい うぅ...	Lo siento.	I'm so sorry!	False	False		belmeria	Belmeria
 767	767	766	765	0:15:29.440000	0:15:31.537000	767.mp3	767.webp	勝手すぎます。	Eres muy egoísta.	You're too selfish.	False	False		nika	Nika
 770	770	769	768	0:15:31.340000	0:15:34.540000	770.mp3	770.webp	スレッタ 乗っちゃダメだよ。	No puedes subir, Suletta.	Suletta, you can't pilot that thing!	False	False		nika	Nika
 773	773	772	771	0:15:34.400000	0:15:37.540000	773.mp3	773.webp	どうして 今まで気付かなかったんだろう。	¿Cómo no me di cuenta?	Why didn't I realize until now?	False	False		suletta	Suletta
@@ -244,7 +244,7 @@ ID	SUBS_JP_IDS	SUBS_ES_IDS	SUBS_EN_IDS	START_TIME	END_TIME	NAME_AUDIO	NAME_SCREE
 987	987	986	985	0:20:51.200000	0:20:53.392000	987.mp3	987.webp	反対に決まってんだろ。あっ。	Estoy en contra.	Of course, I'm still opposed to it!	False	False		chuchu	Chuchu
 989	989	990	988	0:20:53.060000	0:20:57.329000	989.mp3	989.webp	だからこそ スレッタだけを 行かせるわけにはいかねぇ。	Por eso no puedo dejar que vayas tú sola.	But that's why we can't let you go alone, Suletta.	False	False		chuchu	Chuchu
 991	991,996	992	993,994,995,997	0:20:57.329000	0:21:02.650000	991.mp3	991.webp	僕は...あっ?　もう二度と 仲間を一人にしたくない。	No quiero dejar sola de nuevo a una amiga.	I... Huh? ...will never again... abandon one of my housemates!	False	False		martin	Chuchu,Martin
-1001	1001	1000	999	0:21:04.060000	0:21:06.438000	1001.mp3	1001.webp	⚟いいねぇ。あっ。	Estupendo.	How nice.	False	False		elan 5	Elan (Clone 5)
+1001	1001	1000	999	0:21:04.060000	0:21:06.438000	1001.mp3	1001.webp	いいねぇ。あっ。	Estupendo.	How nice.	False	False		elan 5	Elan (Clone 5)
 1002	1002	1003	1004	0:21:06.438000	0:21:08.740000	1002.mp3	1002.webp	僕も連れてってよ。	Llévenme a mí también.	Take me with you, too.	False	False		elan 5	Elan (Clone 5)
 1007	1007	1006	1005	0:21:08.370000	0:21:10.742000	1007.mp3	1007.webp	エランさん...	Elan...	Mr... Elan...?	False	False		suletta	Suletta
 1010	1010	1009	1008	0:21:10.430000	0:21:13.111000	1010.mp3	1010.webp	あなた どうして ここに?	¿Qué haces tú aquí?	Why... are you here?	False	False		nika	Nika

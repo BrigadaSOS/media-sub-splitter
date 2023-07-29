@@ -78,7 +78,7 @@ ID	SUBS_JP_IDS	SUBS_ES_IDS	SUBS_EN_IDS	START_TIME	END_TIME	NAME_AUDIO	NAME_SCREE
 331	331,335,338	333,336	332,334,337	0:06:58.483000	0:07:06.540000	331.mp3	331.webp	取り調べ中って言われただろ。でも もう 5日目じゃん! 結局　そういう目で見られてんだよ 俺たち。	¿No seguían investigando? -¡Ya hace cinco días! Solo sospechan de los Earthians, eso es todo.	Didn't they say they're still investigating? But it's been five days! They're always suspicious of us Earthians, that's all.	False	False		Aliya,Ojelo	Aliya,Chuchu,Ojelo
 339	339,344	341,343	340,342	0:07:06.491000	0:07:11.963000	339.mp3	339.webp	だからって エアリアルや あーしのデミまで　没収する必要あんのかよ。	Sí, pero aun así, ¿por qué tenían que confiscar el Aerial y mi Demi?	Yeah, but even so, why'd they have to confiscate Aerial and my own Demi too?	False	False		Chuchu	Chuchu
 347	347	346	345	0:07:11.700000	0:07:14.299000	347.mp3	347.webp	スレッタだって 我慢してるんだ。	Suletta está resistiendo, ¿no?	Suletta's putting up with it, isn't she?	False	False		Martin	Martin
-350	350	349	348	0:07:14.050000	0:07:16.567000	350.mp3	350.webp	あと2日したら 停学も...⚟ガタン!	Solo dos días más, y la suspensión...	Just two more days and our suspension-	False	False		Martin	Martin
+350	350	349	348	0:07:14.050000	0:07:16.567000	350.mp3	350.webp	あと2日したら 停学も...ガタン!	Solo dos días más, y la suspensión...	Just two more days and our suspension-	False	False		Martin	Martin
 353	353	351,355	352,354	0:07:18.240000	0:07:22.173000	353.mp3	353.webp	お前ら。何やってんだ!	Desgraciados... ¿Qué hacen?	You jerks... What are you doing?	False	False		Chuchu,Ojelo	Chuchu,Ojelo
 358	358	357	356	0:07:21.830000	0:07:24.242000	358.mp3	358.webp	テロリストは出ていけよ。	¡Fuera de aquí, terroristas!	Get out, terrorists!	False	False		Student D	Student D
 361	361	360	359	0:07:24.220000	0:07:27.779000	361.mp3	361.webp	こないだのガンダムも お前らが引っ張り込んだんだろ?	¡Ustedes trajeron a los Gundams que nos atacaron!	You guys brought the Gundams that attacked us, didn't you?	False	False		Student F	Student F
@@ -93,7 +93,7 @@ ID	SUBS_JP_IDS	SUBS_ES_IDS	SUBS_EN_IDS	START_TIME	END_TIME	NAME_AUDIO	NAME_SCREE
 400	400	399	398	0:08:01.910000	0:08:04.082000	400.mp3	400.webp	人殺し! ゴン!	¡Asesinos!	Murderers!	False	False		Student E	Student E
 404	404	403	402,405	0:08:07.530000	0:08:09.554000	404.mp3	404.webp	マルタン! マルタンさん!	¡Martin! -¡Martin!	Martin... Mr. Martin!	False	False		Till	Suletta,Till
 408	408	407	406	0:08:09.170000	0:08:11.923000	408.mp3	408.webp	てめぇら やりやがったな!	¡Esto lo pagarán caro!	You creeps are gonna pay for that!	False	False		Chuchu	Chuchu
-411	411	410	409	0:08:11.900000	0:08:13.925000	411.mp3	411.webp	⚟やめなさい。あっ。	Paren de una vez.	Stop it, all of you!	False	False		Miorine	Miorine
+411	411	410	409	0:08:11.900000	0:08:13.925000	411.mp3	411.webp	やめなさい。あっ。	Paren de una vez.	Stop it, all of you!	False	False		Miorine	Miorine
 413	413	415	414	0:08:17.095000	0:08:19.530000	413.mp3	413.webp	ミオリネ... さん?	¿Miorine?	Ms... Miorine?	False	False		Suletta	Suletta
 418	418,419	417	416	0:08:19.530000	0:08:24.302000	418.mp3	418.webp	暴行の現場　学園も むげにはできないと思うけど。	Dudo que la escuela ignore las pruebas de la agresión.	I don't think the school will ignore direct evidence of assault.	False	False		Miorine	Miorine
 422	422	421	420	0:08:25.970000	0:08:30.742000	422.mp3	422.webp	ありがとうございます あの... 手当てしてもらって。	Gracias por tratar mis heridas.	Thank you very much... for treating my injuries.	False	False		Nika	Nika
@@ -181,7 +181,7 @@ ID	SUBS_JP_IDS	SUBS_ES_IDS	SUBS_EN_IDS	START_TIME	END_TIME	NAME_AUDIO	NAME_SCREE
 717	717	715	716	0:13:43.510000	0:13:46.290000	717.mp3	717.webp	リリッケ 書類をまとめといてちょうだい。	Lilique, organiza los materiales para revisarlos.	Lilique! Organize the materials for me to check.	False	False		Miorine	Miorine
 720	720	719	718	0:13:46.290000	0:13:48.292000	720.mp3	720.webp	はい。	Bien.	Right!	False	False		Lilique	Lilique
 722	722	724,726	723,725	0:13:52.630000	0:13:56.280000	722.mp3	722.webp	行くんでしょ? は... はい!	¿No vendrás? ¡Sí!	Aren't you coming? Y-Yes!	False	False		Miorine,Suletta	Miorine,Suletta
-727	727	729	728	0:13:56.133000	0:13:59.136000	727.mp3	727.webp	⚟ドンドン ⚟こんにちはー。	¡Hola!	Hello!	False	False		Prospera	Prospera
+727	727	729	728	0:13:56.133000	0:13:59.136000	727.mp3	727.webp	ドンドン こんにちはー。	¡Hola!	Hello!	False	False		Prospera	Prospera
 731	731	732	730	0:13:58.810000	0:14:01.906000	731.mp3	731.webp	どなたか いらっしゃいます?	¿Hay alguien?	Is there anyone home?	False	False		Prospera	Prospera
 733	733	735	734,736	0:14:01.906000	0:14:04.010000	733.mp3	733.webp	誰? お母さん。	¿Quién es? -¿Mamá?	Who's that? Mom?	False	False		Aliya	Aliya,Suletta
 737	737	739	738,740	0:14:03.941000	0:14:06.811000	737.mp3	737.webp	お母さん!? えっ!?	¿\"Mamá\"?	\"Mom\"?! What?!	False	False		Ojelo	Everyone,Ojelo
@@ -262,7 +262,7 @@ ID	SUBS_JP_IDS	SUBS_ES_IDS	SUBS_EN_IDS	START_TIME	END_TIME	NAME_AUDIO	NAME_SCREE
 1019	1019	1018	1017	0:19:44.400000	0:19:48.585000	1019.mp3	1019.webp	だから お母さんは いつも正しいんです。	Así que sé que mi madre siempre tiene razón.	So I know my mom is always right.	False	False		Suletta	Suletta
 1021	1021	1023	1022	0:19:52.056000	0:19:55.140000	1021.mp3	1021.webp	んっ! ミオリネさん?	¿Miorine?	Ms. Miorine?	False	False		Suletta	Suletta
 1025	1025,1030	1027,1029	1026,1028	0:20:01.965000	0:20:06.336000	1025.mp3	1025.webp	もう少しよ。待ってて エリィ。	Solo un poco más... Espérame, Eri.	Just a little longer... Wait for me, Eri.	False	False		Prospera	Prospera
-1033	1033	1032	1031	0:20:06.170000	0:20:08.972000	1033.mp3	1033.webp	⚞プロスペラ!	¡Prospera!	Prospera!	False	False		Miorine	Miorine
+1033	1033	1032	1031	0:20:06.170000	0:20:08.972000	1033.mp3	1033.webp	プロスペラ!	¡Prospera!	Prospera!	False	False		Miorine	Miorine
 1034	1034	1036	1035	0:20:08.972000	0:20:12.576000	1034.mp3	1034.webp	くっ! あんた スレッタをどうするつもり!?	¿Qué piensas hacer con Suletta?	What are you planning to do with Suletta?	False	False		Miorine	Miorine
 1039	1039	1038,1041	1037,1040	0:20:12.470000	0:20:15.946000	1039.mp3	1039.webp	素直で いい子でしょ? ふざけないで!	Es muy buena chica, ¿verdad? ¡No fastidies!	She's a good little girl, isn't she? This isn't funny!	False	False		Miorine,Prospera	Miorine,Prospera
 1044	1044	1043	1042	0:20:15.910000	0:20:18.515000	1044.mp3	1044.webp	あの子は あんたに言われれば なんでもする。	¡Esa chica hará todo lo que le digas!	That girl will do anything you tell her to!	False	False		Miorine	Miorine

@@ -5,9 +5,9 @@ ID	SUBS_JP_IDS	SUBS_ES_IDS	SUBS_EN_IDS	START_TIME	END_TIME	NAME_AUDIO	NAME_SCREE
 13	13	12,14	11	0:00:30.530000	0:00:35.070000	13.mp3	13.webp	うんめー!	¡Qué ricas! Ñam, ñam, ñam.	Yum! Om, nom, nom, hot!	False	False			
 17	17	16	15	0:00:35.070000	0:00:38.870000	17.mp3	17.webp	ごち ごち ごちそうさまー	¡Muchas gracias por la comida!	Thanks, thanks, thanks for the grub!	False	False			
 20	20	19	18	0:00:47	0:00:50	20.mp3	20.webp	ま... 待てよー!	¡Espera!	W-Wait!	False	False			
-23	23	22	21	0:00:50	0:00:54.720000	23.mp3	23.webp	<こんなにも 見事な逃げ足を披露されたのは初めてだ>	Nunca antes habían huido de mí tan rápidamente.	I'm pretty sure I've never had anyone so blatantly run away from me before.	False	False			
-26	26	25	24	0:00:54.720000	0:00:59.550000	26.mp3	26.webp	<安達は 何か言おうとして喉に詰まっている感じだった>	Parecía como si quisiera decir algo, pero no podía.	It looked like Adachi was trying to say something but couldn't get it out.	False	False			
-29	29	28	27	0:00:59.550000	0:01:03.100000	29.mp3	29.webp	<安達の言いづらそうなことそれは...>	¿Qué será lo que le cuesta tanto decir?	Something that Adachi would have a hard time saying... Is it...?	False	False			
+23	23	22	21	0:00:50	0:00:54.720000	23.mp3	23.webp	こんなにも 見事な逃げ足を披露されたのは初めてだ	Nunca antes habían huido de mí tan rápidamente.	I'm pretty sure I've never had anyone so blatantly run away from me before.	False	False			
+26	26	25	24	0:00:54.720000	0:00:59.550000	26.mp3	26.webp	安達は 何か言おうとして喉に詰まっている感じだった	Parecía como si quisiera decir algo, pero no podía.	It looked like Adachi was trying to say something but couldn't get it out.	False	False			
+29	29	28	27	0:00:59.550000	0:01:03.100000	29.mp3	29.webp	安達の言いづらそうなことそれは...	¿Qué será lo que le cuesta tanto decir?	Something that Adachi would have a hard time saying... Is it...?	False	False			
 33	33	32	30	0:01:04.430000	0:01:06.560000	33.mp3	33.webp	うーん いや まさかね	No, no es eso.	Nah, it couldn't be.	False	False			
 35	35		34	0:01:06.560000	0:01:08.980000	35.mp3	35.webp	いないなー! うん		Swoosh!		False			
 38	38	37	36	0:01:08.980000	0:01:10.470000	38.mp3	38.webp	よーし	¡Yupi!	Okay!	False	False			
@@ -17,23 +17,23 @@ ID	SUBS_JP_IDS	SUBS_ES_IDS	SUBS_EN_IDS	START_TIME	END_TIME	NAME_AUDIO	NAME_SCREE
 50	50	49	48	0:01:20.280000	0:01:22.990000	50.mp3	50.webp	さっきの人帰るの早かったね	Tu amiga se ha ido muy pronto.	That person went home really early.	False	False			
 53	53	51	52	0:01:22.940000	0:01:23.970000	53.mp3	53.webp	そうね	Sí.	Yeah.	False	False			
 56	56,57	55,59	54,58	0:01:23.950000	0:01:28.790000	56.mp3	56.webp	仲間割れかー?　うーん 私にも分からん	¿Os habéis peleado? Ni yo misma lo sé.	Did you guys get in a fight? I'd like to know that myself.	False	False			
-62	62	61	60	0:01:29.790000	0:01:33.250000	62.mp3	62.webp	<安達と こういうので遊べばよかったのかな>	¿Quizás debería haber jugado a algo así con Adachi?	Should I have played something like this with Adachi?	False	False			
-65	65	64	63	0:01:33.250000	0:01:36.170000	65.mp3	65.webp	<と 今さらになって 思いつく>	Ya era un poco tarde para pensarlo...	It was bit late to think about that now, but...	False	False			
-68	68	67	66	0:01:36.170000	0:01:40.550000	68.mp3	68.webp	<こういう後悔めいたものは昔から経験してばかりで>	No hago más que arrepentirme,	I keep having regrets like this,	False	False			
-71	71	70	69	0:01:40.550000	0:01:44.350000	71.mp3	71.webp	<そして全く生かせていない>	pero nunca aprendo de mis errores.	and I just can't seem to learn from them.	False	False			
-74	74	73	72	0:01:44.350000	0:01:49.480000	74.mp3	74.webp	<自身の関心の希薄さにはうすうすだけど自覚があった>	Empecé a notar de mi falta de interés, aunque solo fuera un poco.	I had started to catch on to my lack of interest, though only just slightly.	False	False			
-77	77	76	75	0:01:49.480000	0:01:54.320000	77.mp3	77.webp	<時々 自分の指先が細く薄っぺらに見える>	A veces, mis dedos parecen delgados y endebles.	Sometimes, my fingertips look thin and flimsy.	False	False			
-80	80	79	78	0:01:54.320000	0:01:57.360000	80.mp3	80.webp	<そういうときは決まって 気分が悪い>	Cuando eso ocurre, nunca me siento bien.	And when that happens, I never feel great.	False	False			
-83	83	82	81	0:01:57.360000	0:01:59.660000	83.mp3	83.webp	<今は どうなんだろう>	Pero ¿y ahora?	What about now, though?	False	False			
-86	86,87	85	84	0:01:59.660000	0:02:05.530000	86.mp3	86.webp	<先細ってどこにも たどり着けない>　<行き止まりみたいな指だろうか>	¿Mis dedos están tan endebles que no llegan a ninguna parte?	Are my fingers so flimsy that they'll get nowhere?	False	False			
+62	62	61	60	0:01:29.790000	0:01:33.250000	62.mp3	62.webp	安達と こういうので遊べばよかったのかな	¿Quizás debería haber jugado a algo así con Adachi?	Should I have played something like this with Adachi?	False	False			
+65	65	64	63	0:01:33.250000	0:01:36.170000	65.mp3	65.webp	と 今さらになって 思いつく	Ya era un poco tarde para pensarlo...	It was bit late to think about that now, but...	False	False			
+68	68	67	66	0:01:36.170000	0:01:40.550000	68.mp3	68.webp	こういう後悔めいたものは昔から経験してばかりで	No hago más que arrepentirme,	I keep having regrets like this,	False	False			
+71	71	70	69	0:01:40.550000	0:01:44.350000	71.mp3	71.webp	そして全く生かせていない	pero nunca aprendo de mis errores.	and I just can't seem to learn from them.	False	False			
+74	74	73	72	0:01:44.350000	0:01:49.480000	74.mp3	74.webp	自身の関心の希薄さにはうすうすだけど自覚があった	Empecé a notar de mi falta de interés, aunque solo fuera un poco.	I had started to catch on to my lack of interest, though only just slightly.	False	False			
+77	77	76	75	0:01:49.480000	0:01:54.320000	77.mp3	77.webp	時々 自分の指先が細く薄っぺらに見える	A veces, mis dedos parecen delgados y endebles.	Sometimes, my fingertips look thin and flimsy.	False	False			
+80	80	79	78	0:01:54.320000	0:01:57.360000	80.mp3	80.webp	そういうときは決まって 気分が悪い	Cuando eso ocurre, nunca me siento bien.	And when that happens, I never feel great.	False	False			
+83	83	82	81	0:01:57.360000	0:01:59.660000	83.mp3	83.webp	今は どうなんだろう	Pero ¿y ahora?	What about now, though?	False	False			
+86	86,87	85	84	0:01:59.660000	0:02:05.530000	86.mp3	86.webp	先細ってどこにも たどり着けない　行き止まりみたいな指だろうか	¿Mis dedos están tan endebles que no llegan a ninguna parte?	Are my fingers so flimsy that they'll get nowhere?	False	False			
 90	90	88	89	0:02:07.120000	0:02:08.250000	90.mp3	90.webp	ねえ	Oye...	Hey...	False	False			
 93	93	92	91	0:02:08.250000	0:02:10.080000	93.mp3	93.webp	勝ったー!	¡He ganado!	I win!	False	False			
 97	97	95	96	0:02:13.400000	0:02:16.420000	97.mp3	97.webp	いやー 簡単に引っかかる	Caes muy fácilmente.	Jeez, you fall for that so easily.	False	False			
 100	100	99	98	0:02:16.420000	0:02:18.720000	100.mp3	100.webp	必殺 ヘッド!	¡Cabezazo final!	Super ultimate... headbutt!	False	False			
-105	105	104	103	0:03:58.070000	0:04:00.690000	105.mp3	105.webp	<安達は まだ来ていない>	Adachi aún no ha venido.	Adachi's still not here.	False	False			
-112	112	111	109,110	0:04:00.690000	0:04:05.390000	112.mp3	112.webp	<このまま 学校に来なくなったら私のせいだろうか>	¿Será culpa mía que deje de venir al instituto?	\"Adachi\" \"Do we have a test in Japanese history tomorrow?\" \"Yup. Let's do our best!!\" Is it my fault if she just stops coming to school all together?	False	False			
-116	116	115	114	0:04:05.410000	0:04:09.330000	116.mp3	116.webp	<いや 安達が勝手に盛り上がって 上り詰めて>	No puedo evitar pensar que Adachi es como un gato	No... I can't help but feel like Adachi's basically like a cat	False	False			
-119	119	118	117	0:04:09.330000	0:04:14.540000	119.mp3	119.webp	<木の上から下りてこられなくなった猫のようなものに思えてならない>	que se ha puesto nervioso al subir a un árbol del que no puede bajar.	that got all worked up, climbed up a tree, and couldn't come back down.	False	False			
+105	105	104	103	0:03:58.070000	0:04:00.690000	105.mp3	105.webp	安達は まだ来ていない	Adachi aún no ha venido.	Adachi's still not here.	False	False			
+112	112	111	109,110	0:04:00.690000	0:04:05.390000	112.mp3	112.webp	このまま 学校に来なくなったら私のせいだろうか	¿Será culpa mía que deje de venir al instituto?	\"Adachi\" \"Do we have a test in Japanese history tomorrow?\" \"Yup. Let's do our best!!\" Is it my fault if she just stops coming to school all together?	False	False			
+116	116	115	114	0:04:05.410000	0:04:09.330000	116.mp3	116.webp	いや 安達が勝手に盛り上がって 上り詰めて	No puedo evitar pensar que Adachi es como un gato	No... I can't help but feel like Adachi's basically like a cat	False	False			
+119	119	118	117	0:04:09.330000	0:04:14.540000	119.mp3	119.webp	木の上から下りてこられなくなった猫のようなものに思えてならない	que se ha puesto nervioso al subir a un árbol del que no puede bajar.	that got all worked up, climbed up a tree, and couldn't come back down.	False	False			
 125	125	124	123	0:04:16.330000	0:04:19.250000	125.mp3	125.webp	軟弱だぞ 安達	Eres débil, Adachi.	You're weak, Adachi.	False	False			
 128	128	127	126	0:04:19.250000	0:04:22.079000	128.mp3	128.webp	うえー マジでかよ	¿De verdad?	Wow, really?	False	False			
 133	133	132	131	0:04:23.010000	0:04:24.440000	133.mp3	133.webp	でもさ...	Pero...	But you know...	False	False			
@@ -63,10 +63,10 @@ ID	SUBS_JP_IDS	SUBS_ES_IDS	SUBS_EN_IDS	START_TIME	END_TIME	NAME_AUDIO	NAME_SCREE
 213	213,214	211	212	0:05:33.180000	0:05:38.040000	213.mp3	213.webp	あのなあ　水色の髪をした変な女の子がって...	¿En serio? Has mencionado a una chica rara con el pelo azul.	Seriously? You mentioned a weird, blue-haired girl.	False	False			
 217	217	216	215	0:05:38.020000	0:05:40.170000	217.mp3	217.webp	やっぱり ウソだったのか?	¿Era mentira?	So you were lying after all?	False	False			
 222	222	221	220	0:05:40	0:05:42.490000	222.mp3	222.webp	ああー それはホント ホント	Qué va, es totalmente real.	Oh, yeah. That did actually happen.	False	False			
-225	225,226	224	223	0:05:42.880000	0:05:49.760000	225.mp3	225.webp	<安達に無視されているのだとしたら>　<いくら私だって それなりに落ち込んでしまうだろう>	Como Adachi me ignore, me deprimiría.	If Adachi is ignoring me, even I'd be somewhat depressed.	False	False			
-229	229	228,231	227,230	0:05:49.760000	0:05:55.320000	229.mp3	229.webp	<でも 3日ぐらいでそれも受け入れてケロリとしているんだろうなあと思う>	Aunque seguramente me sobrepondría en tres días y volvería a la normalidad.	But I'd pretty much be over it in about three days, and basically be fine.	False	False			
-236	236,239	235,237	234,238	0:05:55.870000	0:06:02.440000	236.mp3	236.webp	<それを口にすることで反感ないし>　<嫌な気分を生むことは分かっているので>	Aunque no me siento mal cuando lo digo, a los demás no le sienta bien oírlo,	Even saying that doesn't make me feel bad, but others wouldn't feel great about it,	False	False			
-247	247	246	245	0:06:02.440000	0:06:05.360000	247.mp3	247.webp	<誰にも語ることはないけれど>	así que no se lo digo a nadie.	so I just don't mention it to anyone.	False	False			
+225	225,226	224	223	0:05:42.880000	0:05:49.760000	225.mp3	225.webp	安達に無視されているのだとしたら　いくら私だって それなりに落ち込んでしまうだろう	Como Adachi me ignore, me deprimiría.	If Adachi is ignoring me, even I'd be somewhat depressed.	False	False			
+229	229	228,231	227,230	0:05:49.760000	0:05:55.320000	229.mp3	229.webp	でも 3日ぐらいでそれも受け入れてケロリとしているんだろうなあと思う	Aunque seguramente me sobrepondría en tres días y volvería a la normalidad.	But I'd pretty much be over it in about three days, and basically be fine.	False	False			
+236	236,239	235,237	234,238	0:05:55.870000	0:06:02.440000	236.mp3	236.webp	それを口にすることで反感ないし　嫌な気分を生むことは分かっているので	Aunque no me siento mal cuando lo digo, a los demás no le sienta bien oírlo,	Even saying that doesn't make me feel bad, but others wouldn't feel great about it,	False	False			
+247	247	246	245	0:06:02.440000	0:06:05.360000	247.mp3	247.webp	誰にも語ることはないけれど	así que no se lo digo a nadie.	so I just don't mention it to anyone.	False	False			
 250	250	249	248	0:06:09.030000	0:06:10.530000	250.mp3	250.webp	こんにちは	Hola.	Hello, there.	False	False			
 253	253	252	251	0:06:24.670000	0:06:26.840000	253.mp3	253.webp	えっ? どちら様?	¿Quién eres tú?	Huh? Who are you?	False	False			
 256	256	255	254	0:06:26.840000	0:06:29.380000	256.mp3	256.webp	おや 分かりませんか?	¿No me reconoces?	Oh? Can you not tell?	False	False			
@@ -115,10 +115,10 @@ ID	SUBS_JP_IDS	SUBS_ES_IDS	SUBS_EN_IDS	START_TIME	END_TIME	NAME_AUDIO	NAME_SCREE
 408	408	407	406	0:09:31.480000	0:09:34.610000	408.mp3	408.webp	結構長い	¿Qué? Es bastante tiempo.	Huh? That's a bit long.	False	False			
 411	411,412	410	409	0:09:35.610000	0:09:39.890000	411.mp3	411.webp	安達ー　助けてー 開けてー	Adachi, socorro...	Adachi! Save me... Open up.	False	False			
 415	415	414	413	0:09:39.570000	0:09:41.890000	415.mp3	415.webp	ううー もうダメ...	No puedo más...	I can't anymore...	False	False			
-418	418	416	417	0:09:42.850000	0:09:47.120000	418.mp3	418.webp	<15分 着替え?寝グセの撤去?>	Quince minutos... ¿Se estará cambiando o adecentando la cama?	Fifteen minutes... Is she changing? Fixing her bedhead?	False	False			
-421	421	420	419	0:09:47.120000	0:09:50.420000	421.mp3	421.webp	<別に 私と話すだけなのに大げさだ>	Me parece demasiado solo para que hablemos.	That seems like a lot of work just to talk to me.	False	False			
-424	424	423	422	0:09:50.420000	0:09:55.840000	424.mp3	424.webp	<でも 友達にだらしない姿を見られるのが嫌という気持ちも分かる>	Sin embargo, entiendo que no quiera salir con esas pintas.	But I get not wanting to look so sloppy in front of my friends.	False	False			
-427	427	426	425	0:09:55.840000	0:10:00.800000	427.mp3	427.webp	<教室のイメージを崩すのも崩されるのも落ち着かないものだ>	Destruir tu imagen o que te la destruyen es un fastidio.	Destroying your class image or having it destroyed is a bit unnerving.	False	False			
+418	418	416	417	0:09:42.850000	0:09:47.120000	418.mp3	418.webp	15分 着替え?寝グセの撤去?	Quince minutos... ¿Se estará cambiando o adecentando la cama?	Fifteen minutes... Is she changing? Fixing her bedhead?	False	False			
+421	421	420	419	0:09:47.120000	0:09:50.420000	421.mp3	421.webp	別に 私と話すだけなのに大げさだ	Me parece demasiado solo para que hablemos.	That seems like a lot of work just to talk to me.	False	False			
+424	424	423	422	0:09:50.420000	0:09:55.840000	424.mp3	424.webp	でも 友達にだらしない姿を見られるのが嫌という気持ちも分かる	Sin embargo, entiendo que no quiera salir con esas pintas.	But I get not wanting to look so sloppy in front of my friends.	False	False			
+427	427	426	425	0:09:55.840000	0:10:00.800000	427.mp3	427.webp	教室のイメージを崩すのも崩されるのも落ち着かないものだ	Destruir tu imagen o que te la destruyen es un fastidio.	Destroying your class image or having it destroyed is a bit unnerving.	False	False			
 430	430	429	428	0:10:02.930000	0:10:04.530000	430.mp3	430.webp	何で制服?	¿El uniforme?	Why are you wearing your uniform?	False	False			
 433	433	432	431	0:10:04.470000	0:10:06.480000	433.mp3	433.webp	つい 勢いで	Ha sido casualidad.	It just sorta happened.	False	False			
 438	438	437	436	0:10:08.850000	0:10:12.370000	438.mp3	438.webp	あと さっきのゾウのTシャツどこで売ってるの?	¿de dónde es la camiseta del elefante?	Where did you even get that elephant T-shirt?	False	False			
@@ -159,7 +159,7 @@ ID	SUBS_JP_IDS	SUBS_ES_IDS	SUBS_EN_IDS	START_TIME	END_TIME	NAME_AUDIO	NAME_SCREE
 555	555	554	553	0:12:29.160000	0:12:32.370000	555.mp3	555.webp	おっ 戻ったか 永藤	Veo que ya has vuelto, Nagafuji...	Hey, you're back, Nagafuji...	False	False			
 558	558	557	556	0:12:32.370000	0:12:34.670000	558.mp3	558.webp	おかわり!	Quiero más.	Seconds, please.	False	False			
 561	561	560	559	0:12:34.670000	0:12:37.340000	561.mp3	561.webp	お か え れ	Ya te gustaría. Vete.	You wish, get out.	False	False			
-564	564	563	562	0:12:37.340000	0:12:40.970000	564.mp3	564.webp	<そもそも こいつは何でいつも ウチにいるんだろう>	¿Qué hace siempre en casa?	Why is she always at my house?	False	False			
+564	564	563	562	0:12:37.340000	0:12:40.970000	564.mp3	564.webp	そもそも こいつは何でいつも ウチにいるんだろう	¿Qué hace siempre en casa?	Why is she always at my house?	False	False			
 570	570	569	568	0:12:48.050000	0:12:50.140000	570.mp3	570.webp	日野 ちょっと	Oye, Hino, ven.	Hey, Hino... Come here.	False	False			
 573	573	572	571	0:12:50.140000	0:12:52.640000	573.mp3	573.webp	うん? 何か くれんの?	¿Vas a darme algo?	Hm? Are you gonna give me something?	False	False			
 576	576	575	574	0:12:52.640000	0:12:54.350000	576.mp3	576.webp	うん あげる	Sí.	Yeah, I will.	False	False			
@@ -182,8 +182,8 @@ ID	SUBS_JP_IDS	SUBS_ES_IDS	SUBS_EN_IDS	START_TIME	END_TIME	NAME_AUDIO	NAME_SCREE
 633	633	632	631	0:14:12.850000	0:14:14.270000	633.mp3	633.webp	あれの用意を	Prepárate.	Prepare the thing.	False	False			
 636	636	635	634	0:14:14.270000	0:14:16.500000	636.mp3	636.webp	はっ! 少々お待ちください	¡Sí! Un momento, por favor.	Yes, ma'am! A moment, please!	False	False			
 639	639	638	637	0:14:16.270000	0:14:19.600000	639.mp3	639.webp	えっ 何?	¿Eh? ¿Qué...?	Huh? Wait, wha-?	False	False			
-643	643	642	641	0:14:21.560000	0:14:23.440000	643.mp3	643.webp	<しまむら...>	Shimamura...	Shimamura...	False	False			
-644	644	646	645	0:14:23.400000	0:14:27.900000	644.mp3	644.webp	<私服のしまむらすっごいかわいいんですけど>	Shimamura está muy guapa con ropa de calle...	Shimamura in her normal clothes... She's so insanely cute...	False	False			
+643	643	642	641	0:14:21.560000	0:14:23.440000	643.mp3	643.webp	しまむら...	Shimamura...	Shimamura...	False	False			
+644	644	646	645	0:14:23.400000	0:14:27.900000	644.mp3	644.webp	私服のしまむらすっごいかわいいんですけど	Shimamura está muy guapa con ropa de calle...	Shimamura in her normal clothes... She's so insanely cute...	False	False			
 649	649,650	648	647,651,652	0:14:33.490000	0:14:38.750000	649.mp3	649.webp	お待たせを　えっ?	Gracias por esperar.	Thank you for waiting! Huh?! Shukoh...	False	False			
 656	656	655	654	0:14:39.770000	0:14:42.660000	656.mp3	656.webp	というわけでこの間の宇宙人ちゃん	Ya ves, es el alien del otro día.	So, yeah. She's the little alien from the other day.	False	False			
 659	659	658	657	0:14:42.500000	0:14:44.090000	659.mp3	659.webp	どうも	Hola.	Hello.	False	False			
@@ -297,12 +297,12 @@ ID	SUBS_JP_IDS	SUBS_ES_IDS	SUBS_EN_IDS	START_TIME	END_TIME	NAME_AUDIO	NAME_SCREE
 1013	1013	1012	1011	0:21:27.450000	0:21:29.250000	1013.mp3	1013.webp	どっちですかー?	¿De parte de quién?	Well, who is it?	False	False			
 1017	1017	1016	1015	0:21:30.450000	0:21:32.120000	1017.mp3	1017.webp	しまむらしま	Shimamura.	Shimamura!	False	False			
 1020	1020	1019	1018	0:21:32.120000	0:21:33.870000	1020.mp3	1020.webp	しまむらしまむらさん!	Shimamura.	Shimamura!	False	False			
-1023	1023	1022	1021	0:21:40.670000	0:21:44.090000	1023.mp3	1023.webp	<どっちかなんて聞かないでほしい>	Ojalá no me lo hubieras preguntado.	I wish you wouldn't ask me that.	False	False			
-1026	1026	1025	1024	0:21:44.090000	0:21:47.890000	1026.mp3	1026.webp	<こんなことが続いて疲れないはずがない>	Es imposible no cansarte haciendo esto...	There's no way you wouldn't be tired doing this...	False	False			
-1029	1029	1028	1027	0:21:47.890000	0:21:53.020000	1029.mp3	1029.webp	<私が少しずつ削れていって摩耗していく感じだ>	Siento como si poco a poco me estuviera desgastando...	I feel like I'm slowly being chipped at and wearing away...	False	False			
-1032	1032	1031	1030	0:21:53.020000	0:21:55.850000	1032.mp3	1032.webp	<でも 1人は退屈だ>	Pero sola me aburro.	But I get bored being alone.	False	False			
-1035	1035	1034	1033	0:21:55.850000	0:22:00.610000	1035.mp3	1035.webp	<それは孤独より ずっとつらい耐えがたい病気>	No hay nada peor que estar sola.	That's somehow a far worse and unbearable condition than being alone.	False	False			
-1038	1038	1037,1042	1036,1039	0:22:00.610000	0:22:07.680000	1038.mp3	1038.webp	<だそれに対抗する薬は人との間に生まれる見えないものしかないんだろう>	El remedio para combatir eso tiene que ser algo creado con cosas que nuestros ojos no ven.	And the remedy for that must be something created with others that our eyes can't see.	False	False			
-1045	1045	1044	1043	0:22:07.700000	0:22:11.410000	1045.mp3	1045.webp	<だから 私はこれからも摩耗していく>	Por eso voy a seguir desgastándome.	That's why I'm going to continue wearing away.	False	False			
-1048	1048	1047	1046	0:22:11.410000	0:22:15.620000	1048.mp3	1048.webp	<自分を保つために少しずつ失ってゆくのだ>	Seguiré perdiendo partes de mí para mantenerme a flote.	I'll keep losing pieces of myself in order to keep myself afloat.	False	False			
+1023	1023	1022	1021	0:21:40.670000	0:21:44.090000	1023.mp3	1023.webp	どっちかなんて聞かないでほしい	Ojalá no me lo hubieras preguntado.	I wish you wouldn't ask me that.	False	False			
+1026	1026	1025	1024	0:21:44.090000	0:21:47.890000	1026.mp3	1026.webp	こんなことが続いて疲れないはずがない	Es imposible no cansarte haciendo esto...	There's no way you wouldn't be tired doing this...	False	False			
+1029	1029	1028	1027	0:21:47.890000	0:21:53.020000	1029.mp3	1029.webp	私が少しずつ削れていって摩耗していく感じだ	Siento como si poco a poco me estuviera desgastando...	I feel like I'm slowly being chipped at and wearing away...	False	False			
+1032	1032	1031	1030	0:21:53.020000	0:21:55.850000	1032.mp3	1032.webp	でも 1人は退屈だ	Pero sola me aburro.	But I get bored being alone.	False	False			
+1035	1035	1034	1033	0:21:55.850000	0:22:00.610000	1035.mp3	1035.webp	それは孤独より ずっとつらい耐えがたい病気	No hay nada peor que estar sola.	That's somehow a far worse and unbearable condition than being alone.	False	False			
+1038	1038	1037,1042	1036,1039	0:22:00.610000	0:22:07.680000	1038.mp3	1038.webp	だそれに対抗する薬は人との間に生まれる見えないものしかないんだろう	El remedio para combatir eso tiene que ser algo creado con cosas que nuestros ojos no ven.	And the remedy for that must be something created with others that our eyes can't see.	False	False			
+1045	1045	1044	1043	0:22:07.700000	0:22:11.410000	1045.mp3	1045.webp	だから 私はこれからも摩耗していく	Por eso voy a seguir desgastándome.	That's why I'm going to continue wearing away.	False	False			
+1048	1048	1047	1046	0:22:11.410000	0:22:15.620000	1048.mp3	1048.webp	自分を保つために少しずつ失ってゆくのだ	Seguiré perdiendo partes de mí para mantenerme a flote.	I'll keep losing pieces of myself in order to keep myself afloat.	False	False			
 1053	1053	1050,1052	1051	0:22:16.140000	0:22:22.110000	1053.mp3	1053.webp	うまくいかなくて たくさん傷つけても うらまないで	Episodio 3: Triángulo isósceles Si las cosas no van bien y acabo haciéndote daño, por favor, no me odies.	If things don't go well and I end up hurting you a lot, please don't hate me...	False	False			

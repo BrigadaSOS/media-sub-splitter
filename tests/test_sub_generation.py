@@ -1,6 +1,6 @@
 import os
 
-
+from argparse import Namespace
 import pytest
 
 from media_sub_splitter.main import split_video_by_subtitles
@@ -19,12 +19,16 @@ def test_subtitles_snapshots(snapshot, matching_subtitles):
     filename = os.path.basename(sample_subtitles_filepath).split(".")[0]
     tmp_tsv_filename = f"{filename}.input.tsv"
 
+    args = Namespace()
+    if "adachi-to-shimamura" in filename:
+        args = Namespace(extra_punctuation=True)
+
     split_video_by_subtitles(
         translator=None,
         video_file=None,
         subtitles=matching_subtitles,
         episode_folder_output_path=tmp_output_folder,
-        args={},
+        args=args,
         output_tsv_name=tmp_tsv_filename,
     )
 

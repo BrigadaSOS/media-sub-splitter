@@ -135,7 +135,7 @@ ID	SUBS_JP_IDS	SUBS_ES_IDS	SUBS_EN_IDS	START_TIME	END_TIME	NAME_AUDIO	NAME_SCREE
 531	531	532	533	0:10:40.551000	0:10:42.720000	531.mp3	531.webp	出どころは分かった?	¿De dónde salieron?	Have you found their source?	False	False		prospera	Prospera
 535	535	536,537	534	0:10:42.490000	0:10:47.091000	535.mp3	535.webp	今は まだ何も。引き続き調べます。	Aún no sé nada. Seguiré investigando.	Nothing yet. I'll continue investigating.	False	False		godoy	Godoy
 539	539	540	538	0:10:47.070000	0:10:49.260000	539.mp3	539.webp	ありがとう ゴドイ。	Gracias, Godoy.	Thank you, Godoy.	False	False		prospera	Prospera
-544	544	543	542,545	0:10:53.160000	0:10:55.499000	544.mp3	544.webp	⚞ニカさん? うわっ! あっ...	¿Nika?	Ms. Nika? Huh?	False	False		suletta	Nika,Suletta
+544	544	543	542,545	0:10:53.160000	0:10:55.499000	544.mp3	544.webp	ニカさん? うわっ! あっ...	¿Nika?	Ms. Nika? Huh?	False	False		suletta	Nika,Suletta
 547	547	548	546	0:10:55.460000	0:10:58.520000	547.mp3	547.webp	あっ ご... ごめんなさい 驚かせちゃって。	Lo siento, no quería asustarte.	Oh, uh... s-sorry if I scared you.	False	False		suletta	Suletta
 549	549	551	550	0:10:58.436000	0:11:01.138000	549.mp3	549.webp	ううん。どうしたの?	No importa. ¿Qué ocurre?	Not at all. What is it?	False	False		nika	Nika
 554	554	553	552	0:11:01.080000	0:11:04.842000	554.mp3	554.webp	エアリアルに 話 聞いてもらおうと思って。	Esperaba poder hablar con el Aerial.	I wanted to have a chat with Aerial.	False	False		suletta	Suletta
@@ -213,7 +213,7 @@ ID	SUBS_JP_IDS	SUBS_ES_IDS	SUBS_EN_IDS	START_TIME	END_TIME	NAME_AUDIO	NAME_SCREE
 855	855	856	854	0:17:02.650000	0:17:05.980000	855.mp3	855.webp	会社の宣伝して 小銭 稼いでよぉ	Promocionamos la empresa y ganamos algo de dinero.	It's a chance to promote the company and make some money.	False	False		ojelo	Ojelo
 857	857	859	858	0:17:05.803000	0:17:08.205000	857.mp3	857.webp	その方が 気も紛れんだろ。	Y nos distraemos un poco.	It might cheer up some of us too, right?	False	False		ojelo	Ojelo
 860	860	862	861	0:17:08.205000	0:17:11.809000	860.mp3	860.webp	ふふっ。そうですね。	Tienes razón.	I agree!	False	False		lilique	Lilique
-865	865	864	863	0:17:11.590000	0:17:15.180000	865.mp3	865.webp	⚞アーシアンのくせに 楽しそうにしてんじゃん。	Sí que se están divirtiendo, Earthians.	Hey, what are you rotten Earthians so happy about?	False	False		felsi	Felsi
+865	865	864	863	0:17:11.590000	0:17:15.180000	865.mp3	865.webp	アーシアンのくせに 楽しそうにしてんじゃん。	Sí que se están divirtiendo, Earthians.	Hey, what are you rotten Earthians so happy about?	False	False		felsi	Felsi
 866	866	868	867	0:17:14.912000	0:17:17.748000	866.mp3	866.webp	はっ! なんだ? てめぇ。	¿Algún problema?	What do you want?	False	False		chuchu	Chuchu
 870	870	871	869	0:17:17.600000	0:17:21.752000	870.mp3	870.webp	ホルダー様は 明日の ランブルリングも余裕ってわけ?	¿A la Holder ni le preocupa el Rumble Ring de mañana?	So Mistress Holder doesn't need to worry about tomorrow's Rumble Ring?	False	False		petra	Petra
 872	872,875	874	873	0:17:21.752000	0:17:27.720000	872.mp3	872.webp	えっ? 本当なら グエル先輩が　超かっこよく 活躍するはずだったのにさ。	En realidad Guel debería haberse lucido en él.	This shoulda been a stage for Mr. Guel to show off his super cool style!	False	False		felsi	Felsi
@@ -232,7 +232,7 @@ ID	SUBS_JP_IDS	SUBS_ES_IDS	SUBS_EN_IDS	START_TIME	END_TIME	NAME_AUDIO	NAME_SCREE
 924	924	925	923	0:18:13.780000	0:18:17.241000	924.mp3	924.webp	障害になるなら 今のうちに壊す。	Si será un obstáculo, lo destruiré ya.	If it'll be an obstacle, we should destroy it now.	False	False		norea	Norea
 927	927	928,930	926,929	0:18:17.030000	0:18:21.350000	927.mp3	927.webp	そっちは? お目当ての スレッタ・マーキュリーは気に入った?	¿Cómo te va a ti? ¿Te cae bien tu querida Suletta Mercury?	What about you? Does Suletta Mercury have what you were looking for?	False	False		norea	Norea
 940	940	939	938,941	0:18:30.630000	0:18:34.491000	940.mp3	940.webp	GUNDフォーマットに プロテクトが掛かってる。ダメか。	El GUND Format está protegido. No hubo suerte.	Access to the GUND Format is protected. I can't get in.	False	False		norea	Norea
-943	943	944	942	0:18:34.450000	0:18:37.461000	943.mp3	943.webp	⚞ファラクトから離れて! ん?	¡Aléjense del Pharact!	Get away from the Pharact!	False	False		nika	Nika
+943	943	944	942	0:18:34.450000	0:18:37.461000	943.mp3	943.webp	ファラクトから離れて! ん?	¡Aléjense del Pharact!	Get away from the Pharact!	False	False		nika	Nika
 947	947	946	945	0:18:37.220000	0:18:39.463000	947.mp3	947.webp	その機体からだけじゃない。	¡No solo de esa unidad!	And not just that machine...	False	False		nika	Nika
 949	949	950	948	0:18:39.390000	0:18:41.932000	949.mp3	949.webp	この学園から出ていって!	¡Márchense de la escuela!	Leave our school immediately!	False	False		nika	Nika
 953	953	952	951	0:18:41.770000	0:18:44.368000	953.mp3	953.webp	通信記録でも見つけましたか?	¿Encontraste algún registro?	Did you find a record of our communications or something?	False	False		norea	Norea
@@ -264,7 +264,7 @@ ID	SUBS_JP_IDS	SUBS_ES_IDS	SUBS_EN_IDS	START_TIME	END_TIME	NAME_AUDIO	NAME_SCREE
 1058	1058	1060	1059	0:20:40.284000	0:20:43.620000	1058.mp3	1058.webp	スレッタ...あはははっ!	Suletta...	Suletta...	False	False		nika	Nika
 1067	1067,1072	1069,1071	1068,1070	0:20:50.360000	0:20:55.632000	1067.mp3	1067.webp	違います。ガンダムは　医療で人を救うモビルスーツに なるんです。	¡No! Los Gundams son Mobile Suits que salvarán a la gente.	That's not true! Gundams will be used to save lives through medicine!	False	False		suletta	Suletta
 1076	1076		1077	0:20:59.670000	0:21:04.441000	1076.mp3	1076.webp	ソフィ。やろうよ 私たちの決闘。		Sophie...		False			Norea
-1108	1108,1112	1110	1109,1111	0:22:46.109000	0:22:51.010000	1108.mp3	1108.webp	⚞お互い...はっ!　自由になれないのは つらいわね。	Es duro que se restrinja nuestra libertad, ¿eh?	We both hate... being confined here, don't we?	False	False		prospera	Prospera
+1108	1108,1112	1110	1109,1111	0:22:46.109000	0:22:51.010000	1108.mp3	1108.webp	お互い...はっ!　自由になれないのは つらいわね。	Es duro que se restrinja nuestra libertad, ¿eh?	We both hate... being confined here, don't we?	False	False		prospera	Prospera
 1113	1113	1115	1114,1116	0:22:50.981000	0:22:53.960000	1113.mp3	1113.webp	あんた 何考えてんのよ。	¿En qué estabas pensando?	You... What were you thinking?	False	False		miorine	Miorine
 1117	1117	1118	1119	0:22:53.850000	0:22:56.186000	1117.mp3	1117.webp	自分の娘に あんなことを...	Obligar a tu hija a algo así...	Making your daughter do something like that...	False	False		miorine	Miorine
 1122	1122	1121,1123	1120	0:22:56.100000	0:23:00.690000	1122.mp3	1122.webp	そのおかげで あなたも総裁も 命拾いしたんじゃなくて?	Gracias a ella, tanto tú como el presidente se salvaron, ¿no?	But didn't that act save the lives of you and the President?	False	False		prospera	Prospera

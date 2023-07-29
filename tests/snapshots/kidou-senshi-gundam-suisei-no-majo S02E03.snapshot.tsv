@@ -145,7 +145,7 @@ ID	SUBS_JP_IDS	SUBS_ES_IDS	SUBS_EN_IDS	START_TIME	END_TIME	NAME_AUDIO	NAME_SCREE
 621	621,625	622,624	620,623	0:12:22.260000	0:12:27.100000	621.mp3	621.webp	学校が...オルコット。応答しろ オルコット。ちっ!	La escuela... Olcott. ¡Responde, Olcott!	The school! Olcott! Come in, Olcott!!	False	False		jalil,naji	Jalil,Naji
 627	627	628	629,630	0:12:27.100000	0:12:29.936000	627.mp3	627.webp	ナジ 敵は モビルスーツ4機だ。	Naji, son cuatro Mobile Suits.	Naji! There are four enemy mobile suits!	False	False		gulistan	Gristan
 631	631	633	632,634	0:12:29.936000	0:12:33.600000	631.mp3	631.webp	移送の状況は? 2台 出ている。	¿Cómo va el transporte? -Salieron dos vehículos.	What about the evacuees? Two vehicles have left!	False	False		gulistan/naji	Gristan,Naji
-635	635	636	637	0:12:34.407000	0:12:36.909000	635.mp3	635.webp	なんとか 注意をそらせてくれ。⚞ダダダダッ!	Tienen que distraerlos.	Just keep distracting them somehow!	False	False		naji	Naji
+635	635	636	637	0:12:34.407000	0:12:36.909000	635.mp3	635.webp	なんとか 注意をそらせてくれ。ダダダダッ!	Tienen que distraerlos.	Just keep distracting them somehow!	False	False		naji	Naji
 638	638,641	639,643	640,642	0:12:36.909000	0:12:42.310000	638.mp3	638.webp	ダダダダッ! ジャリル　合流できるか? あ... ああ。すまねぇ。	¿Puedes reunirte conmigo? Sí. Gracias.	Jalil! Can you make the rendezvous? Y-Yes... I'm sorry about this!	False	False		bessie,jalil	Bessie,Jalil
 644	644,647	645,649	646,648	0:12:42.115000	0:12:46.452000	644.mp3	644.webp	フィリップ ヤツらを 工場エリアに誘い込む。了解。	Philip, atráelos a la zona industrial. Recibido.	Phillip! Draw them toward the factory area! Roger!	False	False		bessie,philip	Bessie,Philip
 652	652	651	650,653	0:12:46.320000	0:12:49.400000	652.mp3	652.webp	こっちだ。来いよ ワンちゃん。	¡Por acá, perritos!	This way... Follow me, you dogs!	False	False		philip	Philip

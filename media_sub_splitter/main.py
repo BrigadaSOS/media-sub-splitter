@@ -532,7 +532,7 @@ def split_video_by_subtitles(
     sorted_lines = []
     for language, subs in synced_subtitles.items():
         for line in subs.data:
-            sentence = process_subtitle_line(line)
+            sentence = process_subtitle_line(line, args)
             sorted_lines.append(
                 {
                     "start": line.start,
@@ -792,7 +792,7 @@ def join_sentences_to_segment(sentences, ln):
     )
 
 
-def process_subtitle_line(line):
+def process_subtitle_line(line, args):
     if line.type != "Dialogue":
         return ""
 
@@ -815,13 +815,17 @@ def process_subtitle_line(line):
     # Normaliza half-width (Hankaku) a full-width (Zenkaku) caracteres
     processed_sentence = jaconvV2.normalize(line.plaintext, "NFKC")
 
-    # Replace all new lines / tabs with just one space
+    # Replace all new lines / tabs / separators with just one space
     processed_sentence = re.sub("\r?\n|\t", " ", processed_sentence)
+
+    if hasattr(args, "extra_punctuation") and args.extra_punctuation:
+        processed_sentence = processed_sentence.replace("・", " ")
 
     processed_sentence = remove_nested_parenthesis(processed_sentence)
 
-    special_chars = r"●|→|ー?♪ー?|\u202a|\u202c|➡|&lrm;"
+    special_chars = r"⚟|⚞|<|>|=|●|→|ー?♪ー?|\u202a|\u202c|➡|&lrm;"
     processed_sentence = re.sub(special_chars, "", processed_sentence)
+
 
     processed_sentence = emoji.sub("", processed_sentence)
 
@@ -955,6 +959,15 @@ def command_args():
         action=argparse.BooleanOptionalAction,
         default=False,
         help="Execute and parse subtitles, but without generating the segments",
+    )
+    parser.add_argument(
+        "-x",
+        "--x",
+        dest="extra_punctuation",
+        action=argparse.BooleanOptionalAction,
+        default=False,
+        help="Remove other common punctuation symbols like ・. This might cause certain"
+        "subtitles to lose fidelity."
     )
     parser.add_argument(
         "-p",

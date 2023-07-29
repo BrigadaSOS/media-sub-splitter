@@ -7,7 +7,7 @@ ID	SUBS_JP_IDS	SUBS_ES_IDS	SUBS_EN_IDS	START_TIME	END_TIME	NAME_AUDIO	NAME_SCREE
 21	21	20,22	19	0:00:23.380000	0:00:28.180000	21.mp3	21.webp	順調であれば 2時間20分後に 地表に到着します。	Si todo va bien, llegaremos a la superficie en 2 horas y 20 minutos.	If all goes well, we expect to touch down in 2 hours and 20 minutes.	False	False		anuncio	Announcement
 23	23	24	25	0:00:28.044000	0:00:30.960000	23.mp3	23.webp	地球が近い...	Qué cerca está la Tierra.	We're so close to Earth...	False	False		miorine	Miorine
 26	26	28,30	27,29	0:00:30.914000	0:00:34.851000	26.mp3	26.webp	ずっと 来たがっていただろ。うれしくないのか?	Siempre quisiste venir, ¿no? ¿No estás feliz?	You've always wanted to go there, right? Aren't you happy?	False	False		guel	Guel
-32	32	33	31	0:00:34.850000	0:00:37.060000	32.mp3	32.webp	今は とてもじゃないけど...⚞シューン	Ahora mismo no puedo alegrarme.	Now's not the time to enjoy it.	False	False		miorine	Miorine
+32	32	33	31	0:00:34.850000	0:00:37.060000	32.mp3	32.webp	今は とてもじゃないけど...シューン	Ahora mismo no puedo alegrarme.	Now's not the time to enjoy it.	False	False		miorine	Miorine
 34	34	36	35	0:00:37.020000	0:00:40.790000	34.mp3	34.webp	私は嫌いなんですよね 地球。	Yo odio la Tierra.	Well, I hate being on Earth.	False	False		kenanji	Kenanji
 38	38,43	39,41	37,40,42	0:00:40.560000	0:00:46.796000	38.mp3	38.webp	この体でしょう? 地球の重力は なんていうか こう　苦手でして。	Con este cuerpo, la gravedad que tiene no va conmigo.	I'm a big guy, right? Earth's gravity is just so... uncomfortable.	False	False		kenanji	Kenanji
 44	44	46	45	0:00:46.796000	0:00:50.800000	44.mp3	44.webp	さて 降下前に もう一回。シューン	Bueno, antes de descender regresaré a...	Now then, one more time before we land...	False	False		kenanji	Kenanji
@@ -266,4 +266,4 @@ ID	SUBS_JP_IDS	SUBS_ES_IDS	SUBS_EN_IDS	START_TIME	END_TIME	NAME_AUDIO	NAME_SCREE
 1129	1129	1127	1128	0:22:17.300000	0:22:21.480000	1129.mp3	1129.webp	私 何も分かっていなかった。	Yo no entendía nada.	I... didn't understand a thing.	False	False		suletta	Suletta
 1131	1131	1133	1132	0:22:23.992000	0:22:26.240000	1131.mp3	1131.webp	私のせいだ。	Es culpa mía.	It's all my fault.	False	False		miorine	Miorine
 1136	1136	1135	1134,1137	0:22:27.480000	0:22:32.167000	1136.mp3	1136.webp	私が これを...	Yo hice esto.	I... did this.	False	False		miorine	Miorine
-1157	1157	1158	1156,1160,1161	0:23:44.020000	0:23:48.990000	1157.mp3	1157.webp	<次回...>	Próximamente: \"El colofón de la esperanza\".	Next time, Episode 20 \"The End of Hope.\"	False	False		norea	Caption,Norea
+1157	1157	1158	1156,1160,1161	0:23:44.020000	0:23:48.990000	1157.mp3	1157.webp	次回...	Próximamente: \"El colofón de la esperanza\".	Next time, Episode 20 \"The End of Hope.\"	False	False		norea	Caption,Norea

@@ -13,26 +13,26 @@ ID	SUBS_JP_IDS	SUBS_ES_IDS	SUBS_EN_IDS	START_TIME	END_TIME	NAME_AUDIO	NAME_SCREE
 42	42	43		0:00:41.170000	0:00:42.800000	42.mp3	42.webp	多分ねー	¡Yo también lo veo!		False				
 46	46	45	44	0:00:43.100000	0:00:47.450000	46.mp3	46.webp	ではー次に会うときには用意しておきましょう	¡Te haré chocolate para la próxima vez que nos veamos!	In that case, I shall prepare some for you the next time we meet!	False	False			
 49	49	48	47	0:00:47.080000	0:00:48.360000	49.mp3	49.webp	やったー!	¡Yupi!	Yipee!	False	False			
-52	52	51	50	0:00:49.340000	0:00:51.380000	52.mp3	52.webp	<寝られなかった>	No he pegado ojo.	I couldn't sleep.	False	False			
-55	55	54	53	0:00:51.380000	0:00:57.010000	55.mp3	55.webp	<毎回なので またね はいはいと慣れてきた感があるのだけれど>	Como me pasa constantemente, una parte de mí se lo espera, pero...	This happens every time, so there's a part of me that just expects it, but...	False	False			
-58	58	57	56	0:00:57.010000	0:00:58.680000	58.mp3	58.webp	<進歩がない>	no avanzo.	I'm just stuck.	False	False			
-67	67,70	66,69	65,68	0:01:05.850000	0:01:12.650000	67.mp3	67.webp	<大丈夫かな しまむら>　<こたつの中で冬眠して出てこないんじゃないかな>	¿Saldrá bien? Puede que Shimamura esté hibernando en su kotatsu y no salga.	Will this work out? Maybe Shimamura started hibernating in her kotatsu and won't come out.	False	False			
+52	52	51	50	0:00:49.340000	0:00:51.380000	52.mp3	52.webp	寝られなかった	No he pegado ojo.	I couldn't sleep.	False	False			
+55	55	54	53	0:00:51.380000	0:00:57.010000	55.mp3	55.webp	毎回なので またね はいはいと慣れてきた感があるのだけれど	Como me pasa constantemente, una parte de mí se lo espera, pero...	This happens every time, so there's a part of me that just expects it, but...	False	False			
+58	58	57	56	0:00:57.010000	0:00:58.680000	58.mp3	58.webp	進歩がない	no avanzo.	I'm just stuck.	False	False			
+67	67,70	66,69	65,68	0:01:05.850000	0:01:12.650000	67.mp3	67.webp	大丈夫かな しまむら　こたつの中で冬眠して出てこないんじゃないかな	¿Saldrá bien? Puede que Shimamura esté hibernando en su kotatsu y no salga.	Will this work out? Maybe Shimamura started hibernating in her kotatsu and won't come out.	False	False			
 78	78	80	79	0:01:26.920000	0:01:28.380000	78.mp3	78.webp	よっす	Hola.	Heya.	False	False			
 83	83	81	82	0:03:10.800000	0:03:12.190000	83.mp3	83.webp	おはよう	Buenas.	Morning.	False	False			
-86	86,91	85,90	84	0:03:14.960000	0:03:21.310000	86.mp3	86.webp	<しまむらを一目見ただけで胸が温かくなる>　<さすが 私の太陽だ>	El corazón se me calienta cuando veo a Shimamura. Es evidente que es mi sol.	Just one look at Shimamura warms my heart. No wonder she's my sun.	False	False			
-95	95	94	93	0:03:22.610000	0:03:24.200000	95.mp3	95.webp	<太陽>	Mi sol...	My sun...	False	False			
-98	98,102	97,100	96,99	0:03:24.200000	0:03:29.710000	98.mp3	98.webp	<何回か使えば 恥ずかしさも消せるのではと思ったけど>　<無理>	Si seguía llamándola así, creía que con el tiempo daría menos vergüenza, pero no es así.	I figured if I kept calling her that, it'd eventually be less embarrassing, but it's not.	False	False			
-104	104	106	105	0:03:35.010000	0:03:40.920000	104.mp3	104.webp	<えっ えっ?ちょっ 早くもチョコ!?>	¿El chocolate ya?	Wait... Chocolate already?	False	False			
+86	86,91	85,90	84	0:03:14.960000	0:03:21.310000	86.mp3	86.webp	しまむらを一目見ただけで胸が温かくなる　さすが 私の太陽だ	El corazón se me calienta cuando veo a Shimamura. Es evidente que es mi sol.	Just one look at Shimamura warms my heart. No wonder she's my sun.	False	False			
+95	95	94	93	0:03:22.610000	0:03:24.200000	95.mp3	95.webp	太陽	Mi sol...	My sun...	False	False			
+98	98,102	97,100	96,99	0:03:24.200000	0:03:29.710000	98.mp3	98.webp	何回か使えば 恥ずかしさも消せるのではと思ったけど　無理	Si seguía llamándola así, creía que con el tiempo daría menos vergüenza, pero no es así.	I figured if I kept calling her that, it'd eventually be less embarrassing, but it's not.	False	False			
+104	104	106	105	0:03:35.010000	0:03:40.920000	104.mp3	104.webp	えっ えっ?ちょっ 早くもチョコ!?	¿El chocolate ya?	Wait... Chocolate already?	False	False			
 109	109	108	107	0:03:44.050000	0:03:47.640000	109.mp3	109.webp	ちゃんと持ってきたから 安心してね	Lo he traído, no te preocupes.	I brought it, so don't worry.	False	False			
-112	112	110	111	0:03:50.540000	0:03:56.110000	112.mp3	112.webp	<うん 分かってはいたけどお預けを食らった気分だ>	Sí, lo sé, pero ahora siento como que tengo que esperar.	Right. I get it, but now I feel like I'm being told to wait.	False	False			
-113	113	115,117	114,116	0:03:56.100000	0:03:59.860000	113.mp3	113.webp	<私はまるで しまむらの犬だ>	Me siento como... el perrito de Shimamura.	I feel like I'm... ...basically Shimamura's puppy.	False	False			
-120	120	119	118	0:03:59.860000	0:04:04.780000	120.mp3	120.webp	<でも 犬だったらしまむらにだっこしてもらえたり>	Bueno, si fuera un perrito, puede que Shimamura me cogiera.	But I mean, if I was a pup, maybe Shimamura would hold me.	False	False			
-123	123	122	121	0:04:04.780000	0:04:07.120000	123.mp3	123.webp	<膝の上で丸くなったり>	Me acurrucaría en su regazo...	I could curl up on her lap...	False	False			
-126	126	125	124	0:04:07.120000	0:04:10.830000	126.mp3	126.webp	<きっと してもらえるのかな>	y me haría de todo.	And she'd do all kinds of things.	False	False			
-129	129	128	127	0:04:10.830000	0:04:14.750000	129.mp3	129.webp	<しまむらの犬でも不都合ない気がする>	Ser su perrito sería lo mejor del mundo.	Being Shimamura's pup would be like the best.	False	False			
-132	132	131	130	0:04:16.500000	0:04:18.590000	132.mp3	132.webp	<いや いや いや>	No, no, no.	Wait, wait, wait.	False	False			
-135	135	134	133	0:04:19.800000	0:04:24.550000	135.mp3	135.webp	<今までは残念だったけどはっきり分かってしまった>	Hasta ahora no he tenido suerte, pero ahora lo sé.	I've been pretty unfortunate up until now, but now I know for certain...	False	False			
-138	138	137	136	0:04:24.550000	0:04:27.470000	138.mp3	138.webp	<最近の私は バカだ>	Últimamente no he estado avispada.	I'm actually pretty stupid lately.	False	False			
+112	112	110	111	0:03:50.540000	0:03:56.110000	112.mp3	112.webp	うん 分かってはいたけどお預けを食らった気分だ	Sí, lo sé, pero ahora siento como que tengo que esperar.	Right. I get it, but now I feel like I'm being told to wait.	False	False			
+113	113	115,117	114,116	0:03:56.100000	0:03:59.860000	113.mp3	113.webp	私はまるで しまむらの犬だ	Me siento como... el perrito de Shimamura.	I feel like I'm... ...basically Shimamura's puppy.	False	False			
+120	120	119	118	0:03:59.860000	0:04:04.780000	120.mp3	120.webp	でも 犬だったらしまむらにだっこしてもらえたり	Bueno, si fuera un perrito, puede que Shimamura me cogiera.	But I mean, if I was a pup, maybe Shimamura would hold me.	False	False			
+123	123	122	121	0:04:04.780000	0:04:07.120000	123.mp3	123.webp	膝の上で丸くなったり	Me acurrucaría en su regazo...	I could curl up on her lap...	False	False			
+126	126	125	124	0:04:07.120000	0:04:10.830000	126.mp3	126.webp	きっと してもらえるのかな	y me haría de todo.	And she'd do all kinds of things.	False	False			
+129	129	128	127	0:04:10.830000	0:04:14.750000	129.mp3	129.webp	しまむらの犬でも不都合ない気がする	Ser su perrito sería lo mejor del mundo.	Being Shimamura's pup would be like the best.	False	False			
+132	132	131	130	0:04:16.500000	0:04:18.590000	132.mp3	132.webp	いや いや いや	No, no, no.	Wait, wait, wait.	False	False			
+135	135	134	133	0:04:19.800000	0:04:24.550000	135.mp3	135.webp	今までは残念だったけどはっきり分かってしまった	Hasta ahora no he tenido suerte, pero ahora lo sé.	I've been pretty unfortunate up until now, but now I know for certain...	False	False			
+138	138	137	136	0:04:24.550000	0:04:27.470000	138.mp3	138.webp	最近の私は バカだ	Últimamente no he estado avispada.	I'm actually pretty stupid lately.	False	False			
 141	141	140,143	139,142	0:04:31.020000	0:04:35.100000	141.mp3	141.webp	えっとーこれから 遊びに行くんだよね	A ver... Nos vamos ya, ¿no?	So... We're going to go hang out now, right?	False	False			
 147	147	145	146	0:04:36.380000	0:04:39.770000	147.mp3	147.webp	どこか行きたいとかあるの?	¿A dónde te gustaría ir?	Is there somewhere you wanted to go?	False	False			
 150	150,153	149,152	148,151	0:04:39.770000	0:04:48.370000	150.mp3	150.webp	な...名古屋に行く! とか...　えっと 遠いかな?	¡A Nagoya! ¿No creerás que está un poco lejos?	I-I want to go to Nagoya! Er... Um... Is that a bit too far?	False	False			
@@ -45,11 +45,11 @@ ID	SUBS_JP_IDS	SUBS_ES_IDS	SUBS_EN_IDS	START_TIME	END_TIME	NAME_AUDIO	NAME_SCREE
 176	176,179	175,177	174,178	0:05:07.680000	0:05:12.850000	176.mp3	176.webp	えっと...チョコを買いに　その まだ買ってなくて	A ver... Comprar chocolate... Todavía no lo he comprado.	Um... Buy some chocolate. Um... I haven't bought any yet.	False	False			
 182	182	181	180	0:05:12.850000	0:05:16.900000	182.mp3	182.webp	あ... 当日に買った方が新鮮かなって	Pensaba que sabría mejor si lo compraba del día...	Oh, I just thought it'd be fresher if I bought some the day of...	False	False			
 186	186	184	185	0:05:18.920000	0:05:22.650000	186.mp3	186.webp	そうか そうか それは いいねえ	Ya veo. Bueno, está bien.	I see, I see. Well, that's great.	False	False			
-187	187,190	189	188	0:05:22.400000	0:05:27.280000	187.mp3	187.webp	<どうしたんだろう>　<しまむらも案外 浮かれてるのかな?>	¿Qué le pasa? Está más emocionada de lo que esperaba.	What's going on? Maybe Shimamura's more excited than I thought she'd be.	False	False			
-193	193	191,195	192,194	0:05:27.020000	0:05:31.450000	193.mp3	193.webp	<でも その笑顔を見る度に 私は...>	Pero... cada vez que le veo sonreír...	But... Every time I see her smile...	False	False			
+187	187,190	189	188	0:05:22.400000	0:05:27.280000	187.mp3	187.webp	どうしたんだろう　しまむらも案外 浮かれてるのかな?	¿Qué le pasa? Está más emocionada de lo que esperaba.	What's going on? Maybe Shimamura's more excited than I thought she'd be.	False	False			
+193	193	191,195	192,194	0:05:27.020000	0:05:31.450000	193.mp3	193.webp	でも その笑顔を見る度に 私は...	Pero... cada vez que le veo sonreír...	But... Every time I see her smile...	False	False			
 196	196	198	197	0:05:32.350000	0:05:35.210000	196.mp3	196.webp	ん... あっ チョコ	Ah, tu chocolate.	Oh, your chocolate.	False	False			
 202	202	200,204	201,203	0:05:37.530000	0:05:42.920000	202.mp3	202.webp	安達が買うまで内緒先に渡したら 交換じゃないでしょ	No lo vas a ver hasta que compres el tuyo. Si te lo diera ya no sería un intercambio, ¿no crees?	You don't get to see it until you buy yours. If I gave you yours now, it wouldn't be an exchange, would it?	False	False			
-207	207,208	206,210	205,209	0:05:44.800000	0:05:50.350000	207.mp3	207.webp	だね　<やっぱり 私しまむらの犬かなあ>	Cierto. Puede que sea el perrito de Shimamura...	Yeah... Maybe I really am just Shimamura's puppy...	False	False			
+207	207,208	206,210	205,209	0:05:44.800000	0:05:50.350000	207.mp3	207.webp	だね　やっぱり 私しまむらの犬かなあ	Cierto. Puede que sea el perrito de Shimamura...	Yeah... Maybe I really am just Shimamura's puppy...	False	False			
 213	213	212	211	0:05:53.520000	0:05:55.930000	213.mp3	213.webp	あっ そういえば 安達	Por cierto, Adachi.	Oh, by the way, Adachi...	False	False			
 216	216	215	214	0:05:55.930000	0:06:00.270000	216.mp3	216.webp	今日は チャイナドレスに着替えてこなくていいの?	¿Hoy no te pones el vestido chino?	You don't need to change into your Chinese dress today?	False	False			
 219	219	217,220	218,221	0:06:00.050000	0:06:04.570000	219.mp3	219.webp	チャイナ...そう クリスマスのときみたいにさ	¿Chino? Sí, como el que te pusiste en Navidad.	Chinese dress? Yeah, like you did on Christmas.	False	False			
@@ -93,12 +93,12 @@ ID	SUBS_JP_IDS	SUBS_ES_IDS	SUBS_EN_IDS	START_TIME	END_TIME	NAME_AUDIO	NAME_SCREE
 345	345	344	343	0:08:23.750000	0:08:27.860000	345.mp3	345.webp	す... す... す...	T... T... T...	Su... Su... Su...	False	False			
 348	348	347	346	0:08:27.420000	0:08:30.720000	348.mp3	348.webp	5 4	Cinco, cuatro...	Five... Four...	False	False			
 351	351	350	349	0:08:30.630000	0:08:32.340000	351.mp3	351.webp	す!?	¿Te?	Su?!	False	False			
-354	354	353	352	0:08:38.430000	0:08:40.520000	354.mp3	354.webp	<好き>	Te quiero.	Love .	False	False			
+354	354	353	352	0:08:38.430000	0:08:40.520000	354.mp3	354.webp	好き	Te quiero.	Love .	False	False			
 357	357,359	356,360	358	0:08:40.660000	0:08:44.890000	357.mp3	357.webp	2 1　す... す...すぎゃえ!	Dos, uno... ¡Tifideo!	Su... Su... Sugyaa!	False	False			
 363	363	362	361	0:08:48.230000	0:08:49.860000	363.mp3	363.webp	何かな? それは	¿El qué?	I'm sorry, what?	False	False			
 365	365	366	364	0:08:49.860000	0:08:54.610000	365.mp3	365.webp	す... す... す...スガキヤ	T... T... T... Tipo de fideo.	Su... Su... Su... Sugakiya.	False	False			
 369	369	368	367	0:08:54.610000	0:08:56.490000	369.mp3	369.webp	あっ 噛んだのか	Ah, lo habías dicho muy rápido.	Oh, you just said it too fast.	False	False			
-372	372	371	370	0:08:57.490000	0:08:59.870000	372.mp3	372.webp	<ありがとう スガキヤ>	Doy gracias a los fideos.	Thank you, Sugakiya.	False	False			
+372	372	371	370	0:08:57.490000	0:08:59.870000	372.mp3	372.webp	ありがとう スガキヤ	Doy gracias a los fideos.	Thank you, Sugakiya.	False	False			
 373	373	375	374	0:08:59.810000	0:09:02.410000	373.mp3	373.webp	名古屋 名古屋です	Nagoya, Nagoya.	Nagoya, Nagoya.	False	False			
 378	378	377	376	0:09:02.410000	0:09:05.290000	378.mp3	378.webp	車内にお手荷物など お忘れ...	Por favor, mantengan sus pertenencias...	Please make sure to take all of your...	False	False			
 381	381	380	379	0:09:05.290000	0:09:09.380000	381.mp3	381.webp	おおー 行列があるなー	Vaya, cuánta variedad.	Wow, there's a huge line.	False	False			
@@ -112,9 +112,9 @@ ID	SUBS_JP_IDS	SUBS_ES_IDS	SUBS_EN_IDS	START_TIME	END_TIME	NAME_AUDIO	NAME_SCREE
 410	410	409	408	0:09:40.660000	0:09:44.910000	410.mp3	410.webp	11勝3敗 私の勝ちー	Once victorias y tres derrotas. Gano yo.	Eleven victories and three losses. I win!	False	False			
 411	411	413	412	0:09:44.880000	0:09:48.920000	411.mp3	411.webp	いやー意外と燃えるもんだね 指相撲	Las peleas de pulgares pueden ser bastante intensas.	Man, thumb wrestling can get pretty heated.	False	False			
 416	416	415	414	0:09:48.920000	0:09:50	416.mp3	416.webp	うん	Sí.	Yeah.	False	False			
-419	419,420	418	417	0:09:51.880000	0:09:58.010000	419.mp3	419.webp	<今日のしまむらはなぜか笑いっぱなしで>　<こっちは その度に大変だ>	Shimamura está muy sonriente y eso me inquieta.	Shimamura seems to be all smiles today, which is throwing me off.	False	False			
-423	423	422	421	0:09:58.010000	0:09:59.680000	423.mp3	423.webp	<その笑顔を見ると>	Cada vez que le veo sonreír	Every time I see her smile,	False	False			
-426	426	425	424	0:09:59.680000	0:10:04.560000	426.mp3	426.webp	<頬がだらしなく緩むのを抑えないといけないから>	tengo que esforzarme para evitar poner cara de tonta.	I have to stop my cheek muscles from relaxing into a dumb expression.	False	False			
+419	419,420	418	417	0:09:51.880000	0:09:58.010000	419.mp3	419.webp	今日のしまむらはなぜか笑いっぱなしで　こっちは その度に大変だ	Shimamura está muy sonriente y eso me inquieta.	Shimamura seems to be all smiles today, which is throwing me off.	False	False			
+423	423	422	421	0:09:58.010000	0:09:59.680000	423.mp3	423.webp	その笑顔を見ると	Cada vez que le veo sonreír	Every time I see her smile,	False	False			
+426	426	425	424	0:09:59.680000	0:10:04.560000	426.mp3	426.webp	頬がだらしなく緩むのを抑えないといけないから	tengo que esforzarme para evitar poner cara de tonta.	I have to stop my cheek muscles from relaxing into a dumb expression.	False	False			
 428	428		427	0:10:04.560000	0:10:05.930000	428.mp3	428.webp	えっ?		Huh?		False			
 431	431	430	429	0:10:05.930000	0:10:08.560000	431.mp3	431.webp	じゃあ 種明かしするけどさ	Bueno, es la hora de la gran revelación.	So here's the big reveal.	False	False			
 434	434	433	432	0:10:12.230000	0:10:15.940000	434.mp3	434.webp	はい これバレンタインのチョコ	Toma, tu chocolate de San Valentín.	Here you go. Your Valentine's chocolate.	False	False			
@@ -153,18 +153,18 @@ ID	SUBS_JP_IDS	SUBS_ES_IDS	SUBS_EN_IDS	START_TIME	END_TIME	NAME_AUDIO	NAME_SCREE
 552	552	551	550	0:12:42.670000	0:12:44.510000	552.mp3	552.webp	そっか	Ya veo.	I see.	False	False			
 555	555	554	553	0:12:45.510000	0:12:49.120000	555.mp3	555.webp	しまちゃん昔と結構変わったな	Shima, has cambiado mucho.	Shima, you've really changed.	False	False			
 560	560	559	558	0:12:52.520000	0:12:54.560000	560.mp3	560.webp	そうだねえ	Eso parece.	I did.	False	False			
-563	563,564	562	561	0:12:56.350000	0:13:02.440000	563.mp3	563.webp	<変わったどころか昔の自分なんて>　<別人にしか思えない>	No solo he cambiado, es que antes era otra persona distinta.	Change is an understatement. I was basically a stranger before.	False	False			
-567	567	566	565	0:13:02.440000	0:13:05.570000	567.mp3	567.webp	<底抜けに明るくて人懐っこくて>	Solía ser muy amable, alegre,	I used to be insanely cheerful, super friendly,	False	False			
-570	570	569	568	0:13:05.570000	0:13:07.660000	570.mp3	570.webp	<バカで自由で>	tonta y libre...	dumb, and free...	False	False			
-573	573	572	571	0:13:07.660000	0:13:11.950000	573.mp3	573.webp	<樽見は そんな私を期待していたのだろうか>	Me pregunto cómo espera Tarumi que sea.	I wonder if that's what Tarumi expects me to be now.	False	False			
+563	563,564	562	561	0:12:56.350000	0:13:02.440000	563.mp3	563.webp	変わったどころか昔の自分なんて　別人にしか思えない	No solo he cambiado, es que antes era otra persona distinta.	Change is an understatement. I was basically a stranger before.	False	False			
+567	567	566	565	0:13:02.440000	0:13:05.570000	567.mp3	567.webp	底抜けに明るくて人懐っこくて	Solía ser muy amable, alegre,	I used to be insanely cheerful, super friendly,	False	False			
+570	570	569	568	0:13:05.570000	0:13:07.660000	570.mp3	570.webp	バカで自由で	tonta y libre...	dumb, and free...	False	False			
+573	573	572	571	0:13:07.660000	0:13:11.950000	573.mp3	573.webp	樽見は そんな私を期待していたのだろうか	Me pregunto cómo espera Tarumi que sea.	I wonder if that's what Tarumi expects me to be now.	False	False			
 576	576	575	574	0:13:11.950000	0:13:15.750000	576.mp3	576.webp	ねえ ここで殺人事件あったの覚えてる?	Oye, ¿te acuerdas de cuando hubo un asesinato aquí?	Hey, remember when there was a murder here?	False	False			
 578	578	580	577,579	0:13:15.750000	0:13:18.080000	578.mp3	578.webp	えっ? そうなの?	¿Ah, sí?	Huh? There was?	False	False			
 583	583	582	581	0:13:18.080000	0:13:20.300000	583.mp3	583.webp	うん あったわけ	Sí.	Yeah, there was.	False	False			
 584	584	586	585	0:13:20.270000	0:13:21.800000	584.mp3	584.webp	都会は怖いねえ	La ciudad da miedo.	Isn't the big city scary?	False	False			
 587	587	589	588	0:13:21.690000	0:13:23.420000	587.mp3	587.webp	まったくだ	Totalmente.	For real.	False	False			
-592	592	591	590	0:13:25.130000	0:13:29.800000	592.mp3	592.webp	<だから こうして樽見といるのは 正直ぎこちない>	Por eso me resultaba incómodo estar con Tarumi.	That's why being with Tarumi is honestly a bit uncomfortable.	False	False			
-595	595	594,597	593,596	0:13:29.800000	0:13:33.810000	595.mp3	595.webp	<少し違うけど安達になった気分だ>	Aunque sea distinto, me siento como Adachi.	It's slightly different, but I sorta feel like Adachi right now.	False	False			
-600	600	599	598	0:13:33.810000	0:13:39.230000	600.mp3	600.webp	<そう 現実は思い出ほどしなやかに変化しないものだ>	Sí, la realidad no cambia tan hermosamente como los recuerdos.	Yeah... Reality doesn't change as gracefully as memories.	False	False			
+592	592	591	590	0:13:25.130000	0:13:29.800000	592.mp3	592.webp	だから こうして樽見といるのは 正直ぎこちない	Por eso me resultaba incómodo estar con Tarumi.	That's why being with Tarumi is honestly a bit uncomfortable.	False	False			
+595	595	594,597	593,596	0:13:29.800000	0:13:33.810000	595.mp3	595.webp	少し違うけど安達になった気分だ	Aunque sea distinto, me siento como Adachi.	It's slightly different, but I sorta feel like Adachi right now.	False	False			
+600	600	599	598	0:13:33.810000	0:13:39.230000	600.mp3	600.webp	そう 現実は思い出ほどしなやかに変化しないものだ	Sí, la realidad no cambia tan hermosamente como los recuerdos.	Yeah... Reality doesn't change as gracefully as memories.	False	False			
 603	603	602	601	0:13:41.980000	0:13:45.360000	603.mp3	603.webp	私も昨日ここで買ってきたんだよね	La verdad es que lo compré ayer.	I actually bought some from here yesterday.	False	False			
 606	606	605	604	0:13:45.360000	0:13:47.410000	606.mp3	606.webp	あっ そうなん...	¿En seri...?	Oh, reall-	False	False			
 609	609	608	607	0:13:47.410000	0:13:50.200000	609.mp3	609.webp	えっ えー!?	¿Eh? ¿Qué?	Huh? What?!	False	False			
@@ -182,7 +182,7 @@ ID	SUBS_JP_IDS	SUBS_ES_IDS	SUBS_EN_IDS	START_TIME	END_TIME	NAME_AUDIO	NAME_SCREE
 646	646	645	644	0:14:33.700000	0:14:36.750000	646.mp3	646.webp	えっ あっ うん	¿Eh? Ah, sí.	Huh? Uh... Yeah.	False	False			
 647	647		648	0:14:36.540000	0:14:38.420000	647.mp3	647.webp	ふーん		Huh...?		False			
 652	652	651	650	0:14:50.510000	0:14:53.220000	652.mp3	652.webp	よし 思っていそう	Vale, creo que dices la verdad.	Okay, I guess you're telling the truth.	False	False			
-655	655	654	653	0:14:57.520000	0:15:00.650000	655.mp3	655.webp	<また疑われる方法ってあるかな>	¿Habrá forma de que vuelva a dudar de mí?	Is there a way to make her doubt me again?	False	False			
+655	655	654	653	0:14:57.520000	0:15:00.650000	655.mp3	655.webp	また疑われる方法ってあるかな	¿Habrá forma de que vuelva a dudar de mí?	Is there a way to make her doubt me again?	False	False			
 658	658	657	656	0:15:04.020000	0:15:07.440000	658.mp3	658.webp	し... しまむらも1個食べてみる?	¿Quieres uno, Shimamura?	D-Do you want one, Shimamura?	False	False			
 659	659	661	660	0:15:07.420000	0:15:10.030000	659.mp3	659.webp	じゃあ 1つもらおうかな	Vale, por qué no.	Sure, why not?	False	False			
 664	664	663	662	0:15:14.830000	0:15:17.830000	664.mp3	664.webp	はい あ... あーん	Venga, abre la boca.	Here, say, \"Ah.\"	False	False			
@@ -201,32 +201,32 @@ ID	SUBS_JP_IDS	SUBS_ES_IDS	SUBS_EN_IDS	START_TIME	END_TIME	NAME_AUDIO	NAME_SCREE
 718	718	716	717	0:16:42.770000	0:16:44.040000	718.mp3	718.webp	しまちゃん?	¿Shima?	Shima?	False	False			
 721	721	720,723	719,722	0:16:44.040000	0:16:48.210000	721.mp3	721.webp	あっ ごめん じゃあ 帰る?	Ah, perdona. ¿Nos vamos?	Oh, sorry. Should we head home?	False	False			
 726	726	725	724	0:16:48.210000	0:16:50.260000	726.mp3	726.webp	うん	Sí.	Yeah.	False	False			
-729	729	728	727	0:16:50.260000	0:16:55.050000	729.mp3	729.webp	<本当は もっと色々楽しみにしていたんじゃないかと思う>	Creo que esperábamos pasárnoslo mejor.	I think we were expecting this to be a lot more fun.	False	False			
-732	732	731	730	0:16:55.050000	0:16:58.890000	732.mp3	732.webp	<色々 何かが起きるはずだったんじゃないかと思う>	Seguramente deberían haber ocurrido más cosas.	There were probably more things that should've happened.	False	False			
-735	735	734	733	0:16:58.890000	0:17:05.400000	735.mp3	735.webp	<だけど 現実にあるのはおっくうにすら感じる重い空気ばかりで>	Pero, en realidad, lo que queda es este ambiente incómodo.	But in reality, all that remains is this bothersome heavy mood.	False	False			
-738	738	737	736	0:17:05.400000	0:17:08.770000	738.mp3	738.webp	<悪いのは 多分私なんだろう>	Seguramente sea culpa mía.	This is probably my fault.	False	False			
+729	729	728	727	0:16:50.260000	0:16:55.050000	729.mp3	729.webp	本当は もっと色々楽しみにしていたんじゃないかと思う	Creo que esperábamos pasárnoslo mejor.	I think we were expecting this to be a lot more fun.	False	False			
+732	732	731	730	0:16:55.050000	0:16:58.890000	732.mp3	732.webp	色々 何かが起きるはずだったんじゃないかと思う	Seguramente deberían haber ocurrido más cosas.	There were probably more things that should've happened.	False	False			
+735	735	734	733	0:16:58.890000	0:17:05.400000	735.mp3	735.webp	だけど 現実にあるのはおっくうにすら感じる重い空気ばかりで	Pero, en realidad, lo que queda es este ambiente incómodo.	But in reality, all that remains is this bothersome heavy mood.	False	False			
+738	738	737	736	0:17:05.400000	0:17:08.770000	738.mp3	738.webp	悪いのは 多分私なんだろう	Seguramente sea culpa mía.	This is probably my fault.	False	False			
 743	743	742	741	0:17:17.160000	0:17:18.740000	743.mp3	743.webp	どうしたの?	¿Qué pasa?	What is it?	False	False			
 746	746	745	744	0:17:18.740000	0:17:20.790000	746.mp3	746.webp	うん? いや... うん	¿Eh? Nada.	Huh? Oh, nothing.	False	False			
 754	754	753	752	0:17:25.250000	0:17:27.540000	754.mp3	754.webp	それじゃあ ここで	Bueno, hasta otra.	Well, I'll see you later.	False	False			
 757	757	756	755	0:17:27.540000	0:17:30.130000	757.mp3	757.webp	今日はつきあわせちゃって ごめんね	Siento haberte hecho dar tantas vueltas.	Sorry to drag you around today.	False	False			
 760	760	759	758	0:17:30.130000	0:17:32.130000	760.mp3	760.webp	あ... うん	Tranquila.	Oh, it's fine.	False	False			
 763	763	762	761	0:17:33.090000	0:17:35.800000	763.mp3	763.webp	じゃあ じゃあね	Bueno, adiós.	Well... See you.	False	False			
-764	764	766	765	0:17:36.640000	0:17:39.800000	764.mp3	764.webp	<煮えきらないものがある>	Hay algo que se ha quedado ahí.	There's something so lingering.	False	False			
-769	769	767	768	0:17:39.700000	0:17:42.890000	769.mp3	769.webp	<はっきりしないものがある>	Algo incompleto.	Something incomplete.	False	False			
-772	772	771	770	0:17:42.890000	0:17:46.270000	772.mp3	772.webp	<そういうとき どうすればいいか>	¿Qué se hace en momentos así?	What are you supposed to do at times like this?	False	False			
+764	764	766	765	0:17:36.640000	0:17:39.800000	764.mp3	764.webp	煮えきらないものがある	Hay algo que se ha quedado ahí.	There's something so lingering.	False	False			
+769	769	767	768	0:17:39.700000	0:17:42.890000	769.mp3	769.webp	はっきりしないものがある	Algo incompleto.	Something incomplete.	False	False			
+772	772	771	770	0:17:42.890000	0:17:46.270000	772.mp3	772.webp	そういうとき どうすればいいか	¿Qué se hace en momentos así?	What are you supposed to do at times like this?	False	False			
 775	775	773	774	0:17:46.210000	0:17:50.650000	775.mp3	775.webp	小さいとき私のこと 何て呼んでた?	¿Cómo me llamabas cuando éramos pequeñas?	What did you call me when we were little?	False	False			
 777	777		776	0:17:50.650000	0:17:54.190000	777.mp3	777.webp	うーん むむむむむ		Hm... Hrm...		False			
 780	780	779	778	0:17:57.660000	0:18:00.160000	780.mp3	780.webp	たるちゃーん	¡Taru!	Taru!	False	False			
 783	783	782	781	0:18:07.170000	0:18:11.460000	783.mp3	783.webp	たるちゃーんって言ってんだろうがよー!	¡Te llamaba Taru!	Dang it! Listen to me, Taru!	False	False			
 786	786	785	784	0:18:13	0:18:15.170000	786.mp3	786.webp	またなー	¡Adiós!	See ya!	False	False			
-788	788	789	787	0:18:16.720000	0:18:19.800000	788.mp3	788.webp	<私は 今を捨てられない>	No puedo dejar ir el presente.	I can't let go of the present.	False	False			
-792	792	791	790	0:18:19.780000	0:18:22.830000	792.mp3	792.webp	<簡単に人は自分を変えられない>	La gente no cambia tan fácilmente. -Taru...	People can't change that easily.	False	False			
+788	788	789	787	0:18:16.720000	0:18:19.800000	788.mp3	788.webp	私は 今を捨てられない	No puedo dejar ir el presente.	I can't let go of the present.	False	False			
+792	792	791	790	0:18:19.780000	0:18:22.830000	792.mp3	792.webp	簡単に人は自分を変えられない	La gente no cambia tan fácilmente. -Taru...	People can't change that easily.	False	False			
 796	796	795,797	794,798	0:18:23.770000	0:18:28.650000	796.mp3	796.webp	またなー!しまちゃーん	Adiós. Shima.	See ya! Shima!	False	False			
-803	803	801	802	0:18:29.170000	0:18:32.740000	803.mp3	803.webp	<私の過去はいばらでつながっているから>	Mi pasado está conectado por zarzas,	My past is connected by briars,	False	False			
-805	805	806	804	0:18:33.380000	0:18:38.220000	805.mp3	805.webp	<触れると あの頃の未熟な自分に傷つけられてしまう>	por eso, cuando pienso en ello, mi yo incompleta del pasado me duele.	so when I try to reflect upon it, I'm hurt by my incomplete self from the past.	False	False			
-809	809	808	807	0:18:38.240000	0:18:39.530000	809.mp3	809.webp	<それでも>	Aun así...	And yet...	False	False			
-813	813	812	811	0:18:39.970000	0:18:44.010000	813.mp3	813.webp	<いばらに手を伸ばしてみたくなるときだってある>	Hay momentos en los que quiero meterme en las zarzas.	There are times I want to reach into the briars.	False	False			
-818	818	814,817	816	0:18:44.010000	0:18:49.020000	818.mp3	818.webp	<トゲが刺さり血を流すことになっても>	¡Espero que podamos seguir juntas! Hogetsu Shimamura Aunque para ello me pinche y sangre.	Even if that means I prick myself and bleed...	False	False			
+803	803	801	802	0:18:29.170000	0:18:32.740000	803.mp3	803.webp	私の過去はいばらでつながっているから	Mi pasado está conectado por zarzas,	My past is connected by briars,	False	False			
+805	805	806	804	0:18:33.380000	0:18:38.220000	805.mp3	805.webp	触れると あの頃の未熟な自分に傷つけられてしまう	por eso, cuando pienso en ello, mi yo incompleta del pasado me duele.	so when I try to reflect upon it, I'm hurt by my incomplete self from the past.	False	False			
+809	809	808	807	0:18:38.240000	0:18:39.530000	809.mp3	809.webp	それでも	Aun así...	And yet...	False	False			
+813	813	812	811	0:18:39.970000	0:18:44.010000	813.mp3	813.webp	いばらに手を伸ばしてみたくなるときだってある	Hay momentos en los que quiero meterme en las zarzas.	There are times I want to reach into the briars.	False	False			
+818	818	814,817	816	0:18:44.010000	0:18:49.020000	818.mp3	818.webp	トゲが刺さり血を流すことになっても	¡Espero que podamos seguir juntas! Hogetsu Shimamura Aunque para ello me pinche y sangre.	Even if that means I prick myself and bleed...	False	False			
 822	822,823	821,825	820,824	0:18:57.170000	0:19:04.760000	822.mp3	822.webp	島村って しまむら?　フフッ 夜やってる番組に占いコーナーがあってね	¿Esa Shimamura eres tú? Hay una pitonisa que veo en la tele.	Shimamura... Wait, is that you? There's this fortunetelling bit on this nightly TV program.	False	False			
 828	828	827	826	0:19:04.760000	0:19:07.350000	828.mp3	828.webp	それのキャンペーンで送ってみた	Estaban pidiendo mensajes y envié uno.	They were asking for entries, so I tried sending it in.	False	False			
 833	833	832	831	0:19:08.560000	0:19:12.310000	833.mp3	833.webp	今日のキーワードはDー!	La letra de la suerte de hoy es... ¡la D!	Today's lucky letter is... D!	False	False			
@@ -262,7 +262,7 @@ ID	SUBS_JP_IDS	SUBS_ES_IDS	SUBS_EN_IDS	START_TIME	END_TIME	NAME_AUDIO	NAME_SCREE
 935	935	937	936	0:21:46.270000	0:21:48.760000	935.mp3	935.webp	イテー	Ay...	Ow...	False	False			
 938	938	940	939	0:21:49.970000	0:21:57.270000	938.mp3	938.webp	ま... まあ仲よくはあるかなあ これでも	Bueno, supongo que esta es una forma de estar juntas...	W-Well, I guess this is one way to get closer...	False	False			
 941	941	943	942	0:21:57.010000	0:22:03.900000	941.mp3	941.webp	安達は やせっぽちだからあたたかくならないね	Pero estás tan delgada que ninguna de las dos nos vamos a calentar.	Though you're so skinny, Adachi, that neither one of us are going to get warm.	False	False			
-946	946	945	944	0:22:03.900000	0:22:07.860000	946.mp3	946.webp	<周りからはおかしく思われているだろうか>	Me pregunto si la gente creerá que estamos locas.	I wonder if everyone around us thought we were weird.	False	False			
-949	949	948	947	0:22:07.860000	0:22:10.370000	949.mp3	949.webp	<笑われているだろうか>	¿Se estarían riendo de nosotros?	Were they laughing at us?	False	False			
-950	950	952	951	0:22:10.340000	0:22:13.580000	950.mp3	950.webp	<私はしまむらしか見えていない>	Yo solo veía a Shimamura.	I could only see Shimamura.	False	False			
-955	955,958	954,957,960	953,959	0:22:13.560000	0:22:21.980000	955.mp3	955.webp	<それが許される場所は最高だった>　<私の求めていたものだった>	Allá donde la viera, sería el mejor lugar del mundo. Episodio 9: El amor que abraza a la Madre Sagrada: Tagetes Esto es lo que quería.	Any place I could do that made it the best. This is what I wanted.	False	False			
+946	946	945	944	0:22:03.900000	0:22:07.860000	946.mp3	946.webp	周りからはおかしく思われているだろうか	Me pregunto si la gente creerá que estamos locas.	I wonder if everyone around us thought we were weird.	False	False			
+949	949	948	947	0:22:07.860000	0:22:10.370000	949.mp3	949.webp	笑われているだろうか	¿Se estarían riendo de nosotros?	Were they laughing at us?	False	False			
+950	950	952	951	0:22:10.340000	0:22:13.580000	950.mp3	950.webp	私はしまむらしか見えていない	Yo solo veía a Shimamura.	I could only see Shimamura.	False	False			
+955	955,958	954,957,960	953,959	0:22:13.560000	0:22:21.980000	955.mp3	955.webp	それが許される場所は最高だった　私の求めていたものだった	Allá donde la viera, sería el mejor lugar del mundo. Episodio 9: El amor que abraza a la Madre Sagrada: Tagetes Esto es lo que quería.	Any place I could do that made it the best. This is what I wanted.	False	False			

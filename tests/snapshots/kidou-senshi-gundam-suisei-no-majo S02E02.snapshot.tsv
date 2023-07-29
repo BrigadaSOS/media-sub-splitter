@@ -56,7 +56,7 @@ ID	SUBS_JP_IDS	SUBS_ES_IDS	SUBS_EN_IDS	START_TIME	END_TIME	NAME_AUDIO	NAME_SCREE
 213	213	212,215	211,214	0:05:09.910000	0:05:12.772000	213.mp3	213.webp	それだけだよ。ニカさん...	Eso es todo. Nika...	That's all. Ms. Nika...	False	False		nika,suletta	Nika,Suletta
 217	217	218	216,219	0:05:12.690000	0:05:16.609000	217.mp3	217.webp	大丈夫。あとは 私が なんとかするから。	Descuida, yo me encargo de todo.	It's fine. I'll take care of everything myself.	False	False		nika	Nika
 222	222	221	220,223	0:05:16.360000	0:05:20.380000	222.mp3	222.webp	スレッタは 学校 楽しまなきゃダメだよ。	Tú has de disfrutar de la escuela.	Suletta, you have to... continue enjoying school.	False	False		nika	Nika
-224	224	226	225	0:05:25.652000	0:05:27.687000	224.mp3	224.webp	⚞スレッタ。あっ。	Suletta.	Suletta!	False	False		elan 5	Elan (Clone 5)
+224	224	226	225	0:05:25.652000	0:05:27.687000	224.mp3	224.webp	スレッタ。あっ。	Suletta.	Suletta!	False	False		elan 5	Elan (Clone 5)
 228	228	229,231	227,230	0:05:27.550000	0:05:31.458000	228.mp3	228.webp	エランさん? やっと 二人きりになれた。	¿Elan? Por fin estamos a solas.	Mr. Elan? It's finally just the two of us.	False	False		elan 5,suletta	Elan (Clone 5),Suletta
 233	233	234	232	0:05:31.280000	0:05:35.161000	233.mp3	233.webp	あっ 私 お店 手伝わないと。	Tengo que ir a ayudar en el puesto.	I-I have to go help with the event booth...	False	False		suletta	Suletta
 236	236	237,239	235,238	0:05:35.070000	0:05:38.120000	236.mp3	236.webp	平気だよ。それよりも...	No es necesario. En lugar de eso...	Don't worry about that. More importantly...	False	False		elan 5	Elan (Clone 5)
@@ -235,7 +235,7 @@ ID	SUBS_JP_IDS	SUBS_ES_IDS	SUBS_EN_IDS	START_TIME	END_TIME	NAME_AUDIO	NAME_SCREE
 1055	1055	1054	1053	0:21:42.010000	0:21:46.665000	1055.mp3	1055.webp	私も いつか きっと ガンダムの呪いに殺されます。	La maldición de Gundam también me matará a mí.	I, too, will one day be killed by the Gundam's curse.	False	False		norea	Norea
 1057	1057,1060	1056,1059	1058	0:21:46.620000	0:21:51.136000	1057.mp3	1057.webp	殺されないあなたは　何者なんですか?	Pero a ti no te mata. ¿Quién eres?	And yet you weren't killed by it. What the hell are you?	False	False		norea	Norea
 1062	1062	1064,1067	1063,1066	0:21:54.340000	0:21:57.770000	1062.mp3	1062.webp	うそだろ。ソフィとノレアが...	No puede ser. Sophie y Norea...	No kidding! Sophie and Norea were...?!	False	False		nuno	Nuno
-1072	1072	1070	1071	0:21:59.200000	0:22:01.947000	1072.mp3	1072.webp	⚞ ニカ・ナナウラは どこだ?	¿Dónde está Nika Nanaura?	Where is Nika Nanaura?	False	False		guardia	Security Force (Male)
+1072	1072	1070	1071	0:21:59.200000	0:22:01.947000	1072.mp3	1072.webp	ニカ・ナナウラは どこだ?	¿Dónde está Nika Nanaura?	Where is Nika Nanaura?	False	False		guardia	Security Force (Male)
 1076	1076	1074	1075	0:22:01.880000	0:22:05.417000	1076.mp3	1076.webp	テロ等準備罪の容疑で拘束する。	Está detenida bajo sospecha de terrorismo.	She's being arrested as a terrorist!	False	False		guardia	Security Force (Male)
 1079	1079	1078	1077	0:22:05.370000	0:22:08.420000	1079.mp3	1079.webp	君たち地球寮の生徒にも 同行を求める。	Los de la residencia terrícola deben acompañarnos.	You Earth House students are coming too.	False	False		guardia	Security Force (Male)
 1081	1081		1080	0:22:08.220000	0:22:10.389000	1081.mp3	1081.webp	えっ?		What?		False			Aliya

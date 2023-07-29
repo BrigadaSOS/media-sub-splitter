@@ -26,7 +26,7 @@ ID	SUBS_JP_IDS	SUBS_ES_IDS	SUBS_EN_IDS	START_TIME	END_TIME	NAME_AUDIO	NAME_SCREE
 85	85		86	0:03:12.471000	0:03:14.506000	85.mp3	85.webp	さっきのは何?		What was that?		False			
 88	88		87	0:03:14.450000	0:03:17.309000	88.mp3	88.webp	スレッタたちに 何があったの?		What happened to Suletta and the others?		False			
 89	89		90,91	0:03:17.309000	0:03:21.180000	89.mp3	89.webp	あっ あなた 体...		You... Your body...		False			
-92	92		93	0:03:21.146000	0:03:24.416000	92.mp3	92.webp	おい さっさと ずらかろ...⚟シューン		Hey, we'd better blow this joint.		False			
+92	92		93	0:03:21.146000	0:03:24.416000	92.mp3	92.webp	おい さっさと ずらかろ...シューン		Hey, we'd better blow this joint.		False			
 95	95		94,96	0:03:25.700000	0:03:29.040000	95.mp3	95.webp	全員 動くな。ニカ チュチュ!		Nobody move! Nika! Chuchu!		False			
 97	97		98	0:03:28.854000	0:03:30.856000	97.mp3	97.webp	ぼ ぼ ぼ... 僕もいるんだけど!		I'm here too, you know!		False			
 100	100		99	0:03:30.820000	0:03:33.625000	100.mp3	100.webp	ミオリネ代表 ここまでです。		President Miorine... it's over.		False			
@@ -160,10 +160,10 @@ ID	SUBS_JP_IDS	SUBS_ES_IDS	SUBS_EN_IDS	START_TIME	END_TIME	NAME_AUDIO	NAME_SCREE
 425	425		424	0:13:45.800000	0:13:49.150000	425.mp3	425.webp	スコア8を超えるなんて...		She actually exceeded... score eight...		False			
 427	427		426	0:13:53.930000	0:13:58.016000	427.mp3	427.webp	スレッタだけが エリィのスコアを上げられる。		Suletta is the only one capable of raising Eri's score.		False			
 428	428		429	0:13:58.016000	0:14:00.952000	428.mp3	428.webp	そうなのね?		That must be it.		False			
-431	431		430	0:14:00.930000	0:14:02.921000	431.mp3	431.webp	⚟エルノラ。		Elnora...		False			
+431	431		430	0:14:00.930000	0:14:02.921000	431.mp3	431.webp	エルノラ。		Elnora...		False			
 433	433		432	0:14:06.150000	0:14:09.360000	433.mp3	433.webp	あの子たちのもとへ戻るんだ。		Come home to the children.		False			
 434	434		435	0:14:09.360000	0:14:12.664000	434.mp3	434.webp	ナディム? どうして...		Nadeem? How?		False			
-437	437		436	0:14:12.570000	0:14:14.799000	437.mp3	437.webp	⚞ここまでだよ。はっ!		It's over.		False			
+437	437		436	0:14:12.570000	0:14:14.799000	437.mp3	437.webp	ここまでだよ。はっ!		It's over.		False			
 439	439		438	0:14:14.360000	0:14:17.502000	439.mp3	439.webp	あんたは よくやった。		You made us all proud.		False			
 441	441		440	0:14:17.370000	0:14:20.505000	441.mp3	441.webp	でも こっちに来るのは まだなんじゃない?		But isn't it still too early for her to come here?		False			
 443	443		442,444	0:14:20.390000	0:14:24.150000	443.mp3	443.webp	帰んな。もう終わりにしていいだろ。		Just come home. You've done enough, haven't you?		False			
@@ -181,7 +181,7 @@ ID	SUBS_JP_IDS	SUBS_ES_IDS	SUBS_EN_IDS	START_TIME	END_TIME	NAME_AUDIO	NAME_SCREE
 469	469		468	0:15:02.700000	0:15:05.917000	469.mp3	469.webp	お母さんの選択を		your choice...		False			
 471	471		470	0:15:05.790000	0:15:08.020000	471.mp3	471.webp	私は肯定します。		has my support.		False			
 474	474		473	0:15:12.170000	0:15:15.927000	474.mp3	474.webp	あなたに何が...		What you... you know...		False			
-476	476		475	0:15:15.720000	0:15:18.262000	476.mp3	476.webp	⚞お母さん。あっ。		Mom!		False			
+476	476		475	0:15:15.720000	0:15:18.262000	476.mp3	476.webp	お母さん。あっ。		Mom!		False			
 483	483		482	0:15:35.190000	0:15:39.283000	483.mp3	483.webp	僕は スレッタと これからも一緒にいたい。		I want to stay with Suletta from now on.		False			
 484	484		485	0:15:39.283000	0:15:42.186000	484.mp3	484.webp	ああっ...お母さんとも。		With you too, Mom.		False			
 489	489		488	0:15:47.550000	0:15:50.862000	489.mp3	489.webp	ごめんね		I'm so sorry...		False			
@@ -193,7 +193,7 @@ ID	SUBS_JP_IDS	SUBS_ES_IDS	SUBS_EN_IDS	START_TIME	END_TIME	NAME_AUDIO	NAME_SCREE
 511	511		512	0:18:04.795000	0:18:09.367000	511.mp3	511.webp	うぅ... さっさと返事しなさいよ。		Answer me sooner,		False			
 514	514		513	0:18:09.180000	0:18:11.369000	514.mp3	514.webp	バカ。		you idiot!		False			
 515	515		516	0:18:11.369000	0:18:19.977000	515.mp3	515.webp	♬ー		3 years later		False			
-517	517		518	0:18:19.977000	0:18:21.946000	517.mp3	517.webp	⚞ニカ! あっ。		Nika!		False			
+517	517		518	0:18:19.977000	0:18:21.946000	517.mp3	517.webp	ニカ! あっ。		Nika!		False			
 519	519		520	0:18:23.681000	0:18:25.683000	519.mp3	519.webp	おかえり。		Welcome back!		False			
 522	522		521	0:18:25.470000	0:18:27.685000	522.mp3	522.webp	資格試験 どうだった?		How was the certification test?		False			
 523	523		524	0:18:27.685000	0:18:30.890000	523.mp3	523.webp	ふふっ。おめでとうございます!		Congratulations!		False			
@@ -241,7 +241,7 @@ ID	SUBS_JP_IDS	SUBS_ES_IDS	SUBS_EN_IDS	START_TIME	END_TIME	NAME_AUDIO	NAME_SCREE
 626	626		625,627	0:21:38.890000	0:21:42.480000	626.mp3	626.webp	僕だって分かんないよ。でも		It's not like I do, either. But...		False			
 629	629,630		628,631	0:21:42.400000	0:21:48.986000	629.mp3	629.webp	あのとき 僕たちを エアリアルから移し替えたのは　スレッタ 間違いなく 君だよ。		the one who transferred us from Aerial that day... was definitely you, Suletta.		False			
 632	632		633	0:21:48.986000	0:21:52.456000	632.mp3	632.webp	あれは スレッタにしか できないことだったんだ。		It was something that only you could do.		False			
-635	635		634	0:21:54.320000	0:21:56.927000	635.mp3	635.webp	⚞スレッター! あっ。		Suletta!		False			
+635	635		634	0:21:54.320000	0:21:56.927000	635.mp3	635.webp	スレッター! あっ。		Suletta!		False			
 637	637		636	0:21:56.540000	0:21:58.963000	637.mp3	637.webp	ミオリネー!		Miorine!		False			
 639	639		638	0:21:58.790000	0:22:01.699000	639.mp3	639.webp	皆さん。		Everyone!		False			
 641	641		640,642	0:22:01.620000	0:22:04.668000	641.mp3	641.webp	帰りましょう。はい。		Let's go home. Right!		False			

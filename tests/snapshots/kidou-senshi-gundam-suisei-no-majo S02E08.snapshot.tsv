@@ -32,7 +32,7 @@ ID	SUBS_JP_IDS	SUBS_ES_IDS	SUBS_EN_IDS	START_TIME	END_TIME	NAME_AUDIO	NAME_SCREE
 142	142	144	143	0:03:40.128000	0:03:42.764000	142.mp3	142.webp	会社 どうすんだよ?	¿Qué ocurrirá con la empresa?	What happens to the company now?	False	False		ojelo	Ojelo
 145	145	147	146,148	0:03:42.764000	0:03:46.420000	145.mp3	145.webp	真面目に 授業 出るか あいつみたいに。	Habremos de comenzar a ir a clase, como ella.	Should we be good and go to class? Like her...	False	False		nuno	Nuno
 149	149,152,154,158,162,165	151,153,157,160,164	150,155,159,163,166	0:03:46.201000	0:04:04.486000	149.mp3	149.webp	パイロットの生命維持に関して　宇宙開発時代の初期は...その意識は 非常に低かったことは否めない。人類の宇宙進出は　かなり 性急 かつ 強引であったというのが　歴史家たちの見解で...♬ー	En los inicios del desarrollo espacial no se daba tanta importancia a la supervivencia del piloto. m 0 0 l 100 0 100 100 0 100 Nuestro viaje por el espacio fue acelerado y forzado. Esa es la opinión de los historiadores...	It cannot be denied that concern for pilot life support was extremely low in the early years of space development. In the view of historians, humanity's advancement into space was fairly hasty and aggressive. And the loss of so many lives...	False	False		,profesor	Teacher
-168	168	170	169	0:04:09.457000	0:04:12.427000	168.mp3	168.webp	⚟今日の講義 そこじゃない。あっ。	La clase de hoy no es ahí.	None of that was in today's lecture.	False	False		petra	Petra
+168	168	170	169	0:04:09.457000	0:04:12.427000	168.mp3	168.webp	今日の講義 そこじゃない。あっ。	La clase de hoy no es ahí.	None of that was in today's lecture.	False	False		petra	Petra
 171	171	173	172	0:04:12.427000	0:04:15.430000	171.mp3	171.webp	出席しといて 話 聞いてないとか	Vienes, pero no escuchas.	If you attend class but don't bother to listen...	False	False		petra	Petra
 175	175	176	174	0:04:15.350000	0:04:17.398000	175.mp3	175.webp	何しに来たの? あんた。	¿A qué viniste?	what's the point?	False	False		petra	Petra
 177	177	179	178	0:04:19.167000	0:04:22.540000	177.mp3	177.webp	できること これしかないから。	Es que es lo único que puedo hacer.	It's the only thing... I can think of doing.	False	False		suletta	Suletta
@@ -123,7 +123,7 @@ ID	SUBS_JP_IDS	SUBS_ES_IDS	SUBS_EN_IDS	START_TIME	END_TIME	NAME_AUDIO	NAME_SCREE
 550	550	552	551	0:12:03.664000	0:12:06.467000	550.mp3	550.webp	フェルシー・ロロ 出ます!	Felsi Rollo, en marcha.	Felsi Rollo... moving out!	False	False		felsi	Felsi
 553	553	555		0:12:06.467000	0:12:08.970000	553.mp3	553.webp	現在 学園フロント全域に...	Hay una amenaza de nivel 5...		False			anuncio	
 558	558	557	556	0:12:08.740000	0:12:11.680000	558.mp3	558.webp	ノレア どうして こんな...	¿Por qué haces esto, Norea?	Norea... why would you do this?	False	False		aliya	Aliya
-559	559	561	560	0:12:11.505000	0:12:13.507000	559.mp3	559.webp	⚞アリヤ リリッケ!	¡Aliya! ¡Lilique!	Aliya! Lilique!	False	False		martin	Martin
+559	559	561	560	0:12:11.505000	0:12:13.507000	559.mp3	559.webp	アリヤ リリッケ!	¡Aliya! ¡Lilique!	Aliya! Lilique!	False	False		martin	Martin
 565	565	563,567	564,566	0:12:15.840000	0:12:18.980000	565.mp3	565.webp	マルタン。みんなは? 無事?	¡Martin! ¿Están todos bien?	Martin... Is everyone okay?!	False	False		aliya,martin	Aliya,Martin
 568	568	570	569	0:12:18.946000	0:12:21.050000	568.mp3	568.webp	スレッタが まだ見つからねぇんだ。	No encontramos a Suletta.	We haven't found Suletta yet.	False	False		ojelo	Ojelo
 571	571	573	572	0:12:20.948000	0:12:23.900000	571.mp3	571.webp	くそっ! デミトレがありゃ...	Maldición, si tuviera el Demi Trainer...	Damn it! If I had my Demi Tray...	False	False		chuchu	Chuchu
@@ -222,7 +222,7 @@ ID	SUBS_JP_IDS	SUBS_ES_IDS	SUBS_EN_IDS	START_TIME	END_TIME	NAME_AUDIO	NAME_SCREE
 932	932	933	934	0:21:19.086000	0:21:21.855000	932.mp3	932.webp	夢じゃねぇんだよな?	No es un sueño, ¿verdad?	This isn't a dream, is it?	False	False		ojelo	Ojelo
 937	937	936	935	0:21:21.770000	0:21:24.558000	937.mp3	937.webp	現実だよ 全部。	Es todo real.	It's real. All of it.	False	False		till	Till
 938	938	939	940	0:21:24.558000	0:21:27.060000	938.mp3	938.webp	メェー ティコ?	¿Tico?	Tiko?	False	False		aliya	Aliya
-942	942	943	944	0:21:30.063000	0:21:32.232000	942.mp3	942.webp	⚞スレッタ先輩!	¡Suletta!	Ms. Suletta!	False	False		lilique	Lilique
+942	942	943	944	0:21:30.063000	0:21:32.232000	942.mp3	942.webp	スレッタ先輩!	¡Suletta!	Ms. Suletta!	False	False		lilique	Lilique
 946	946	945	947	0:21:32.100000	0:21:34.860000	946.mp3	946.webp	よかった。無事だったんだな。	Qué bien que estés bien.	Thank goodness. You're alright!	False	False		aliya	Aliya
 948	948	949	950,951	0:21:36.370000	0:21:39.273000	948.mp3	948.webp	スレッタ あの...すみません	Suletta... -Perdón...	Suletta, I- I'm sorry...	False	False		nika/suletta	Nika,Suletta
 952	952	953	954	0:21:39.273000	0:21:41.708000	952.mp3	952.webp	手伝ってもらっていいですか?	¿Pueden ayudarme?	Can you help?	False	False		suletta	Suletta
