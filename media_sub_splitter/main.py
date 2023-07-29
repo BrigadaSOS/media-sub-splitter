@@ -172,7 +172,8 @@ def extract_segments_from_episode(
 
             with open(info_json_fullpath, "wb") as f:
                 info_json = {
-                    "version": "2",
+                    "id": anime_info.id,
+                    "version": "3",
                     "folder_media_anime": anime_folder_name,
                     "japanese_name": anime_info.title.native,
                     "english_name": anime_info.title.english,
