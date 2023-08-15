@@ -173,7 +173,7 @@ def extract_segments_from_episode(
             with open(info_json_fullpath, "wb") as f:
                 info_json = {
                     "id": anime_info.id,
-                    "version": "3",
+                    "version": "4",
                     "folder_media_anime": anime_folder_name,
                     "japanese_name": anime_info.title.native,
                     "english_name": anime_info.title.english,
@@ -604,7 +604,8 @@ def split_video_by_subtitles(
                         writer,
                         args,
                     )
-                    line_logs = line_logs + segment_logs
+                    if segment_logs:
+                        line_logs = line_logs + segment_logs
 
                 else:
                     line_logs.append("No en/es subtitle match. Ignoring...\n")
@@ -700,6 +701,7 @@ def generate_segment(
 
     audio_filename = f"{segment_id}.mp3"
     screenshot_filename = f"{segment_id}.webp"
+    video_filename = f"{segment_id}.mp4"
 
     # Audio
     if video and not args.dryrun:
@@ -730,14 +732,56 @@ def generate_segment(
             logger.exception(f"Error creating screenshot '{screenshot_filename}'", err)
             return
 
+        # Video
+        video_path = os.path.join(output_path, video_filename)
+        video_length_delta = end_time_delta - start_time_delta
+
+        try:
+            subprocess.call(
+                [
+                    "ffmpeg",
+                    "-y",
+                    "-loop",
+                    "1",
+                    "-framerate",
+                    "10",
+                    "-i",
+                    screenshot_path,
+                    "-i",
+                    audio_path,
+                    "-vf",
+                    "scale=1280:720,setsar=1",
+                    "-c:v",
+                    "libx264",
+                    "-tune",
+                    "stillimage",
+                    "-b:v",
+                    "200k",
+                    "-pix_fmt",
+                    "yuv420p",
+                    "-movflags",
+                    "+faststart",
+                    "-t",
+                    str(video_length_delta),
+                    video_path,
+                ],
+                stdout=subprocess.PIPE,
+                stderr=subprocess.STDOUT,
+            )
+            logs.append(f"> Saved video in {video_path}")
+
+        except Exception as err:
+            logger.exception(f"Error creating video `{video_path}", err)
+            return
+
     writer.writerow(
         EpisodeTsvRow(
             ID=segment_id,
             SUBS_JP_IDS=subs_jp_ids_str,
             SUBS_ES_IDS=subs_es_ids_str,
             SUBS_EN_IDS=subs_en_ids_str,
-            START_TIME=str(start_time_delta),
-            END_TIME=str(end_time_delta),
+            START_TIME=start_time_delta,
+            END_TIME=end_time_delta,
             NAME_AUDIO=audio_filename,
             NAME_SCREENSHOT=screenshot_filename,
             CONTENT=sentence_japanese,
@@ -825,7 +869,6 @@ def process_subtitle_line(line, args):
 
     special_chars = r"⚟|⚞|<|>|=|●|→|ー?♪ー?|\u202a|\u202c|➡|&lrm;"
     processed_sentence = re.sub(special_chars, "", processed_sentence)
-
 
     processed_sentence = emoji.sub("", processed_sentence)
 
@@ -967,7 +1010,7 @@ def command_args():
         action=argparse.BooleanOptionalAction,
         default=False,
         help="Remove other common punctuation symbols like ・. This might cause certain"
-        "subtitles to lose fidelity."
+        "subtitles to lose fidelity.",
     )
     parser.add_argument(
         "-p",
