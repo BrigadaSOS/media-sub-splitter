@@ -1,5 +1,5 @@
 ID	SUBS_JP_IDS	SUBS_ES_IDS	SUBS_EN_IDS	START_TIME	END_TIME	NAME_AUDIO	NAME_SCREENSHOT	CONTENT	CONTENT_TRANSLATION_SPANISH	CONTENT_TRANSLATION_ENGLISH	CONTENT_SPANISH_MT	CONTENT_ENGLISH_MT	ACTOR_JA	ACTOR_ES	ACTOR_EN
-6	6,7	4,9	5,8	0:00:05.060000	0:00:09.920000	6.mp3	6.webp	チョコレートをもらいに来ました　はい?	He venido a por mi chocolate. ¿Qué?	I've come for my chocolate. Sorry, what?	False	False			
+6	6,7	4,9	5,8	0:00:05.059000	0:00:09.920000	6.mp3	6.webp	チョコレートをもらいに来ました　はい?	He venido a por mi chocolate. ¿Qué?	I've come for my chocolate. Sorry, what?	False	False			
 10	10	12	11	0:00:11.559000	0:00:15.390000	10.mp3	10.webp	チョコレートがもらえると聞きました!	¡Me prometisteis chocolate!	I was promised chocolate!	False	False			
 15	15	13	14	0:00:15.280000	0:00:18.470000	15.mp3	15.webp	あー バレンタインのことね	Ah, lo dices porque es San Valentín.	Oh, you're talking about Valentine's Day.	False	False			
 16	16	18	17	0:00:18.450000	0:00:20.680000	16.mp3	16.webp	それです それ	Sí, exacto.	Yes, that. Exactly.	False	False			
@@ -226,7 +226,7 @@ ID	SUBS_JP_IDS	SUBS_ES_IDS	SUBS_EN_IDS	START_TIME	END_TIME	NAME_AUDIO	NAME_SCREE
 805	805	806	804	0:18:33.380000	0:18:38.220000	805.mp3	805.webp	触れると あの頃の未熟な自分に傷つけられてしまう	por eso, cuando pienso en ello, mi yo incompleta del pasado me duele.	so when I try to reflect upon it, I'm hurt by my incomplete self from the past.	False	False			
 809	809	808	807	0:18:38.240000	0:18:39.530000	809.mp3	809.webp	それでも	Aun así...	And yet...	False	False			
 813	813	812	811	0:18:39.970000	0:18:44.010000	813.mp3	813.webp	いばらに手を伸ばしてみたくなるときだってある	Hay momentos en los que quiero meterme en las zarzas.	There are times I want to reach into the briars.	False	False			
-818	818	814,817	816	0:18:44.010000	0:18:49.020000	818.mp3	818.webp	トゲが刺さり血を流すことになっても	¡Espero que podamos seguir juntas! Hogetsu Shimamura Aunque para ello me pinche y sangre.	Even if that means I prick myself and bleed...	False	False			
+818	818	817	816	0:18:44.640000	0:18:49.020000	818.mp3	818.webp	トゲが刺さり血を流すことになっても	Aunque para ello me pinche y sangre.	Even if that means I prick myself and bleed...	False	False			
 822	822,823	821,825	820,824	0:18:57.170000	0:19:04.760000	822.mp3	822.webp	島村って しまむら?　フフッ 夜やってる番組に占いコーナーがあってね	¿Esa Shimamura eres tú? Hay una pitonisa que veo en la tele.	Shimamura... Wait, is that you? There's this fortunetelling bit on this nightly TV program.	False	False			
 828	828	827	826	0:19:04.760000	0:19:07.350000	828.mp3	828.webp	それのキャンペーンで送ってみた	Estaban pidiendo mensajes y envié uno.	They were asking for entries, so I tried sending it in.	False	False			
 833	833	832	831	0:19:08.560000	0:19:12.310000	833.mp3	833.webp	今日のキーワードはDー!	La letra de la suerte de hoy es... ¡la D!	Today's lucky letter is... D!	False	False			
@@ -265,4 +265,11 @@ ID	SUBS_JP_IDS	SUBS_ES_IDS	SUBS_EN_IDS	START_TIME	END_TIME	NAME_AUDIO	NAME_SCREE
 946	946	945	944	0:22:03.900000	0:22:07.860000	946.mp3	946.webp	周りからはおかしく思われているだろうか	Me pregunto si la gente creerá que estamos locas.	I wonder if everyone around us thought we were weird.	False	False			
 949	949	948	947	0:22:07.860000	0:22:10.370000	949.mp3	949.webp	笑われているだろうか	¿Se estarían riendo de nosotros?	Were they laughing at us?	False	False			
 950	950	952	951	0:22:10.340000	0:22:13.580000	950.mp3	950.webp	私はしまむらしか見えていない	Yo solo veía a Shimamura.	I could only see Shimamura.	False	False			
-955	955,958	954,957,960	953,959	0:22:13.560000	0:22:21.980000	955.mp3	955.webp	それが許される場所は最高だった　私の求めていたものだった	Allá donde la viera, sería el mejor lugar del mundo. Episodio 9: El amor que abraza a la Madre Sagrada: Tagetes Esto es lo que quería.	Any place I could do that made it the best. This is what I wanted.	False	False			
+955	955	954	953	0:22:13.560000	0:22:17.060000	955.mp3	955.webp	それが許される場所は最高だった	Allá donde la viera, sería el mejor lugar del mundo.	Any place I could do that made it the best.	False	False			
+958	958	960	959	0:22:17.660000	0:22:21.020000	958.mp3	958.webp	私の求めていたものだった	Esto es lo que quería.	This is what I wanted.	False	False			
+963	963	965	964	0:23:52.680000	0:23:54.830000	963.mp3	963.webp	あだしまペディア バレンタイン	Adashimapedia: El día de San Valentín.	Adashimapedia: Valentine's Day.	False	False			
+967	967	968	966	0:23:54.830000	0:23:57.590000	967.mp3	967.webp	お肉の永藤でもバレンタインフェアを始めました	¡En mi carnicería estamos de promoción!	Nagafuji's Butcher Shop is doing a Valentine's Day promotion, too!	False	False			
+971	971	970	969	0:23:57.330000	0:23:58.870000	971.mp3	971.webp	チョコ入りコロッケでも売るのか?	¿Croquetas de chocolate?	You selling chocolate-filled croquettes?	False	False			
+973	973	974	972	0:23:58.870000	0:24:00.500000	973.mp3	973.webp	そんなベタなこと しないよ	No, eso era ir a lo fácil.	Nothing that cliché.	False	False			
+975	975	977	976	0:24:00.380000	0:24:03.260000	975.mp3	975.webp	気になる彼のハートをつかもう ハツの大特売ー	¡Roba el corazón con un corazón de verdad!	Grab your boy's heart with a special on actual hearts!	False	False			
+980	980	979	978	0:24:03.130000	0:24:05.370000	980.mp3	980.webp	女子に いきなりホルモン渡されて どう思うよ	¿Cómo te sentirías recibiendo casquería?	How would you feel getting offal from a girl?	False	False			

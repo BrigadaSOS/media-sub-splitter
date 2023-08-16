@@ -14,7 +14,8 @@ ID	SUBS_JP_IDS	SUBS_ES_IDS	SUBS_EN_IDS	START_TIME	END_TIME	NAME_AUDIO	NAME_SCREE
 43	43	42	41	0:01:17.530000	0:01:19.330000	43.mp3	43.webp	さてと うん?	A ver...	Now, then...	False	False			
 49	49	48	47	0:01:25.230000	0:01:26.730000	49.mp3	49.webp	樽見?	¿Tarumi?	Tarumi?	False	False			
 52	52	51	50	0:01:29.040000	0:01:31.290000	52.mp3	52.webp	《帰ったら かけるね》	Te llamo cuando llegue a casa.	I'll give you a call when I get home.	False	False			
-67	67,70	63,66,69	65,68	0:03:11.210000	0:03:19.300000	67.mp3	67.webp	天秤座は恋の波乱の予感　周囲への監視を忘れるな	Libra Presiento que los libras lo van a tener difícil. ¡Mirad por dónde vais!	I see some rough times ahead for the Libras today. Make sure you're aware of your surroundings!	False	False			
+67	67	66	65	0:03:11.630000	0:03:16.820000	67.mp3	67.webp	天秤座は恋の波乱の予感	Presiento que los libras lo van a tener difícil.	I see some rough times ahead for the Libras today.	False	False			
+70	70	69	68	0:03:16.800000	0:03:19.300000	70.mp3	70.webp	周囲への監視を忘れるな	¡Mirad por dónde vais!	Make sure you're aware of your surroundings!	False	False			
 73	73	72	71	0:03:19.320000	0:03:22.740000	73.mp3	73.webp	今日のキーワードはDー!	La letra de la suerte de hoy es... ¡la D!	Today's lucky letter is... D!	False	False			
 76	76	74	75	0:03:30.450000	0:03:31.670000	76.mp3	76.webp	安達?	¿Adachi?	Adachi?	False	False			
 79	79	78	77	0:03:48.260000	0:03:50.180000	79.mp3	79.webp	えっと 何?	¿Qué pasa?	Um, what's up?	False	False			
@@ -45,7 +46,7 @@ ID	SUBS_JP_IDS	SUBS_ES_IDS	SUBS_EN_IDS	START_TIME	END_TIME	NAME_AUDIO	NAME_SCREE
 163	163	162	161	0:05:19.520000	0:05:20.770000	163.mp3	163.webp	うん	Sí.	Yeah.	False	False			
 166	166,167	165	164	0:05:21.820000	0:05:23.610000	166.mp3	166.webp	安達　うん?	¿Adachi?	Adachi?	False	False			
 170	170,171	169,173	168,172	0:05:23.610000	0:05:27.570000	170.mp3	170.webp	自転車は?　あっ!忘れてた!	¿Y tu bici? ¡Se me ha olvidado!	What about your bike? I forgot!	False	False			
-178	178	174,177	176	0:05:29.260000	0:05:34.020000	178.mp3	178.webp	イタッ!	Libra ¡Bam, tap, bam, tap, bam, ay!	Bam, tap, bam, tap, bam, ow!	False	False			
+178	178	177	176	0:05:29.350000	0:05:34.020000	178.mp3	178.webp	イタッ!	¡Bam, tap, bam, tap, bam, ay!	Bam, tap, bam, tap, bam, ow!	False	False			
 181	181	180	179	0:05:36.290000	0:05:37.920000	181.mp3	181.webp	うっ... 天秤座	Libras...	Libras...	False	False			
 184	184	183	182	0:05:37.920000	0:05:43.310000	184.mp3	184.webp	髪形を変えて意中の相手に別の魅力をアピール	Cambiaos el peinado para llamar la atención de vuestros crush.	Change up your hairstyle to really grab your crush's attention.	False	False			
 186	186	187	185	0:05:43.300000	0:05:46.170000	186.mp3	186.webp	キーワードはAー!	La letra de la suerte de hoy es la A.	Today's lucky letter is A.	False	False			
@@ -266,4 +267,11 @@ ID	SUBS_JP_IDS	SUBS_ES_IDS	SUBS_EN_IDS	START_TIME	END_TIME	NAME_AUDIO	NAME_SCREE
 924	924	926	925	0:22:00.420000	0:22:02.230000	924.mp3	924.webp	ボッとすんなあ	Espabila.	Wake up!	False	False			
 929	929	927	928	0:22:02.210000	0:22:03.610000	929.mp3	929.webp	は... はい!	Sí.	Y-Yes, ma'am!	False	False			
 932	932	931	930	0:22:10.620000	0:22:11.990000	932.mp3	932.webp	樽見	Tarumi.	Tarumi.	False	False			
-937	937,940	934,936,939	935,938	0:22:16.270000	0:22:22.020000	937.mp3	937.webp	おっす　よっす	Episodio 8: La zarza que teje el pasado: Vieja rosa Hola. Hola.	Heyo. Heya.	False	False			
+937	937	936	935	0:22:16.480000	0:22:17.940000	937.mp3	937.webp	おっす	Hola.	Heyo.	False	False			
+940	940	939	938	0:22:19.860000	0:22:22.020000	940.mp3	940.webp	よっす	Hola.	Heya.	False	False			
+945	945	944	943	0:23:52.780000	0:23:55.080000	945.mp3	945.webp	あだしまペディア 占い	Adashimapedia: Fortuna.	Adashimapedia: Fortunetelling.	False	False			
+948	948	947	946	0:23:55.080000	0:23:57.530000	948.mp3	948.webp	見えます あなたの未来が	¡Puedo ver tu futuro!	Yes, I see it! I see your future!	False	False			
+951	951	950	949	0:23:57.240000	0:24:00.290000	951.mp3	951.webp	あー 日野にチューしようとしたのがバレちゃったか	Entonces habrás visto que voy a besarte.	I guess you figured out that I'm going to kiss you, then.	False	False			
+954	954	953	952	0:24:00	0:24:01.120000	954.mp3	954.webp	へっ そうなのか?	¿Qué?	Wait, you are?	False	False			
+957	957	956	955	0:24:00.830000	0:24:03.360000	957.mp3	957.webp	占いだと 私はどこにチューするのかな?	¿Dónde dice que voy a besarte?	So, where does it say that I'm going to kiss you?	False	False			
+960	960	959	958	0:24:03.290000	0:24:05.180000	960.mp3	960.webp	それは... おでこだろ?	Será en la frente, ¿no?	Well... The forehead, right?	False	False			

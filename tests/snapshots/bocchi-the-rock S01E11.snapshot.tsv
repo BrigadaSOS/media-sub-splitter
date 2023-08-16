@@ -286,7 +286,8 @@ ID	SUBS_JP_IDS	SUBS_ES_IDS	SUBS_EN_IDS	START_TIME	END_TIME	NAME_AUDIO	NAME_SCREE
 1156	1156	1157	1155	0:18:18	0:18:20.528000	1156.mp3	1156.webp	きっと 全部 いい方向に行く	Seguro que todo saldrá bien.	Trust that it's all going to go right.	False	False		hitori	Hitori
 1158	1158,1163	1159	1160,1162	0:18:21.028000	0:18:27.576000	1158.mp3	1158.webp	もっ もしかしたら...　観客の中に レコード会社の人がいたりして	Hasta podría ser que haya alguien de una discográfica.	What if... What if a record company producer is in the audience?	False	False		hitori	Hitori
 1165	1165	1166	1164	0:18:29	0:18:32.720000	1165.mp3	1165.webp	すんばらしい! YOUたち 即デビュー	¡Espléndido! ¡Debutarán ya mismo!	Magnifique! You deserve a debut contract!	False	False		hombre guitarra?	Scout
-1170	1170,1176	1171,1175,1178	1169,1177	0:18:33.470000	0:18:41.180000	1170.mp3	1170.webp	現役女子高生バンドの サクセスストーリー　ニュースに取り上げられたり 伝説になるかも!	Un caso de éxito de un grupo de colegialas. Grupo de colegialas Kessoku Band Puede que la prensa nos convierta en leyendas.	The success story of a high school band... Maybe it'll make the news, and we'll become a legend!	False	False		,hitori	Hitori
+1170	1170	1171	1169	0:18:33.470000	0:18:37.520000	1170.mp3	1170.webp	現役女子高生バンドの サクセスストーリー	Un caso de éxito de un grupo de colegialas.	The success story of a high school band...	False	False		hitori	Hitori
+1176	1176	1178	1177	0:18:37.461000	0:18:41.180000	1176.mp3	1176.webp	ニュースに取り上げられたり 伝説になるかも!	Puede que la prensa nos convierta en leyendas.	Maybe it'll make the news, and we'll become a legend!	False	False		hitori	Hitori
 1182	1182	1183	1181	0:18:49.840000	0:18:52.310000	1182.mp3	1182.webp	また 一人の世界に入ってますね	Vuelve a estar en su mundo.	Back in her own little world, huh?	False	False		kita	Kita
 1192	1192	1193	1191	0:18:52.760000	0:18:54.640000	1192.mp3	1192.webp	ぼっちちゃん 行くよー	Vamos, Bocchi.	Time to go, Bocchi-chan!	False	False		nijika	Nijika
 1195	1195	1196	1194	0:18:54.640000	0:18:56.110000	1195.mp3	1195.webp	あっ はい!	Sí.	C-Coming!	False	False		hitori	Hitori

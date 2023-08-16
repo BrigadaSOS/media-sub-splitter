@@ -275,4 +275,6 @@ ID	SUBS_JP_IDS	SUBS_ES_IDS	SUBS_EN_IDS	START_TIME	END_TIME	NAME_AUDIO	NAME_SCREE
 1008	1008	1006	1007	0:22:06.980000	0:22:10.160000	1008.mp3	1008.webp	4月に入って 3度目の呼びかけ	era la tercera vez que alguien decía mi nombre desde abril.	this was the third time someone called me since April started.	False	False			
 1009	1009	1011	1010	0:22:10.080000	0:22:13.290000	1009.mp3	1009.webp	3度目の正直というべきか	A la tercera tenía que ir la vencida.	I guess the third time really is the charm.	False	False			
 1012	1012	1014	1013	0:22:13.150000	0:22:15.790000	1012.mp3	1012.webp	何というか	Quiero decir...	I mean...	False	False			
-1015	1015	1017,1019	1016	0:22:15.750000	0:22:21.730000	1015.mp3	1015.webp	その相手は 今度こそ安達だった	Esta vez por fin era Adachi. Episodio 10: Cerezos en flor, primavera y la luna de primavera	This time, it was finally Adachi.	False	False			
+1015	1015	1017	1016	0:22:15.750000	0:22:19.550000	1015.mp3	1015.webp	その相手は 今度こそ安達だった	Esta vez por fin era Adachi.	This time, it was finally Adachi.	False	False			
+1022	1022	1024,1026	1023,1025	0:23:52.385000	0:23:56.610000	1022.mp3	1022.webp	あだしまペディア 新学期 また お前と同じクラスかよ	Adashimapedia: Trimestre nuevo. ¿Otra vez en la misma clase?	Adashimapedia: New school term. I'm in the same class as you again?	False	False			
+1028	1028	1029	1027	0:23:56.510000	0:23:58.950000	1028.mp3	1028.webp	マンネリ打破で 初対面の体にしよう	Hagamos como si no nos conociéramos.	Let's act like we've never met.	False	False			

@@ -258,3 +258,10 @@ ID	SUBS_JP_IDS	SUBS_ES_IDS	SUBS_EN_IDS	START_TIME	END_TIME	NAME_AUDIO	NAME_SCREE
 876	876	875	874	0:23:32.070000	0:23:34.120000	876.mp3	876.webp	帰ったら かけるね	Te llamo cuando llegue a casa.	I'll give you a call when I get home.	False	False			
 879	879	878	877	0:23:34.120000	0:23:35.490000	879.mp3	879.webp	うん	Vale.	Sure.	False	False			
 882	882	881,883	880,884	0:23:36.450000	0:23:39.410000	882.mp3	882.webp	あー そういうわけでまたね	Bueno... Hasta luego.	So, yeah... Later.	False	False			
+893	893	892	891	0:23:53.050000	0:23:55.320000	893.mp3	893.webp	あだしまペディア お正月	Adashimapedia: Año Nuevo.	Adashimapedia: New Year's.	False	False			
+896	896	895	894	0:23:55.220000	0:23:57.300000	896.mp3	896.webp	ワッツアップ 永藤だよ!	¿Qué tal? Soy Nagafuji.	What's up? Nagafuji in the house!	False	False			
+899	899	898	897	0:23:57.060000	0:23:58.820000	899.mp3	899.webp	チェケラッチョ 日野だぜ!	¡Mirad, soy Hino!	Yo, check it out! Hino here!	False	False			
+902	902	901	900	0:23:58.560000	0:24:00.820000	902.mp3	902.webp	ユーは 正月 海外旅行?	¿Celebraste el Año Nuevo fuera?	You went overseas for New Year's?	False	False			
+905	905	904	903	0:24:00.560000	0:24:02.520000	905.mp3	905.webp	オー イエス おみやーげ!	¡Sí! Tengo regalitos.	Oh, yes! Souvenirs.	False	False			
+908	908	907	906	0:24:02.350000	0:24:05.130000	908.mp3	908.webp	マカダミアナッツチョコ 超ベタなやーつ	¿Has cogido el clásico con nueces?	Had to get the ol' chocolate-covered macadamia nuts?	False	False			
+911	911	910	909	0:24:04.730000	0:24:06.120000	911.mp3	911.webp	文句言ってんじゃねえよ	¡Menos quejas!	Quit your complainin'.	False	False			

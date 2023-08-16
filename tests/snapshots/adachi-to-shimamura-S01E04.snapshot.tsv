@@ -312,4 +312,11 @@ ID	SUBS_JP_IDS	SUBS_ES_IDS	SUBS_EN_IDS	START_TIME	END_TIME	NAME_AUDIO	NAME_SCREE
 1082	1082	1081	1080	0:23:35.370000	0:23:38.290000	1082.mp3	1082.webp	しまむらと特別でありたい	Quiero ser alguien especial para ella.	I want to be someone special to Shimamura.	False	False			
 1085	1085	1084	1083	0:23:39.250000	0:23:41.330000	1085.mp3	1085.webp	変な意味はない	No lo digo en sentido extraño.	I don't mean that in a weird way.	False	False			
 1088	1088	1087,1090	1086,1089	0:23:41.330000	0:23:46.090000	1088.mp3	1088.webp	しかし 特別であるのなら変でも かまわない	Pero si fuera especial, me daría igual que fuera extraño.	But if I actually was special to her, I don't care if it's weird.	False	False			
-1095	1095	1092,1094	1093	0:23:46.230000	0:23:51.990000	1095.mp3	1095.webp	要するに好きなんだろうなあと思った	Episodio 4: Estudiantes de vacaciones Me he dado cuenta de que me gusta.	I came to the realization that I guess I really do like her.	False	False			
+1095	1095	1094	1093	0:23:46.480000	0:23:50.700000	1095.mp3	1095.webp	要するに好きなんだろうなあと思った	Me he dado cuenta de que me gusta.	I came to the realization that I guess I really do like her.	False	False			
+1098	1098	1100	1099	0:23:52.650000	0:23:54.880000	1098.mp3	1098.webp	あだしまペディア カラオケ	Adashimapedia: ¡Karaoke!	Adashimapedia: Karaoke!	False	False			
+1103	1103	1102	1101	0:23:54.700000	0:23:57.540000	1103.mp3	1103.webp	ノリノリで歌っているときに店員が入ってきたら	Cuando lo estás dando todo y viene la del karaoke...	That moment when you're singing your heart out and the employee comes in.	False	False			
+1105	1105	1106	1107	0:23:57.510000	0:23:58.620000	1105.mp3	1105.webp	ガチャ 失礼しまーす	¡Con permiso!	Pardon me!	False	False			
+1110	1110	1109	1108	0:23:58.410000	0:24:01	1110.mp3	1110.webp	まさかのご本人登場ですか	¿Ha venido la empleada del karaoke?	Wait! The real employee just showed up!	False	False			
+1113	1113	1112	1111	0:24:00.750000	0:24:01.850000	1113.mp3	1113.webp	いや 店員...	Bueno...	Er, I...	False	False			
+1116	1116	1115,1118	1114,1117	0:24:01.630000	0:24:03.890000	1116.mp3	1116.webp	すごい ご本人だ	¡Parece de verdad! Oye...	Wow, it's the real deal! Seriously...	False	False			
+1122	1122	1121	1120	0:24:03.890000	0:24:05.460000	1122.mp3	1122.webp	店員の日野さんですよね?	¡Es la del karaoke!	It's the employee, Hino!	False	False			

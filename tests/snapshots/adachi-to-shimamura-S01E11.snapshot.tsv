@@ -261,4 +261,7 @@ ID	SUBS_JP_IDS	SUBS_ES_IDS	SUBS_EN_IDS	START_TIME	END_TIME	NAME_AUDIO	NAME_SCREE
 901	901	903	902	0:21:52.180000	0:21:55.080000	901.mp3	901.webp	淘汰されていく	Las opciones se reducen.	The choices get narrowed down.	False	False			
 904	904	906	905	0:22:00.020000	0:22:04.150000	904.mp3	904.webp	私は 私にとっての最良を選ぶべきだ	Tengo que elegir lo mejor para mí.	I should choose whatever's best for me.	False	False			
 907	907	909	908	0:22:05.960000	0:22:10.490000	907.mp3	907.webp	安達は 他人のいらない道を 決意したみたいだけど	Parece que Adachi ha elegido el camino en el que no necesita a nadie más.	It appears that Adachi has chosen the path where she doesn't need anyone else...	False	False			
-912	912	910,914	913	0:22:16.230000	0:22:22.040000	912.mp3	912.webp	私は...	Episodio 11: La luna, la determinación y las amigas Pero yo...	But I...	False	False			
+912	912	914	913	0:22:20.040000	0:22:22.040000	912.mp3	912.webp	私は...	Pero yo...	But I...	False	False			
+918	918,923	920,922,924	919,921,925	0:23:52.370000	0:23:57.737000	918.mp3	918.webp	あだしまペディア 最終回 とんでもないことに　気づいてしまった 何だよ	Adashimapedia: El último episodio. Me he dado cuenta de una locura. ¿Qué?	Adashimapedia: The final episode. I've realized something insane. What's that?	False	False			
+927	927	928	926	0:23:57.620000	0:24:01.360000	927.mp3	927.webp	来週の放送を流さなければ 最終回はやってこない つまり	Si no emitimos el próximo episodio, nunca terminará.	If we never air the next episode, the final episode will never come!	False	False			
+931	931	930	929	0:24:00.910000	0:24:04.022000	931.mp3	931.webp	このアニメは 永遠に完結しないのでは!?	¡Este anime no acabaría nunca!	Meaning this anime will never end!	False	False			

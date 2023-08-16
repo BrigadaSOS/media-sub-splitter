@@ -848,7 +848,7 @@ def process_subtitle_line(line, args):
     # *Top, sign... is usually used for background conversations with an ongoing
     # dialog
 
-    if line.style and re.search(r"top|sign|tipo tv|block", line.style.lower()):
+    if line.style and re.search(r"top|sign|tipo tv|block|alt|cart", line.style.lower()):
         return ""
 
     # Sometimes .ass subtitles include the signs subs on the main dialog

@@ -81,7 +81,7 @@ ID	SUBS_JP_IDS	SUBS_ES_IDS	SUBS_EN_IDS	START_TIME	END_TIME	NAME_AUDIO	NAME_SCREE
 298	298	296	297	0:07:11.450000	0:07:16.680000	298.mp3	298.webp	私は それを知ってほしいのか知られたくないのか	No estoy segura de si quiero que sepa lo mío.	And I'm not sure if I want her to realize that... or not.	False	False			
 303	303	302	301	0:07:18.660000	0:07:21.160000	303.mp3	303.webp	いつも ありがとうございます	Gracias por volver.	Thank you for coming by again.	False	False			
 306	306	305	304	0:07:21.120000	0:07:22.330000	306.mp3	306.webp	どうもー	Hola.	Heya.	False	False			
-311	311	307,310	309	0:07:22.830000	0:07:25.210000	311.mp3	311.webp	よく来るの?	Té de jengibre ¿Vienes mucho?	Do you come here often?	False	False			
+311	311	310	309	0:07:23.880000	0:07:25.210000	311.mp3	311.webp	よく来るの?	¿Vienes mucho?	Do you come here often?	False	False			
 314	314,315	313	312	0:07:25.230000	0:07:29.690000	314.mp3	314.webp	うん まあ　家の人が飲んだり 飲まなかったり	Sí... Puede que alguien en mi familia beba mucho té...	Yeah... I may or may not have someone in my family who drinks a lot of tea...	False	False			
 318	318	317	316	0:07:29.690000	0:07:32.990000	318.mp3	318.webp	生姜かあ 体あったまりそう	Jengibre... Seguro que te espabila.	Ginger... That'd probably warm you right up.	False	False			
 321	321	320	319	0:07:32.990000	0:07:35.450000	321.mp3	321.webp	冷え症に効果的らしいよ	Es perfecto para quien se resfría fácilmente.	Apparently, it works great for people who get cold easily...	False	False			
@@ -274,4 +274,9 @@ ID	SUBS_JP_IDS	SUBS_ES_IDS	SUBS_EN_IDS	START_TIME	END_TIME	NAME_AUDIO	NAME_SCREE
 992	992	991	990	0:23:28.070000	0:23:31.070000	992.mp3	992.webp	何しろ頭が真っ白になってばかりで	Mi mente estuvo todo el día en blanco,	I mean, my mind just kept going blank,	False	False			
 995	995	994	993	0:23:31.070000	0:23:33.830000	995.mp3	995.webp	記憶どころじゃなかったからだ	así que no podía recordar nada.	so I didn't really have a chance to remember anything.	False	False			
 998	998	997	996	0:23:36.750000	0:23:40.370000	998.mp3	998.webp	景色を雪が覆い隠すように	Como si fuera un paisaje lleno de nieve...	Just like scenery being covered in snow...	False	False			
-1001	1001,1004	1000,1003	999	0:23:43.900000	0:23:51.900000	1001.mp3	1001.webp	ホワイトアルバムがあったことだけを　鮮明に刻み込む	Grabaré el recuerdo de un álbum blanco en mi memoria. Episodio 6: Álbum blanco	I'm just going to carve the memory of a white album into the back of my brain.	False	False			
+1001	1001,1004	1000	999	0:23:43.900000	0:23:49.400000	1001.mp3	1001.webp	ホワイトアルバムがあったことだけを　鮮明に刻み込む	Grabaré el recuerdo de un álbum blanco en mi memoria.	I'm just going to carve the memory of a white album into the back of my brain.	False	False			
+1007	1007	1009	1008	0:23:52.650000	0:23:55.280000	1007.mp3	1007.webp	あだしまペディア クリスマス	Adashimapedia: Navidad.	Adashimapedia: Christmas.	False	False			
+1012	1012	1011	1010	0:23:55.310000	0:23:57.990000	1012.mp3	1012.webp	日野さーん 何を怒ってるのかな?	¿Estás enfadada, Hino?	What are you mad about, Hino?	False	False			
+1018	1018	1017	1016	0:23:58.410000	0:24:00.790000	1018.mp3	1018.webp	クリスマス ウチでチキンカレー食べる?	¿Quieres comer conmigo pollo al curry?	Want some chicken curry at my place on Christmas?	False	False			
+1021	1021	1020	1019	0:24:00.620000	0:24:02.600000	1021.mp3	1021.webp	クリスマスだから	¿Pollo al curry en Navidad?	It's Christmas, so chicken curry?	False	False			
+1024	1024	1023	1022	0:24:02.330000	0:24:04.500000	1024.mp3	1024.webp	チキンなのか永藤家の決まりなのです	Sí, es una tradición familiar.	Yup. It's a Nagafuji family tradition.	False	False			

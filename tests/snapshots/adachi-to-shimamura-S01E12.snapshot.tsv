@@ -1,6 +1,6 @@
 ID	SUBS_JP_IDS	SUBS_ES_IDS	SUBS_EN_IDS	START_TIME	END_TIME	NAME_AUDIO	NAME_SCREENSHOT	CONTENT	CONTENT_TRANSLATION_SPANISH	CONTENT_TRANSLATION_ENGLISH	CONTENT_SPANISH_MT	CONTENT_ENGLISH_MT	ACTOR_JA	ACTOR_ES	ACTOR_EN
 1	1	0	2	0:00:03.309000	0:00:06.670000	1.mp3	1.webp	いつか そう いつか	Algún día... Sí, algún día,	Someday... Yes, someday,	False	False			
-5	5,10	4,8,9	3,6	0:00:06.630000	0:00:15.280000	5.mp3	5.webp	私にも 望まなくとも 満開の桜を見上げながら　春の道を行く日がやってくる	yo también caminaré mientras miro cómo florecen los cerezos, quiera o no. Episodio 12: Amigas, amor y cerezos en flor	I'll be walking down a spring path while looking up at the cherry blossoms whether I want to or not.	False	False			
+5	5,10	4,8	3,6	0:00:06.630000	0:00:15.010000	5.mp3	5.webp	私にも 望まなくとも 満開の桜を見上げながら　春の道を行く日がやってくる	yo también caminaré mientras miro cómo florecen los cerezos, quiera o no.	I'll be walking down a spring path while looking up at the cherry blossoms whether I want to or not.	False	False			
 13	13	12	11	0:00:16.890000	0:00:19.850000	13.mp3	13.webp	私は ごく普通の人間だ	Soy una persona normal.	I'm a normal person.	False	False			
 16	16	14	15	0:00:19.580000	0:00:23.190000	16.mp3	16.webp	見えないものに 触れるような力はないし	No tengo la habilidad de tocar lo que no veo	I don't have the ability to touch something I can't see,	False	False			
 19	19	17	18	0:00:23.040000	0:00:26.690000	19.mp3	19.webp	目の前で起きていないことに 関与はできない	y no me involucro en lo que no pasa delante de mí.	and I can't involve myself in something that's not happening right in front of me.	False	False			

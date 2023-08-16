@@ -117,7 +117,7 @@ ID	SUBS_JP_IDS	SUBS_ES_IDS	SUBS_EN_IDS	START_TIME	END_TIME	NAME_AUDIO	NAME_SCREE
 393	393	392	391	0:10:36.090000	0:10:38.300000	393.mp3	393.webp	人付き合いとは	Creo que las relaciones	I think relationships with others	False	False			
 396	396	395	394	0:10:38.300000	0:10:40.430000	396.mp3	396.webp	素潜りだと思う	son como bucear.	are like free diving.	False	False			
 400	400,401	399	398	0:11:16.460000	0:11:21.220000	400.mp3	400.webp	さっきの誰だっけ?　教室で見たよね 4月くらいに	¿Quién era? ¿No lleva en nuestra clase desde abril?	Hey, who was that? Wasn't she in our class in like April?	False	False			
-404	404	403,405	402	0:11:21.220000	0:11:25.350000	404.mp3	404.webp	お前 あいつ見かける度にそう言ってるよな	Siempre dices lo mismo cuando la ves. Té verde	You say that like every time we see her.	False	False			
+404	404	403	402	0:11:21.220000	0:11:25.350000	404.mp3	404.webp	お前 あいつ見かける度にそう言ってるよな	Siempre dices lo mismo cuando la ves.	You say that like every time we see her.	False	False			
 409	409	408,411	407,410	0:11:25.350000	0:11:28.850000	409.mp3	409.webp	あいつは安達 同級生	Se llama Adachi. Está en nuestra clase.	Her name is Adachi. She's our classmate.	False	False			
 414	414	413	412	0:11:28.850000	0:11:32.100000	414.mp3	414.webp	立派な不良だよね 教師公認	Pues, según los profes, es toda una delincuente.	She's definitely a certified delinquent. Teacher-approved.	False	False			
 418	418	417	416	0:11:33.520000	0:11:35.110000	418.mp3	418.webp	へえー しまむらの仲間?	¿Es amiga tuya?	Is she one of yours, Shimamura?	False	False			
@@ -277,4 +277,10 @@ ID	SUBS_JP_IDS	SUBS_ES_IDS	SUBS_EN_IDS	START_TIME	END_TIME	NAME_AUDIO	NAME_SCREE
 917	917	916	915	0:23:23.900000	0:23:27.790000	917.mp3	917.webp	腕が生えるのは見たことないけどね あと	Pero todavía no he visto que le hayan crecido las extremidades...	I haven't seen her regrow any limbs yet, though. Also...	False	False			
 920	920	919	918	0:23:27.650000	0:23:29.900000	920.mp3	920.webp	釣れますかな?	¿No pica nada?	Anything biting?	False	False			
 924	924	922	923	0:23:40.100000	0:23:43.320000	924.mp3	924.webp	場違いにも程がある真っ白さ	El traje era tan blanco que combinaba con su extraña presencia.	The spacesuit was so white that it just compounded their awkward presence.	False	False			
-927	927	926,928	925	0:23:43.980000	0:23:51.900000	927.mp3	927.webp	そこに立っていたのは 小さな宇宙飛行士だった	De repente se plantó ante mí un pequeño astronauta. Episodio 1: Jugando al tenis de mesa en uniforme	Suddenly, a small astronaut stood before me.	False	False			
+927	927	926	925	0:23:43.980000	0:23:48.610000	927.mp3	927.webp	そこに立っていたのは 小さな宇宙飛行士だった	De repente se plantó ante mí un pequeño astronauta.	Suddenly, a small astronaut stood before me.	False	False			
+932	932	933		0:23:52.490000	0:23:54.760000	932.mp3	932.webp	あだしまペディア ピンポン	Adashimapedia: Ping-Pong.		False				
+936	936	934	935	0:23:54.490000	0:23:56.630000	936.mp3	936.webp	卓球とピンポンの違いを述べよ	Diferencias con el tenis de mesa.	Explain the difference between table tennis and ping-pong.	False	False			
+939	939	938	937	0:23:56.310000	0:23:58.980000	939.mp3	939.webp	本気でやるのが卓球 遊びでやるのがピンポン!	El tenis de mesa es serio, no por diversión.	When you're playing seriously, it's table tennis. Ping-pong is just for fun.	False	False			
+942	942,943	941	940,944	0:23:58.680000	0:24:00.930000	942.mp3	942.webp	本気のピンポンは?　もはや 卓球だろ	¿Y el ping-pong serio? -Es tenis de mesa.	But what about when you play ping-pong seriously? Then it's table tennis.	False	False			
+947	947,949	946	945,948	0:24:00.690000	0:24:03.020000	947.mp3	947.webp	遊びの卓球は?　普通にピンポンだろ!	¿Y el tenis de mesa por diversión? -¡Es ping-pong!	But what about table tennis for fun? Then it's just ping-pong!	False	False			
+952	952	951	950,953	0:24:02.850000	0:24:05.100000	952.mp3	952.webp	ピンポンとは卓球である	Ping-pong es tenis de mesa.	Ping-pong is but table tennis. Huh?	False	False			

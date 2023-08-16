@@ -84,7 +84,8 @@ ID	SUBS_JP_IDS	SUBS_ES_IDS	SUBS_EN_IDS	START_TIME	END_TIME	NAME_AUDIO	NAME_SCREE
 292	292	291	290	0:06:35.890000	0:06:39.270000	292.mp3	292.webp	どれも ビビッとこないんだよねえ	Bueno, ninguna me llama especialmente.	Yeah, none of these are doing it for me.	False	False			
 293	293	295	294	0:06:40.570000	0:06:43.360000	293.mp3	293.webp	言ってくれちゃってよう!	¿Por qué no dices la verdad?	Why don't you say how you really feel?	False	False			
 298	298	297	296	0:06:43.360000	0:06:45.720000	298.mp3	298.webp	よしっ こいつでどうだ!	¿Qué te parece esta?	Okay, how about this one?	False	False			
-301	301,306	300,302,305	299,304	0:06:45.610000	0:06:52.700000	301.mp3	301.webp	お肉の永藤新マスコットキャラクターだ!　コロッケちゃんかあ	¡Esta será la próxima mascota de la carnicería Nagafuji! Carnicería Nagafuji ¿Croquetita?	This is definitely the next mascot for the Nagafuji Butcher Shop! Li'l Croquette, eh?	False	False			
+301	301	300	299	0:06:45.610000	0:06:49.050000	301.mp3	301.webp	お肉の永藤新マスコットキャラクターだ!	¡Esta será la próxima mascota de la carnicería Nagafuji!	This is definitely the next mascot for the Nagafuji Butcher Shop!	False	False			
+306	306	305	304	0:06:50.070000	0:06:52.700000	306.mp3	306.webp	コロッケちゃんかあ	¿Croquetita?	Li'l Croquette, eh?	False	False			
 309	309	308	307	0:06:52.700000	0:06:54.240000	309.mp3	309.webp	じゃあ これでいいや	Supongo que servirá.	Yeah, I guess that'll work.	False	False			
 312	312,313	311	310	0:06:54.240000	0:06:59.790000	312.mp3	312.webp	おうおう これがいいやじゃねえのかよ　勝手に命名しちゃってよお	¿No querrás decir que es la buena? Si hasta la has bautizado.	Don't you mean, \"That's the one\"? You even gave her a name.	False	False			
 316	316	315	314	0:06:59.790000	0:07:02.820000	316.mp3	316.webp	じゃあ 日野にご褒美をあげよう	Bueno, te daré un premio.	Well, I'll give you a treat.	False	False			
@@ -299,4 +300,10 @@ ID	SUBS_JP_IDS	SUBS_ES_IDS	SUBS_EN_IDS	START_TIME	END_TIME	NAME_AUDIO	NAME_SCREE
 1014	1014	1013	1012	0:21:59.480000	0:22:03.340000	1014.mp3	1014.webp	後ろに乗せていってくれよー んー	Quiero ir contigo.	Let me catch a ride!	False	False			
 1017	1017	1016	1015	0:22:06.240000	0:22:08.740000	1017.mp3	1017.webp	まっ いっか	Da igual.	Well, whatever.	False	False			
 1020	1020	1019	1018	0:22:08.740000	0:22:14.700000	1020.mp3	1020.webp	というわけで 今年のクリスマスは安達と遊びに行くことにした	Pues parece que voy a salir con Adachi en Navidad.	And so, I guess I'm hanging out with Adachi this Christmas.	False	False			
-1023	1023	1022,1025	1021	0:22:14.680000	0:22:22.070000	1023.mp3	1023.webp	まあ どうせ 家にいてもサンタクロースは来てくれないから	De todas formas, si me quedaba en casa, Papá Noel no iba a venir. Episodio 5: La pregunta de Adachi	I mean, it's not like Santa's coming by, even if I waited at home.	False	False			
+1023	1023	1022	1021	0:22:14.680000	0:22:19.690000	1023.mp3	1023.webp	まあ どうせ 家にいてもサンタクロースは来てくれないから	De todas formas, si me quedaba en casa, Papá Noel no iba a venir.	I mean, it's not like Santa's coming by, even if I waited at home.	False	False			
+1030	1030	1029	1028	0:23:53.070000	0:23:55.240000	1030.mp3	1030.webp	あだしまペディア こたつ	Adashimapedia: Kotatsu.	Adashimapedia: Kotatsu.	False	False			
+1031	1031	1033	1032	0:23:55.070000	0:23:57.370000	1031.mp3	1031.webp	こたつは 人をダメにするねえ	Los kotatsu lo estropean todo.	Kotatsu tables just ruin everyone.	False	False			
+1035	1035	1034		0:23:57.440000	0:23:58.740000	1035.mp3	1035.webp	ホントにねえ	¿Verdad?		False				
+1037	1037,1040	1038	1036,1039	0:23:58.620000	0:24:01.770000	1037.mp3	1037.webp	お茶入れてー　やだー 出たくないー	Tráeme té. -No voy a salir de aquí.	Get me some tea. Nope. I'm not leaving this warmth.	False	False			
+1043	1043,1046	1042,1045	1041,1044	0:24:01.460000	0:24:04.250000	1043.mp3	1043.webp	予告してー　やだー	Tú habla. No, estoy muy a gusto.	Do the preview. Nope, too cozy.	False	False			
+1049	1049	1047	1048	0:24:04.220000	0:24:05.400000	1049.mp3	1049.webp	まっ いっか	Da igual.	Well, whatever.	False	False			

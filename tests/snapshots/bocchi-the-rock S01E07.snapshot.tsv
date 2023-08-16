@@ -77,7 +77,8 @@ ID	SUBS_JP_IDS	SUBS_ES_IDS	SUBS_EN_IDS	START_TIME	END_TIME	NAME_AUDIO	NAME_SCREE
 317	317	318	316	0:05:53.660000	0:05:57.227000	317.mp3	317.webp	でも ギターとか エフェクター 何もありませんね	Pero no veo ni guitarras ni pedales de efectos.	There's nothing here besides the guitar and effects unit, though.	False	False		kita	Kita
 321	321	319	320	0:05:57.200000	0:05:58.604000	321.mp3	321.webp	だね	Pues no.	Yeah...	False	False		nijika	Nijika
 323	323,325	324	322	0:05:58.560000	0:06:02.900000	323.mp3	323.webp	私 勝手に もう少し　ロックな感じの 部屋してるのかと思って...	Me imaginaba una habitación más rockera.	I just assumed her room would have a bit more of a rock feel toー	False	False		kita	Kita
-329	329,332	327,330,333	328,331	0:06:04.460000	0:06:10.115000	329.mp3	329.webp	これは ロック?　うん... ロックしてるね	Sello ¿Eso es rockero? Sí, es toda una rockera.	Is this... rock? Yeah, it's pretty rock!	False	False		,kita,nijika	Kita,Nijika
+329	329	330	328	0:06:05.550000	0:06:07.738000	329.mp3	329.webp	これは ロック?	¿Eso es rockero?	Is this... rock?	False	False		kita	Kita
+332	332	333	331	0:06:07.670000	0:06:10.115000	332.mp3	332.webp	うん... ロックしてるね	Sí, es toda una rockera.	Yeah, it's pretty rock!	False	False		nijika	Nijika
 334	334	336	335	0:06:10.199000	0:06:13.110000	334.mp3	334.webp	ほ... ほかには ロックなところ あるかなー	¿Habrá algo más?	I w-wonder if there's anything else rock about iー	False	False		nijika	Nijika
 337	337	338	339	0:06:13.076000	0:06:14.161000	337.mp3	337.webp	イタッ	¡Ay!	Ow!	False	False		nijika	Nijika
 340	340,343	342	341	0:06:15.370000	0:06:18.940000	340.mp3	340.webp	あっ あれ?　なんで こんなに アー写がたくさん?	¿Que hacen tantas fotos nuestras aquí?	Huh? Why does she have so many copies of our ProPho?	False	False		kita	Kita
@@ -151,8 +152,9 @@ ID	SUBS_JP_IDS	SUBS_ES_IDS	SUBS_EN_IDS	START_TIME	END_TIME	NAME_AUDIO	NAME_SCREE
 611	611	612	610	0:09:49.060000	0:09:53.296000	611.mp3	611.webp	横断幕制作や応援練習に 駆り出される強制労働!	Te fuerzan a hacer pancartas y demás después de clases.	they are forced to perform slave labor, creating banners and practicing cheers!	False	False		hitori	Hitori
 614	614	615		0:09:53.797000	0:09:56.383000	614.mp3	614.webp	ひとりは みんなのために!	Uno para todos.		False			compañeros clase	
 616	616	617		0:09:56.466000	0:09:58.468000	616.mp3	616.webp	みんなは ひとりのために!	Todos para uno.		False			compañeros clase	
-620	620,623,625,627	619,622,626,630	624	0:09:58.410000	0:10:07	620.mp3	620.webp	うわあー!　ひとりは みんなのために!　約1か月　体育祭のためだけに生きることを 強いられる拷問行為!	Uno para todos Todos para uno Uno para todos. La tortura de que te obliguen a vivir por el festival durante un mes. Uno para todos Todos para uno	An entire month's torturous existence living for naught but the sports festival!	False	False		,compañeros clase,hitori	Hitori
-633	633	634,636		0:10:06.726000	0:10:08.687000	633.mp3	633.webp	みんなは ひとりのために!	Todos para uno. Uno para todos Todos para uno		False			,compañeros clase	
+623	623	622		0:09:59.160000	0:10:01.179000	623.mp3	623.webp	ひとりは みんなのために!	Uno para todos.		False			compañeros clase	
+625	625,627	626	624	0:10:01.170000	0:10:06.643000	625.mp3	625.webp	約1か月　体育祭のためだけに生きることを 強いられる拷問行為!	La tortura de que te obliguen a vivir por el festival durante un mes.	An entire month's torturous existence living for naught but the sports festival!	False	False		hitori	Hitori
+633	633	634		0:10:06.726000	0:10:08.687000	633.mp3	633.webp	みんなは ひとりのために!	Todos para uno.		False			compañeros clase	
 641	641	640	639	0:10:10.360000	0:10:12.899000	641.mp3	641.webp	後藤さん 溶けちゃいましたね	Goto se derrite.	Looks like Gotoh-san melted.	False	False		kita	Kita
 644	644	643	642	0:10:12.880000	0:10:15.193000	644.mp3	644.webp	今日 暑いからねー	Es que hace calor.	It sure is hot today!	False	False		nijika	Nijika
 651	651,653	650,652	649	0:10:25.230000	0:10:31.001000	651.mp3	651.webp	体育祭...　このイベントの真に怖いところは!	El festival deportivo. Y lo más aterrador del evento es...	But the true terror lurking behind every sports festival...	False	False		hitori	Hitori
