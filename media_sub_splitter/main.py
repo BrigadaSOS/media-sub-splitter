@@ -14,7 +14,7 @@ from collections import namedtuple
 from datetime import timedelta
 from pathlib import Path
 from multiprocessing.pool import ThreadPool as Pool
-
+from imdb import Cinemagoer
 import babelfish
 import deepl
 import ffmpeg
@@ -107,25 +107,45 @@ def main():
 
     logger.info(f"Found {len(episode_filepaths)} files to process in {input_folder}...")
 
-    anilist = CachedAnilist()
+    media_info = CachedMediaInfo()
+
     subtitles_dict_remembered = {}
 
     pool = Pool(6)
 
+    type_media_selection = [
+        inquirer.List(
+            "media_selection",
+            message="What kind of media are you using?",
+            choices=['Anime', 'JDrama']
+        )
+    ]
+    selected_type_media_selection = inquirer.prompt(
+        type_media_selection
+    )
+    
     for episode_filepath in episode_filepaths:
         pool, subtitles_dict_remembered = extract_segments_from_episode(
             pool,
             episode_filepath,
             output_folder,
             translator,
-            anilist,
+            media_info,
             subtitles_dict_remembered,
             args,
+            selected_type_media_selection
         )
 
     pool.close()
     pool.join()
 
+
+def url_clean(url):
+    base, ext = os.path.splitext(url)
+    i = url.count('@')
+    s2 = url.split('@')[0]
+    url = s2 + '@' * i + ext
+    return url
 
 def extract_segments_from_episode(
     pool,
@@ -135,6 +155,7 @@ def extract_segments_from_episode(
     anilist,
     subtitles_dict_remembered,
     args,
+    selected_type_media_selection
 ):
     try:
         logger.info(f"Filepath: {episode_filepath}\n")
@@ -151,15 +172,22 @@ def extract_segments_from_episode(
             f"Guessed information: {guessed_anime_title} {season_number_pretty}{episode_number_pretty}\n"
         )
 
-        # Anilist
         anilist_query = extract_anime_title_for_anilist(guessed_anime_title)
-        logger.info(f"Query for Anilist: {anilist_query}")
-        anime_info = anilist.get_anime(anilist_query)
-        name_romaji = anime_info.title.romaji
-        logger.info(f"Anime found: {name_romaji}\n")
+        logger.info(f"Query for media: {anilist_query}")
+        anime_info = anilist.get_media_info(anilist_query, selected_type_media_selection["media_selection"])
+
+        # Generate info based in media type
+        logger.info(selected_type_media_selection["media_selection"])
+        if selected_type_media_selection["media_selection"] == 'Anime':
+            title = anime_info.title.romaji
+            logger.info(f"Anime found: {title}\n")
+            
+
+        elif selected_type_media_selection["media_selection"] == 'JDrama':
+            title = anime_info.get('title')
 
         # Create folder for saving info.json and segments
-        anime_folder_name = map_anime_title_to_media_folder(name_romaji)
+        anime_folder_name = map_anime_title_to_media_folder(title)
         anime_folder_fullpath = os.path.join(output_folder, anime_folder_name)
         os.makedirs(anime_folder_fullpath, exist_ok=True)
         logger.info(f"> Base anime folder: {anime_folder_fullpath}")
@@ -167,52 +195,60 @@ def extract_segments_from_episode(
         info_json_fullpath = os.path.join(anime_folder_fullpath, "info.json")
         logger.info(f"Filepath for info.json: {info_json_fullpath}\n")
 
+
         if not os.path.exists(info_json_fullpath):
             logger.info("Creating new info.json file...")
+            info_json = {
+                "version": "5",
+                "folder_media_anime": anime_folder_name
+            }
 
-            with open(info_json_fullpath, "wb") as f:
-                info_json = {
+            if selected_type_media_selection["media_selection"] == 'Anime':
+                # Completa la info JSON para Anime
+                info_json.update({
                     "id": anime_info.id,
-                    "version": "4",
-                    "folder_media_anime": anime_folder_name,
+                    "type": "anime",
                     "japanese_name": anime_info.title.native,
                     "english_name": anime_info.title.english,
                     "romaji_name": anime_info.title.romaji,
                     "airing_format": anime_info.format,
                     "airing_status": anime_info.status,
                     "genres": anime_info.genres,
-                }
+                })
 
-                if "cover" not in info_json:
-                    cover_data = requests.get(anime_info.cover.extra_large).content
-                    cover_filename = (
-                        f"cover{os.path.splitext(anime_info.cover.extra_large)[1]}"
-                    )
-                    with open(
-                        os.path.join(anime_folder_fullpath, cover_filename), "wb"
-                    ) as handler:
-                        handler.write(cover_data)
-                    info_json["cover"] = os.path.join(anime_folder_name, cover_filename)
+                cover_url = anime_info.cover.extra_large
+                banner_url = anime_info.banner
 
-                if "banner" not in info_json:
-                    banner_data = requests.get(anime_info.banner).content
-                    banner_filename = (
-                        f"banner{os.path.splitext(anime_info.cover.extra_large)[1]}"
-                    )
-                    with open(
-                        os.path.join(anime_folder_fullpath, banner_filename), "wb"
-                    ) as handler:
-                        handler.write(banner_data)
-                    info_json["banner"] = os.path.join(
-                        anime_folder_name, banner_filename
-                    )
+            elif selected_type_media_selection["media_selection"] == 'JDrama':
+                info_json.update({
+                    "id": anime_info.movieID, 
+                    "title": title,
+                    "type": "jdrama"
+                })
 
-                logger.info(f"Json Data: {info_json}\n")
+                cover_url = url_clean(anime_info.get('cover'))
+                banner_url = None
 
-                # Use utf8 for writing Japanese characters correctly
-                json_data = json.dumps(info_json, indent=2, ensure_ascii=False).encode(
-                    "utf8"
-                )
+            # Agregar cover y banner al JSON
+            if "cover" not in info_json and cover_url:
+                cover_data = requests.get(cover_url).content
+                cover_filename = f"cover{os.path.splitext(cover_url)[1]}"
+                with open(os.path.join(anime_folder_fullpath, cover_filename), "wb") as handler:
+                    handler.write(cover_data)
+                info_json["cover"] = os.path.join(anime_folder_name, cover_filename)
+
+            if "banner" not in info_json and banner_url:
+                banner_data = requests.get(banner_url).content
+                banner_filename = f"banner{os.path.splitext(banner_url)[1]}"
+                with open(os.path.join(anime_folder_fullpath, banner_filename), "wb") as handler:
+                    handler.write(banner_data)
+                info_json["banner"] = os.path.join(anime_folder_name, banner_filename)
+
+            # Guardar el archivo JSON
+            logger.info(f"Json Data: {info_json}\n")
+            with open(info_json_fullpath, "wb") as f:
+                # Use utf8 for writing characters correctly
+                json_data = json.dumps(info_json, indent=2, ensure_ascii=False).encode("utf8")
                 f.write(json_data)
 
         # Get subtitles
@@ -325,6 +361,7 @@ def extract_segments_from_episode(
             {"name": f"{details['title']} ({details['language']})", "value": index}
             for index, details in subtitles_dict.items()
         ]
+        subtitle_choices.append("none")
 
         subtitle_questions = [
             inquirer.Checkbox(
@@ -588,7 +625,7 @@ def split_video_by_subtitles(
             #   * Overlap, but gap is smaller than 500
             if not (segment_start < line["end"] and line["start"] < segment_end) or (
                 (segment_start < line["end"] and line["start"] < segment_end)
-                and abs(segment_end - line["start"]) < 500
+                and abs(segment_end - line["start"]) < 850
             ):
                 if "ja" in segment_sentences and (
                     "en" in segment_sentences or "es" in segment_sentences
@@ -765,12 +802,12 @@ def generate_segment(
                     str(video_length_delta),
                     video_path,
                 ],
-                stdout=subprocess.PIPE,
-                stderr=subprocess.STDOUT,
+                stdout=subprocess.DEVNULL,
+                stderr=subprocess.STDOUT
             )
             logs.append(f"> Saved video in {video_path}")
 
-        except Exception as err:
+        except subprocess.CalledProcessError as err:
             logger.exception(f"Error creating video `{video_path}", err)
             return
 
@@ -930,41 +967,58 @@ def map_anime_title_to_media_folder(anime_title):
     )
 
 
-class CachedAnilist:
+class CachedMediaInfo:
     def __init__(self):
-        self.client = Client()
+        self.client_anilist = Client()
+        self.client_imdb = Cinemagoer()
         self.cached_results = {}
 
-    def get_anime(self, search_query):
+    def get_media_info(self, search_query, content_type):
         if search_query in self.cached_results:
             return self.cached_results[search_query]
 
-        # Also, have
-        search_results = self.client.search(search_query)
-        logger.debug("Search results", search_results)
+        if content_type == "Anime":
+            search_results = self.client_anilist.search(search_query)
+            logger.debug("Search results for anime", search_results)
 
-        if not search_results:
-            raise Exception(
-                f"Anime with title {search_results} not found. Please check file name"
-            )
+            if not search_results:
+                raise Exception(
+                    f"Anime with title {search_results} not found. Please check file name"
+                )
+
+        elif(content_type == "JDrama"):
+            search_results = self.client_imdb.search_movie(search_query)
+
+            if not search_results:
+                raise Exception(
+                    f"JDrama with title {search_results} not found. Please check file name"
+                )
 
         selected_index = 0
         if len(search_results) > 1:
-            logger.info("Multiple animes found! Please select better match")
+            logger.info("Multiple results found! Please select the better match")
             for i, result in enumerate(search_results):
-                try:
-                    english_title = result.title.english
-                except AttributeError:
-                    english_title = None
-                logger.info(f"[{i}]: {result.title.romaji} - {english_title}")
+                if content_type == "Anime":
+                    title = result['title'] if content_type == "JDrama" else result.title.romaji
+                    logger.info(f"[{i}]: {title}")
+                elif content_type == "JDrama":
+                    title = result.get('title')
+                    kind = result.get('kind', 'N/A')  
+                    year = result.get('year', 'N/A') 
+                    logger.info(f"[{i}]: {title} ({kind}, {year})")
 
-            selected_index = input("> Please select a number:")
+            selected_index = int(input("> Please select a number: "))
 
-        anime_id = search_results[int(selected_index)].id
-        anime_result = self.client.get_anime(anime_id)
-        self.cached_results[search_query] = anime_result
+        selected_result = search_results[selected_index]
+                        
+        if content_type == "Anime":
+            detailed_result = self.client_anilist.get_anime(selected_result.id)
+        elif content_type == "JDrama":
+            detailed_result = selected_result
 
-        return anime_result
+        self.cached_results[search_query] = detailed_result
+
+        return detailed_result
 
 
 def command_args():
