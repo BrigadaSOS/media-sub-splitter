@@ -27,6 +27,7 @@ from anilist import Client
 from langdetect import detect
 from dotenv import load_dotenv
 from guessit import guessit
+from themoviedb import TMDb
 
 logging.getLogger("moviepy").setLevel(logging.ERROR)
 
@@ -139,13 +140,10 @@ def main():
     pool.close()
     pool.join()
 
-
-def url_clean(url):
-    base, ext = os.path.splitext(url)
-    i = url.count('@')
-    s2 = url.split('@')[0]
-    url = s2 + '@' * i + ext
-    return url
+def url_clean(url_fragment):
+    if url_fragment:
+        return f"https://image.tmdb.org/t/p/original{url_fragment}"
+    return None
 
 def extract_segments_from_episode(
     pool,
@@ -177,14 +175,11 @@ def extract_segments_from_episode(
         anime_info = anilist.get_media_info(anilist_query, selected_type_media_selection["media_selection"])
 
         # Generate info based in media type
-        logger.info(selected_type_media_selection["media_selection"])
         if selected_type_media_selection["media_selection"] == 'Anime':
             title = anime_info.title.romaji
             logger.info(f"Anime found: {title}\n")
-            
-
         elif selected_type_media_selection["media_selection"] == 'JDrama':
-            title = anime_info.get('title')
+            title = getattr(anime_info, 'title', anime_info.name)
 
         # Create folder for saving info.json and segments
         anime_folder_name = map_anime_title_to_media_folder(title)
@@ -214,6 +209,7 @@ def extract_segments_from_episode(
                     "airing_format": anime_info.format,
                     "airing_status": anime_info.status,
                     "genres": anime_info.genres,
+                    "release_date": anime_info.start_date
                 })
 
                 cover_url = anime_info.cover.extra_large
@@ -221,13 +217,17 @@ def extract_segments_from_episode(
 
             elif selected_type_media_selection["media_selection"] == 'JDrama':
                 info_json.update({
-                    "id": anime_info.movieID, 
-                    "title": title,
-                    "type": "jdrama"
+                    "id": getattr(anime_info, 'id', 'unknown'),
+                    "type": "jdrama",
+                    "english_name": getattr(anime_info, 'title', getattr(anime_info, 'name', 'unknown')),
+                    "airing_format":  getattr(anime_info, "media_type", "unknown"),
+                    "airing_status": getattr(anime_info, "status", "unknown"),
+                    "genres": [genre.name for genre in getattr(anime_info, 'genres', [])],
+                    "release_date": getattr(anime_info, "release_date", getattr(anime_info, "first_air_date", "unknown")).strftime("%Y-%m-%d"),
                 })
 
-                cover_url = url_clean(anime_info.get('cover'))
-                banner_url = None
+                cover_url = url_clean(getattr(anime_info, 'poster_path', None))
+                banner_url = url_clean(getattr(anime_info, 'backdrop_path', None))
 
             # Agregar cover y banner al JSON
             if "cover" not in info_json and cover_url:
@@ -972,6 +972,7 @@ class CachedMediaInfo:
         self.client_anilist = Client()
         self.client_imdb = Cinemagoer()
         self.cached_results = {}
+        self.tmdb = TMDb(key='d31986f7c2be74a9685649eb917b9e25', language="en-US", region="US")
 
     def get_media_info(self, search_query, content_type):
         if search_query in self.cached_results:
@@ -987,7 +988,7 @@ class CachedMediaInfo:
                 )
 
         elif(content_type == "JDrama"):
-            search_results = self.client_imdb.search_movie(search_query)
+            search_results = self.tmdb.search().multi(search_query)
 
             if not search_results:
                 raise Exception(
@@ -1002,10 +1003,14 @@ class CachedMediaInfo:
                     title = result['title'] if content_type == "JDrama" else result.title.romaji
                     logger.info(f"[{i}]: {title}")
                 elif content_type == "JDrama":
-                    title = result.get('title')
-                    kind = result.get('kind', 'N/A')  
-                    year = result.get('year', 'N/A') 
-                    logger.info(f"[{i}]: {title} ({kind}, {year})")
+                    if result.media_type == 'tv':
+                        title = result.name
+                        first_air_date = result.first_air_date
+                        print(f"[{i}]: {title}, First air date: {first_air_date}, {result.media_type}")
+                    elif result.media_type == 'movie':
+                        title = result.title
+                        release_date = result.release_date
+                        print(f"[{i}]: {title}, Release date: {release_date}, {result.media_type}")
 
             selected_index = int(input("> Please select a number: "))
 
@@ -1014,7 +1019,10 @@ class CachedMediaInfo:
         if content_type == "Anime":
             detailed_result = self.client_anilist.get_anime(selected_result.id)
         elif content_type == "JDrama":
-            detailed_result = selected_result
+            if(selected_result.media_type == "movie"):
+                detailed_result = self.tmdb.multi(selected_result.id).details(append_to_response="external_ids,images,videos")
+            elif(selected_result.media_type == "tv"):
+                detailed_result = self.tmdb.tv(selected_result.id).details(append_to_response="external_ids,images,videos")
 
         self.cached_results[search_query] = detailed_result
 
